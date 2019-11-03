@@ -1,3 +1,5 @@
+- name: About Us
+  link: /About Us/
 - name: Blog
   link: /blog/
 - name: Professionals
