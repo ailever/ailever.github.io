@@ -17,6 +17,14 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 	<div class="container">
 		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
 		<ul class="staff">
+			<li>
+				::marker
+				<div class="square-image" style="background-image: url(https://ailever.github.io/images/dongmyeong.jpg)"></div>
+				<div class="name">
+					<a target="_blank" href="https://twitter.com/CloudCannon">Dongmyeong Lee</a></div><a target="_blank" href="https://twitter.com/CloudCannon">Dongmyeong Lee</a>
+				</div>
+				<div class="position">Director</div>
+			</li>
 			{% for person in site.staff_members %}
 				<li>
 					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
