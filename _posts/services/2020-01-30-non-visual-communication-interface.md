@@ -1,5 +1,5 @@
 ---
-title: Non-visual Communication Interface
+title: Non visual Communication Interface
 date: 2020-01-30
 description: description
 categories:
