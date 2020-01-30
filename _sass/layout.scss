@@ -109,6 +109,14 @@ header {
 	}
 }
 
+.info_about {
+	padding: 0 0 200px 0;
+
+	&:first-child {
+		padding-top: 100px;
+	}
+}
+
 .subtext {
 	margin-top: 10px;
 }
