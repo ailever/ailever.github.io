@@ -5,7 +5,7 @@ description: Deep Learning
 categories:
   - education
 image: https://source.unsplash.com/6b5uqlWabB0/2000x1322?a=.png
-author_staff_member: ailever
+author_staff_member: hayun
 ---
 
 ## List of contents
