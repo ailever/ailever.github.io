@@ -8,5 +8,7 @@
   link: /education/  
 - name: Blog
   link: /blog/
+- name: Github
+  link: https://github.com/ailever/ailever
 - name: Contact
   link: /contact/
