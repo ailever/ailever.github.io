@@ -15,7 +15,7 @@ author_staff_member: ailever
 - k-means clustering|[en](https://ailever.github.io/education/2020/05/30/ML-kmeans/)
 
 <br><br><br>
-## Algorithm
+## Algorithms
 
 <br><br><br>
 ## Data Structure
