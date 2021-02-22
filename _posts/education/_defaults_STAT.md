@@ -1,7 +1,7 @@
 ---
-title: STAT, 
+title: Statistics
 date:
-description: STAT, 
+description: Statistics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Statistics.png
