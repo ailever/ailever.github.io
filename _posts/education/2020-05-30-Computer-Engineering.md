@@ -1,7 +1,7 @@
 ---
-title: Machine Learning
+title: Computer Engineering
 date: 2020-05-30
-description: Machine Learning
+description: Computer Engineering
 categories:
   - education
 image: https://source.unsplash.com/qjnAnF0jIGk/2000x1322?a=.png
