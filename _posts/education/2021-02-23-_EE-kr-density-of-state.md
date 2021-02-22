@@ -24,6 +24,9 @@ Density of State(DOS)는 '물질 내에서, 단위 에너지당 전자에게 주
 </div>
 <div align="center" style="color:red;font-weight:bold;font-size:small;">
 Density of State(DOS) = 단위 에너지당 상태의 갯수!
-<div>
+</div>
+  
+  
+  
 
 
