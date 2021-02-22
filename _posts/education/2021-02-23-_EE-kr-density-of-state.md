@@ -33,16 +33,15 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
  
-  
-<div style="font-size:medium;">
-1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.
 
+<div style="font-size:medium;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</div>
+<div style="font-size:medium;">
 예를 들어,
 
 왼쪽방향으로 움직이는, 에너지 10인 전자의 상태
 오른쪽방향으로 움직이는, 에너지 9인 전자의 상태
 아래방향으로 움직이는, 에너지 10인 전자의 상태
-등등등,
+등등,
 
 우리가 주목할 부분은 바로 상태!
 
@@ -67,15 +66,12 @@ author_staff_member: dongmyeong
 예를 들어, 전자(Electron)는 반도체 내에서
 에너지 10인 상태는 가능하지만,
 에너지 10.1인 상태는 애시당초 불가능하다.
+</div>
 
 
 
-
-
-
-2. 위와 같은 전자의 상태들에 대해서,
-각 상태에 대응되는 에너지 값이 있을 것입니다.
-
+<div style="font-size:medium;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</div>
+<div style="font-size:medium;">
 예를 들어,
 
 상태1 에너지 : 10eV
@@ -83,13 +79,11 @@ author_staff_member: dongmyeong
 상태3 에너지 : 10eV
 등등등,
 
+</div>
 
+<div style="font-size:medium;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</div>
 
-
-
-3. 위와 같은 전자의 상태들에 대해서,
-에너지 분포를 생각해 볼 수 있을 것입니다.
-
+<div style="font-size:medium;">
 예를 들어,
 
 에너지 영역대 10eV~11eV에
