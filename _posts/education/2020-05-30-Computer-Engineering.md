@@ -8,7 +8,10 @@ image: https://source.unsplash.com/qjnAnF0jIGk/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
-## Computability Theory
+## Natural Language Processing
+
+<br><br><br>
+## Computer Vision
 
 <br><br><br>
 ## Machine Learning
@@ -20,4 +23,5 @@ author_staff_member: ailever
 <br><br><br>
 ## Data Structure
 
-
+<br><br><br>
+## Computability Theory
