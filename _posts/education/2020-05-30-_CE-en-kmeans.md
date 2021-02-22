@@ -5,7 +5,7 @@ description: ML, k-means clustering
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Machine_Learning.png
-author_staff_member: dongmyeong
+author_staff_member: anonym
 ---
 
 ## Issue
