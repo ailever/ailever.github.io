@@ -366,12 +366,12 @@ or
 
 이상적인 상황 : ρDOS(1D)∝E0
 
-</div>
+</div><br>
 
 
 <div style="font-size:medium;">
   마지막으로 3차원 형태의 고체입니다.
-</div>
+</div><br>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740664-412ea280-7579-11eb-8eb3-ce53de941f1e.png)
 
@@ -395,7 +395,7 @@ or
 높은 에너지 영역대에 속해 있다고
 대략적으로 추측해 볼 수 있습니다.
 
-</div>
+</div><br>
 
 
 <div style="font-size:medium;">
@@ -420,7 +420,7 @@ or
 높은 에너지 상태들 중, 높은 에너지
 상태들을 선택할 확률이 높아야 한다.
 
-</div>
+</div><br>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740801-66bbac00-7579-11eb-9bdf-3820a0c2e643.png)
 
@@ -433,7 +433,7 @@ or
 이상적인 상황 : ρDOS(1D)∝E1/2
 
 
-</div>
+</div><br>
 
 
 
@@ -445,7 +445,7 @@ or
 가장 단순한 모델의 DOS임을
 알아두세요.
 
-</div>
+</div><br>
 
 
 <div style="font-size:medium;">
@@ -496,7 +496,7 @@ Density of State가 클수록 유리합니다.
 이런데도, DOS를 만만하게 보거나
 간과하지만은 않으시겠죠?
 
-</div>
+</div><br>
 
 
 <div style="font-size:medium;">
