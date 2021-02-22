@@ -500,7 +500,7 @@ Density of State가 클수록 유리합니다.
 
 ---
 
-[Reference]
+Reference
 - [1] Physics of Semiconductor Devices  -Wiley-Interscience (2006)
 - [2] Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)
 - [3] Ben G. Streetman, Sanjay Kumar Banerjee-Solid State Electronic Devices, 6th Edition (2005)
