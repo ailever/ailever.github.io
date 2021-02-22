@@ -288,8 +288,229 @@ Density of State(전자 상태 에너지 분포)가
 ![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
 
 
-<div style="font-size:medium;"></div>
-<div style="font-size:medium;"></div>
+<div style="font-size:medium;">
+전자가 가질 수 있는
+운동방향은 평면 내에서만
+움직인다고 가정 하겠습니다.
+(2차원 고체의 정의이므로!)
+
+여기서, 전자들에게 에너지를
+더 가해주면 평면에서 가능한
+방향 모두 에너지가 커질 것이고,
+
+일정 에너지 수준을 넘어가면
+이 전자들은 다른 unit cell로
+이동할 것입니다.
+
+
+위에서 설명한 1차원 고체와
+비교해보면, 2차원 고체 내의
+전자들의 상태들이, 더 높은
+에너지를 가질 가능성이
+높아진다는 것을 파악할 수 있습니다.
+
+즉, 전자가 취할 수 있는 대부분의 상태는
+모든 에너지 영역대에 걸쳐 골고루
+나타날 것 이라고 대략적으로 추측해
+볼 수 있습니다.
+
+</div>
+
+
+<div style="font-size:medium;">
+주의사항 : 전자와 전자의 상태를 구분할 것!
+
+'전자가 취할 수 있는 대부분의
+상태는 모든 에너지 영역대에
+걸쳐 골고루 나타난다'라는 의미와
+
+'전자들 대부분(실제로)이 고른 에너지
+분포를 갖는다'의 의미는 다릅니다.
+
+
+전자들 대부분(실제로)이
+고른 에너지 분포를 갖기 위해선
+아래의 두 가지 조건이
+충족되어야 합니다.
+
+1. 전자가 취할 수 있는 대부분의 상태가
+낮은 에너지 영역대에 속해 있다.
+2. 전자가 낮은 에너지 상태들과
+높은 에너지 상태들 중, 높은 에너지
+상태들을 선택할 확률이 높아야 한다.
+(조건2는 다음 포스팅 주제)
+or
+1. 전자가 취할 수 있는 대부분의 상태가
+낮은 에너지 영역대와 높은 에너지 영역대
+관계없이 고르게 분포하고 있어야 한다.
+2. 전자가 낮은 에너지 상태들과
+높은 에너지 상태들 중, 낮은 에너지
+상태들을 선택할 확률이 동등해야 한다.
+(조건2는 다음 포스팅 주제)
+or
+1. 전자가 취할 수 있는 대부분의 상태가
+높은 에너지 영역대에 속해 있다.
+2. 전자가 낮은 에너지 상태들과
+높은 에너지 상태들 중, 낮은 에너지
+상태들을 선택할 확률이 높아야 한다.
+(조건2는 다음 포스팅 주제)
+
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108740413-fdd43400-7578-11eb-8c24-c856ee63f3e3.png)
+
+<div style="font-size:medium;">
+붉은 색 박스 내의 그래프에서
+'에너지(E)에 관계없이, ρDOS가
+일정하다'는 것을 체크해주세요!
+
+이상적인 상황 : ρDOS(1D)∝E0
+
+</div>
+
+
+<div style="font-size:medium;">
+  마지막으로 3차원 형태의 고체입니다.
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108740664-412ea280-7579-11eb-8eb3-ce53de941f1e.png)
+
+<div style="font-size:medium;">
+전자가 가질 수 있는 운동방향은
+모든 방향으로 운동할 수 있다고 가정하겠습니다.
+(3차원 고체의 정의이므로)
+
+여기서, 전자들에게 에너지를 더 가해주면
+각각의 방향 모두 에너지가 커질 것이고,
+
+일정 에너지 수준을 넘어가면
+이 전자들은 다른 unit cell로 이동할 것입니다.
+
+
+결론적으로, 운동방향이 모든 방향이기에
+붉은색 박스 unit cell 내에서
+높은 에너지를 갖기 쉽습니다.
+
+즉, 전자가 취할 수 있는 대부분의 상태는
+높은 에너지 영역대에 속해 있다고
+대략적으로 추측해 볼 수 있습니다.
+
+</div>
+
+
+<div style="font-size:medium;">
+주의사항 : 전자와 전자의 상태를 구분할 것!
+
+'전자가 취할 수 있는 대부분의
+상태가 높은 에너지 영역대에
+속해 있다'라는 의미와
+
+'전자들 대부분(실제로)이
+높은 에너지를 갖는다'의
+의미는 다릅니다.
+
+
+전자들 대부분(실제로)이
+높은 에너지를 갖기 위해서는,
+아래의 두 가지 조건이 충족되어야 합니다.
+
+1. 전자가 취할 수 있는 대부분의 상태가
+높은 에너지 영역대에 속해 있다.
+2. 전자가 낮은 에너지 상태들과
+높은 에너지 상태들 중, 높은 에너지
+상태들을 선택할 확률이 높아야 한다.
+
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108740801-66bbac00-7579-11eb-9bdf-3820a0c2e643.png)
+
+
+<div style="font-size:medium;">
+붉은 색 박스 내의 그래프에서
+'에너지(E)가 높아질 수록, ρDOS가
+높아진다'는 것을 체크해주세요!
+
+이상적인 상황 : ρDOS(1D)∝E1/2
+
+
+</div>
+
+
+
+<div style="font-size:medium;">
+참고로, Density of State에는
+여러가지 모델이 존재하는데,
+
+지금까지 설명한 DOS는
+가장 단순한 모델의 DOS임을
+알아두세요.
+
+</div>
+
+
+<div style="font-size:medium;">
+아! 한 가지만 더요!
+
+이런것을 왜 배우냐구요?
+
+핸드폰을 만들던지
+디스플레이를 만들던지
+
+우리는 구성요소(반도체)들을
+최대한 작게 만들어야 합니다.
+
+
+
+그렇기 때문에, 그동안 대부분
+3차원적 물질로 구성요소를 만들었지만
+
+
+최근에는
+3차원 물질(Quantum box)
+2차월 물질(Quantum well),
+1차원 물질(Quantum wire),
+0차원 물질(Quantum dot)과
+같은 저(낮은)차원 물질을 통해
+
+산업에 응용하고자 하는 시도가 활발합니다.
+
+
+실제, 삼성에서 내어놓은
+QLED(Quantum Dot
+Light Emitting Diodes)의 경우도
+대표적인 예로 들 수 있겠네요.
+
+
+
+
+
+뿐만 아니라, 반도체 물질의 전기 전도도를
+책임지고 있는 캐리어들이, 반도체 내에
+실질적으로 얼마나 많이 포함되어 있을지는,
+
+Density of State가 클수록 유리합니다.
+
+
+
+
+이런데도, DOS를 만만하게 보거나
+간과하지만은 않으시겠죠?
+
+</div>
+
+
+<div style="font-size:medium;">
+[Reference]
+[1] Physics of Semiconductor Devices  -Wiley-Interscience (2006)
+[2] Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)
+[3] Ben G. Streetman, Sanjay Kumar Banerjee-Solid State Electronic Devices, 6th Edition (2005)
+[4] Dimitrijev, Sima-Principles of Semiconductor Devices (2nd Edition)-Oxford University Press (2012)
+[5] Robert F. Pierret-Semiconductor Device Fundamentals-Addison Wesley (1996)
+[6] Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)
+[7] S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)
+
+</div>
+
 <div style="font-size:medium;"></div>
 <div style="font-size:medium;"></div>
 <div style="font-size:medium;"></div>
