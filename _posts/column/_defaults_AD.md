@@ -1,7 +1,7 @@
 ---
-title:
-date:
-description:
+title: AD,
+date: 2020-
+description: AD,
 categories:
   - column
 image: https://source.unsplash.com/6b5uqlWabB0/2000x1322?a=.png
