@@ -513,8 +513,8 @@ Reference
 </ol>
 <br><br></div>
 
-<div style="font-size:medium;"><br></div>
-<div style="font-size:medium;"><br></div>
+<div align="center" style="font-size:medium;"><br></div>
+<div align="center" style="font-size:medium;"><br></div>
 
 
 
