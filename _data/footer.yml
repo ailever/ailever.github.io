@@ -4,7 +4,9 @@ left_links:
   - name: Services
     link: /services/
   - name: Education
-    link: /education/    
+    link: /education/
+  - name: Academic Column
+    link: /column/
   - name: Blog
     link: /blog/
   - name: Contact
