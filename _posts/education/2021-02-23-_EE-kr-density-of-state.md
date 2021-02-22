@@ -21,17 +21,14 @@ author_staff_member: dongmyeong
 
 <div style="font-size:medium;">
 오늘의 주제는 모두들 한 번 쯤은 들어 보셨으리라 생각되는 'Density of State(DOS)' 입니다.
-</div><br>
+</div>
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
-Density of State(DOS) = 단위 에너지당 상태의 갯수
-</div><br>
+<br>Density of State(DOS) = 단위 에너지당 상태의 갯수<br>　
+</div>
 
 <div style="font-size:medium;">
-고체 내에 돌아다니는 전자들에 대해, 전자에게 허용된 상태들이 몇 가지 존재할 것인데,
-
-DOS는 에너지가 높은 전자의 상태들이 많은지, 아니면 에너지가 낮은 전자의 상태들이 많은지 알려주는 개념입니다. 우선 고체 내부를 돌아다니는 전자(electron)를 생각해 보시죠.
-
+고체 내에 돌아다니는 전자들에 대해, 전자에게 허용된 상태들이 몇 가지 존재할 것인데, DOS는 에너지가 높은 전자의 상태들이 많은지, 아니면 에너지가 낮은 전자의 상태들이 많은지 알려주는 개념입니다. 우선 고체 내부를 돌아다니는 전자(electron)를 생각해 보시죠.
 </div><br>
  
   
