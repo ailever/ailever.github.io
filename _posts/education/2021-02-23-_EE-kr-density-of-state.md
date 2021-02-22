@@ -66,20 +66,14 @@ author_staff_member: dongmyeong
 예를 들어, 전자(Electron)는 반도체 내에서
 에너지 10인 상태는 가능하지만,
 에너지 10.1인 상태는 애시당초 불가능하다.
-</div>
+<br></div>
 
 
 
 <div style="font-size:medium;font-weight:bold;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</div>
 <div style="font-size:medium;">
-예를 들어,
-
-상태1 에너지 : 10eV
-상태2 에너지 : 12eV
-상태3 에너지 : 10eV
-등등등,
-
-</div>
+예를 들어, 상태1 에너지 : 10eV, 상태2 에너지 : 12eV, 상태3 에너지 : 10eV 등..
+<br></div>
 
 <div style="font-size:medium;font-weight:bold;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</div>
 <div style="font-size:medium;">
