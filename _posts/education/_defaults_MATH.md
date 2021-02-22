@@ -4,7 +4,7 @@ date:
 description: MATH, 
 categories:
   - education
-image: https://source.unsplash.com/qDY9ahp0Mto/2000x1322?a=.png
+image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Mathematics.png
 author_staff_member: ailever
 ---
 
