@@ -4,7 +4,7 @@ date: 2020-
 description: PO, 
 categories:
   - column
-image: https://source.unsplash.com/AvczuPZK6C0/2000x1322?a=.png
+image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Politics.png
 author_staff_member:
 ---
 
