@@ -4,7 +4,7 @@ date:
 description:
 categories:
   - education
-image: https://source.unsplash.com/D03d-eQg8ac/2000x1322?a=.png
+image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Deep_Learning.png
 author_staff_member: ailever
 ---
 
