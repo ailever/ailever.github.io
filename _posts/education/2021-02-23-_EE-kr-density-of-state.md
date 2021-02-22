@@ -202,4 +202,97 @@ Density of State(전자 상태 에너지 분포)가
 </div>
 
 
+<div style="font-size:medium;">
+우선 1차원 형태의 고체부터
+보시죠!
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108739844-5fe06980-7578-11eb-9747-488f080aff45.png)
+
+
+
+
+<div style="font-size:medium;">
+전자가 가질 수 있는 운동방향은
+좌측과 우측, 두 가지 뿐이라고
+가정하겠습니다.
+(1차원 고체의 정의이므로!)
+
+여기서, 전자들에게 에너지를
+더 가해주면 좌측 or 우측
+방향으로 에너지가 커질 것 이고
+
+일정 에너지 수준을 넘어가면
+이 전자들은 다른 unit cell로
+이동할 것입니다.
+
+
+결론적으로, 운동방향이 2가지 뿐이기에
+위 붉은색 박스 unit cell 내에서
+높은 에너지를 갖기 힘듭니다.
+
+즉, 전자가 취할 수 있는 대부분의 상태는
+낮은 에너지 영역대에 속해 있다고
+대략적으로 추측해 볼 수 있습니다.
+
+</div>
+
+
+
+
+<div style="font-size:medium;">
+주의사항 : 전자와 전자의 상태를 구분할 것!
+
+'전자가 취할 수 있는 대부분의
+상태가 낮은 에너지 영역대에
+속해 있다'라는 의미와
+
+'전자들 대부분(실제로)이
+낮은 에너지를 갖는다'의 의미는 다릅니다.
+
+
+전자들 대부분(실제로)이
+낮은 에너지를 갖기 위해서는,
+아래의 두 가지 조건이
+충족되어야 합니다.
+
+1. 전자가 취할 수 있는 대부분의 상태가
+낮은 에너지 영역대에 속해 있다.
+2. 전자가 낮은 에너지 상태들과
+높은 에너지 상태들 중, 낮은 에너지
+상태들을 선택할 확률이 높아야 한다.
+
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108740100-a766f580-7578-11eb-8775-a73df533ee91.png)
+
+
+
+<div style="font-size:medium;">
+붉은 색 박스 내의 그래프에서
+'에너지(E)가 높아질 수록, ρDOS가
+줄어든다'는 것을 체크해주세요!
+
+이상적인 상황 : ρDOS(1D)∝E-1/2
+
+</div>
+
+
+
+<div style="font-size:medium;">
+다음은
+2차원 형태의 고체입니다.
+
+</div>
+
+![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
+
+
 <div style="font-size:medium;"></div>
+<div style="font-size:medium;"></div>
+<div style="font-size:medium;"></div>
+<div style="font-size:medium;"></div>
+<div style="font-size:medium;"></div>
+
+
+
