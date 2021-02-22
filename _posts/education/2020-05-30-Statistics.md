@@ -19,3 +19,8 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Regression
+
+<br><br><br>
+## Descriptive Statistics
+
+<br><br><br>
