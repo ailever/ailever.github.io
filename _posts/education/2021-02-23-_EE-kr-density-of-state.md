@@ -34,7 +34,7 @@ author_staff_member: dongmyeong
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
  
 
-<div style="font-size:medium;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</div>
+<div style="font-size:medium;font-weight:bold;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</div>
 <div style="font-size:medium;">
 예를 들어,
 
@@ -70,7 +70,7 @@ author_staff_member: dongmyeong
 
 
 
-<div style="font-size:medium;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</div>
+<div style="font-size:medium;font-weight:bold;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</div>
 <div style="font-size:medium;">
 예를 들어,
 
@@ -81,8 +81,7 @@ author_staff_member: dongmyeong
 
 </div>
 
-<div style="font-size:medium;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</div>
-
+<div style="font-size:medium;font-weight:bold;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</div>
 <div style="font-size:medium;">
 예를 들어,
 
