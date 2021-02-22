@@ -14,7 +14,7 @@ author_staff_member: ailever
 ## Semiconductor Engineering
 - Density of State (Quantum Dot,Wire,Well,Box)
 - Pauli's Principle and Distribution
-- Equation
+- Equation Controlling System
 - Band Structure (1)
 - Band Structure (2)
 - Band Theory
