@@ -498,8 +498,8 @@ Density of State가 클수록 유리합니다.
 
 <br></div>
 
+---
 
-<div style="font-size:medium;">
 [Reference]
 - [1] Physics of Semiconductor Devices  -Wiley-Interscience (2006)
 - [2] Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)
@@ -509,7 +509,6 @@ Density of State가 클수록 유리합니다.
 - [6] Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)
 - [7] S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)
 
-<br></div>
 
 <div style="font-size:medium;"><br></div>
 <div style="font-size:medium;"><br></div>
