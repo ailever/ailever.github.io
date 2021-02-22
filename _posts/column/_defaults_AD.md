@@ -4,6 +4,6 @@ date: 2020-
 description: AD,
 categories:
   - column
-image: https://source.unsplash.com/v_e3Hha4EBA/2000x1322?a=.png
+image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Administration.png
 author_staff_member: ailever
 ---
