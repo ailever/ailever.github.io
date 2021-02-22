@@ -1,7 +1,7 @@
 ---
-title: STAT, 
+title: EC, 
 date:
-description: STAT, 
+description: EC, 
 categories:
   - column
 image: https://source.unsplash.com/6EnTPvPPL6I/2000x1322?a=.png
