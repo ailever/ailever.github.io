@@ -131,4 +131,6 @@ Density of State(DOS)
 
 </div>
 
+![image](https://user-images.githubusercontent.com/52376448/108737679-31fa2580-7576-11eb-809f-17197500760d.png)
+
 
