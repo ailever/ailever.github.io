@@ -175,7 +175,7 @@ blockquote:before {
 }
 
 .go-up {
-	position: absolute;
+	position: relative;
 	left: 0;
 	top: 30px;
 	text-align: center;
@@ -197,7 +197,7 @@ blockquote:before {
 }
 
 .go-down {
-	position: absolute;
+	position: relative;
 	left: 0;
 	bottom: 30px;
 	text-align: center;
