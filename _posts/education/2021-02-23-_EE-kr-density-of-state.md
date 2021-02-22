@@ -511,9 +511,9 @@ Density of State가 클수록 유리합니다.
 
 </div>
 
-<div style="font-size:medium;"></div>
-<div style="font-size:medium;"></div>
-<div style="font-size:medium;"></div>
+<div style="font-size:medium;"><br></div>
+<div style="font-size:medium;"><br></div>
+<div style="font-size:medium;"><br></div>
 
 
 
