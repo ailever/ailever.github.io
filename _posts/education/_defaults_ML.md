@@ -4,7 +4,7 @@ date: 2020-
 description: ML, 
 categories:
   - education
-image: https://source.unsplash.com/qjnAnF0jIGk/2000x1322?a=.png
+image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Machine_Learning.png
 author_staff_member:
 ---
 
