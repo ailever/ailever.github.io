@@ -5,7 +5,7 @@ description: CE,
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Computer_Engineering.png
-author_staff_member:
+author_staff_member: anonym
 ---
 
 <div style="font-size:medium;"></div>
