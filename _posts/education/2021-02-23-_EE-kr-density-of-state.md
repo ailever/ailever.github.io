@@ -511,7 +511,7 @@ Reference
 <li> Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)</li>
 <li> S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)</li>
 </ol>
-<br></div>
+<br><br></div>
 
 <div style="font-size:medium;"><br></div>
 <div style="font-size:medium;"><br></div>
