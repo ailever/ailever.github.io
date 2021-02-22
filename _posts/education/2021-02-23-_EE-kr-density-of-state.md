@@ -21,20 +21,20 @@ author_staff_member: dongmyeong
 
 <div style="font-size:medium;">
 오늘의 주제는 모두들 한 번 쯤은 들어 보셨으리라 생각되는 'Density of State(DOS)' 입니다.
-</div><br>
+<br></div>
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
   Density of State(DOS) = 단위 에너지당 상태의 갯수
-</div><br>
+<br></div>
 
 <div style="font-size:medium;">
 고체 내에 돌아다니는 전자들에 대해, 전자에게 허용된 상태들이 몇 가지 존재할 것인데, DOS는 에너지가 높은 전자의 상태들이 많은지, 아니면 에너지가 낮은 전자의 상태들이 많은지 알려주는 개념입니다. 우선 고체 내부를 돌아다니는 전자(electron)를 생각해 보시죠.
-</div><br>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
  
 
-<div style="font-size:medium;font-weight:bold;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</div><br>
+<div style="font-size:medium;font-weight:bold;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br></div>
 <div style="font-size:medium;">
 예를 들어,
 
@@ -66,16 +66,16 @@ author_staff_member: dongmyeong
 예를 들어, 전자(Electron)는 반도체 내에서
 에너지 10인 상태는 가능하지만,
 에너지 10.1인 상태는 애시당초 불가능하다.
-</div><br>
+<br></div>
 
 
 
-<div style="font-size:medium;font-weight:bold;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</div><br>
+<div style="font-size:medium;font-weight:bold;">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.<br></div>
 <div style="font-size:medium;">
 예를 들어, 상태1 에너지 : 10eV, 상태2 에너지 : 12eV, 상태3 에너지 : 10eV 등..
-</div><br>
+<br></div>
 
-<div style="font-size:medium;font-weight:bold;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</div>
+<div style="font-size:medium;font-weight:bold;">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.<br></div>
 <div style="font-size:medium;">
 예를 들어,
 
@@ -113,7 +113,7 @@ Density of State(DOS)
 =
 단위 에너지당 상태의 갯수!
 
-</div>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108737679-31fa2580-7576-11eb-809f-17197500760d.png)
 
@@ -161,7 +161,7 @@ Density of State(전자 상태 에너지 분포)가
 갖는 에너지는 얼추 다 비슷하다’
 입니다.
 
-</div>
+<br></div>
 
 <div style="font-size:medium;">
 왜 이러한 현상이
@@ -199,13 +199,13 @@ Density of State(전자 상태 에너지 분포)가
 위의 글이 이해가지 않으신다면
 아래 그림을 보고서 이해하도록 하죠!
 
-</div>
+<br></div>
 
 
 <div style="font-size:medium;">
 우선 1차원 형태의 고체부터
 보시죠!
-</div>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108739844-5fe06980-7578-11eb-9747-488f080aff45.png)
 
@@ -235,7 +235,7 @@ Density of State(전자 상태 에너지 분포)가
 낮은 에너지 영역대에 속해 있다고
 대략적으로 추측해 볼 수 있습니다.
 
-</div>
+<br></div>
 
 
 
@@ -262,7 +262,7 @@ Density of State(전자 상태 에너지 분포)가
 높은 에너지 상태들 중, 낮은 에너지
 상태들을 선택할 확률이 높아야 한다.
 
-</div>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740100-a766f580-7578-11eb-8775-a73df533ee91.png)
 
@@ -275,7 +275,7 @@ Density of State(전자 상태 에너지 분포)가
 
 이상적인 상황 : ρDOS(1D)∝E-1/2
 
-</div>
+<br></div>
 
 
 
@@ -283,7 +283,7 @@ Density of State(전자 상태 에너지 분포)가
 다음은
 2차원 형태의 고체입니다.
 
-</div>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
 
@@ -314,7 +314,7 @@ Density of State(전자 상태 에너지 분포)가
 나타날 것 이라고 대략적으로 추측해
 볼 수 있습니다.
 
-</div>
+<br></div>
 
 
 <div style="font-size:medium;">
@@ -355,7 +355,7 @@ or
 상태들을 선택할 확률이 높아야 한다.
 (조건2는 다음 포스팅 주제)
 
-</div>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740413-fdd43400-7578-11eb-8c24-c856ee63f3e3.png)
 
@@ -366,12 +366,12 @@ or
 
 이상적인 상황 : ρDOS(1D)∝E0
 
-</div><br>
+<br></div>
 
 
 <div style="font-size:medium;">
   마지막으로 3차원 형태의 고체입니다.
-</div><br>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740664-412ea280-7579-11eb-8eb3-ce53de941f1e.png)
 
@@ -395,7 +395,7 @@ or
 높은 에너지 영역대에 속해 있다고
 대략적으로 추측해 볼 수 있습니다.
 
-</div><br>
+<br></div>
 
 
 <div style="font-size:medium;">
@@ -420,7 +420,7 @@ or
 높은 에너지 상태들 중, 높은 에너지
 상태들을 선택할 확률이 높아야 한다.
 
-</div><br>
+<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740801-66bbac00-7579-11eb-9bdf-3820a0c2e643.png)
 
@@ -433,7 +433,7 @@ or
 이상적인 상황 : ρDOS(1D)∝E1/2
 
 
-</div><br>
+<br></div>
 
 
 
@@ -445,7 +445,7 @@ or
 가장 단순한 모델의 DOS임을
 알아두세요.
 
-</div><br>
+<br></div>
 
 
 <div style="font-size:medium;">
@@ -496,7 +496,7 @@ Density of State가 클수록 유리합니다.
 이런데도, DOS를 만만하게 보거나
 간과하지만은 않으시겠죠?
 
-</div><br>
+<br></div>
 
 
 <div style="font-size:medium;">
@@ -509,7 +509,7 @@ Density of State가 클수록 유리합니다.
 [6] Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)
 [7] S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)
 
-</div>
+<br></div>
 
 <div style="font-size:medium;"><br></div>
 <div style="font-size:medium;"><br></div>
