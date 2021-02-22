@@ -8,6 +8,6 @@ image: https://source.unsplash.com/qjnAnF0jIGk/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
-## List of Contents
+## Machine Learning
 
 - [k-means clustering](https://ailever.github.io/education/2020/05/30/ML-kmeans/)
