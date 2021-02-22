@@ -500,17 +500,22 @@ Density of State가 클수록 유리합니다.
 
 ---
 
+<div style="font-size:medium;">
+
 Reference
-- [1] Physics of Semiconductor Devices  -Wiley-Interscience (2006)
-- [2] Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)
-- [3] Ben G. Streetman, Sanjay Kumar Banerjee-Solid State Electronic Devices, 6th Edition (2005)
-- [4] Dimitrijev, Sima-Principles of Semiconductor Devices (2nd Edition)-Oxford University Press (2012)
-- [5] Robert F. Pierret-Semiconductor Device Fundamentals-Addison Wesley (1996)
-- [6] Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)
-- [7] S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)
+<ol>
+<li> Physics of Semiconductor Devices  -Wiley-Interscience (2006)</li>
+<li> Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)</li> 
+<li> Ben G. Streetman, Sanjay Kumar Banerjee-Solid State Electronic Devices, 6th Edition (2005)</li>
+<li> Dimitrijev, Sima-Principles of Semiconductor Devices (2nd Edition)-Oxford University Press (2012)</li>
+<li> Robert F. Pierret-Semiconductor Device Fundamentals-Addison Wesley (1996)</li>
+<li> Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)</li>
+<li> S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)</li>
 
+</ol>
 
-<div style="font-size:medium;"><br></div>
+<br></div>
+
 <div style="font-size:medium;"><br></div>
 <div style="font-size:medium;"><br></div>
 
