@@ -10,38 +10,17 @@ author_staff_member: ailever
 ---
 
 
-
 <br><br><br>
-
-<div align="center" style="font-style:italic;font-size:xx-large;font-weight:bold"><u>Work Experience</u></div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  - abc
-  - abc
-  - abc
-  - abc
+  Sungkyunkwan University<br>
+  Bachelor of Science in Physics<br>
 </div>
 
-<br><br><br>
 
-<div align="center" style="font-style:italic;font-size:xx-large;font-weight:bold"><u>Work Experience</u></div>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  - abc
-  - abc
-  - abc
-  - abc
-</div>
 
-<br><br><br>
 
-<div align="center" style="font-style:italic;font-size:xx-large;font-weight:bold"><u>Work Experience</u></div>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  - abc
-  - abc
-  - abc
-  - abc
-</div>
 
-<br><br><br>
+
 
 
 
