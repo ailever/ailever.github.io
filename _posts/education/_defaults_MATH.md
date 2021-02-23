@@ -2,6 +2,7 @@
 title: MATH, 
 date:
 description: MATH, 
+_previous: https://ailever.github.io/education/2020/05/30/Mathematics/
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Mathematics.png
