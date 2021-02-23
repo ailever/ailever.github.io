@@ -14,47 +14,5 @@ image: https://source.unsplash.com/9pw4TKvT3po/2000x1322?a=.png
 </section>
 
 <section>
-	<div class="text-container">
-		<div>
-			<strong>TEST1</storng>
-		</div>
 
-		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
-		<div>
-			<strong>TEST2</storng>
-		</div>
-
-		<ul class="blog-posts">
-			{% include list-stories.html posts=storinator.posts %}
-		</ul>
-		<div>
-			<p>{% storinator.total_pages %}</p>
-			<p>{% storinator.posts %}</p>
-			<p>{% include list-stories.html posts=storinator.posts %}</p>
-			
-			{% storinator.total_pages %}
-			{% storinator.posts %}
-			{% include list-stories.html posts=storinator.posts %}
-			<strong>TEST3</storng>
-		</div>
-
-		{% if storinator.total_pages > 1 %}
-			<div class="storination">
-				{% if storinator.previous_page %}
-					<a href="{{ site.baseurl }}{{ storinator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
-				{% endif %}
-
-				<span class="page_number ">{{ storinator.page }} of {{ storinator.total_pages }}</span>
-
-				{% if storinator.next_page %}
-					<a href="{{ site.baseurl }}{{ storinator.next_page_path }}" class="next btn">Older posts &rarr;</a>
-				{% endif %}
-			</div>
-		{% endif %}
-		
-		<div>
-			<strong>TEST4</storng>
-		</div>
-
-	</div>
 </section>
