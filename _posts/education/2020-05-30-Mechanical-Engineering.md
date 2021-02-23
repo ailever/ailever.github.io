@@ -2,6 +2,7 @@
 title: Mechanical Engineering
 date: 2020-05-30
 description: Mechanical Engineering
+_previous: https://ailever.github.io/education/
 categories:
   - education
 image: https://source.unsplash.com/e_hQZ2EM-Qg/2000x1322?a=.png
