@@ -9,6 +9,13 @@ image: https://source.unsplash.com/D03d-eQg8ac/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
+<button class="custom_btn" type="button" onclick="location.href='#'">A</button>
+<button class="custom_btn" type="button" onclick="location.href='#'">B</button>
+<button class="custom_btn" type="button" onclick="location.href='#'">C</button>
+
+---
+
+<br><br><br>
 ## Microelectronics
 
 <br><br><br>
