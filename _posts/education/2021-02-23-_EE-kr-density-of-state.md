@@ -102,10 +102,10 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-네모 박스(3차원)와 유사한지<br>
-널판지(2차원)와 유사한지<br>
-막대기(1차원)와 유사한지<br>
-점(0차원)와 유사한지<br>
+고체의 형상 : 네모 박스(3차원)와 유사<br>
+고체의 형상 : 널판지(2차원)와 유사<br>
+고체의 형상 : 막대기(1차원)와 유사<br>
+고체의 형상 : 점(0차원)와 유사<br>
 <br><br></div>
 
 
@@ -114,67 +114,27 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-고체 내에 돌아다니는 전자에 영향을 가장 크게 미치는 것은 ‘고체를 이루고 있는 원자들이 어떠한 주기성을 가지고 배열되어 있느냐’ 일 것 입니다. 고체의 주기성이 1차원적으로 반복되는지, 2차원적으로 반복되는지, 3차원 적으로 반복되는지 말이죠. 역시나 글보다는 그림이 이해를 더 도와줄때네요. 이 내용이 이해가지 않으신다면 아래 그림을 보고서 이해하도록 하죠.
-<br><br></div>
-
- 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-우선 1차원 형태의 고체부터 보시죠.  
-<br><br></div>
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-
-
-<div style="font-size:medium;">
-
-
-
-
-
-
-<br><br></div>
-
-<div style="font-size:medium;">
-
-
-
-
-
-<br><br></div>
-
-
-<div style="font-size:medium;">
+고체 내에 돌아다니는 전자에 영향을 가장 크게 미치는 것은 ‘고체를 이루고 있는 원자들이 어떠한 주기성을 가지고 배열되어 있느냐’ 일 것 입니다. 고체의 주기성이 1차원적으로 반복되는지, 2차원적으로 반복되는지, 3차원 적으로 반복되는지 말이죠. 역시나 글보다는 그림이 이해를 더 도와줄때네요. 이 내용이 이해가지 않으신다면 아래 그림을 보고서 이해하도록 하죠. 우선 1차원 형태의 고체부터 살펴보겠습니다.
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108739844-5fe06980-7578-11eb-9747-488f080aff45.png)
+ 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+전자가 가질 수 있는 <b>운동방향은 좌측과 우측, 두 가지 뿐</b>이라고 가정하겠습니다(1차원 고체의 정의이기 때문입니다.). 여기서, 전자들에게 에너지를 더 가해주면 좌측 or 우측 방향으로 에너지가 커질 것 이고 일정 에너지 수준을 넘어가면 이 전자들은 다른 unit cell로 이동할 것입니다. 결론적으로, 운동방향이 2가지 방향으로 한정되어 있기에 위 붉은색 박스 unit cell 내에서 높은 에너지를 갖기 힘듭니다. 즉, 전자가 취할 수 있는 대부분의 상태는 낮은 에너지 영역대에 속해 있다고 대략적으로 추측해 볼 수 있습니다.
+<br><br></div>
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+
+
 
 
 
 
 <div style="font-size:medium;">
-전자가 가질 수 있는 운동방향은
-좌측과 우측, 두 가지 뿐이라고
-가정하겠습니다.
-(1차원 고체의 정의이므로!)
-
-여기서, 전자들에게 에너지를
-더 가해주면 좌측 or 우측
-방향으로 에너지가 커질 것 이고
-
-일정 에너지 수준을 넘어가면
-이 전자들은 다른 unit cell로
-이동할 것입니다.
-
-
-결론적으로, 운동방향이 2가지 뿐이기에
-위 붉은색 박스 unit cell 내에서
-높은 에너지를 갖기 힘듭니다.
-
-즉, 전자가 취할 수 있는 대부분의 상태는
-낮은 에너지 영역대에 속해 있다고
-대략적으로 추측해 볼 수 있습니다.
 
 <br><br></div>
 
