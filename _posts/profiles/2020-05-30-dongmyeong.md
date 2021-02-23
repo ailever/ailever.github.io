@@ -53,8 +53,8 @@ author_staff_member: ailever
 
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">EDUCATION</div>
-<img src="https://source.unsplash.com/niXUOj_ypuk/2000x1322?a=.png">
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<img src="https://source.unsplash.com/niXUOj_ypuk/2000x1322?a=.png">
 </div>
 
 <br><br><br>
