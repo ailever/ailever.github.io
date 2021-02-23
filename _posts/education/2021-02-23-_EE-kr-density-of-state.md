@@ -36,41 +36,26 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
 
-<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+  1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.
+<br><br></div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br>
 
 왼쪽방향으로 움직이는, 에너지 10인 전자의 상태 <br>
 오른쪽방향으로 움직이는, 에너지 9인 전자의 상태 <br>
-아래방향으로 움직이는, 에너지 10인 전자의 상태 <br>
+아래방향으로 움직이는, 에너지 10인 전자의 상태 <br><br><br>
 
-<br><br>
 우리가 주목할 부분은 바로 상태입니다.
-
-
-
-
-왜 상태에 주목하냐 물으실 수 있는데,
-
-상태에 주목하는 이유는
-
-양자이론에 의하면, 전자(Electron)는
-모든 상태가 다 가능한 것이 아니라,
-
-특정한 or 제한적인 or 특수한
-상태만 취할 수 있기 때문입니다.
-
-그렇기에, 반도체 내 돌아다니는 전자를
-분석할 때는, 전자가 아닌 전자의
-허용된 상태에 관심을 갖습니다.
-
-
-예를 들어, 전자(Electron)는 반도체 내에서
-에너지 10인 상태는 가능하지만,
-에너지 10.1인 상태는 애시당초 불가능하다.
-  
 <br><br></div>
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　
+　왜 상태에 주목하냐 물으실 수 있는데, 상태에 주목하는 이유는 양자이론에 의하면 <b>전자(Electron)는 모든 상태가 다 가능한 것이 아니라 특정한 or 제한적인 or 특수한 상태만 취할 수 있기</b> 때문입니다. 그렇기에 반도체 내부를 돌아다니는 전자를 분석할 때는 전자가 아닌 전자의 허용된 상태에 관심을 갖습니다. <u>예를 들어, 전자(Electron)는 반도체 내에서 에너지 10인 상태는 가능하지만, 에너지 10.1인 상태는 애시당초 불가능하다.</u>
+<br><br></div>
+
+  
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
