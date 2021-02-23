@@ -17,19 +17,19 @@ image: https://source.unsplash.com/9pw4TKvT3po/2000x1322?a=.png
 	<div class="text-container">
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 		<ul class="blog-posts">
-			{% include list-posts.html posts=paginator.posts %}
+			{% include list-posts.html posts=storinator.posts %}
 		</ul>
 
-		{% if paginator.total_pages > 1 %}
-			<div class="pagination">
-				{% if paginator.previous_page %}
-					<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+		{% if storinator.total_pages > 1 %}
+			<div class="storination">
+				{% if storinator.previous_page %}
+					<a href="{{ site.baseurl }}{{ storinator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
 				{% endif %}
 
-				<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+				<span class="page_number ">{{ storinator.page }} of {{ storinator.total_pages }}</span>
 
-				{% if paginator.next_page %}
-					<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
+				{% if storinator.next_page %}
+					<a href="{{ site.baseurl }}{{ storinator.next_page_path }}" class="next btn">Older posts &rarr;</a>
 				{% endif %}
 			</div>
 		{% endif %}
