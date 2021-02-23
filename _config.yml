@@ -20,6 +20,14 @@ social:
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
 
+# -------------
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # -----
 # Build
 
