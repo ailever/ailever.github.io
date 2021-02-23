@@ -74,13 +74,13 @@ author_staff_member: dongmyeong
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br><br>
 
-에너지 영역대 $10~11eV$에 <br>
+에너지 영역대 $10\~11eV$에 <br>
 속하는 전자 상태의 개수 : $100$개 <br><br>
 
-에너지 영역대 $11~12eV$에 <br>
+에너지 영역대 $11\~12eV$에 <br>
 속하는 전자 상태의 개수 : $200$개 <br><br>
 
-에너지 영역대 $12~13eV$에 <br>
+에너지 영역대 $12\~13eV$에 <br>
 속하는 전자 상태의 개수 : $300$개 <br>
 <br><br></div>
 
