@@ -83,6 +83,7 @@ defaults:
           width: 1500
           height: 2000
           uploads_dir: "/images/post_uploads"
+      mathjax: true
   -
     scope:
       path: "contact-success.html"
