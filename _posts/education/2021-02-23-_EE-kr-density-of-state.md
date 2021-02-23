@@ -145,37 +145,30 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-
-
-
-
-
-
-<div style="font-size:medium;">
-
-<br><br></div>
-
-
-
-
-<div style="font-size:medium;">
-
-<br><br></div>
-
 ![image](https://user-images.githubusercontent.com/52376448/108740100-a766f580-7578-11eb-8775-a73df533ee91.png)
 
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+붉은 색 박스 내의 그래프에서 '에너지(E)가 높아질 수록, ρDOS가 줄어든다'는 것을 체크해주세요.
+<br><br></div>
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$이상적인\ 상황\ : \ ρDOS(1D)∝E-1/2$$
+<br><br></div>
+
+
+
+
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+
+
+
+
 
 <div style="font-size:medium;">
-붉은 색 박스 내의 그래프에서
-'에너지(E)가 높아질 수록, ρDOS가
-줄어든다'는 것을 체크해주세요!
-
-이상적인 상황 : ρDOS(1D)∝E-1/2
 
 <br><br></div>
 
