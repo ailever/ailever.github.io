@@ -6,7 +6,7 @@ _previous: https://ailever.github.io/professionals/
 categories:
   - professionals
 image: https://github.com/ailever/ailever.github.io/raw/master/images/profiles/dongmyeong.jpg
-author_staff_member: dongmyeong
+author_staff_member: ailever
 ---
 
 <!-- Content Block -->
