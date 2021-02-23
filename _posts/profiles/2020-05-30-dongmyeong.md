@@ -38,9 +38,9 @@ author_staff_member: ailever
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">PRESS RELEASES</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  [SK텔레콤 ‘누구 플레이 개발 공모전’ 최우수상 수상은 누구?](https://biz.chosun.com/site/data/html_dir/2019/04/26/2019042600744.html)<br>
-  [오래 기다린 버스는 왜 꼭 만원일까](http://www.hani.co.kr/arti/culture/book/859041.html)<br>
-  [현대차그룹, 창조센터와 ‘광주 H-스타트업 페스티벌’ 개최](https://www.nocutnews.co.kr/news/4415920)<br>
+  <a href="https://biz.chosun.com/site/data/html_dir/2019/04/26/2019042600744.html" target="_blank">SK텔레콤 ‘누구 플레이 개발 공모전’ 최우수상 수상은 누구?</a><br>
+  <a href="http://www.hani.co.kr/arti/culture/book/859041.html">오래 기다린 버스는 왜 꼭 만원일까</a><br>
+  <a href="https://www.nocutnews.co.kr/news/4415920" target="_blank">현대차그룹, 창조센터와 ‘광주 H-스타트업 페스티벌’ 개최</a><br>
 </div>
 
 <br><br><br>
