@@ -17,9 +17,6 @@ author_staff_member: dongmyeong
 　Density of State(DOS)는 '물질 내에서, 단위 에너지당 전자에게 주어진 상태의 개수'로 정의됩니다. 예를 들어, 어떠한 물질 내에서, 에너지 1eV에 대응되는 상태가 전자에게 100개 주어진다는 것이죠. DOS개념은 사실, 양자이론이 '전자의 허용 가능한 상태는 정해져 있다'고 제한을 걸었기 때문에, 필연적으로 나타날 수 밖에 없는 개념입니다. 만일 '전자의 상태가 제한적'이라는 양자현상이 나타나지 않는다고 생각해본다면, DOS는 의미 없는 개념이 되고 말았을 것 입니다. 고전적인 관념하에, 전자에게는 모든 상태가 허용되니, 항상 'DOS = ∞' 일테니깐요. 앞으로 DOS에 대해 구체적으로 논의해 보도록 하죠. <br><br>
 </div>
 
----
-
-$$a+b = 3$$
 
 ---
 
@@ -29,7 +26,7 @@ $$a+b = 3$$
 <br><br></div>
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
-  Density of State(DOS) = 단위 에너지당 상태의 갯수
+  $$Density of State(DOS) = 단위 에너지당 상태의 갯수$$
 <br><br></div>
 
 <div style="font-size:medium;">
