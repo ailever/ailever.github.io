@@ -18,7 +18,7 @@ author_staff_member: ailever
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTERESTS</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  Automation, Finance, Machine Learning, Mathematics, Physics, Statistics<br>
+  Finance, Machine Learning, Mathematics, Physics, Statistics, Boxing<br>
 </div>
 
 <br><br><br>
