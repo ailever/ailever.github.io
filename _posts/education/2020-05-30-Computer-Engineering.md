@@ -2,6 +2,7 @@
 title: Computer Engineering
 date: 2020-05-30
 description: Computer Engineering
+_previous: https://ailever.github.io/education/
 categories:
   - education
 image: https://source.unsplash.com/qjnAnF0jIGk/2000x1322?a=.png
