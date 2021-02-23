@@ -108,22 +108,21 @@ author_staff_member: dongmyeong
 점(0차원)와 유사한지<br>
 <br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다.  
-<br><br></div>
-
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>3차원의 공간</b> : 네모 박스와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태가 많습니다. <b>2차원의 면</b> : 널판지와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태의 개수와 대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등합니다. <b>1차원의 선</b> :  막대기와 닮아 있는 경우 대체적으로 낮은 에너지를 갖는 전자 상태가 많습니다. <b>0차원의 점</b> : 점의 경우 단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있습니다. 역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다.
+고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다.  <b>3차원의 공간</b> : 네모 박스와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태가 많습니다. <b>2차원의 면</b> : 널판지와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태의 개수와 대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등합니다. <b>1차원의 선</b> :  막대기와 닮아 있는 경우 대체적으로 낮은 에너지를 갖는 전자 상태가 많습니다. <b>0차원의 점</b> : 점의 경우 단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있습니다. 역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다. 왜 이러한 현상이 나타나는 걸까요? 양자 역학적인 접근으로 설명한다면 복잡한 설명이 되겠지만, 고전적인 접근 방법(쉬운 설명법)으로 설명하면 그리 어렵지 않습니다.
+<br><br></div>
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+고체 내에 돌아다니는 전자에 영향을 가장 크게 미치는 것은 ‘고체를 이루고 있는 원자들이 어떠한 주기성을 가지고 배열되어 있느냐’ 일 것 입니다. 고체의 주기성이 1차원적으로 반복되는지, 2차원적으로 반복되는지, 3차원 적으로 반복되는지 말이죠. 역시나 글보다는 그림이 이해를 더 도와줄때네요. 이 내용이 이해가지 않으신다면 아래 그림을 보고서 이해하도록 하죠.
+<br><br></div>
+
+ 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+우선 1차원 형태의 고체부터 보시죠.  
 <br><br></div>
 
 
-
-
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 
@@ -138,47 +137,15 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div style="font-size:medium;">
-왜 이러한 현상이
-나타나는 걸까요?
-
-
-양자역학적인 접근으로 설명한다면
-복잡한 설명이 되겠지만, 고전적인
-접근방법(쉬운 설명법)으로 설명하면
-그리 어렵지 않습니다.
 
 
 
 
-
-고체 내에서 돌아다니는 전자에
-영향을 가장 크게 미치는 것은
-
-‘고체를 이루고 있는 원자들이
-어떠한 주기성을 가지고 배열
-되어있느냐’ 일 것 입니다.
-
-
-고체의 주기성이
-1차원적으로 반복되는지
-2차원적으로 반복되는지
-3차원 적으로 반복되는지
-
-
-
-
-역시나, 글보다는 그림이
-이해를 더 도와줄때네요.
-
-위의 글이 이해가지 않으신다면
-아래 그림을 보고서 이해하도록 하죠!
 
 <br><br></div>
 
 
 <div style="font-size:medium;">
-우선 1차원 형태의 고체부터
-보시죠!
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108739844-5fe06980-7578-11eb-9747-488f080aff45.png)
