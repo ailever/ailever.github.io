@@ -6,7 +6,6 @@ _previous: https://ailever.github.io/professionals/
 categories:
   - professionals
 image: https://source.unsplash.com/niXUOj_ypuk/2000x1322?a=.png
-author_staff_member: ailever
 ---
 
 <!-- Content Block -->
