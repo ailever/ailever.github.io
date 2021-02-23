@@ -16,7 +16,7 @@ author_staff_member: ailever
   - abc
   - abc
   - abc
-<br><br></div>
+<br><br><br></div>
 
 <div align="center" style="font-size:xx-large;font-weight:bold">Education</div>
 <p align="center">
@@ -24,7 +24,7 @@ author_staff_member: ailever
   - abc
   - abcawefawef
   - abc
-<br><br></p>
+<br><br><br></p>
 
 
 
@@ -34,7 +34,7 @@ author_staff_member: ailever
   - abc
   - abc
   - abc
-<br><br></div>
+<br><br><br></div>
 
 
 <!-- Content Block -->
