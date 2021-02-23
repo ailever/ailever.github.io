@@ -36,7 +36,7 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
 
-<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:yellow;">
   1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.
 <br><br></div>
 
