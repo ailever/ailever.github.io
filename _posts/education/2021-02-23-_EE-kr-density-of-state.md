@@ -40,7 +40,7 @@ author_staff_member: dongmyeong
   <span style="background-color:yellow">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</span>
 </div>
 
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br>
 
 전자의 상태1 : 에너지 $10eV$으로 왼쪽방향으로의 움직임을 갖는 <b>상태</b> <br>
@@ -59,7 +59,7 @@ author_staff_member: dongmyeong
 </div>
 
 
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br>
 
 전자의 상태1 : <b>에너지 $10eV$</b>으로 왼쪽방향으로의 움직임을 갖는 상태 <br>
@@ -71,7 +71,7 @@ author_staff_member: dongmyeong
 </div>
 
 
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br><br>
 
 에너지 영역대 $10\sim 11eV$에 <br>
@@ -101,7 +101,7 @@ author_staff_member: dongmyeong
 그래프(y축:DOS, x축:Energy)에 대한 해석은 <b>고체의 형상</b>을 기준으로 합니다. 고체의 모양이 기하학적으로 무엇을 닮아있는지를 살펴보는 것 입니다.
 <br><br></div>
 
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
 고체의 형상 : 네모 박스(3차원)<br>
 고체의 형상 : 널판지(2차원)<br>
 고체의 형상 : 막대기(1차원)<br>
