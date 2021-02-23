@@ -27,7 +27,7 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  $$Density\ of\ State(DOS)\ \=\ 단위\ 에너지당\ 상태의\ 갯수$$
+  $$Density\ of\ State(DOS)\ =\ 단위\ 에너지당\ 상태의\ 갯수$$
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -36,17 +36,17 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
 
-<div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-예를 들어,
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+예를 들어, <br>
 
-왼쪽방향으로 움직이는, 에너지 10인 전자의 상태
-오른쪽방향으로 움직이는, 에너지 9인 전자의 상태
-아래방향으로 움직이는, 에너지 10인 전자의 상태
-등등,
+왼쪽방향으로 움직이는, 에너지 10인 전자의 상태 <br>
+오른쪽방향으로 움직이는, 에너지 9인 전자의 상태 <br>
+아래방향으로 움직이는, 에너지 10인 전자의 상태 <br>
 
-우리가 주목할 부분은 바로 상태!
+<br><br>
+우리가 주목할 부분은 바로 상태입니다.
 
 
 
