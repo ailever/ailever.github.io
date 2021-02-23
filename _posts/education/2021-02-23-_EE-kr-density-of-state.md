@@ -26,6 +26,7 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 $$Density of State(DOS) = 단위 에너지당 상태의 갯수$$
+$$a+b=1$$
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
 <br><br></div>
