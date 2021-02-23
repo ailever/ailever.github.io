@@ -86,13 +86,11 @@ author_staff_member: dongmyeong
 속하는 전자 상태의 개수 : 300개 <br><br>
 
 이렇게 단위 에너지당 상태의 가짓 수가 몇 가지인지를 추산할 수 있을 것 입니다. <br><br>
-
-즉, Density of State는 전자의 상태가 가지는 에너지 분포라고 생각해주세요.<br>
 <br><br></div>
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-자 그렇다면, 다음 아래의 그래프를 바라보죠. 아래 그래프야 말로 Density of State(DOS)의 진정한 의미를 담고 있으니까요.
+즉, Density of State는 전자의 상태가 가지는 에너지 분포라고 생각해주세요. 더 나아가 다음 아래의 그래프를 바라보죠. 아래 그래프야 말로 Density of State(DOS)의 진정한 의미를 담고 있으니까요.
 <br><br></div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
