@@ -9,7 +9,6 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/profiles/d
 author_staff_member: ailever
 ---
 
-<!-- Content Block -->
 
 <div align="center" style="font-size:xx-large;font-weight:bold">Work Experience</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -19,8 +18,18 @@ author_staff_member: ailever
   - abc
 <br><br></div>
 
-<div align="center"><h2>Education</h2></div>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="center" style="font-size:xx-large;font-weight:bold">Education</div>
+<p align="center">
+  - abc
+  - abc
+  - abcawefawef
+  - abc
+<br><br></p>
+
+
+
+<div align="center" style="font-size:xx-large;font-weight:bold">Education</div>
+<div align="center">
   - abc
   - abc
   - abc
@@ -28,8 +37,4 @@ author_staff_member: ailever
 <br><br></div>
 
 
-
-<h2 align="center"></h2>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <!-- Content Block -->
