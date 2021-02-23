@@ -147,119 +147,84 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108740100-a766f580-7578-11eb-8775-a73df533ee91.png)
 
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-붉은 색 박스 내의 그래프에서 '에너지(E)가 높아질 수록, ρDOS가 줄어든다'는 것을 체크해주세요.
-<br><br></div>
-
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$이상적인\ 상황\ : \ ρDOS(1D)∝E-1/2$$
 <br><br></div>
 
-
-
-
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-
-
-
-
-
-<div style="font-size:medium;">
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+붉은 색 박스 내의 그래프에서 '에너지(E)가 높아질 수록, ρDOS가 줄어든다'는 것을 체크해주세요. 다음은 2차원 형태의 고체입니다.
 <br><br></div>
 
-
-
-<div style="font-size:medium;">
-다음은
-2차원 형태의 고체입니다.
-
-<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
 
-
-<div style="font-size:medium;">
-전자가 가질 수 있는
-운동방향은 평면 내에서만
-움직인다고 가정 하겠습니다.
-(2차원 고체의 정의이므로!)
-
-여기서, 전자들에게 에너지를
-더 가해주면 평면에서 가능한
-방향 모두 에너지가 커질 것이고,
-
-일정 에너지 수준을 넘어가면
-이 전자들은 다른 unit cell로
-이동할 것입니다.
-
-
-위에서 설명한 1차원 고체와
-비교해보면, 2차원 고체 내의
-전자들의 상태들이, 더 높은
-에너지를 가질 가능성이
-높아진다는 것을 파악할 수 있습니다.
-
-즉, 전자가 취할 수 있는 대부분의 상태는
-모든 에너지 영역대에 걸쳐 골고루
-나타날 것 이라고 대략적으로 추측해
-볼 수 있습니다.
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+전자가 가질 수 있는 운동방향은 평면 내에서만 움직인다고 가정 하겠습니다(2차원 고체의 정의이기 때문이니깐요.). 여기서, 전자들에게 에너지를 더 가해주면 평면에서 가능한 방향 모두 에너지가 커질 것이고, 일정 에너지 수준을 넘어가면 이 전자들은 다른 unit cell로 이동할 것입니다. 위에서 설명한 1차원 고체와 비교해보면, 2차원 고체 내의 전자들의 상태들이, 더 높은 에너지를 가질 가능성이 높아진다는 것을 파악할 수 있습니다. 즉, 전자가 취할 수 있는 대부분의 상태는 모든 에너지 영역대에 걸쳐 골고루 나타날 것 이라고 대략적으로 추측해 볼 수 있습니다.
 <br><br></div>
 
+<div align="left" style="font-size:small;font-weight:normal;color:blue;background-color:unset;">
+주의사항 : 전자와 전자의 상태를 구분할 것!<br><br>
 
-<div style="font-size:medium;">
-주의사항 : 전자와 전자의 상태를 구분할 것!
+'전자가 취할 수 있는 대부분의<br>
+상태는 모든 에너지 영역대에<br>
+걸쳐 골고루 나타난다'라는 의미와<br><br>
 
-'전자가 취할 수 있는 대부분의
-상태는 모든 에너지 영역대에
-걸쳐 골고루 나타난다'라는 의미와
+'전자들 대부분(실제로)이 고른 에너지<br>
+분포를 갖는다'의 의미는 다릅니다.<br><br>
 
-'전자들 대부분(실제로)이 고른 에너지
-분포를 갖는다'의 의미는 다릅니다.
+전자들 대부분(실제로)이<br>
+고른 에너지 분포를 갖기 위해선<br>
+아래의 두 가지 조건이<br>
+충족되어야 합니다.<br><br>
 
-
-전자들 대부분(실제로)이
-고른 에너지 분포를 갖기 위해선
-아래의 두 가지 조건이
-충족되어야 합니다.
-
-1. 전자가 취할 수 있는 대부분의 상태가
-낮은 에너지 영역대에 속해 있다.
-2. 전자가 낮은 에너지 상태들과
-높은 에너지 상태들 중, 높은 에너지
-상태들을 선택할 확률이 높아야 한다.
-(조건2는 다음 포스팅 주제)
-or
-1. 전자가 취할 수 있는 대부분의 상태가
-낮은 에너지 영역대와 높은 에너지 영역대
-관계없이 고르게 분포하고 있어야 한다.
-2. 전자가 낮은 에너지 상태들과
-높은 에너지 상태들 중, 낮은 에너지
-상태들을 선택할 확률이 동등해야 한다.
-(조건2는 다음 포스팅 주제)
-or
-1. 전자가 취할 수 있는 대부분의 상태가
-높은 에너지 영역대에 속해 있다.
-2. 전자가 낮은 에너지 상태들과
-높은 에너지 상태들 중, 낮은 에너지
-상태들을 선택할 확률이 높아야 한다.
-(조건2는 다음 포스팅 주제)
-
+1. 전자가 취할 수 있는 대부분의 상태가<br>
+낮은 에너지 영역대에 속해 있다.<br>
+2. 전자가 낮은 에너지 상태들과<br>
+높은 에너지 상태들 중, 높은 에너지<br>
+상태들을 선택할 확률이 높아야 한다.<br>
+(조건2는 다음 포스팅 주제)<br>
+or<br>
+1. 전자가 취할 수 있는 대부분의 상태가<br>
+낮은 에너지 영역대와 높은 에너지 영역대<br>
+관계없이 고르게 분포하고 있어야 한다.<br>
+2. 전자가 낮은 에너지 상태들과<br>
+높은 에너지 상태들 중, 낮은 에너지<br>
+상태들을 선택할 확률이 동등해야 한다.<br>
+(조건2는 다음 포스팅 주제)<br>
+or<br>
+1. 전자가 취할 수 있는 대부분의 상태가<br>
+높은 에너지 영역대에 속해 있다.<br>
+2. 전자가 낮은 에너지 상태들과<br>
+높은 에너지 상태들 중, 낮은 에너지<br>
+상태들을 선택할 확률이 높아야 한다.<br>
+(조건2는 다음 포스팅 주제)<br>
+  
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740413-fdd43400-7578-11eb-8c24-c856ee63f3e3.png)
 
-<div style="font-size:medium;">
-붉은 색 박스 내의 그래프에서
-'에너지(E)에 관계없이, ρDOS가
-일정하다'는 것을 체크해주세요!
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$이상적인\ 상황\ :\ ρDOS(1D)∝E0$$
+<br><br></div>
 
-이상적인 상황 : ρDOS(1D)∝E0
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+붉은 색 박스 내의 그래프에서 '에너지(E)에 관계없이, ρDOS가 일정하다'는 것을 체크해주세요!
+<br><br></div>
+
+
+
+
+
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+
+
+
+<div style="font-size:medium;">
 
 <br></div>
 
