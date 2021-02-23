@@ -49,13 +49,13 @@ author_staff_member: ailever
   ｜
 </span>
 - Carrier Concentration : Fermi Level, Fermi Energy, Chemical Potential
-  - <span style="font-size:small;">
+<span style="font-size:small;">
   ｜en
   ｜kr
   ｜
 </span>
 - Doping : Ion Implantation ,Intrinsic, Extrinsic(n-type, p-type)
-  - <span style="font-size:small;">
+<span style="font-size:small;">
   ｜en
   ｜kr
   ｜
