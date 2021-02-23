@@ -56,17 +56,17 @@ author_staff_member: dongmyeong
 
   
 
-
 <div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
 2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.
 <br><br></div>
 
-<div style="font-size:medium;">
+center
+
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br>
 
 전자의 상태1 : <b>에너지 $10eV$</b>으로 왼쪽방향으로의 움직임을 갖는 상태 <br>
 전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br><br><br>
-
 <br><br></div>
 
 
