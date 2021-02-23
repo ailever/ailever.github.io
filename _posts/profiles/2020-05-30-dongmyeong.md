@@ -54,7 +54,7 @@ author_staff_member: ailever
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">Dongmyeong Lee</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  <img src="https://github.com/ailever/ailever.github.io/raw/master/images/profiles/dongmyeong.jpg">
+  <img src="https://github.com/ailever/ailever.github.io/raw/master/images/profiles/dongmyeong.jpg" style="border-radius:70%;overflow:hidden;">
 </div>
 
 <br><br><br>
