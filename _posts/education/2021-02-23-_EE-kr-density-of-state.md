@@ -102,10 +102,10 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-네모 박스(3차원)처럼 생겼는지<br>
-널판지(2차원)처럼 생겼는지<br>
-막대기(1차원)처럼 생겼는지<br>
-점(0차원)처럼 생겼는지<br>
+네모 박스(3차원)와 유사한지<br>
+널판지(2차원)와 유사한지<br>
+막대기(1차원)와 유사한지<br>
+점(0차원)와 유사한지<br>
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
