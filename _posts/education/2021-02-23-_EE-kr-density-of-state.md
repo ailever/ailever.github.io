@@ -108,13 +108,32 @@ author_staff_member: dongmyeong
 점(0차원)처럼 생겼는지<br>
 <br><br></div>
 
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다.  
 <br><br></div>
 
 
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+3차원의 공간 - 네모 박스 <br>
+대체적으로 높은 에너지를 갖는 전자 상태가 많고, <br><br>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+2차원의 면 - 널판지 <br>
+대체적으로 높은 에너지를 갖는 전자 상태의 개수와 <br>
+대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등하며, <br><br>
+
+1차원의 선 - 막대기 <br>
+대체적으로 낮은 에너지를 갖는 전자 상태가 많고, <br><br>
+
+0차원의 점 <br>
+단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있는 것을 볼 수 있습니다.<br>
+역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다. <br> 
+<br><br></div>
+
+
+
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
@@ -127,27 +146,6 @@ author_staff_member: dongmyeong
 
 
 
-3차원의 경우) 공간 - 네모 박스
-높은 에너지를 갖는 전자 상태가 많고,
-
-2차원의 경우) 면 - 널판지
-높은 에너지를 갖는 전자 상태의 개수와
-낮은 에너지를 갖는 전자 상태의 개수는
-동등하며,
-
-1차원의 경우) 선 - 막대기
-낮은 에너지를 갖는 전자 상태가 많고,
-
-0차원의 경우) 점
-하나의 에너지 영역대에,
-거의 모든 전자 상태가
-밀집되어 있는 것을 볼 수
-있습니다.
-
-거꾸로 말하면,
-‘전자가 어떠한 상태이던지간에
-갖는 에너지는 얼추 다 비슷하다’
-입니다.
 
 <br><br></div>
 
