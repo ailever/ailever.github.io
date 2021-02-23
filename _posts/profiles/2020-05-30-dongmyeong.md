@@ -11,7 +11,7 @@ author_staff_member: ailever
 
 <!-- Content Block -->
 
-<div align="center" style="font-size:large;font-weight:bold">Work Experience</div>
+<div align="center" style="font-size:xx-large;font-weight:bold">Work Experience</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   - abc
   - abc
