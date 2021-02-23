@@ -49,6 +49,9 @@ collections:
 paginate: 10
 paginate_path: "/blog/:num/"
 
+storinate: 10
+storinate_path: "/story/:num/"
+
 jekyll-archives:
   enabled: ['categories']
 
