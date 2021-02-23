@@ -36,6 +36,13 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">EDUCATION</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  Sungkyunkwan University<br>
+  Bachelor of Science in Physics<br>
+</div>
+
+<br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">PRESS RELEASES</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   <a href="https://biz.chosun.com/site/data/html_dir/2019/04/26/2019042600744.html" target="_blank">SK텔레콤 ‘누구 플레이 개발 공모전’ 최우수상 수상은 누구?</a><br>
@@ -44,10 +51,4 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
-<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">EDUCATION</div>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  Sungkyunkwan University<br>
-  Bachelor of Science in Physics<br>
-</div>
 
-<br><br><br>
