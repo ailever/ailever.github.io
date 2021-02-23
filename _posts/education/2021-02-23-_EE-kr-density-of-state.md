@@ -41,8 +41,7 @@ author_staff_member: dongmyeong
 </div>
 
 <div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
-예를 들어, <br>
-
+<br>
 전자의 상태1 : 에너지 $10eV$으로 왼쪽방향으로의 움직임을 갖는 <b>상태</b> <br>
 전자의 상태2 : 에너지 $11eV$으로 오른쪽방향으로의 움직임을 갖는 <b>상태</b> <br>
 <br><br></div>
@@ -60,8 +59,7 @@ author_staff_member: dongmyeong
 
 
 <div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
-예를 들어, <br>
-
+<br>
 전자의 상태1 : <b>에너지 $10eV$</b>으로 왼쪽방향으로의 움직임을 갖는 상태 <br>
 전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br>
 <br><br></div>
@@ -72,8 +70,6 @@ author_staff_member: dongmyeong
 
 
 <div align="center" style="font-size:small;font-weight:normal;color:black;background-color:unset;">
-예를 들어, <br><br>
-
 에너지 영역대 $10\sim 11eV$에 <br>
 속하는 전자 상태의 개수 : $100$개 <br><br>
 
