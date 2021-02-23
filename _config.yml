@@ -121,10 +121,3 @@ _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
 
-# -----------
-# Mathjax
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
