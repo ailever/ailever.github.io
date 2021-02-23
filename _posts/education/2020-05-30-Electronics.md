@@ -16,7 +16,6 @@ author_staff_member: ailever
 <span style="font-size:small;">
   ｜en
   ｜[kr](https://ailever.github.io/education/2021/02/23/_EE-kr-density-of-state/)
-  ｜
 </span>
 - Pauli's Principle and Distribution
 <span style="font-size:small;">
