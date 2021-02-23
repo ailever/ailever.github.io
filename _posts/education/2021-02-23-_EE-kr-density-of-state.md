@@ -25,8 +25,9 @@ author_staff_member: dongmyeong
 오늘의 주제는 모두들 한 번 쯤은 들어 보셨으리라 생각되는 'Density of State(DOS)' 입니다.
 <br><br></div>
 
+$$Density of State(DOS) = 단위 에너지당 상태의 갯수$$
+
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
-  $$Density of State(DOS) = 단위 에너지당 상태의 갯수$$
 <br><br></div>
 
 <div style="font-size:medium;">
