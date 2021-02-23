@@ -110,7 +110,7 @@ author_staff_member: dongmyeong
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다. 네모 박스(<b>3차원의 공간</b>)와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태가 많습니다. 널판지(<b>2차원의 면</b>)와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태의 개수와 대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등합니다. 막대기(<b>1차원의 선</b>)와 닮아 있는 경우 대체적으로 낮은 에너지를 갖는 전자 상태가 많습니다. 마지막으로 <b>0차원의 점</b>의 경우 단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있습니다. 역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다. 왜 이러한 현상이 나타나는 걸까요? 양자 역학적인 접근으로 설명한다면 복잡한 설명이 되겠지만, 고전적인 접근 방법(쉬운 설명법)으로 설명하면 그리 어렵지 않으니 살펴보도록 하죠.
+고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다. <b>네모 박스(3차원의 공간)</b>와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태가 많습니다. <b>널판지(2차원의 면)</b>와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태의 개수와 대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등합니다. <b>막대기(1차원의 선)</b>와 닮아 있는 경우 대체적으로 낮은 에너지를 갖는 전자 상태가 많습니다. 마지막으로 <b>0차원의 점</b>의 경우 단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있습니다. 역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다. 왜 이러한 현상이 나타나는 걸까요? 양자 역학적인 접근으로 설명한다면 복잡한 설명이 되겠지만, 고전적인 접근 방법(쉬운 설명법)으로 설명하면 그리 어렵지 않으니 살펴보도록 하죠.
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -124,7 +124,32 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="center" style="font-size:small;font-weight:normal;color:blue;background-color:unset;">
+<b>주의사항 : 전자와 전자의 상태를 구분할 것!</b> <br><br>
+
+'전자가 취할 수 있는 대부분의<br>
+상태가 낮은 에너지 영역대에<br>
+속해 있다'라는 의미와<br><br>
+
+'전자들 대부분(실제로)이<br>
+낮은 에너지를 갖는다'의 의미는 다릅니다.<br><br>
+
+
+전자들 대부분(실제로)이<br>
+낮은 에너지를 갖기 위해서는,<br>
+아래의 두 가지 조건이<br>
+충족되어야 합니다.<br><br>
+
+1. 전자가 취할 수 있는 대부분의 상태가<br>
+낮은 에너지 영역대에 속해 있다.<br>
+2. 전자가 낮은 에너지 상태들과<br>
+높은 에너지 상태들 중, 낮은 에너지<br>
+상태들을 선택할 확률이 높아야 한다.<br><br>
+  
+<br><br></div>
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
@@ -142,26 +167,6 @@ author_staff_member: dongmyeong
 
 
 <div style="font-size:medium;">
-주의사항 : 전자와 전자의 상태를 구분할 것!
-
-'전자가 취할 수 있는 대부분의
-상태가 낮은 에너지 영역대에
-속해 있다'라는 의미와
-
-'전자들 대부분(실제로)이
-낮은 에너지를 갖는다'의 의미는 다릅니다.
-
-
-전자들 대부분(실제로)이
-낮은 에너지를 갖기 위해서는,
-아래의 두 가지 조건이
-충족되어야 합니다.
-
-1. 전자가 취할 수 있는 대부분의 상태가
-낮은 에너지 영역대에 속해 있다.
-2. 전자가 낮은 에너지 상태들과
-높은 에너지 상태들 중, 낮은 에너지
-상태들을 선택할 확률이 높아야 한다.
 
 <br><br></div>
 
