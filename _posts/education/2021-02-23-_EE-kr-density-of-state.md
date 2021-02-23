@@ -43,9 +43,9 @@ author_staff_member: dongmyeong
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br>
 
-전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임 <br>
-전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임 <br>
-전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임 <br><br><br>
+전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임을 갖는 상태 <br>
+전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임을 갖는 상태 <br>
+전자의 상태 : <b>에너지 10</b>으로 <b>왼쪽</b>방향으로의 움직임을 갖는 상태 <br><br><br>
 
 우리가 주목할 부분은 바로 <b>상태</b>입니다.
 <br><br></div>
