@@ -11,6 +11,11 @@ author_staff_member: ailever
 
 
 <br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">WORK EXPERIENCE</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+</div>
+
+<br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTERESTS</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 </div>
