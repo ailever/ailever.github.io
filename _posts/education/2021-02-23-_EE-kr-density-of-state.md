@@ -8,7 +8,14 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: dongmyeong
 ---
 
+<!-- Notice
+# Mathematical Expression
+- outline : \\[  \\]
+- inline  : \\(  \\)
+-->
+
 ## Intro
+
 <div style="font-size:medium;">
 　현존하는 모든 고체이론(Solid State Physics, Condensed Matter Physics)은 대부분 양자이론(Quantum Theory)에 근간을 두고 있습니다. 반도체 역시, 양자이론 없이는 우리가 이해할 수 없는 대상입니다. 양자이론에 의하면, 전자의 상태(State of Electron)는 항상 양자화 되어있습니다. 예를 들어, 고전적 관념 하에 전자에게 가능하지 않은 속력(상태)은 없습니다. 이를 양자이론 관점에 비추어 보면, 속력 \\(1m/s)\\인 상태, 속력 \\(2m/s)\\인 상태, 속력 $3m/s$인 상태, … , 이러한 특정한 상태들만 전자의 가능한 상태로서 주어진다는 것 입니다. <br><br>
 
@@ -25,14 +32,6 @@ author_staff_member: dongmyeong
 오늘의 주제는 모두들 한 번 쯤은 들어 보셨으리라 생각되는 'Density of State(DOS)' 입니다.
 <br><br></div>
 
-\\[a+b=1\\]
-\\(a+b=1\\)
-a+b=1
-$a+b=1$ 
-
-$$Density of State(DOS) = 단위 에너지당 상태의 갯수$$
-
-$$a+b=1$$
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
 <br><br></div>
