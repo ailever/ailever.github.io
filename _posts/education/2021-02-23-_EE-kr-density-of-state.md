@@ -44,14 +44,12 @@ author_staff_member: dongmyeong
 예를 들어, <br>
 
 전자의 상태1 : 에너지 $10eV$으로 왼쪽방향으로의 움직임을 갖는 <b>상태</b> <br>
-전자의 상태2 : 에너지 $10eV$으로 오른쪽방향으로의 움직임을 갖는 <b>상태</b> <br><br><br>
-
-우리가 주목할 부분은 바로 <b>상태</b>입니다.
+전자의 상태2 : 에너지 $10eV$으로 오른쪽방향으로의 움직임을 갖는 <b>상태</b> <br>
 <br><br></div>
 
 
-<div align="left" style="font-size:small;font-weight:normal;color:black;background-color:unset;">　
-　왜 상태에 주목하냐 물으실 수 있는데, 상태에 주목하는 이유는 양자이론에 의하면 <b>전자(Electron)는 모든 상태가 다 가능한 것이 아니라 <span style="color:red">특정한</span> or <span style="color:red">제한적인</span> or <span style="color:red">특수한</span> 상태만 취할 수 있기</b> 때문입니다. 그렇기에 반도체 내부를 돌아다니는 전자를 분석할 때는 전자가 아닌 전자의 허용된 상태에 관심을 갖습니다. <u>예를 들어, 전자(Electron)는 반도체 내에서 에너지 10인 상태는 가능하지만, 에너지 10.1인 상태는 애시당초 불가능하다.</u>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　
+　우리가 주목할 부분은 바로 <b>상태</b>입니다. 왜 상태에 주목하냐 물으실 수 있는데, 상태에 주목하는 이유는 양자이론에 의하면 <b>전자(Electron)는 모든 상태가 다 가능한 것이 아니라 <span style="color:red">특정한</span> or <span style="color:red">제한적인</span> or <span style="color:red">특수한</span> 상태만 취할 수 있기</b> 때문입니다. 그렇기에 반도체 내부를 돌아다니는 전자를 분석할 때는 전자가 아닌 전자의 허용된 상태에 관심을 갖습니다. <u>예를 들어, 전자(Electron)는 반도체 내에서 에너지 10인 상태는 가능하지만, 에너지 10.1인 상태는 애시당초 불가능하다.</u>
 <br><br></div>
 
   
