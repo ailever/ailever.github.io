@@ -21,6 +21,11 @@ author_staff_member: dongmyeong
 
 ---
 
+$$a+b = 3$$
+
+---
+
+
 <div style="font-size:medium;">
 오늘의 주제는 모두들 한 번 쯤은 들어 보셨으리라 생각되는 'Density of State(DOS)' 입니다.
 <br><br></div>
