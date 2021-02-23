@@ -1,7 +1,7 @@
 ---
 name: ailever
 position: ailever
-image_path: https://ailever.github.io/images/ailever.jpg
+image_path: https://ailever.github.io/images/_ailever.jpg
 twitter_username: 
 blurb: ailever
 ---
