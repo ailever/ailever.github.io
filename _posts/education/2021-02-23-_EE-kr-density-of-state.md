@@ -113,8 +113,8 @@ author_staff_member: dongmyeong
 고체 내에 돌아다니는 전자에 영향을 가장 크게 미치는 것은 ‘고체를 이루고 있는 원자들이 어떠한 주기성을 가지고 배열되어 있느냐’ 일 것 입니다. 고체의 주기성이 1차원적으로 반복되는지, 2차원적으로 반복되는지, 3차원 적으로 반복되는지 말이죠. 역시나 글보다는 그림이 이해를 더 도와줄때네요. 이 내용이 이해가지 않으신다면 아래 그림을 보고서 이해하도록 하죠. 우선 1차원 형태의 고체부터 살펴보겠습니다.
 <br><br></div><br>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<span style="background-color:red">고체의 형상 : 막대기(1차원)</span>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<span style="font-weight:bold;background-color:red">고체의 형상 : 막대기(1차원)</span>
 <br><br></div>
 
 
@@ -160,8 +160,8 @@ $$이상적인\ 상황\ : \ ρDOS(1D)∝E-1/2$$
 <br><br></div><br>
 
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<span style="background-color:red">고체의 형상 : 널판지(2차원)</span>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<span style="font-weight:bold;background-color:red">고체의 형상 : 널판지(2차원)</span>
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
@@ -220,8 +220,8 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E0$$
 붉은 색 박스 내의 그래프에서 '에너지(E)에 관계없이, ρDOS가 일정하다'는 것을 체크해주세요. 마지막으로 3차원 형태의 고체입니다.
 <br><br></div><br>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<span style="background-color:red">고체의 형상 : 네모 박스(3차원)</span>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<span style="font-weight:bold;background-color:red">고체의 형상 : 네모 박스(3차원)</span>
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740664-412ea280-7579-11eb-8eb3-ce53de941f1e.png)
