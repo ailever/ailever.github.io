@@ -76,25 +76,20 @@ author_staff_member: dongmyeong
 
 
 <div style="font-size:medium;">
-예를 들어,
+예를 들어, <br><br>
 
-에너지 영역대 10eV~11eV에
-속하는 전자 상태의 개수 : 100개
+에너지 영역대 10eV~11eV에 <br>
+속하는 전자 상태의 개수 : 100개 <br><br>
 
-에너지 영역대 11eV~12eV에
-속하는 전자 상태의 개수 : 200개
+에너지 영역대 11eV~12eV에 <br>
+속하는 전자 상태의 개수 : 200개 <br><br>
 
-에너지 영역대 12eV~13eV에
-속하는 전자 상태의 개수 : 300개
-등등등,
+에너지 영역대 12eV~13eV에 <br>
+속하는 전자 상태의 개수 : 300개 <br><br>
 
-이것이 바로
-단위 에너지당 상태의 갯수!
-(Density of State)
+즉, 단위 에너지당 상태의 갯수 : Density of State <br><br>
 
-즉, Density of State는
-전자의 상태가 가지는
-에너지 분포라고 생각해주세요!
+즉, Density of State는 전자의 상태가 가지는 에너지 분포라고 생각해주세요.<br>
 
 
 
