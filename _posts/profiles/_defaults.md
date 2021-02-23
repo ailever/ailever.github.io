@@ -51,8 +51,12 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">Name</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  <img src="https://source.unsplash.com/niXUOj_ypuk/2000x1322?a=.png">
+</div>
 
-
+<br><br><br>
 
 
 
