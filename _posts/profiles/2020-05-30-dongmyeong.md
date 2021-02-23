@@ -17,16 +17,16 @@ author_staff_member: ailever
 
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">PUBLICATIONS</div>
-  D. Lee, H. Hwang, M. S. Jabbar, J. cho, “Language of Gleam: Impressionism Artwork Automatic Caption Generation for People with Visual Impairments,” in Thirteenth International Conference on Machine Vision (ICMV 2020), 2020.<br>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  D. Lee, H. Hwang, M. S. Jabbar, J. cho, “Language of Gleam: Impressionism Artwork Automatic Caption Generation for People with Visual Impairments,” in Thirteenth International Conference on Machine Vision (ICMV 2020), 2020.<br>
 </div>
 
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">PRESENTATIONS</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   Bus Interval Time Compensation Correlation,<br>
   2017 Fall Conference of the Korea Academy of Complexity Studies,<br>
   SookMyung Woman's University, South Korea<br>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 </div>
 
 <br><br><br>
@@ -36,8 +36,8 @@ author_staff_member: ailever
 
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">HONOURS & AWARDS</div>
-  For your excellent oral presentation at the conference and your significant contribution to 2020 The 13th International Conference on Machine Vision (ICMV2020)<br>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  For your excellent oral presentation at the conference and your significant contribution to 2020 The 13th International Conference on Machine Vision (ICMV2020)<br>
 </div>
 
 <br><br><br>
