@@ -2,9 +2,9 @@
 title: title
 date: 2016-08-12
 description: description
-_previous: 
+_previous: https://ailever.github.io/professionals/
 categories:
-  - services
+  - professionals
 image: https://source.unsplash.com/wnOJ83k8r4w/2000x1322?a=.png
 author_staff_member: ailever
 ---
