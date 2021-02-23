@@ -1,7 +1,7 @@
 ---
 name: ailever
 position: ailever
-image_path: https://ailever.github.io/images/anonym.jpg
-twitter_username: CloudCannon
+image_path: https://ailever.github.io/images/ailever.jpg
+twitter_username: 
 blurb: ailever
 ---
