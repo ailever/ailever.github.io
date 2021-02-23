@@ -10,15 +10,6 @@ author_staff_member: ailever
 ---
 
 
-
-
-## ***Work Experience***
-{: .text-center }
-
-
-wefwefwefwefwefwefwef
-{: .text-center }
-
 <div align="center" style="font-style: italic;font-size:xx-large;font-weight:bold">Work Experience</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   - abc
