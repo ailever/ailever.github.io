@@ -68,14 +68,12 @@ author_staff_member: dongmyeong
 전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br><br><br>
 <br><br></div>
 
-<br>
 <div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
 3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.
 <br><br></div>
 
 
-
-<div style="font-size:medium;">
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어, <br><br>
 
 에너지 영역대 10eV~11eV에 <br>
@@ -93,20 +91,16 @@ author_staff_member: dongmyeong
 
 
 
-
 자 그렇다면, 다음 아래의
 사진을 보시죠!
 
 아래 사진이야 말로
 Density of State(DOS)의
 진정한 의미를 담고 있으니까요.
+<br><br></div>
 
-
-
-Density of State(DOS)
-=
-단위 에너지당 상태의 갯수!
-
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  $$Density\ of\ State(DOS)\ =\ 단위\ 에너지당\ 상태의\ 갯수$$
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108737679-31fa2580-7576-11eb-809f-17197500760d.png)
