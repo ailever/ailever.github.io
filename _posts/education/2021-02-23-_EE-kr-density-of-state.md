@@ -38,16 +38,7 @@ author_staff_member: dongmyeong
 
 <div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
 
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-
-
-
-<div style="font-size:medium;">
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 예를 들어,
 
 왼쪽방향으로 움직이는, 에너지 10인 전자의 상태
@@ -78,6 +69,16 @@ author_staff_member: dongmyeong
 예를 들어, 전자(Electron)는 반도체 내에서
 에너지 10인 상태는 가능하지만,
 에너지 10.1인 상태는 애시당초 불가능하다.
+  
+<br><br></div>
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+
+<div style="font-size:medium;">
 <br><br></div>
 
 
