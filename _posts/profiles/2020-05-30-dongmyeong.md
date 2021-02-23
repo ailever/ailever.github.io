@@ -11,6 +11,7 @@ author_staff_member: ailever
 
 
 <br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">EDUCATION</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   Sungkyunkwan University<br>
   Bachelor of Science in Physics<br>
