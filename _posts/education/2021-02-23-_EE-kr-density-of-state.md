@@ -27,24 +27,26 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Density\ of\ State(DOS)\ \=\ 단위\ 에너지당\ 상태의\ 갯수$$
+  $$Density\ of\ State(DOS)\ \=\ 단위\ 에너지당\ 상태의\ 갯수$$
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 　고체 내에 돌아다니는 전자들에 대해, 전자에게 허용된 상태들이 몇 가지 존재할 것인데, DOS는 에너지가 높은 전자의 상태들이 많은지, 아니면 에너지가 낮은 전자의 상태들이 많은지 알려주는 개념입니다. 우선 고체 내부를 돌아다니는 전자(electron)를 생각해 보도록 하죠.
 <br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-
-<div style="font-size:medium;">
-<br><br></div>
-
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
- 
 
-<div style="font-size:medium;font-weight:bold;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
+<div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.<br><br></div>
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+
 <div style="font-size:medium;">
 예를 들어,
 
