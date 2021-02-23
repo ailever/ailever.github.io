@@ -97,7 +97,23 @@ author_staff_member: dongmyeong
 
 
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+그래프(y축:DOS, x축:Energy)에 대한 해석은 <b>고체의 형상</b>을 기준으로 합니다. 고체의 모양이 기하학적으로 무엇을 닮아있는지를 살펴보는 것 입니다.
+<br><br></div>
+
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+네모 박스(3차원)처럼 생겼는지<br>
+널판지(2차원)처럼 생겼는지<br>
+막대기(1차원)처럼 생겼는지<br>
+점(0차원)처럼 생겼는지<br>
+<br><br></div>
+
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다.  
+<br><br></div>
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
@@ -106,20 +122,6 @@ author_staff_member: dongmyeong
 
 
 <div style="font-size:medium;">
-그래프(y축:DOS, x축:Energy)에 대한
-해석은 다음과 같습니다.
-
-
-고체의 모양을 기준으로,
-
-네모 박스(3차원)처럼 생겼느냐
-널판지(2차원)처럼 생겼느냐
-막대기(1차원)처럼 생겼느냐
-점(0차원)처럼 생겼느냐
-
-고체의 형태(차원)에 따라
-Density of State(전자 상태 에너지 분포)가
-달라짐을 볼 수 있습니다.
 
 
 
