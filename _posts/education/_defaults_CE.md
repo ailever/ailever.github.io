@@ -10,8 +10,11 @@ author_staff_member: anonym
 
 <!-- Notice
 # Mathematical Expression
-- outline : $  $
-- inline  : $$  $$
+ outline : $  $
+ inline  : $$  $$
+
+# Div tag
+
 -->
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
