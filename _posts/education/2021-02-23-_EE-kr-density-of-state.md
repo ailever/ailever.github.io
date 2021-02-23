@@ -244,101 +244,22 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E0$$
 <br><br></div>
 
 
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$이상적인\ 상황\ :\ ρDOS(1D)∝E1/2$$  
+<br><br></div>
 
 
-
-<div style="font-size:medium;">
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+붉은 색 박스 내의 그래프에서 '에너지(E)가 높아질 수록, ρDOS가 높아진다'는 것을 체크해주세요. 참고로, Density of State에는 여러가지 모델이 존재하는데, 지금까지 설명한 DOS는 가장 단순한 모델의 DOS임을 인지하고 넘어가도록 하죠. 그렇기 때문에 지금 설명한 DOS의 장점은 간결성이며 단점은 정교함의 부재라고 볼 수 있겠습니다. 
 <br><br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740801-66bbac00-7579-11eb-9bdf-3820a0c2e643.png)
 
 
-<div style="font-size:medium;">
-붉은 색 박스 내의 그래프에서
-'에너지(E)가 높아질 수록, ρDOS가
-높아진다'는 것을 체크해주세요!
-
-이상적인 상황 : ρDOS(1D)∝E1/2
-
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+아! 한 가지만 더 언급할게요. 이런 것을 왜 배우냐구요? 메모리를 만들던지 디스플레이를 만들던지 우리는 구성요소(반도체)들을 최대한 작게 만들어야 합니다. 그렇기 때문에 그동안 대부분 3차원적 물질로 구성요소를 만들었지만, 최근에는 3차원 물질(Quantum box), 2차월 물질(Quantum well), 1차원 물질(Quantum wire), 0차원 물질(Quantum dot)과 같은 저(낮은)차원 물질을 통해 산업에 응용하고자 하는 시도가 활발합니다. 실제, 삼성에서 내어놓은 QLED(Quantum Dot Light Emitting Diodes)의 경우도 대표적인 예로 들 수 있겠네요. 뿐만 아니라, 반도체 물질의 전기 전도도를 책임지고 있는 캐리어들이, 반도체 내에 실질적으로 얼마나 많이 포함되어 있을지는, Density of State가 클수록 유리합니다. 이런데도, DOS를 만만하게 보거나 간과하지만은 않으시겠죠?
 <br><br></div>
 
-
-
-<div style="font-size:medium;">
-참고로, Density of State에는
-여러가지 모델이 존재하는데,
-
-지금까지 설명한 DOS는
-가장 단순한 모델의 DOS임을
-알아두세요.
-
-<br><br></div>
-
-
-<div style="font-size:medium;">
-아! 한 가지만 더요!
-
-이런것을 왜 배우냐구요?
-
-핸드폰을 만들던지
-디스플레이를 만들던지
-
-우리는 구성요소(반도체)들을
-최대한 작게 만들어야 합니다.
-
-
-
-그렇기 때문에, 그동안 대부분
-3차원적 물질로 구성요소를 만들었지만
-
-
-최근에는
-3차원 물질(Quantum box)
-2차월 물질(Quantum well),
-1차원 물질(Quantum wire),
-0차원 물질(Quantum dot)과
-같은 저(낮은)차원 물질을 통해
-
-산업에 응용하고자 하는 시도가 활발합니다.
-
-
-실제, 삼성에서 내어놓은
-QLED(Quantum Dot
-Light Emitting Diodes)의 경우도
-대표적인 예로 들 수 있겠네요.
-
-
-
-
-
-뿐만 아니라, 반도체 물질의 전기 전도도를
-책임지고 있는 캐리어들이, 반도체 내에
-실질적으로 얼마나 많이 포함되어 있을지는,
-
-Density of State가 클수록 유리합니다.
-
-
-
-
-이런데도, DOS를 만만하게 보거나
-간과하지만은 않으시겠죠?
-
-<br><br></div>
-
-
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<!-- Content Block -->
 
 ---
 
