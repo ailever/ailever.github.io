@@ -12,9 +12,18 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Semiconductor Engineering
-- Density of State (Quantum Dot,Wire,Well,Box) 
-<span style="font-size:small;">｜en｜[kr](https://ailever.github.io/education/2021/02/23/_EE-kr-density-of-state/)｜</span>
-- Pauli's Principle and Distribution <span style="font-size:small;">｜en｜kr｜</span>
+- Density of State (Quantum Dot,Wire,Well,Box)
+<span style="font-size:small;">
+  ｜en
+  ｜[kr](https://ailever.github.io/education/2021/02/23/_EE-kr-density-of-state/)
+  ｜
+</span>
+- Pauli's Principle and Distribution
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
 - Equation Controlling System ｜en｜kr｜
 - Band Structure (1) ｜en｜kr｜
 - Band Structure (2) ｜en｜kr｜
