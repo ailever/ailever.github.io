@@ -11,8 +11,9 @@ author_staff_member: ailever
 
 
 <br><br><br>
-<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTERESTS</div>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTEREST KEYWORDS</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  Finance, Machine Learning, Mathematics, Physics, Statistics, Boxing<br>
 </div>
 
 <br><br><br>
