@@ -159,11 +159,11 @@ $$이상적인\ 상황\ : \ ρDOS(1D)∝E-1/2$$
 ![image](https://user-images.githubusercontent.com/52376448/108740250-d2e9e000-7578-11eb-978c-79a9011230fc.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-전자가 가질 수 있는 운동방향은 평면 내에서만 움직인다고 가정 하겠습니다(2차원 고체의 정의이기 때문이니깐요.). 여기서, 전자들에게 에너지를 더 가해주면 평면에서 가능한 방향 모두 에너지가 커질 것이고, 일정 에너지 수준을 넘어가면 이 전자들은 다른 unit cell로 이동할 것입니다. 위에서 설명한 1차원 고체와 비교해보면, 2차원 고체 내의 전자들의 상태들이, 더 높은 에너지를 가질 가능성이 높아진다는 것을 파악할 수 있습니다. 즉, 전자가 취할 수 있는 대부분의 상태는 모든 에너지 영역대에 걸쳐 골고루 나타날 것 이라고 대략적으로 추측해 볼 수 있습니다.
+전자가 가질 수 있는 운동방향은 평면 내에서만 움직인다고 가정 하겠습니다(2차원 고체의 정의이). 여기서, 전자들에게 에너지를 더 가해주면 평면에서 가능한 방향 모두 에너지가 커질 것이고, 일정 에너지 수준을 넘어가면 이 전자들은 다른 unit cell로 이동할 것입니다. 위에서 설명한 1차원 고체와 비교해보면, 2차원 고체 내의 전자들의 상태들이, 더 높은 에너지를 가질 가능성이 높아진다는 것을 파악할 수 있습니다. 즉, 전자가 취할 수 있는 대부분의 상태는 모든 에너지 영역대에 걸쳐 골고루 나타날 것 이라고 대략적으로 추측해 볼 수 있습니다.
 <br><br></div>
 
-<div align="left" style="font-size:small;font-weight:normal;color:blue;background-color:unset;">
-주의사항 : 전자와 전자의 상태를 구분할 것!<br><br>
+<div align="center" style="font-size:small;font-weight:normal;color:blue;background-color:unset;">
+<b>주의사항 : 전자와 전자의 상태를 구분할 것!</b><br><br>
 
 '전자가 취할 수 있는 대부분의<br>
 상태는 모든 에너지 영역대에<br>
@@ -209,76 +209,51 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E0$$
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-붉은 색 박스 내의 그래프에서 '에너지(E)에 관계없이, ρDOS가 일정하다'는 것을 체크해주세요!
+붉은 색 박스 내의 그래프에서 '에너지(E)에 관계없이, ρDOS가 일정하다'는 것을 체크해주세요. 마지막으로 3차원 형태의 고체입니다.
 <br><br></div>
-
-
-
-
-
-
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
-
-
-
-<div style="font-size:medium;">
-
-<br></div>
-
-
-<div style="font-size:medium;">
-  마지막으로 3차원 형태의 고체입니다.
-<br></div>
 
 ![image](https://user-images.githubusercontent.com/52376448/108740664-412ea280-7579-11eb-8eb3-ce53de941f1e.png)
 
-<div style="font-size:medium;">
-전자가 가질 수 있는 운동방향은
-모든 방향으로 운동할 수 있다고 가정하겠습니다.
-(3차원 고체의 정의이므로)
 
-여기서, 전자들에게 에너지를 더 가해주면
-각각의 방향 모두 에너지가 커질 것이고,
-
-일정 에너지 수준을 넘어가면
-이 전자들은 다른 unit cell로 이동할 것입니다.
-
-
-결론적으로, 운동방향이 모든 방향이기에
-붉은색 박스 unit cell 내에서
-높은 에너지를 갖기 쉽습니다.
-
-즉, 전자가 취할 수 있는 대부분의 상태는
-높은 에너지 영역대에 속해 있다고
-대략적으로 추측해 볼 수 있습니다.
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+전자가 가질 수 있는 운동방향은 모든 방향으로 운동할 수 있다고 가정하겠습니다(3차원 고체의 정의이므로). 여기서, 전자들에게 에너지를 더 가해주면 각각의 방향 모두 에너지가 커질 것이고, 일정 에너지 수준을 넘어가면 이 전자들은 다른 unit cell로 이동할 것입니다. 결론적으로, 운동방향이 모든 방향이기에 붉은색 박스 unit cell 내에서 높은 에너지를 갖기 쉽습니다. 즉, 전자가 취할 수 있는 대부분의 상태는 높은 에너지 영역대에 속해 있다고 대략적으로 추측해 볼 수 있습니다.
 <br><br></div>
 
 
+<div align="center" style="font-size:small;font-weight:normal;color:blue;background-color:unset;">
+<b>주의사항 : 전자와 전자의 상태를 구분할 것!</b><br><br>
+
+'전자가 취할 수 있는 대부분의<br>
+상태가 높은 에너지 영역대에<br>
+속해 있다'라는 의미와<br><br>
+
+'전자들 대부분(실제로)이<br>
+높은 에너지를 갖는다'의<br>
+의미는 다릅니다.<br><br>
+
+
+전자들 대부분(실제로)이<br>
+높은 에너지를 갖기 위해서는,<br>
+아래의 두 가지 조건이 충족되어야 합니다.<br><br>
+
+1. 전자가 취할 수 있는 대부분의 상태가<br>
+높은 에너지 영역대에 속해 있다.<br>
+2. 전자가 낮은 에너지 상태들과<br>
+높은 에너지 상태들 중, 높은 에너지<br>
+상태들을 선택할 확률이 높아야 한다.<br>
+<br><br></div>
+
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+
+
+
 <div style="font-size:medium;">
-주의사항 : 전자와 전자의 상태를 구분할 것!
-
-'전자가 취할 수 있는 대부분의
-상태가 높은 에너지 영역대에
-속해 있다'라는 의미와
-
-'전자들 대부분(실제로)이
-높은 에너지를 갖는다'의
-의미는 다릅니다.
-
-
-전자들 대부분(실제로)이
-높은 에너지를 갖기 위해서는,
-아래의 두 가지 조건이 충족되어야 합니다.
-
-1. 전자가 취할 수 있는 대부분의 상태가
-높은 에너지 영역대에 속해 있다.
-2. 전자가 낮은 에너지 상태들과
-높은 에너지 상태들 중, 높은 에너지
-상태들을 선택할 확률이 높아야 한다.
 
 <br><br></div>
 
