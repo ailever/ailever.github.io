@@ -63,7 +63,7 @@ author_staff_member: dongmyeong
 예를 들어, <br>
 
 전자의 상태1 : <b>에너지 $10eV$</b>으로 왼쪽방향으로의 움직임을 갖는 상태 <br>
-전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br><br><br>
+전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br>
 <br><br></div>
 
 <div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
