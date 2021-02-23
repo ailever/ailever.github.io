@@ -87,7 +87,7 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 이렇게 단위 에너지당 상태의 가짓 수가 몇 가지인지를 추산할 수 있을 것 입니다. 즉, Density of State는 전자의 상태가 가지는 에너지 분포라고 생각해주세요. 더 나아가 다음 아래의 그래프를 바라보죠. 아래 그래프야 말로 Density of State(DOS)의 진정한 의미를 담고 있으니까요.
 <br><br></div>
 
@@ -97,6 +97,14 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737679-31fa2580-7576-11eb-809f-17197500760d.png)
 
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><br><br></div>
 
 
 <div style="font-size:medium;">
