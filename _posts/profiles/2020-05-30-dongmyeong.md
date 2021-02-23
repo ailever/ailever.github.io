@@ -18,25 +18,29 @@ author_staff_member: ailever
   - abc
   - abc
   - abc
-<br><br><br></div>
+</div>
 
-<div align="center" style="font-size:xx-large;font-weight:bold">Education</div>
-<p align="center">
+<br><br><br>
+
+<div align="center" style="font-style:italic;font-size:xx-large;font-weight:bold"><u>Work Experience</u></div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   - abc
   - abc
-  - abcawefawef
   - abc
-<br><br><br></p>
+  - abc
+</div>
+
+<br><br><br>
+
+<div align="center" style="font-style:italic;font-size:xx-large;font-weight:bold"><u>Work Experience</u></div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  - abc
+  - abc
+  - abc
+  - abc
+</div>
 
 
-
-<div align="center" style="font-size:xx-large;font-weight:bold">Education</div>
-<div align="center">
-  - abc
-  - abc
-  - abc
-  - abc
-<br><br><br></div>
 
 
 <!-- Content Block -->
