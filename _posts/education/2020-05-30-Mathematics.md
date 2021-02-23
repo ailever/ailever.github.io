@@ -9,6 +9,12 @@ image: https://source.unsplash.com/qDY9ahp0Mto/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
+<button class="custom_btn" type="button" onclick="location.href='#'">A</button>
+<button class="custom_btn" type="button" onclick="location.href='#'">B</button>
+<button class="custom_btn" type="button" onclick="location.href='#'">C</button>
+
+---
+
 <br><br><br>
 ## Differential Equation
 
