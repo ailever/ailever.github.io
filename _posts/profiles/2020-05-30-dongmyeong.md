@@ -44,7 +44,6 @@ author_staff_member: ailever
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">EDUCATION</div>
   Sungkyunkwan University<br>
   Bachelor of Science in Physics<br>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 </div>
 
 <br><br><br>
