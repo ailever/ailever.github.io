@@ -17,7 +17,20 @@ author_staff_member: ailever
   Bachelor of Science in Physics<br>
 </div>
 
+<br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTEREST</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+</div>
 
+<br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">Honours & Awards</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+</div>
+
+<br><br><br>
+<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">Certificate</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+</div>
 
 
 
