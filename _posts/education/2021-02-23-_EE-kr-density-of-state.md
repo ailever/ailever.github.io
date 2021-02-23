@@ -27,7 +27,7 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Density\ of\ State(DOS)\ =\ 단위\ 에너지당\ 상태의\ 갯수$$
+$$Density\ of\ State(DOS)\ \=\ 단위\ 에너지당\ 상태의\ 갯수$$
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
