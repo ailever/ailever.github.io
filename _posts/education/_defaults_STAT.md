@@ -2,6 +2,7 @@
 title: Statistics
 date:
 description: Statistics
+_previous: https://ailever.github.io/education/2020/05/30/Statistics/
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Statistics.png
