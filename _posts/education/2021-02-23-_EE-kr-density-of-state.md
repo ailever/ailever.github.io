@@ -1,7 +1,7 @@
 ---
 title: Density of State
 date: 2021-02-23
-description: Quantum Dot, Wire, Well, Box, <a href="#https://ailever.github.io/education/2020/05/30/Electronics/">aa</a>
+description: Quantum Dot, Wire, Well, Box, <a href="https://ailever.github.io/education/2020/05/30/Electronics/">aa</a>
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Electronics.png
