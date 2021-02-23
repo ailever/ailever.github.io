@@ -36,8 +36,8 @@ author_staff_member: dongmyeong
 
 ![image](https://user-images.githubusercontent.com/52376448/108737302-d3cd4280-7575-11eb-84a7-1638230eab54.png)
 
-<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:yellow;">
-  1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+  <span style="background-color:yellow">1. 물질 내의 전자에게 허용된 상태가 있을 것입니다.</span>
 </div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -54,8 +54,8 @@ author_staff_member: dongmyeong
 
   
 <br>
-<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:yellow;">
-2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+  <span style="background-color:yellow">2. 위와 같은 전자의 상태들에 대해서, 각 상태에 대응되는 에너지 값이 있을 것입니다.</span>
 </div>
 
 
@@ -66,8 +66,8 @@ author_staff_member: dongmyeong
 전자의 상태2 : <b>에너지 $11eV$</b>으로 오른쪽방향으로의 움직임을 갖는 상태 <br>
 <br><br></div>
 
-<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:yellow;">
-3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+ <span style="background-color:yellow">3. 위와 같은 전자의 상태들에 대해서, 에너지 분포를 생각해 볼 수 있을 것입니다.</span>
 </div>
 
 
