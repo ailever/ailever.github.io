@@ -30,11 +30,6 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
-<div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">CERTIFICATIONS</div>
-<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-</div>
-
-<br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">HONOURS & AWARDS</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   For your excellent oral presentation at the conference and your significant contribution to 2020 The 13th International Conference on Machine Vision (ICMV2020)<br>
