@@ -102,10 +102,10 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-고체의 형상 : 네모 박스(3차원)와 유사<br>
-고체의 형상 : 널판지(2차원)와 유사<br>
-고체의 형상 : 막대기(1차원)와 유사<br>
-고체의 형상 : 점(0차원)와 유사<br>
+고체의 형상 : 네모 박스(3차원)<br>
+고체의 형상 : 널판지(2차원)<br>
+고체의 형상 : 막대기(1차원)<br>
+고체의 형상 : 점(0차원)<br>
 <br><br></div>
 
 
