@@ -5,9 +5,10 @@ description: Dongmyeong Lee
 _previous: https://ailever.github.io/professionals/
 categories:
   - professionals
-image: https://github.com/ailever/ailever.github.io/raw/master/images/profiles/dongmyeong.jpg
+image: https://source.unsplash.com/niXUOj_ypuk/2000x1322?a=.png
 author_staff_member: ailever
 ---
+
 
 
 <br><br><br>
