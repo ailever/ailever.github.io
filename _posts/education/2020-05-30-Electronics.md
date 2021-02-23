@@ -2,6 +2,7 @@
 title: Electronics
 date: 2020-05-30
 description: Electronics
+_previous: https://ailever.github.io/education/
 categories:
   - education
 image: https://source.unsplash.com/D03d-eQg8ac/2000x1322?a=.png
