@@ -24,22 +24,102 @@ author_staff_member: ailever
   ｜kr
   ｜
 </span>
-- Equation Controlling System ｜en｜kr｜
-- Band Structure (1) ｜en｜kr｜
-- Band Structure (2) ｜en｜kr｜
-- Band Theory ｜en｜kr｜
-- Carrier Concentration : Fermi Level, Fermi Energy, Chemical Potential ｜en｜kr｜
-- Doping : Ion Implantation ,Intrinsic, Extrinsic(n-type, p-type) ｜en｜kr｜
-- pn Junction and Diode ｜en｜kr｜
-- MS Junction and Ohmic Contact ｜en｜kr｜
-- MOS Structure(1) ｜en｜kr｜
-- MOS Structure(2) : MOS Capacitor ｜en｜kr｜
-- MOSFET(MOS Field Effect Transistor) ｜en｜kr｜
-- Characteristic Length ｜en｜kr｜
-- Short Channel Effect ｜en｜kr｜
-- Alternate Structure for Nanoelectronic Applications ｜en｜kr｜
-- Electron and Mass (Strongly Correlated Electron System ?) ｜en｜kr｜
-- Current in Semiconductor (Ohm's Law, Mobility) ｜en｜kr｜
+- Equation Controlling System
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Band Structure (1)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Band Structure (2)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Band Theory
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Carrier Concentration : Fermi Level, Fermi Energy, Chemical Potential
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Doping : Ion Implantation ,Intrinsic, Extrinsic(n-type, p-type)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- pn Junction and Diode
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- MS Junction and Ohmic Contact
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- MOS Structure(1)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- MOS Structure(2) : MOS Capacitor
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- MOSFET(MOS Field Effect Transistor)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Characteristic Length
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Short Channel Effect
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Alternate Structure for Nanoelectronic Applications
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Electron and Mass (Strongly Correlated Electron System ?)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
+- Current in Semiconductor (Ohm's Law, Mobility)
+<span style="font-size:small;">
+  ｜en
+  ｜kr
+  ｜
+</span>
 
 
 <br><br><br>
