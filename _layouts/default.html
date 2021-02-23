@@ -26,6 +26,10 @@
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
 		
+		{% if page.use_math %}
+  			{% include mathjax_support.html %}
+		{% endif %}
+		
 	</head>
 
 	<body>
