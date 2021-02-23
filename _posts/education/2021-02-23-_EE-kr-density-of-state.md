@@ -12,6 +12,7 @@ author_staff_member: dongmyeong
 # Mathematical Expression
 - outline : \\[  \\]
 - inline  : \\(  \\)
+- inside tag : <tag>$$  $$</tag>
 -->
 
 ## Intro
@@ -32,7 +33,7 @@ author_staff_member: dongmyeong
 <br><br></div>
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
-$$a + b = 1$$
+$$a + b = 1$$ a+b=1  $a+b=1$
 <br><br></div>
 
 <div align="center" style="color:red;font-weight:bold;font-size:medium;">
