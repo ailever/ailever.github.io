@@ -46,7 +46,7 @@ dashboard('Visualization')
   <li></li>
   <li></li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
