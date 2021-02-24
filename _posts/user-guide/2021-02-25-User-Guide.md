@@ -27,11 +27,11 @@ from ailever import foreccast
 
 <br><br><br>
 ## Package : analysis
-<div>
+<hr>
 ```python
 from ailever import analysis
 ```
-</div>
+<hr>
 
 <br><br><br>
 ## Package : machine
