@@ -31,7 +31,7 @@ author_staff_member: ailever
   <li></li>
   <li></li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
