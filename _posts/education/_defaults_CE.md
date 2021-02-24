@@ -36,7 +36,6 @@ author_staff_member: anonym
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
-<br><br><br>
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
 </div>
