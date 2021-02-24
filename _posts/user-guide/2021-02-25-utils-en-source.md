@@ -262,18 +262,6 @@ source('MA-9999')
 ```
 <hr>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  MA-0000
-</div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  
-<br><br></div>
-
-
-
-
-
-
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
