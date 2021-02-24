@@ -27,7 +27,7 @@ from ailever import forecast
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">module</a></span>
+  <span class="link_btn"><a href="" style="color:white">STOCK</a></span>
 </div>
 
 
@@ -39,7 +39,8 @@ from ailever import analysis
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">module</a></span>
+  <span class="link_btn"><a href="" style="color:white">FINANCE</a></span>
+  <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
 
 
