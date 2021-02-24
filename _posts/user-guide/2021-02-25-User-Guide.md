@@ -27,7 +27,7 @@ from ailever import forecast
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/forecast-en-dashboard/" style="color:white">dashboard</a></span>
   <span class="link_btn"><a href="" style="color:white">STOCK</a></span>
 </div>
 
@@ -40,7 +40,7 @@ from ailever import analysis
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/analysis-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">FINANCE</a></span>
   <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
@@ -54,7 +54,7 @@ from ailever import machine
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -67,7 +67,7 @@ from ailever import language
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/language-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -80,7 +80,7 @@ from ailever import detection
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/detection-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -93,7 +93,7 @@ from ailever import captioning
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/captioning-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -106,7 +106,7 @@ from ailever import utils
 ```
 <hr>
 <div align="left" class="link_btn_box">
-  <span class="link_btn"><a href="" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-source/" style="color:white">source</a></span>
 </div>
 
