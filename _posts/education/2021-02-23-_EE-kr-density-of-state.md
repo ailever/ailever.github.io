@@ -9,6 +9,14 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: dongmyeong
 ---
 
+<!-- Top Block -->
+<div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+</div><br><br><br>
+<!-- Top Block -->
+
 <!-- Content Block -->
 ## Intro
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
