@@ -26,7 +26,7 @@ author_staff_member: ailever
 from ailever import forecast
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -38,7 +38,7 @@ from ailever import forecast
 from ailever import analysis
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -50,7 +50,7 @@ from ailever import analysis
 from ailever import machine
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -62,7 +62,7 @@ from ailever import machine
 from ailever import language
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -74,7 +74,7 @@ from ailever import language
 from ailever import detection
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -86,7 +86,7 @@ from ailever import detection
 from ailever import captioning
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
@@ -98,7 +98,7 @@ from ailever import captioning
 from ailever import utils
 ```
 <hr>
-<div align="center" class="link_btn_box">
+<div align="left" class="link_btn_box">
   <span class="link_btn"><a href="" style="color:white">source</a></span>
 </div>
 
