@@ -75,7 +75,12 @@
 }
 
 
-.custom_btn {
+
+.top_btn_box {
+	border-style: none none solid none;
+	border-color:#F4F4F4
+}
+.top_btn {
 	background-color:#f8585b;
 	border:none;
 	color:#fff;
@@ -87,13 +92,17 @@
 	cursor:pointer;
 	border-radius:4px;
 }
-
-.custom_btn:hover {
+.top_btn:hover {
     background-color: red;
 }
 
 
-.custom_btn2 {
+
+.bottom_btn_box {
+	border-style: solid none none none;
+	border-color:#F4F4F4
+}
+.bottom_btn {
 	background-color:#f8585b;
 	border:none;
 	color:#fff;
@@ -105,8 +114,7 @@
 	cursor:pointer;
 	border-radius:4px;
 }
-
-.custom_btn2:hover {
+.bottom_btn:hover {
     background-color: red;
 }
 
