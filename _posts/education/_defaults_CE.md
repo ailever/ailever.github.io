@@ -32,7 +32,7 @@ author_staff_member: anonym
   <li></li>
   <li></li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
