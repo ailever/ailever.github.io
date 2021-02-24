@@ -33,11 +33,10 @@ author_staff_member: anonym
   <li></li>
   <li></li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
-<br><br><br>
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
 </div>
