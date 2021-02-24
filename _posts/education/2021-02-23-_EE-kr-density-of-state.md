@@ -286,7 +286,7 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E1/2$$
   <li> Betty Lise Anderson, Richard L. Andersn-Fundamentals of Semiconductor Devices (2005)</li>
   <li> S. O. Kasap-Principles of Electronic Materials and Devices. S.O. Kasap  -McGraw-Hill Education (2005)</li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
