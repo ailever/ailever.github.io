@@ -278,7 +278,7 @@ source('MA-9999')
   <li></li>
   <li></li>
 </ol>
-<br><br></div>
+</div>
 <!-- Reference Block -->
 
 <!-- Bottom Block -->
