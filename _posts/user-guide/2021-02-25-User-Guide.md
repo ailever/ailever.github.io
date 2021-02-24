@@ -20,13 +20,15 @@ author_staff_member: ailever
 
 
 <br><br><br>
-## Package : forecast
+## Manual : Forecast Package
+<hr>
 ```python
 from ailever import foreccast
 ```
+<hr>
 
 <br><br><br>
-## Package : analysis
+## Manual : Analysis Package
 <hr>
 ```python
 from ailever import analysis
@@ -35,24 +37,36 @@ from ailever import analysis
 
 
 <br><br><br>
-## Package : machine
+## Manual : Machine Package
+<hr>
 ```python
+from ailever import machine
 ```
+<hr>
 
 <br><br><br>
-## Package : language
+## Manual : Language Package
+<hr>
 ```python
+from ailever import language
 ```
+<hr>
 
 <br><br><br>
-## Package : detection
+## Manual : Detection Package
+<hr>
 ```python
+from ailever import detection
 ```
+<hr>
 
 <br><br><br>
-## Package : captioning
+## Manual : Captioning Package
+<hr>
 ```python
+from ailever import captioning
 ```
+<hr>
 
 
 
