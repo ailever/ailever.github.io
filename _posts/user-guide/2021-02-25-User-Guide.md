@@ -22,12 +22,16 @@ author_staff_member: ailever
 <br><br><br>
 ## Package : forecast
 ```python
+from ailever import foreccast
 ```
 
 <br><br><br>
 ## Package : analysis
+<div>
 ```python
+from ailever import analysis
 ```
+</div>
 
 <br><br><br>
 ## Package : machine
