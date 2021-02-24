@@ -16,6 +16,21 @@ author_staff_member: ailever
 <!-- Top Block -->
 
 <!-- Content Block -->
+## Visualization
+<hr>
+```python
+from ailever.analysis import dashboard
+dashboard('Visualization')
+```
+<hr>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+
+
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
