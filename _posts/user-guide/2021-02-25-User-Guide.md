@@ -5,7 +5,7 @@ description: User Guide
 _previous: https://ailever.github.io/
 categories:
   - user guide
-image: https://source.unsplash.com/7-gaPkhIgqs/2000x1322?a=.png
+image: https://source.unsplash.com/EF8gf9fCApQ/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
