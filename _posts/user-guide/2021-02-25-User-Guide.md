@@ -10,11 +10,12 @@ author_staff_member: ailever
 ---
 
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://www.imf.org/en/Home'">International Monetary Fund</button>
-  <button class="top_btn" type="button" onclick="location.href='https://www.fitchratings.com/'">Fitch Ratings</button>
-  <button class="top_btn" type="button" onclick="location.href='https://www.google.com/finance'">Google Finance</button>
-  <button class="top_btn" type="button" onclick="location.href='https://comp.fnguide.com/'">Company Guide</button>
-  <button class="top_btn" type="button" onclick="location.href='http://comp.wisereport.co.kr/'">Company Wise</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/'">Home</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever'">Github</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever/wiki'">WIKI</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
+  <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
 </div>
 
 
