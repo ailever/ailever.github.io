@@ -1,6 +1,6 @@
 ---
 title: User Guide
-date:
+date: 2021-02-25
 description: User Guide
 _previous: https://ailever.github.io/education/2020/05/30/Finance/
 categories:
