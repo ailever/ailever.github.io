@@ -75,12 +75,20 @@ source('MA-0000')
 
 <br><br><br>
 ## MA
-
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  UT-____
+  MA-0000
 </div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  
+<br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+
+
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <!-- Content Block -->
