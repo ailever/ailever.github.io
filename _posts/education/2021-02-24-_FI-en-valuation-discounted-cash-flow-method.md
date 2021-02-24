@@ -18,7 +18,25 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 <!-- Content Block -->
+<div align="left" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+GPC : Guideline Public Company Method
+</div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+<div align="left" style="font-size:large;font-weight:bold;color:black;background-color:unset;">
+GTC : Guideline Transaction Company Method
+</div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
+
+
+
+
+
+
+
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <!-- Content Block -->
