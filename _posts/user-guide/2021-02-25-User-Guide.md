@@ -23,7 +23,7 @@ author_staff_member: ailever
 ## Manual : Forecast Package
 <hr>
 ```python
-from ailever import foreccast
+from ailever import forecast
 ```
 <hr>
 
