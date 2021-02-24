@@ -11,9 +11,7 @@ author_staff_member: ailever
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi/tree/master/machine'">Github - source</button>
 </div><br><br><br>
 <!-- Top Block -->
 
