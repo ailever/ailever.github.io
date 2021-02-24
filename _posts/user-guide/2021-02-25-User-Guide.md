@@ -25,7 +25,7 @@ author_staff_member: ailever
 ```
 
 <br><br><br>
-## Package : machine
+## Package : analysis
 ```python
 ```
 
