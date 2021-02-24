@@ -20,30 +20,6 @@ author_staff_member: ailever
 
 
 <!-- Content Block -->
-<hr>
-```python
-from ailever.utils import source
-
-source('AIL-F-0000')
-source('AIL-M-0000')
-source('AIL-A-0000')
-source('AIL-C-0000')
-source('AIL-D-0000')
-source('AIL-L-0000')
-source('SI-0000')
-source('FI-0000')
-source('AI-0000')
-source('RL-0000')
-source('DL-0000')
-source('ML-0000')
-source('ST-0000')
-source('NM-0000')
-source('PL-0000')
-source('UT-0000')
-source('MA-0000')
-```
-<hr><br><br><br>
-
 ## AIL-F
 <hr>
 ```python
