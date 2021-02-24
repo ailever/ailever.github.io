@@ -9,6 +9,14 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: anonym
 ---
 
+<!-- Top Block -->
+<div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+</div><br><br><br>
+<!-- Top Block -->
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
@@ -28,6 +36,11 @@ author_staff_member: anonym
 <br><br></div>
 <!-- Reference Block -->
 
+<!-- Bottom Block -->
+<div align="center" class="bottom_btn_box">
+  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
+</div>
+<!-- Bottom Block -->
 
 <!-- Notice
 # Mathematical Expression
