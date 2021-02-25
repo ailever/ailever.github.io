@@ -5,7 +5,7 @@ description: Exhibition Ground
 _previous: https://ailever.github.io/story/
 categories:
   - story
-image: https://source.unsplash.com/7-gaPkhIgqs/2000x1322?a=.png
+image: https://source.unsplash.com/wnOJ83k8r4w/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
