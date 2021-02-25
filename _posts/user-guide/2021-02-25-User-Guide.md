@@ -36,7 +36,8 @@ from ailever import forecast
 ## Manual : Analysis Package
 <hr>
 ```python
-from ailever import analysis
+from ailever.analysis import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -50,7 +51,8 @@ from ailever import analysis
 ## Manual : Machine Package
 <hr>
 ```python
-from ailever import machine
+from ailever.machine import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -63,7 +65,8 @@ from ailever import machine
 ## Manual : Language Package
 <hr>
 ```python
-from ailever import language
+from ailever.language import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -76,7 +79,8 @@ from ailever import language
 ## Manual : Detection Package
 <hr>
 ```python
-from ailever import detection
+from ailever.detection import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -89,7 +93,8 @@ from ailever import detection
 ## Manual : Captioning Package
 <hr>
 ```python
-from ailever import captioning
+from ailever.captioning import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -102,7 +107,8 @@ from ailever import captioning
 ## Manual : Utile Package
 <hr>
 ```python
-from ailever import utils
+from ailever.utils import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
