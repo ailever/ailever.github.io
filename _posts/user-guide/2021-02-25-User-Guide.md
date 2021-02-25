@@ -23,7 +23,8 @@ author_staff_member: ailever
 ## Manual : Forecast Package
 <hr>
 ```python
-from ailever import forecast
+from ailever.forecast import dashboard
+dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
