@@ -58,7 +58,11 @@ dashboard('main')
 <hr>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-dashboard/" style="color:white">dashboard</a></span>  
-  <span class="link_btn"><a href="" style="color:white">module</a></span>
+  <span class="link_btn"><a href="" style="color:white">RL</a></span>
+  <span class="link_btn"><a href="" style="color:white">DL</a></span>
+  <span class="link_btn"><a href="" style="color:white">ML</a></span>
+  <span class="link_btn"><a href="" style="color:white">ST</a></span>
+  <span class="link_btn"><a href="" style="color:white">NM</a></span>
 </div>
 
 
