@@ -15,7 +15,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:lightgray;">　
+<div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:lightgray;">　
   Email : -
   Mobile : -
 </div><br><br><br>
