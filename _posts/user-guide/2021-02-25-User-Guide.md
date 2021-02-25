@@ -24,7 +24,7 @@ author_staff_member: ailever
 <hr>
 ```python
 from ailever.forecast import dashboard
-dashboard('main')
+from ailever.forecast.STOCK import krx, Ailf_KR
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -38,7 +38,6 @@ dashboard('main')
 <hr>
 ```python
 from ailever.analysis import dashboard
-dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -53,7 +52,6 @@ dashboard('main')
 <hr>
 ```python
 from ailever.machine import dashboard
-dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -71,7 +69,6 @@ dashboard('main')
 <hr>
 ```python
 from ailever.language import dashboard
-dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -85,7 +82,6 @@ dashboard('main')
 <hr>
 ```python
 from ailever.detection import dashboard
-dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -99,7 +95,6 @@ dashboard('main')
 <hr>
 ```python
 from ailever.captioning import dashboard
-dashboard('main')
 ```
 <hr>
 <div align="left" class="link_btn_box">
@@ -113,7 +108,7 @@ dashboard('main')
 <hr>
 ```python
 from ailever.utils import dashboard
-dashboard('main')
+from ailever.utils import source
 ```
 <hr>
 <div align="left" class="link_btn_box">
