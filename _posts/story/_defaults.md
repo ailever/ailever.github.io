@@ -4,7 +4,7 @@ date: 2016-08-12
 description: Story
 categories:
   - story
-image: https://source.unsplash.com/wnOJ83k8r4w/2000x1322?a=.png
+image: https://source.unsplash.com/FHioUucChKA/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
