@@ -290,7 +290,7 @@ source('lib-GO-0002')
 source('lib-GO-9999')
 ```
 <hr>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:unset;">
   <ul>
     <li><a href="" target="_blank">lib-GO-0000 : go.Bar</a></li>
     <li><a href="" target="_blank">lib-GO-0001 : go.Bar</a></li>
