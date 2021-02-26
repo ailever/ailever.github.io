@@ -433,7 +433,7 @@ source('lib-PX-9999')
   <summary class='jb-small' style="color:black">List</summary>
   <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
     <ul>
-      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0001.py" target="_blank">lib-PX-0000 : px.timeline</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0000.py" target="_blank">lib-PX-0000 : px.timeline</a></li>
     </ul>
   </div>
 </details>
@@ -458,7 +458,7 @@ source('lib-GO-9999')
     <ul>
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0000.py" target="_blank">lib-GO-0000 : go.Bar</a></li>
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0001.py" target="_blank">lib-GO-0001 : go.Bar</a></li>
-      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0002.py" target="_blank">lib-GO-0002 : go.Bar</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0002.py" target="_blank">lib-GO-0002 : go.Sankey</a></li>
     </ul>
   </div>
 </details>
