@@ -300,18 +300,6 @@ source('lib-GO-9999')
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <!-- Content Block -->
 
----
-
-<!-- Reference Block -->
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
-<ol>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
-</div>
-<!-- Reference Block -->
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
