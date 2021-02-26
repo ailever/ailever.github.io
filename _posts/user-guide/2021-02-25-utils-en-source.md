@@ -263,16 +263,16 @@ source('MA-9999')
 <hr>
 
 <br><br><br>
-## PX
+## lib-PX
 <hr>
 ```python
 from ailever.utils import source
 
-source('PX-0000')   # px.timeline
-source('PX-0001')
-source('PX-0002')
+source('lib-PX-0000')   # px.timeline
+source('lib-PX-0001')
+source('lib-PX-0002')
 ...
-source('PX-9999')
+source('lib-PX-9999')
 ```
 <hr>
 
