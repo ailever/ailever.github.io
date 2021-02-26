@@ -11,7 +11,7 @@ author_staff_member: ailever
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever/wiki'">Github - wiki</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever/tree/master/ailever/utils/VISUAL'">Github</button>
 </div><br><br><br>
 <!-- Top Block -->
 
