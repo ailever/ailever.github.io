@@ -42,6 +42,7 @@ from ailever.analysis import dashboard
 <hr>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/analysis-en-dashboard/" style="color:white">dashboard</a></span>  
+  <span class="link_btn"><a href="" style="color:white">PHYSICS</a></span>
   <span class="link_btn"><a href="" style="color:white">FINANCE</a></span>
   <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
