@@ -262,6 +262,19 @@ source('MA-9999')
 ```
 <hr>
 
+## VI
+<hr>
+```python
+from ailever.utils import source
+
+source('VI-0000')
+source('VI-0001')
+source('VI-0002')
+...
+source('VI-9999')
+```
+<hr>
+
 
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
