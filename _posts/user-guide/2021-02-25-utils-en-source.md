@@ -32,6 +32,15 @@ source('AIL-F-0002')
 source('AIL-F-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 
 <br><br><br>
@@ -47,6 +56,15 @@ source('AIL-M-0002')
 source('AIL-M-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## AIL-A
@@ -61,6 +79,15 @@ source('AIL-A-0002')
 source('AIL-A-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## AIL-C
@@ -75,6 +102,15 @@ source('AIL-C-0002')
 source('AIL-C-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 
 <br><br><br>
@@ -90,6 +126,15 @@ source('AIL-D-0002')
 source('AIL-D-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 
 <br><br><br>
@@ -105,6 +150,15 @@ source('AIL-L-0002')
 source('AIL-L-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 
 <br><br><br>
@@ -120,6 +174,16 @@ source('SI-0002')
 source('SI-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
+
 
 <br><br><br>
 ## FI
@@ -134,6 +198,15 @@ source('FI-0002')
 source('FI-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## AI
@@ -148,6 +221,14 @@ source('AI-0002')
 source('AI-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
 
 
 <br><br><br>
@@ -163,6 +244,15 @@ source('RL-0002')
 source('RL-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## DL
@@ -177,6 +267,15 @@ source('DL-0002')
 source('DL-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## ML
@@ -191,6 +290,15 @@ source('ML-0002')
 source('ML-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## ST
@@ -205,6 +313,15 @@ source('ST-0002')
 source('ST-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## NM
@@ -219,6 +336,15 @@ source('NM-0002')
 source('NM-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## PL
@@ -233,6 +359,16 @@ source('PL-0002')
 source('PL-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
+
 
 <br><br><br>
 ## UT
@@ -247,6 +383,15 @@ source('UT-0002')
 source('UT-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## MA
@@ -261,6 +406,15 @@ source('MA-0002')
 source('MA-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/" target="_blank"></a></li>
+    </ul>
+  </div>
+</details>
+
 
 <br><br><br>
 ## lib-PX
@@ -268,13 +422,21 @@ source('MA-9999')
 ```python
 from ailever.utils import source
 
-source('lib-PX-0000')   # px.timeline
+source('lib-PX-0000')   
 source('lib-PX-0001')
 source('lib-PX-0002')
 ...
 source('lib-PX-9999')
 ```
 <hr>
+<details markdown="0">
+  <summary class='jb-small' style="color:black">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0001.py" target="_blank">lib-PX-0000 : px.timeline</a></li>
+    </ul>
+  </div>
+</details>
 
 
 <br><br><br>
@@ -290,13 +452,12 @@ source('lib-GO-0002')
 source('lib-GO-9999')
 ```
 <hr>
-
 <details markdown="0">
   <summary class='jb-small' style="color:black">List</summary>
   <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
     <ul>
-      <li><a href="" target="_blank">lib-GO-0000 : go.Bar</a></li>
-      <li><a href="" target="_blank">lib-GO-0001 : go.Bar</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0000.py" target="_blank">lib-GO-0000 : go.Bar</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0001.py" target="_blank">lib-GO-0001 : go.Bar</a></li>
     </ul>
   </div>
 </details>
