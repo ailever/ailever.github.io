@@ -292,7 +292,7 @@ source('lib-GO-9999')
 <hr>
 
 <details markdown="0">
-  <summary class='jb-small' style="color:blue">List</summary>
+  <summary class='jb-small' style="color:black">List</summary>
   <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
     <ul>
       <li><a href="" target="_blank">lib-GO-0000 : go.Bar</a></li>
