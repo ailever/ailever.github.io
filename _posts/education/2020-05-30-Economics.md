@@ -4,7 +4,7 @@ date: 2020-05-30
 description: Economics
 categories:
   - education
-image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Economics.png
+image: https://source.unsplash.com/AvczuPZK6C0/2000x1322?a=.png
 author_staff_member: anonym
 ---
 
