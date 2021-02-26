@@ -277,6 +277,20 @@ source('lib-PX-9999')
 <hr>
 
 
+<br><br><br>
+## lib-GO
+<hr>
+```python
+from ailever.utils import source
+
+source('lib-GO-0000')   # go.Bar
+source('lib-GO-0001')
+source('lib-GO-0002')
+...
+source('lib-GO-9999')
+```
+<hr>
+
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
