@@ -284,7 +284,7 @@ source('lib-PX-9999')
 from ailever.utils import source
 
 source('lib-GO-0000')   # go.Bar
-source('lib-GO-0001')
+source('lib-GO-0001')   # go.Bar
 source('lib-GO-0002')
 ...
 source('lib-GO-9999')
