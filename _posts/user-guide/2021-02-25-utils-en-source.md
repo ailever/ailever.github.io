@@ -292,12 +292,13 @@ source('lib-GO-9999')
 <hr>
 
 <details markdown="0">
-<div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
-  <ul>
-    <li><a href="" target="_blank">lib-GO-0000 : go.Bar</a></li>
-    <li><a href="" target="_blank">lib-GO-0001 : go.Bar</a></li>
-  </ul>
-</div>
+  <summary class='jb-small' style="color:blue">List</summary>
+  <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
+    <ul>
+      <li><a href="" target="_blank">lib-GO-0000 : go.Bar</a></li>
+      <li><a href="" target="_blank">lib-GO-0001 : go.Bar</a></li>
+    </ul>
+  </div>
 </details>
 
 
