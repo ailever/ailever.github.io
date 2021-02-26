@@ -291,7 +291,10 @@ source('lib-GO-9999')
 ```
 <hr>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-- [lib-GO-0001]()
+  <ul>
+    <li><a href="" target="_blank">lib-GO-0000</a></li>
+    <li><a href="" target="_blank">lib-GO-0001</a></li>
+  </ul>
 <br><br></div>
 
 
