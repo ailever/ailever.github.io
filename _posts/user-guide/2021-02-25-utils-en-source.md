@@ -262,16 +262,16 @@ source('MA-9999')
 ```
 <hr>
 
-## VI
+## PX
 <hr>
 ```python
 from ailever.utils import source
 
-source('VI-0000')   # px.timeline
-source('VI-0001')
-source('VI-0002')
+source('PX-0000')   # px.timeline
+source('PX-0001')
+source('PX-0002')
 ...
-source('VI-9999')
+source('PX-9999')
 ```
 <hr>
 
