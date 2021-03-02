@@ -461,6 +461,7 @@ source('lib-GO-9999')
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0000.py" target="_blank">lib-GO-0000 : go.Bar</a></li>
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0001.py" target="_blank">lib-GO-0001 : go.Bar</a></li>
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0002.py" target="_blank">lib-GO-0002 : go.Sankey</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0002.py" target="_blank">lib-GO-0002 : go.Treemap</a></li>
     </ul>
   </div>
 </details>
