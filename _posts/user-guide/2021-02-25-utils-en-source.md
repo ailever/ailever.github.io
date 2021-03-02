@@ -434,6 +434,8 @@ source('lib-PX-9999')
   <div align="left" style="font-size:xx-small;font-weight:normal;color:black;background-color:#EEEEEE;">
     <ul>
       <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0000.py" target="_blank">lib-PX-0000 : px.timeline</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0001.py" target="_blank">lib-PX-0001 : px.sunburst</a></li>
+      <li><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0002.py" target="_blank">lib-PX-0002 : px.treemap</a></li>
     </ul>
   </div>
 </details>
