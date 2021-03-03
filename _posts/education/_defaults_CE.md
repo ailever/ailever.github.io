@@ -1,6 +1,6 @@
 ---
 title: CE,
-date: 2020-
+date: 2020-05-30
 description: CE, 
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
