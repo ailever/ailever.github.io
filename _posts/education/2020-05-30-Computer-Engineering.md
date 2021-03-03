@@ -33,6 +33,8 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Operating System
+- Linux ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-linux/)｜kr｜
+
 
 <br><br><br>
 ## Algorithms
