@@ -25,7 +25,7 @@ author_staff_member: anonym
 
 ## Implementation
 `PYTHON CODE`
-<div>
+<pre class="code">
 ```python
 import matplotlib.pyplot as plt
 from mlxtend.data import three_blobs_data
@@ -78,8 +78,7 @@ plt.legend(loc='lower left',
            scatterpoints=1)
 plt.grid()
 plt.show()
-```
-</div>
+</pre>
 
 ![image](https://user-images.githubusercontent.com/56889151/83323053-315a8a00-a297-11ea-9b86-1495d9374762.png)
 
