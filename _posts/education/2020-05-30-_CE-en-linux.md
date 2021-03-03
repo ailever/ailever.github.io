@@ -2,6 +2,7 @@
 title: Linux
 date: 2020-05-30
 description: Linux 
+_previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Computer_Engineering.png
