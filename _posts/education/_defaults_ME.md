@@ -1,6 +1,6 @@
 ---
 title: ME, 
-date:
+date: 2021-03-02
 description: ME, 
 _previous: https://ailever.github.io/education/2020/05/30/Mechanical-Engineering/
 categories:
