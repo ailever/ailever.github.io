@@ -1,6 +1,6 @@
 ---
 title: Linux
-date: 2020-
+date: 2020-05-30
 description: Linux 
 categories:
   - education
