@@ -16,7 +16,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
-</div>
+</div><br>
 
 ## Ailever Library
 <hr>
