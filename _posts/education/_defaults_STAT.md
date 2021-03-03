@@ -1,6 +1,6 @@
 ---
 title: Statistics
-date:
+date: 2021-03-04
 description: Statistics
 _previous: https://ailever.github.io/education/2020/05/30/Statistics/
 categories:
