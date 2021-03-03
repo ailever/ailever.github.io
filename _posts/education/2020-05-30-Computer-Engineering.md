@@ -32,6 +32,9 @@ author_staff_member: ailever
 ## Database
 
 <br><br><br>
+## Operating System
+
+<br><br><br>
 ## Algorithms
 
 <br><br><br>
