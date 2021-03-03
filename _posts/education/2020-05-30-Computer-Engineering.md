@@ -44,6 +44,15 @@ author_staff_member: ailever
 ## Data Structure
 
 <br><br><br>
+## Programming Language
+- C ｜en｜kr｜
+- C++ ｜en｜kr｜
+- Python ｜en｜kr｜
+- Java ｜en｜kr｜
+- html ｜en｜kr｜
+- JavaScript｜en｜kr｜
+
+<br><br><br>
 ## Computability Theory
 
 
