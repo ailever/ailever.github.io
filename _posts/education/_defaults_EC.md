@@ -1,6 +1,6 @@
 ---
 title: EC,
-date: 2020-
+date: 2020-06-01
 description: EC,
 _previous: https://ailever.github.io/education/2020/05/30/Economics/
 categories:
