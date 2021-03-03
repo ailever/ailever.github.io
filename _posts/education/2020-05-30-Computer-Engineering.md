@@ -16,7 +16,6 @@ author_staff_member: ailever
 </div>
 
 
-<br><br><br>
 ## Natural Language Processing
 
 <br><br><br>
@@ -25,6 +24,12 @@ author_staff_member: ailever
 <br><br><br>
 ## Machine Learning
 - k-means clustering ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-kmeans/)｜kr｜
+
+<br><br><br>
+## Compiler
+
+<br><br><br>
+## Database
 
 <br><br><br>
 ## Algorithms
