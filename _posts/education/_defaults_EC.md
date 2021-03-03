@@ -1,7 +1,8 @@
 ---
 title: EC,
 date: 2020-
-description: EC, 
+description: EC,
+_previous: https://ailever.github.io/education/2020/05/30/Electronics/
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Economics.png
