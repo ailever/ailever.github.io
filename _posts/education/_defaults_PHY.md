@@ -1,6 +1,6 @@
 ---
 title: PHY, 
-date:
+date: 2021-03-03
 description: PHY,
 _previous: https://ailever.github.io/education/2020/05/30/Physics/
 categories:
