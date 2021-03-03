@@ -18,6 +18,12 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
 </div>
 
+## Ailever Library
+<hr>
+```python
+from ailever import dashboard
+```
+<hr>
 
 <br><br><br>
 ## Manual : Forecast Package
