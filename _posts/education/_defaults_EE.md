@@ -1,6 +1,6 @@
 ---
 title: Electronics
-date: 2020-01-01
+date: 2021-02-23
 description: Electronics
 _previous: https://ailever.github.io/education/2020/05/30/Electronics/
 categories:
