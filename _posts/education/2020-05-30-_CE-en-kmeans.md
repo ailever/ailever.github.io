@@ -25,7 +25,7 @@ author_staff_member: anonym
 
 ## Implementation
 `PYTHON CODE`
-<pre class="code">
+<pre class="python-code">
 import matplotlib.pyplot as plt
 from mlxtend.data import three_blobs_data
 
