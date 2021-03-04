@@ -48,6 +48,17 @@ $ cat /etc/os-release
 </div>
 <!-- Bottom Block -->
 
+<!-- Article Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<b>Related Articles</b>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+</div>
+<!-- Article Block -->
+
 <!-- Notice
 # Mathematical Expression
 - outline : $  $
