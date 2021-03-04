@@ -17,6 +17,13 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
+## File System
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<pre class="shell-code">
+mkdir [folder-name]
+</pre>
+<br><br></div>
+
 ## Multi-User System
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <pre class="shell-code">
