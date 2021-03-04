@@ -34,7 +34,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Operating System
+- Windows ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-windows/)｜kr｜
 - Linux ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-linux/)｜kr｜
+- Mac ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-mac/)｜kr｜
 
 
 <br><br><br>
