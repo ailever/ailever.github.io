@@ -142,6 +142,19 @@
 }
 
 
+.code-title {
+	overflow-x:auto;
+    	border-radius: 3px;
+    	font-weight: bold;
+    	color: ghostwhite;
+    	background-color: black;
+}
+
+.code-dir {
+	overflow-x:auto;
+    	color: black;
+	background-color: whitesmoke;	
+}
 
 .shell-code {
 	overflow-x:auto;
@@ -149,7 +162,6 @@
 	font-weight:bold;
 	background-color:whitesmoke;
 }
-
 
 .python-code {
 	overflow-x:auto;
