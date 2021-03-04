@@ -19,9 +19,9 @@ author_staff_member: anonym
 
 ## Multi-User System
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  <pre class="shell-code">
-    net user
-  </pre>
+<pre class="shell-code">
+net user
+</pre>
 <br><br></div>
 
 <!-- Content Block -->
