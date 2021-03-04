@@ -23,20 +23,40 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Machine Learning
-- k-means clustering ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-kmeans/)｜kr｜
+- k-means clustering
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-kmeans/)
+  :kr
+</span>
 
 <br><br><br>
 ## Compiler
 
 <br><br><br>
 ## Database
-- Structured Query Language ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-sql/)｜kr｜
+- Structured Query Language
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-sql/)
+  :kr
+</span>
 
 <br><br><br>
 ## Operating System
-- Windows ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-windows/)｜kr｜
-- LINUX ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-linux/)｜kr｜
-- UNIX ｜[en](https://ailever.github.io/education/2020/05/30/_CE-en-unix/)｜kr｜
+- Windows
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-windows/)
+  :kr
+</span>
+- LINUX
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-linux/)
+  :kr
+</span>
+- UNIX
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-unix/)
+  :kr
+</span>
 
 
 <br><br><br>
@@ -47,12 +67,37 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Programming Language
-- C ｜en｜kr｜
-- C++ ｜en｜kr｜
-- Python ｜en｜kr｜
-- Java ｜en｜kr｜
-- html ｜en｜kr｜
-- JavaScript｜en｜kr｜
+- C
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- C++
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Python
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Java
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- html
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- JavaScript
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Computability Theory
