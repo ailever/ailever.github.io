@@ -17,7 +17,6 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
-## Ubuntu
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <code>Version</code>
 <pre class="shell-code">
