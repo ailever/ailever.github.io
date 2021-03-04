@@ -123,3 +123,8 @@ _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
 
+
+sidebar:
+  nav: "docs"
+
+
