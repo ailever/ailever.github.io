@@ -16,3 +16,6 @@
   link: https://github.com/ailever/ailever
 - name: Contact
   link: /contact/
+
+sidebar:
+  nav: "docs"
