@@ -99,6 +99,17 @@ plt.show()
 </div>
 <!-- Reference Block -->
 
+<!-- Article Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<b>Related Articles</b>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+</div>
+<!-- Article Block -->
+
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-_CE-en-kmeans.md" target="_blank" style="color:white">Edit</a></span>
