@@ -14,11 +14,19 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br><br><br>
+</div><br>
 <!-- Top Block -->
 
+## Ubuntu
+<div align="left" style="font-size:large;font-weight:bold;color:black;background-color:unset;">Version</div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<code>Version</code>
+<pre class="shell-code">
+$ cat /etc/os-release
+</pre>
+<br><br></div>
+
 <!-- Content Block -->
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <!-- Content Block -->
