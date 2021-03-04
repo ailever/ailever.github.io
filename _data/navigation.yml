@@ -16,9 +16,3 @@
   link: https://github.com/ailever/ailever
 - name: Contact
   link: /contact/
-
-- docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
