@@ -40,7 +40,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Related Articles</b>
 <ol>
-  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-python-api/">Python API</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-python-api/">Python API</a></li>
   <li></li>
   <li></li>
 </ol>
