@@ -79,7 +79,7 @@ author_staff_member: ailever
 </span>
 - Python
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-python)
   :kr
 </span>
 - Java
