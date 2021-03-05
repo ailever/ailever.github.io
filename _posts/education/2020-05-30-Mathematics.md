@@ -5,6 +5,7 @@ description: Mathematics
 _previous: https://ailever.github.io/education/
 categories:
   - education
+HL1: education
 image: https://source.unsplash.com/qDY9ahp0Mto/2000x1322?a=.png
 author_staff_member: ailever
 ---
