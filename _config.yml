@@ -84,14 +84,14 @@ defaults:
           height: 2000
           uploads_dir: "/images/post_uploads"
       mathjax: true
-      _prev1_title: ""
-      _prev2_title: ""
   -
     scope:
       path: "contact-success.html"
     values:
       layout: "page"
       _previous: "https://ailever.github.io/"
+      _prev1_title: ""
+      _prev2_title: ""
   -
     scope:
       path: ""
