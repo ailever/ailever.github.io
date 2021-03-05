@@ -5,8 +5,19 @@ layout: page
 <section>
 	<div style="clear:both;">
 		<div style="position: sticky;top: 60px;float: left;padding: 10px;border-radius: 3px;background-color:whitesmoke;">
-			{{ page._prev_title }} 
-			{{ page.title }}
+			{% if page._prev_title %}
+				<div>
+					{{ page._prev_title }}<br>
+					- {{ page.title }}
+				</div>
+			{% else %}
+				<div>
+					{{ page.title }}
+				</div>
+			{% endif %}
+
+			 
+			
 		</div>
 		<div class="blog-post text-container">
 			<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
