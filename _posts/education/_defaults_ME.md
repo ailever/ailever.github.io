@@ -1,10 +1,10 @@
 ---
 title: ME, 
+prev1_title: ME,
+prev2_title: Mechanical Engineering
 date: 2021-03-02
 description: ME, 
 _previous: https://ailever.github.io/education/2020/05/30/Mechanical-Engineering/
-_prev1_title: ME,
-_prev2_title: Mechanical Engineering
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Mechanics.png
