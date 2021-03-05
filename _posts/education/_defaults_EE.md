@@ -1,8 +1,10 @@
 ---
-title: Electronics
+title: EE,
 date: 2021-02-23
-description: Electronics
+description: EE,
 _previous: https://ailever.github.io/education/2020/05/30/Electronics/
+_prev1_title: EE,
+_prev2_title: Electronics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Electronics.png
