@@ -17,7 +17,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:lightgray;">　
-  ·Email :  <br>
+  · Email :  <br>
 </div>
 <!-- Top Block -->
 
