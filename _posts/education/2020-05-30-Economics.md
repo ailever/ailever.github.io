@@ -4,6 +4,7 @@ date: 2020-05-30
 description: Economics
 categories:
   - education
+HL1: education
 image: https://source.unsplash.com/8lnbXtxFGZw/2000x1322?a=.png
 author_staff_member: anonym
 ---
