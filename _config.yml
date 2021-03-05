@@ -90,8 +90,8 @@ defaults:
     values:
       layout: "page"
       _previous: "https://ailever.github.io/"
-      _prev1_title: ""
-      _prev2_title: ""
+      prev1_title: ""
+      prev2_title: ""
   -
     scope:
       path: ""
