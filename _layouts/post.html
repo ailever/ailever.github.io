@@ -13,6 +13,7 @@ layout: page
 
 			<div class="post-content">
 				
+				<!-- sidebar-nav : https://github.com/allejo/jekyll-toc -->
 				<aside class="sidebar__right sticky" style="height: auto !important;">
 				<div class="toc">
 					{% include toc.html html=content sanitize=true h_min=1 h_max=2 %}
@@ -58,21 +59,7 @@ layout: page
 					</script>
 					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 				{% endif %}
-			</div>
-			
-			<!-- sidebar-nav -->			
-			<div class="col-md-12 mx-auto">
-				<!-- https://github.com/allejo/jekyll-toc -->
-				<aside class="sidebar__right sticky" style="height: auto !important;">
-				<div class="toc">
-					{% include toc.html html=content sanitize=true h_min=1 h_max=2 %}
-				</div>
-				</aside>
-				
-				{{ content }}
-
-			</div>
-			
+			</div>			
 		</div>
 	</div>	
 </section>
