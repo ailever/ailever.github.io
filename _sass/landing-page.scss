@@ -75,9 +75,21 @@
 }
 
 
-/* Custom  */
+/* Custom Fonts */
+.f_nps{font-family: 'Nanum Pen Script', cursive;}
+.f_jg{font-family: 'Jeju Gothic', sans-serif;}
+.f_jm{font-family: 'Jeju Myeongjo', serif;}
+.f_kb{font-family: 'KoPub Batang', serif;}
+.f_nbs{font-family: 'Nanum Brush Script', cursive;}
+.f_nsk{font-family: 'Noto Sans KR', sans-serif;}
+.f_h{font-family: 'Hanna', sans-serif;}
+.f_ng{font-family: 'Nanum Gothic', sans-serif;}
+.f_nm{font-family: 'Nanum Myeongjo', serif;}
+.f_jh{font-family: 'Jeju Hallasan', cursive;}
+.f_ngc{font-family: 'Nanum Gothic Coding', monospace;}
 
 
+/* Custom Buttons */
 .top_btn_box {
 	border-style: none none solid none;
 	border-color:#F4F4F4
@@ -98,8 +110,6 @@
     background-color: black;
 }
 
-
-
 .bottom_btn_box {
 	border-style: solid none none none;
 	border-color:#F4F4F4
@@ -119,9 +129,6 @@
 .bottom_btn:hover {
     background-color: gray;
 }
-
-
-
 
 .link_btn_box {
 	border-style: none none solid none;
@@ -144,6 +151,7 @@
 }
 
 
+/* Custom Codeblock */
 .code-title {
 	overflow-x:auto;
     	border-radius: 3px;
@@ -174,6 +182,7 @@
 
 
 
+/* Custom Sidebar */
 .sidebar__right {
 	display: block;
 	position: sticky;
