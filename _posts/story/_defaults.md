@@ -2,6 +2,7 @@
 title: Story
 date: 2021-02-26
 description: Story
+_previous: https://ailever.github.io/story/
 categories:
   - story
 HL1: story
