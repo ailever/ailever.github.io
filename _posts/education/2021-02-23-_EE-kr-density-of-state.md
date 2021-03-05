@@ -1,5 +1,7 @@
 ---
 title: Density of State
+prev1_title: Semiconductor Engineering
+prev2_title: Electronics
 date: 2021-02-23
 description: Quantum Dot, Wire, Well, Box
 _previous: https://ailever.github.io/education/2020/05/30/Electronics/
