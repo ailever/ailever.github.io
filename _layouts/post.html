@@ -5,9 +5,15 @@ layout: page
 <section>
 	<div style="clear:both;">
 		<div style="position: sticky;top: 60px;float: left;padding: 10px;border-radius: 3px;background-color:whitesmoke;">
-			{% if page._prev_title %}
+			{% if page._prev2_title %}
 				<div>
-					{{ page._prev_title }}<br>
+					{{ page._prev2_title }}<br>
+					&nbsp;&nbsp; <span> → {{ page._prev1_title }}<br>
+					&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red;font-weight:bold;"> → {{ page.title }}</span>
+				</div>
+			{% elif page._prev1_title %}
+				<div>
+					{{ page._prev1_title }}<br>
 					&nbsp;&nbsp; <span style="color:red;font-weight:bold;"> → {{ page.title }}</span>
 				</div>
 			{% else %}
