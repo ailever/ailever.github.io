@@ -7,6 +7,7 @@ description: MATH,
 _previous: https://ailever.github.io/education/2020/05/30/Mathematics/
 categories:
   - education
+HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Mathematics.png
 author_staff_member: anonym
 ---
