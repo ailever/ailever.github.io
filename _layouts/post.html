@@ -5,7 +5,14 @@ layout: page
 <section>
 	<div style="clear:both;">
 		<div style="position: sticky;top: 60px;float: left;padding: 10px;border-radius: 3px;background-color:whitesmoke;">
-			{% if page.prev2_title %}
+			{% if page.prev3_title %}
+				<div>
+					{{ page.prev3_title }}<br>
+					&nbsp; <span style="color:black;font-weight:normal;"> → {{ page.prev2_title }}</span><br>
+					&nbsp;&nbsp;&nbsp; <span style="color:black;font-weight:bold;"> → <a href={{ page._previous }}>{{ page.prev1_title }}</a></span><br>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red;font-weight:bold;"> <u>→ {{ page.title }}</u></span>
+				</div>
+			{% elsif page.prev2_title %}
 				<div>
 					{{ page.prev2_title }}<br>
 					&nbsp;&nbsp; <span style="color:black;font-weight:bold;"> → <a href={{ page._previous }}>{{ page.prev1_title }}</a></span><br>
