@@ -7,6 +7,7 @@ description: EC,
 _previous: https://ailever.github.io/education/2020/05/30/Economics/
 categories:
   - education
+HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Economics.png
 author_staff_member: anonym
 ---
