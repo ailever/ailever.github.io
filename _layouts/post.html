@@ -8,11 +8,11 @@ layout: page
 			{% if page._prev_title %}
 				<div>
 					{{ page._prev_title }}<br>
-					- {{ page.title }}
+					  :  <span style="color:red;">{{ page.title }}</span>
 				</div>
 			{% else %}
 				<div>
-					{{ page.title }}
+					<span style="color:red;">{{ page.title }}</span>
 				</div>
 			{% endif %}
 
