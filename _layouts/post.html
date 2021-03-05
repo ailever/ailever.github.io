@@ -117,7 +117,7 @@ layout: page
     return headerNodes;
   }
 
-  var title = document.getElementsByClassName("post-title")[0];
+  var title = document.getElementsByTagName("h2")[0];
   var titleY = window.pageYOffset + title.getBoundingClientRect().top;
   
   var article = document.getElementsByClassName("post-content")[0];
