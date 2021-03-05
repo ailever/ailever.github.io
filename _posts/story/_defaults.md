@@ -45,7 +45,7 @@ author_staff_member: ailever
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Story Edit</a></span>
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/story/index.html" target="_blank" style="color:white">Gate Edit</a></span>
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/story/2021-02-26-Exhibition-Ground.md" target="_blank" style="color:white">Ground Edit</a></span>  
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/story/2020-05-30-Exhibition-Ground.md" target="_blank" style="color:white">Ground Edit</a></span>  
 </div>
 <!-- Bottom Block -->
 
