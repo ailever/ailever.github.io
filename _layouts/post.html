@@ -8,13 +8,13 @@ layout: page
 			{% if page.prev2_title %}
 				<div>
 					{{ page.prev2_title }}<br>
-					&nbsp;&nbsp; <span style="color:black;font-weight:bold;"> → {{ page.prev1_title }}</span><br>
+					&nbsp;&nbsp; <span style="color:black;font-weight:bold;"> → <a href={{ page._previous }}>{{ page.prev1_title }}</a></span><br>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:red;font-weight:bold;"> <u>→ {{ page.title }}</u></span>
 				</div>
 			{% elsif page.prev1_title %}
 				<div>
 					{{ page.prev1_title }}<br>
-					&nbsp;&nbsp; <span style="color:red;font-weight:bold;"> <u>→ {{ page.title }}</u></span>
+					&nbsp;&nbsp; <span style="color:black;font-weight:bold;"> <u>→ {{ page.title }}</u></span>
 				</div>
 			{% else %}
 				<div>
