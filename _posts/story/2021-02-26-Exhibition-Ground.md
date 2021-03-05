@@ -14,15 +14,7 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
-## Dongmyeong Lee
-- []()
-
-<br><br><br>
-## Hayun Lee
-- []()
-
-<br><br><br>
-## Beomsik Min
+## Yooseok Song
 - []()
 
 <br><br><br>
@@ -30,7 +22,15 @@ author_staff_member: ailever
 - []()
 
 <br><br><br>
-## Yooseok Song
+## Beomsik Min
+- []()
+
+<br><br><br>
+## Hayun Lee
+- []()
+
+<br><br><br>
+## Dongmyeong Lee
 - []()
 
 <br><br><br>
