@@ -1,10 +1,10 @@
 ---
 title: FI,
+prev1_title: FI,
+prev2_title: Finance
 date: 2021/02/24
 description: FI,
 _previous: https://ailever.github.io/education/2020/05/30/Finance/
-_prev1_title: FI,
-_prev2_title: Finance
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Finance.png
