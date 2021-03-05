@@ -7,6 +7,7 @@ description: Quantum Dot, Wire, Well, Box
 _previous: https://ailever.github.io/education/2020/05/30/Electronics/
 categories:
   - education
+HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Electronics.png
 author_staff_member: dongmyeong
 ---
