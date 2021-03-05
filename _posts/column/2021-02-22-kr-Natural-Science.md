@@ -59,7 +59,7 @@ author_staff_member: dongmyeong
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/column/2021-02-22-kr-Natural-Science.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
