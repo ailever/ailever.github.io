@@ -1,5 +1,7 @@
 ---
 title: Valuation, Discounted Cash Flow Method
+prev1_title: Financial Reporting and Analysis
+prev2_title: Finance
 date: 2021-02-24
 description: Valuation, Discounted Cash Flow Method
 _previous: https://ailever.github.io/education/2020/05/30/Finance/
