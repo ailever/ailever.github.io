@@ -33,12 +33,19 @@ author_staff_member: dongmyeong
 <br><br></div>
 <!-- Content Block -->
 
+<!-- Content Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  <!-- ~중략~ 공학과 자연과학은 분명 다르다. ~중략~ -->
+<br><br></div>
+<!-- Content Block -->
 
 <!-- Content Block -->
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><!-- --><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><!-- --><br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"><!-- --><br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  <!-- ~중략~ 사회적 분위기로 이어졌으면 한다. ~중략~ -->
+<br><br></div>
 <!-- Content Block -->
+
+
 
 ---
 
