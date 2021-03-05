@@ -7,6 +7,7 @@ description: STAT,
 _previous: https://ailever.github.io/education/2020/05/30/Statistics/
 categories:
   - education
+HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Statistics.png
 author_staff_member: anonym
 ---
