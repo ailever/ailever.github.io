@@ -15,7 +15,27 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Dongmyeong Lee
+- []()
 
+<br><br><br>
+## Hayun Lee
+- []()
+
+<br><br><br>
+## Beomsik Min
+- []()
+
+<br><br><br>
+## M. Shahid Jabbar
+- []()
+
+<br><br><br>
+## Yooseok Song
+- []()
+
+<br><br><br>
+## anonym
+- []()
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
