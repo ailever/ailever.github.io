@@ -1,8 +1,10 @@
 ---
-title: Statistics
+title: STAT,
 date: 2021-03-04
-description: Statistics
+description: STAT,
 _previous: https://ailever.github.io/education/2020/05/30/Statistics/
+_prev1_title: STAT,
+_prev2_title: Statistics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Statistics.png
