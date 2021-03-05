@@ -16,9 +16,9 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:lightgray;">　
-  Email : - <br>
-  Mobile : - <br>
-</div><br><br><br>
+  · Email : - <br>
+  · Mobile : - <br>
+</div>
 <!-- Top Block -->
 
 <!-- Content Block -->
