@@ -52,6 +52,17 @@ layout: page
 					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 				{% endif %}
 			</div>
+			<div class="col-md-12 mx-auto">
+				<!-- https://github.com/allejo/jekyll-toc -->
+				<aside class="sidebar__right sticky" style="height: auto !important;">
+				<div class="toc">
+					{% include toc.html html=content sanitize=true h_min=1 h_max=2 %}
+				</div>
+				</aside>
+				
+				{{ content }}
+				
+			</div>
 		</div>
 	</div>	
 </section>
