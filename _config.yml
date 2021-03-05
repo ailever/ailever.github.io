@@ -92,6 +92,7 @@ defaults:
       _previous: "https://ailever.github.io/"
       prev1_title: ""
       prev2_title: ""
+      HL1: ""
   -
     scope:
       path: ""
