@@ -7,7 +7,7 @@ layout: page
 		<div style="position: sticky;top: 60px;float: left;padding: 10px;border-radius: 3px;background-color:whitesmoke;">
 			<!-- left sidebar-nav -->
 			{% for category in include.post.categories %}
-				{% if category == 'education' %}
+				{% if {{ category }} == 'education' %}
 				<a>wefwef</a>
 			{% endfor %}
 			
