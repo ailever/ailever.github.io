@@ -1,5 +1,7 @@
 ---
 title: Statement of Financial Position
+prev1_title: Financial Reporting and Analysis
+prev2_title: Finance
 date: 2021-02-24
 description: Statement of Financial Position
 _previous: https://ailever.github.io/education/2020/05/30/Finance/
