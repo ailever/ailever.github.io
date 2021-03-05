@@ -10,8 +10,6 @@
   link: /column/  
 - name: Story
   link: /story/  
-- name: Blog
-  link: /blog/
 - name: Gallery
   link: /gallery/
 - name: Contact
