@@ -3,6 +3,8 @@ title: PHY,
 date: 2021-03-03
 description: PHY,
 _previous: https://ailever.github.io/education/2020/05/30/Physics/
+_prev1_title: PHY,
+_prev2_title: Physics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Physics.png
