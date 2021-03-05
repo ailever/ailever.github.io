@@ -22,7 +22,8 @@ author_staff_member: dongmyeong
 <!-- Top Block -->
 
 <!-- Content Block -->
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;"> here
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  <!--   필자는 모든 학문은 우리의 삶이 존재하는 세상을 이해하기 위한 수단으로 정의하고 있다. 특히, 자연 과학의 초점은 자연 자체에 맞추어져 있지만, 그 내면에는 자연을 이해함으로써 인류의 삶에 더 유익함을 제공하기 위한 기저가 있다고 판단한다. 예를 들어, '물리학'은 자연의 이치를 탐구하는 과목인데, 어떠한 유익함을 제공하고 있을까. -->
 <br><br></div>
 <!-- Content Block -->
 
