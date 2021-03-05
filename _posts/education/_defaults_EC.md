@@ -1,10 +1,10 @@
 ---
 title: EC,
+prev1_title: EC,
+prev2_title: Economics
 date: 2020-06-01
 description: EC,
 _previous: https://ailever.github.io/education/2020/05/30/Economics/
-_prev1_title: EC,
-_prev2_title: Economics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Economics.png
