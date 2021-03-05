@@ -2,6 +2,9 @@
 title: Python API
 date: 2020-05-30
 description: Python API
+prev1_title: Python
+prev2_title: Programming Language
+prev3_title: Computer Engineering
 _previous: https://ailever.github.io/education/2020/05/30/_CE-en-python/
 categories:
   - education
