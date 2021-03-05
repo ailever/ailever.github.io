@@ -13,6 +13,12 @@ layout: page
 
 			<div class="post-content">
 				
+				<aside class="sidebar__right sticky" style="height: auto !important;">
+				<div class="toc">
+					{% include toc.html html=content sanitize=true h_min=1 h_max=2 %}
+				</div>
+				</aside>
+				
 				{{ content }}
 				
 				<div class="author">
