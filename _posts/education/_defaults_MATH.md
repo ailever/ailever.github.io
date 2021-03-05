@@ -3,6 +3,8 @@ title: MATH,
 date: 2021-03-01
 description: MATH, 
 _previous: https://ailever.github.io/education/2020/05/30/Mathematics/
+_prev1_title: MATH,
+_prev2_title: Mathmatics
 categories:
   - education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Mathematics.png
