@@ -15,7 +15,10 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
+<div align="left" style="font-size:medium;font-weight:bold;color:black;background-color:lightgray;">　
+  ·Email :  <br>
+</div>
 <!-- Top Block -->
 
 <!-- Content Block -->
