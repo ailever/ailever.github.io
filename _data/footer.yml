@@ -12,7 +12,7 @@ left_links:
   - name: Blog
     link: /blog/
   - name: Gallery
-    link: https://ailever.github.io/story/2020/05/30/Gallery/
+    link: /gallery/
   - name: Contact
     link: /contact/
 right_links:
