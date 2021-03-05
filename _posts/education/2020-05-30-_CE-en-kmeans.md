@@ -7,6 +7,7 @@ description: ML, k-means clustering
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
+  - Computer Engineering
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Machine_Learning.png
 author_staff_member: anonym
 ---
