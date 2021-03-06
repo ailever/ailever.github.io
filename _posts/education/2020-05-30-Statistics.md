@@ -17,7 +17,6 @@ author_staff_member: ailever
 </div>
 
 
-<br><br><br>
 ## Pannel Data Analysis
 
 <br><br><br>
