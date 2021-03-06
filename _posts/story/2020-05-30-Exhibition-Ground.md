@@ -15,10 +15,6 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
-## Yooseok Song
-- []()
-
-<br><br><br>
 ## M. Shahid Jabbar
 - []()
 
