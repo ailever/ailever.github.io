@@ -259,3 +259,30 @@
 	border: outset;
 	font-weight:bold;
 }
+
+
+/* gallery block */
+.g_summary {
+	font-size:medium;
+	font-weight:bold;
+	color:black;
+	background-color:cornflowerblue;
+}
+.g_main {
+	border: solid;
+	border-color: cornflowerblue;
+}
+.g_info {
+	font-size:medium;
+	font-weight:normal;
+	color:black;
+	background-color:aliceblue;
+}
+.g_idiv {
+	border-radius:3%;
+	overflow:hidden;
+}
+
+
+
+
