@@ -23,7 +23,19 @@ author_staff_member: anonym
 ## Microeconomics
 
 <br><br><br>
+## Industrial Organization
+
+<br><br><br>
+## Behavioral Economics
+
+<br><br><br>
+## Monetary Economics
+
+<br><br><br>
 ## Econometrics
+
+<br><br><br>
+## Game theory
 
 
 <!-- Content Block -->
