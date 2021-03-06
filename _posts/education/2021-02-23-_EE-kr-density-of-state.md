@@ -21,7 +21,7 @@ author_staff_member: dongmyeong
 <!-- Top Block -->
 
 <!-- Content Block -->
-## Intro
+## Introduction
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 　<b>현존하는 대부분의 고체 관련 이론(Solid State Physics, Condensed Matter Physics)들은 대부분 양자이론(Quantum Theory)에 근간을 두고 있습니다.</b> 반도체 역시, 양자이론 없이는 우리가 이해할 수 없는 대상입니다. 양자이론에 의하면, 전자의 상태(State of Electron)는 항상 양자화 되어있습니다. 예를 들어, 고전적 관념 하에 전자에게 가능하지 않은 속력(상태)은 없습니다. 이를 양자이론 관점에 비추어 보면, 속력 $1m/s$인 상태, 속력 $2m/s$인 상태, 속력 $3m/s$인 상태, … , 이러한 특정한 상태들만 전자의 가능한 상태로서 주어진다는 것 입니다. <br><br>
 
@@ -29,8 +29,6 @@ author_staff_member: dongmyeong
 
 　<b><span style="color:red;">Density of State(DOS)</span>는 '물질 내에서, 단위 에너지당 전자에게 주어진 상태의 개수'로 정의됩니다.</b> 예를 들어, 어떠한 물질 내에서, 에너지 $1eV$에 대응되는 상태가 전자에게 $100$개 주어진다는 것이죠. DOS개념은 사실, 양자이론이 '전자의 허용 가능한 상태는 정해져 있다'고 제한을 걸었기 때문에, 필연적으로 나타날 수 밖에 없는 개념입니다. 만일 '전자의 상태가 제한적'이라는 양자현상이 나타나지 않는다고 생각해본다면, DOS는 의미 없는 개념이 되고 말았을 것 입니다. 고전적인 관념하에, 전자에게는 모든 상태가 허용되니, 항상 'DOS = ∞' 일테니깐요. 앞으로 DOS에 대해 구체적으로 논의해 보도록 하죠. <br><br>  
 <br><br></div>
-
----
 
 
 <div style="font-size:medium;"><br><br>
@@ -120,6 +118,7 @@ author_staff_member: dongmyeong
 고체의 형태(차원)에 따라 Density of State(전자 상태 에너지 분포)가 달라짐을 볼 수 있습니다. <b>네모 박스(3차원의 공간)</b>와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태가 많습니다. <b>널판지(2차원의 면)</b>와 닮아 있는 경우 대체적으로 높은 에너지를 갖는 전자 상태의 개수와 대체적으로 낮은 에너지를 갖는 전자 상태의 개수는 동등합니다. <b>막대기(1차원의 선)</b>와 닮아 있는 경우 대체적으로 낮은 에너지를 갖는 전자 상태가 많습니다. 마지막으로 <b>0차원의 점</b>의 경우 단 하나의 에너지 영역대에, 거의 모든 전자 상태가 밀집되어 있습니다. 역으로 말하면, ‘전자가 어떠한 상태이던지간에 갖는 에너지는 얼추 다 비슷하다’ 입니다. 왜 이러한 현상이 나타나는 걸까요? 양자 역학적인 접근으로 설명한다면 복잡한 설명이 되겠지만, 고전적인 접근 방법(쉬운 설명법)으로 설명하면 그리 어렵지 않으니 살펴보도록 하죠.
 <br><br></div>
 
+## Density of State : 1D
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 고체 내에 돌아다니는 전자에 영향을 가장 크게 미치는 것은 ‘고체를 이루고 있는 원자들이 어떠한 주기성을 가지고 배열되어 있느냐’ 일 것 입니다. 고체의 주기성이 1차원적으로 반복되는지, 2차원적으로 반복되는지, 3차원 적으로 반복되는지 말이죠. 역시나 글보다는 그림이 이해를 더 도와줄때네요. 이 내용이 이해가지 않으신다면 아래 그림을 보고서 이해하도록 하죠. 우선 1차원 형태의 고체부터 살펴보겠습니다.
 <br><br></div><br>
@@ -170,7 +169,7 @@ $$이상적인\ 상황\ : \ ρDOS(1D)∝E-1/2$$
 붉은 색 박스 내의 그래프에서 '에너지(E)가 높아질 수록, ρDOS가 줄어든다'는 것을 체크해주세요. 다음은 2차원 형태의 고체입니다.
 <br><br></div><br>
 
-
+## Density of State : 2D
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <span style="font-weight:bold;background-color:red">고체의 형상 : 널판지(2차원)</span>
 <br><br></div>
@@ -230,6 +229,7 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E0$$
 붉은 색 박스 내의 그래프에서 '에너지(E)에 관계없이, ρDOS가 일정하다'는 것을 체크해주세요. 마지막으로 3차원 형태의 고체입니다.
 <br><br></div><br>
 
+## Density of State : 3D
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <span style="font-weight:bold;background-color:red">고체의 형상 : 네모 박스(3차원)</span>
 <br><br></div>
