@@ -34,12 +34,16 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-bootstrap-sass
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENCE
+
+bootstrap:
+  assets: true
 
 collections:
   staff_members:
