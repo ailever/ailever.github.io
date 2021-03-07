@@ -15,20 +15,8 @@ author_staff_member: ailever
 </div>
 
 <br><br><br>
-## M. Shahid Jabbar
-- []()
-
-<br><br><br>
-## Beomsik Min
-- []()
-
-<br><br><br>
-## Hayun Lee
-- []()
-
-<br><br><br>
 ## Dongmyeong Lee
-- []()
+- [story] [시작](https://ailever.github.io/story/2021/02/26/kr-000000/)
 
 <br><br><br>
 ## anonym
