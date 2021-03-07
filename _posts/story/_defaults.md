@@ -17,7 +17,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/story/2020/05/30/Exhibition-Ground/'">Exhibition Ground</button>
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/gallery/'">Gallery</button>
 </div>
-<div class="sb_info">　
+<div class="sb_info">
 · Email :  <br>
 · Mobile :  <br>
 </div>
