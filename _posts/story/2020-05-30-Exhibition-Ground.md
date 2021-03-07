@@ -11,7 +11,8 @@ author_staff_member: ailever
 ---
 
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/story/'">Story</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/gallery/'">Gallery</button>  
 </div>
 
 <br><br><br>
