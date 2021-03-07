@@ -1,10 +1,10 @@
 ---
 title: Pandas
+date: 2020-05-30
+description: Pandas 
 prev1_title: Python
 prev2_title: Programming Language
 prev3_title: Computer Engineering
-date: 2020-05-30
-description: Pandas 
 _previous: https://ailever.github.io/education/2020/05/30/_CE-en-python/
 categories:
   - education
@@ -12,6 +12,7 @@ HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Computer_Engineering.png
 author_staff_member: anonym
 ---
+
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
