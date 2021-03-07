@@ -109,6 +109,21 @@
 .top_btn:hover {
     background-color: black;
 }
+.private_top_btn {
+	background-color:cornflowerblue;
+	border:none;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size: 15px;
+	margin:4px;
+	cursor:pointer;
+	border-radius:4px;
+}
+.private_top_btn:hover {
+    background-color: blue;
+}
 
 .bottom_btn_box {
 	border-style: solid none none none;
