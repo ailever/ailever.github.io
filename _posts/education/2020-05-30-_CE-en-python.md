@@ -48,7 +48,7 @@ author_staff_member: anonym
   <li>Scipy</li>
   <li>Statsmodels</li>
   <li>Pytorch</li>
-  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-pandas/">Pandas</a></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-python-pandas/">Pandas</a></li>
   <li>Matplotlib</li>
   <li>Manim</li>
   <li>Plotly</li>
