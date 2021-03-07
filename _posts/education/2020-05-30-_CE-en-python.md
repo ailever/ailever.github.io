@@ -44,12 +44,11 @@ author_staff_member: anonym
 <b>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-python-api/">Python API</a></li>
-  <li>Re</li>
   <li>Numpy</li>
   <li>Scipy</li>
   <li>Statsmodels</li>
   <li>Pytorch</li>
-  <li>Pandas</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-en-pandas/">Pandas</a></li>
   <li>Matplotlib</li>
   <li>Manim</li>
   <li>Plotly</li>
