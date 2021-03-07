@@ -15,7 +15,6 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/gallery/'">Gallery</button>  
 </div>
 
-<br><br><br>
 ## Dongmyeong Lee
 - [story] [시작](https://ailever.github.io/story/2021/02/26/kr-000000/)
 
