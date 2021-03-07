@@ -13,7 +13,7 @@ author_staff_member: ailever
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/story/'">story</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/story/'">Story</button>
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/story/2020/05/30/Exhibition-Ground/'">Exhibition Ground</button>
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/gallery/'">Gallery</button>
 </div>
