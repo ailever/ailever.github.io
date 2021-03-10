@@ -1,9 +1,9 @@
 ---
-title: Data Pre-processing
+title: Data Preprocessing
 prev1_title: Database
 prev2_title: Computer Engineering
 date: 2020-05-30
-description: Data Pre-processing
+description: Data Preprocessing
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
