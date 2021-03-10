@@ -49,21 +49,14 @@ layout: page
 			<div class="post-content">
 				
 				<!-- right sidebar-nav : https://github.com/allejo/jekyll-toc -->
-				<!-- right sidebar-nav : version 1 -->
-				<aside class="sidebar__right sticky" style="height: auto !important;">
+				<!-- right sidebar-nav : version 1 [style="height: auto !important;"]-->
+				<aside class="sidebar__right sticky">
 				<div class="toc">
 					{% include toc.html html=content sanitize=true h_min=1 h_max=6 %}
 				</div>
 				</aside>
 				
-				
-				<!-- right sidebar-nav : version 2 
-				<div class="toc">
-      					<a href="#">&lt;맨 위로&gt;</a>
-      					{% include toc.html html=content %}
-    				</div>
-				-->
-				
+								
 				{{ content }}
 				
 				<div class="author">
