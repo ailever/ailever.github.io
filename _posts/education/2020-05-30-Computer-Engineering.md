@@ -40,7 +40,7 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-sql/)
   :kr
 </span>
-- Data Pre-proessing
+- Data Preproessing
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-preprocessing/)
   :kr
