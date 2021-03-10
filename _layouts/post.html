@@ -135,8 +135,8 @@ layout: page
   var before = undefined;
 
   document.addEventListener('scroll', function(e) {
-    if (window.scrollY >= articleY-30) {
-      toc.style.cssText = "position: fixed; top: 30px;";
+    if (window.scrollY >= articleY-60) {
+      toc.style.cssText = "position: fixed; top: 60px;";
     }
     else {
       toc.style.cssText = "";
@@ -144,7 +144,7 @@ layout: page
 
     var current = headerNodes.filter(function(header) {
       var headerY = window.pageYOffset + header.getBoundingClientRect().top;
-      return window.scrollY >= headerY - 30;
+      return window.scrollY >= headerY - 60;
     });
 
     if (current.length > 0) {
