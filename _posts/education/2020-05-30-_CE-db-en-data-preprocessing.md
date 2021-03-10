@@ -20,6 +20,7 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
+## Data Analytics Value Chain
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
