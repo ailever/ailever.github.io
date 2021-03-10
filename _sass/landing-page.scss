@@ -208,9 +208,19 @@
 	background-color:darkkhaki;
 }
 
+/* Custom Sidebar : left */
+.sidebar_left {
+	a {
+		color:silver;
+		text-decoration: none;
+	}
+	a:hover {
+		color:gold;
+	}
+}
 
-/* Custom Sidebar */
-.sidebar__right {
+/* Custom Sidebar : right */
+.sidebar_right {
 	display: block;
 	position: sticky;
 	right: 0;
