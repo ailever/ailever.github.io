@@ -37,9 +37,15 @@ author_staff_member: ailever
 ## Database
 - Structured Query Language
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-sql/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-db-sql/)
   :kr
 </span>
+- Data Pre-proessing
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-db-data-preprocessing/)
+  :kr
+</span>
+
 
 <br><br><br>
 ## Operating System
