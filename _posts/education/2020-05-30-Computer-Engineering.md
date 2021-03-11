@@ -40,12 +40,18 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-sql/)
   :kr
 </span>
+- Distributed file system and Hadoop, Spark, Presto
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Data Preproessing
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-preprocessing/)
   :kr
 </span>
 
+- 
 
 <br><br><br>
 ## Operating System
