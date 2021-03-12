@@ -86,9 +86,9 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-- Data Management
+- Data Analysis&Management
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-management/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-analysis-and-management/)
   :kr
 </span>
 
