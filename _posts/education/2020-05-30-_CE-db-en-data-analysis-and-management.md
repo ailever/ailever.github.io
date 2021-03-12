@@ -57,11 +57,11 @@ Hierarchical Level : Phase, Task, Step
 <br>
 # Management
 ## Data Governance
+## Business continuity planning
 
 
-<br>
-# Business
 ## Data Analytics Value Chain
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
