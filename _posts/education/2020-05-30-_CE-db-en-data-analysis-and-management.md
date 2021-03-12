@@ -31,6 +31,38 @@ author_staff_member: anonym
 # Analysis : What? and How?
 Analysis Key Factors : Descovery, Insight, Solution, Optimization 
 
+## Problem Discovery & Problem Definition & Solution Search & Feasibility Study
+Business Problem > Analysis Problem > Technical Approach > Economic Feasibility Evaluation
+
+### Capability
+- Competency
+- Partners&Networks
+
+### Simplification of Business Model Canvas Block
+- Operation
+- Product
+- Customer
+- Regulation&Audit
+- IT&Human Resource
+
+### Applicable Scope
+- Social
+- Technological
+- Economic
+- Environmental
+- Political
+
+### Market Needs Assessment
+- Custmer
+- Channel
+- Influener
+
+### Threatening Situation
+- Substitue
+- Competitor
+- New Entrant
+
+
 ## The Process of Data Analysis 
 ### by Knowledge Discovery in Databases(KDD)
 - Data Selection : Target
@@ -61,37 +93,6 @@ Hierarchical Level : Phase, Task, Step
 
 <br>
 # Management
-## Problem Discovery
-### Capability
-- Competency
-- Partners&Networks
-
-### Simplification of Business Model Canvas Block
-- Operation
-- Product
-- Customer
-- Regulation&Audit
-- IT&Human Resource
-
-### Applicable Scope
-- Social
-- Technological
-- Economic
-- Environmental
-- Political
-
-### Market Needs Assessment
-- Custmer
-- Channel
-- Influener
-
-### Threatening Situation
-- Substitue
-- Competitor
-- New Entrant
-
-## Problem Definition & Solution Search & Feasibility Study
-Business Problem > Analysis Problem > Technical Approach > Economic Feasibility Evaluation
 
 ## Data Governance
 ### Constituent
