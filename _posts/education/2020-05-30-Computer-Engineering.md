@@ -29,6 +29,32 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-kmeans/)
   :kr
 </span>
+- Decision Tree
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Association Rule
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Regression
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Logit Analysis
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Nearest Neighborhood
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Compiler
