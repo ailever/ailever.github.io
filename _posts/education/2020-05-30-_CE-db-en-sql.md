@@ -170,14 +170,16 @@ DROP DATABASE [databasename];
 <br><br></div>
 <!-- Content Block -->
 
-## Data Integrity
-### Entity Integrity
-### Referential Integrity
-### Domain Integrity
 
 
 <br><br><br>
 ## Database Management System
+### Data Quality
+Data Integrity
+- Entity Integrity
+- Referential Integrity : Bijection
+- Domain Integrity
+
 ### Navigational DBMS
 ### Relational DBMS
 #### Postgre
