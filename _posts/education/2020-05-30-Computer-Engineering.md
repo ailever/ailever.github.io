@@ -24,9 +24,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Machine Learning
-- Clustering
+- Cluster Analysis
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-clustering/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-cluster-analysis/)
   :kr
 </span>
 - Decision Tree
@@ -60,6 +60,11 @@ author_staff_member: ailever
   :kr
 </span>
 - Confusion Matrix
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Ensemble Learning
 <span style="font-size:small;">
   :en
   :kr
