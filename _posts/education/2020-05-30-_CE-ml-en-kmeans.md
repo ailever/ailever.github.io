@@ -1,9 +1,9 @@
 ---
-title: ML, k-means clustering
+title: k-means clustering
 prev1_title: Machine Learning
 prev2_title: Computer Engineering
 date: 2020-05-30
-description: ML, k-means clustering
+description: k-means clustering
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
