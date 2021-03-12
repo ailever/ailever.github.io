@@ -28,7 +28,7 @@ author_staff_member: anonym
 <!-- Content Block -->
 
 <br>
-# Analysis
+# Analysis : What? and How?
 Analysis Key Factors : Descovery, Insight, Solution, Optimization 
 
 ## The Process of Data Analysis 
