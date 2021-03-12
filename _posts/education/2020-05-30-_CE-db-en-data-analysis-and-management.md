@@ -28,6 +28,7 @@ author_staff_member: anonym
 <!-- Content Block -->
 
 <br>
+# Analysis
 ## The Process of Data Analysis 
 ### by Knowledge Discovery in Databases(KDD)
 - Data Selection : Target
@@ -53,6 +54,13 @@ Hierarchical Level : Phase, Task, Step
 - Developing
 - Deploying
 
+<br>
+# Management
+## Data Governance
+
+
+<br>
+# Business
 ## Data Analytics Value Chain
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
