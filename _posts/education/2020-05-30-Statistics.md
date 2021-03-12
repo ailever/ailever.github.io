@@ -16,7 +16,9 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 
+## Priciple Component Analysis
 
+<br><br><br>
 ## Pannel Data Analysis
 
 <br><br><br>
