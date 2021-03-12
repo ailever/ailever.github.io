@@ -36,7 +36,7 @@ author_staff_member: anonym
 - Interpretation/Evaluation
 
 ### by Cross Industry Standard Process for Data Mining(CRISP-DM) 
-Level : Phases, Generic Tasks, Specialized Tasks, Process Instances
+Hierarchical Level : Phases, Generic Tasks, Specialized Tasks, Process Instances
 - Business Understanding
 - Data understanding
 - Data Preparation
@@ -45,7 +45,12 @@ Level : Phases, Generic Tasks, Specialized Tasks, Process Instances
 - Development
 
 ### Big Data Processing
-- 
+Hierarchical Level : Phase, Task, Step
+- Planning
+- Preparing
+- Analyzing
+- Developing
+- Deploying
 
 ## Data Analytics Value Chain
 <!-- Content Block -->
