@@ -174,7 +174,9 @@ DROP DATABASE [databasename];
 
 <br><br><br>
 ## Management System
-### Postgre
+### Navigational DBMS
+### Relational DBMS
+#### Postgre
 <!-- Content Block -->
 <div align="left" style="font-size:large;font-weight:bold;color:black;background-color:unset;">Server On/Off</div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -193,7 +195,7 @@ $ brew service [start|stop|restart] postgresql
 <br><br></div>
 <!-- Content Block -->
 
-#### Access
+##### Access
 <!-- Content Block -->
 <div align="left" style="font-size:large;font-weight:bold;color:black;background-color:unset;">DB Access</div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -203,6 +205,10 @@ $ psql
 </pre>
 <br><br></div>
 <!-- Content Block -->
+
+### Object-Oriented DBMS
+### NoSQL and NewSQL DBMS
+
 
 
 
