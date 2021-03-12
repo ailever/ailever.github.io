@@ -27,7 +27,8 @@ author_staff_member: anonym
 <br><br></div>
 <!-- Content Block -->
 
-## The process of data analysis 
+<br>
+## The Process of Data Analysis 
 ### by Knowledge Discovery in Databases(KDD)
 - Data Selection : Target
 - Preprocessing : Noise, Outlier, Missing Value
