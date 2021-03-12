@@ -91,11 +91,12 @@ Hierarchical Level : Phase, Task, Step
 Business Problem > Analysis Problem > Technical Approach > Economic Feasibility Evaluation
 
 ## Data Governance
-### Readiness
+### Constituent
+Principle, Organization, Proess
 
-### Maturity
-- Capability Maturity Model Integration(CMMI)
-
+### Process Level Improvement
+- Readiness
+- Maturity : Capability Maturity Model Integration(CMMI)
 
 
 ## Data Analytics Value Chain
