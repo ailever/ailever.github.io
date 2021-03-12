@@ -57,6 +57,7 @@ Hierarchical Level : Phase, Task, Step
 - Deploying
 
 ## Data Analytics Value Chain
+## Barriers to effective analysis
 
 <br>
 # Management
