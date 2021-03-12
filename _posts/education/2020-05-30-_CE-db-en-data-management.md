@@ -20,6 +20,14 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
+<!-- Content Block -->
+<div align="center" style="font-size:large;font-weight:bold;color:black;background-color:unset;">Business Management Keywords</div>
+<div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  On-Line Transaction Processing(OLTP), On-Line Analytical Processing(OLAP), Enterprise Resource Planning(ERP), Customer Relationship Management(CRM), Supply Chain Management(SCM), Real-Time Enterprise(RTE), Enterprise Application Integration(EAI), Enterprise Data Warehouse(EDW), Knowledge Management System(KMS)
+</div>
+<!-- Content Block -->
+
+
 ## Data Analytics Value Chain
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
