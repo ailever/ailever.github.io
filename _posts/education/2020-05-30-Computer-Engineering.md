@@ -24,9 +24,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Machine Learning
-- k-means clustering
+- Clustering
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-kmeans/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-clustering/)
   :kr
 </span>
 - Decision Tree
@@ -34,7 +34,7 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-- Association Rule
+- Association Rule Learning
 <span style="font-size:small;">
   :en
   :kr
