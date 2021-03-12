@@ -87,11 +87,8 @@ Hierarchical Level : Phase, Task, Step
 - Competitor
 - New Entrant
 
-## Problem Definition & Solution Search
-Business Problem > Analysis Problem > Technical Approach 
-
-## Feasibility Study
-Economic Feasibility Evaluation
+## Problem Definition & Solution Search & Feasibility Study
+Business Problem > Analysis Problem > Technical Approach > Economic Feasibility Evaluation
 
 ## Data Governance
 ### Readiness
@@ -99,7 +96,6 @@ Economic Feasibility Evaluation
 ### Maturity
 - Capability Maturity Model Integration(CMMI)
 
-## Business continuity planning
 
 
 ## Data Analytics Value Chain
