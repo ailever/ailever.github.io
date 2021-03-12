@@ -27,6 +27,25 @@ author_staff_member: anonym
 <br><br></div>
 <!-- Content Block -->
 
+## The process of data analysis 
+### by Knowledge Discovery in Databases(KDD)
+- Data Selection : Target
+- Preprocessing : Noise, Outlier, Missing Value
+- Transformation : Trans/Test
+- Data Mining
+- Interpretation/Evaluation
+
+### by Cross Industry Standard Process for Data Mining(CRISP-DM) 
+Level : Phases, Generic Tasks, Specialized Tasks, Process Instances
+- Business Understanding
+- Data understanding
+- Data Preparation
+- Modeling
+- Evaluation
+- Development
+
+### Big Data Processing
+- 
 
 ## Data Analytics Value Chain
 <!-- Content Block -->
