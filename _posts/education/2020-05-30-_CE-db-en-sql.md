@@ -173,7 +173,7 @@ DROP DATABASE [databasename];
 
 
 <br><br><br>
-## Management System
+## Database Management System
 ### Navigational DBMS
 ### Relational DBMS
 #### Postgre
