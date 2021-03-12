@@ -54,6 +54,11 @@ author_staff_member: ailever
   :en
   :kr
 </span>
+- Neural Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Confusion Matrix
 <span style="font-size:small;">
   :en
