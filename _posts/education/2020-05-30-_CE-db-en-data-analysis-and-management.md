@@ -29,6 +29,8 @@ author_staff_member: anonym
 
 <br>
 # Analysis
+Analysis Key Factors : Descovery, Insight, Solution, Optimization 
+
 ## The Process of Data Analysis 
 ### by Knowledge Discovery in Databases(KDD)
 - Data Selection : Target
@@ -56,8 +58,46 @@ Hierarchical Level : Phase, Task, Step
 
 <br>
 # Management
+## Problem Discovery
+### Capability
+- Competency
+- Partners&Networks
+
+### Simplification of Business Model Canvas Block
+- Operation
+- Product
+- Customer
+- Regulation&Audit
+- IT&Human Resource
+
+### Applicable Scope
+- Social
+- Technological
+- Economic
+- Environmental
+- Political
+
+### Market Needs Assessment
+- Custmer
+- Channel
+- Influener
+
+### Threatening Situation
+- Substitue
+- Competitor
+- New Entrant
+
+## Problem Definition & Solution Search
+Business Problem > Analysis Problem > Technical Approach 
+
+## Feasibility Study
+Economic Feasibility Evaluation
+
 ## Data Governance
-Readiness, Maturity
+### Readiness
+
+### Maturity
+- Capability Maturity Model Integration(CMMI)
 
 ## Business continuity planning
 
