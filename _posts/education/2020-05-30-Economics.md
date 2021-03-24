@@ -2,6 +2,7 @@
 title: Economics
 date: 2020-05-30
 description: Economics
+_previous: https://ailever.github.io/education/
 categories:
   - education
 HL1: education
