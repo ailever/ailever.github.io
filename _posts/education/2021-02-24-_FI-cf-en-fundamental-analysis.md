@@ -1,6 +1,6 @@
 ---
 title: Fundamental Analysis
-prev1_title: FI,
+prev1_title: Corporate Finance
 prev2_title: Finance
 date: 2021/02/24
 description: Fundamental Analysis
