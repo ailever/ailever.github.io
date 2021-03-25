@@ -16,7 +16,8 @@ author_staff_member: anonym
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='http://www.krx.co.kr/main/main.jsp'">KRX</button>
   <button class="top_btn" type="button" onclick="location.href='http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd'">KRX-data</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" type="button" onclick="location.href='http://www.bok.or.kr/portal/main/main.do'">BOK</button>
+  <button class="top_btn" type="button" onclick="location.href='http://ecos.bok.or.kr/'">BOK-ecos</button>
 </div>
 <!-- Top Block -->
 ## Analysis by Industry Taxonomy
