@@ -1,8 +1,8 @@
 left_links:
-  - name: Portal
-    line: https://ailever.github.io/portal/
   - name: Blog
     link: /blog/
+  - name: Portal
+    line: https://ailever.github.io/portal/    
   - name: Github
     link: https://github.com/ailever/ailever.github.io
 right_links:
