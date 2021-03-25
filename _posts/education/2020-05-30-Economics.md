@@ -36,6 +36,10 @@ author_staff_member: anonym
 ## Econometrics
 - FED Model
 - BOK Model
+<span style="font-size:small;">
+  :[en]()
+  :kr
+</span>
 
 <br><br><br>
 ## Game theory
