@@ -1,6 +1,6 @@
 ---
 title: BOK Model
-prev1_title: Econometric
+prev1_title: Econometrics
 prev2_title: Economics
 date: 2020-06-01
 description: BOK Model
