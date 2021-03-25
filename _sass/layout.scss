@@ -4,15 +4,25 @@
 	padding: 0 20px;
 }
 
-.p-text-container {
-	max-width: 1000px;
-}
-
 .text-container {
 	max-width: 750px;
 }
 
 .container {
+	max-width: 1140px;
+}
+
+.p-container, .p-text-container {
+	margin: 0 auto;
+	position: relative;
+	padding: 0 20px;
+}
+
+.p-text-container {
+	max-width: 1000px;
+}
+
+.p-container {
 	max-width: 1140px;
 }
 
