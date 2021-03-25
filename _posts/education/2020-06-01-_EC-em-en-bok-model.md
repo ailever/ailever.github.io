@@ -14,8 +14,8 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='http://www.bok.or.kr/portal/main/main.do'">BOK</button>
+  <button class="top_btn" type="button" onclick="location.href='http://ecos.bok.or.kr/'">BOK-ecos</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div><br>
 <!-- Top Block -->
