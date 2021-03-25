@@ -1,18 +1,8 @@
 left_links:
-  - name: Professionals
-    link: /professionals/
-  - name: Industry
-    link: /industry/
-  - name: Education
-    link: /education/
-  - name: Academic Column
-    link: /column/
-  - name: Story
-    link: /story/    
+  - name: Portal
+    line: /portal/
   - name: Blog
     link: /blog/
-  - name: Gallery
-    link: /gallery/
   - name: Github
     link: https://github.com/ailever/ailever.github.io
 right_links:
