@@ -37,7 +37,7 @@ author_staff_member: anonym
 - FED Model
 - BOK Model
 <span style="font-size:small;">
-  :[en]()
+  :[en](https://ailever.github.io/education/2020/06/01/_EC-em-en-bok-model/)
   :kr
 </span>
 
