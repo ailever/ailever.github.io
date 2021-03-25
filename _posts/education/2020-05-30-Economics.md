@@ -34,6 +34,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Econometrics
+- FED Model
+- BOK Model
 
 <br><br><br>
 ## Game theory
