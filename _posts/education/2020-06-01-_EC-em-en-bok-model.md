@@ -23,6 +23,7 @@ author_staff_member: anonym
 ## BOK12
 
 ## BOK20
+![image](https://user-images.githubusercontent.com/52376448/112467383-567e3300-8daa-11eb-9a1d-909cb4d37eca.png)
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
