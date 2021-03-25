@@ -14,6 +14,10 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='https://www.cmegroup.com/'">CME</button>
+  <button class="top_btn" type="button" onclick="location.href='https://www.theice.com/index'">ICE</button>
+  <button class="top_btn" type="button" onclick="location.href='https://www.nyse.com/index'">NYSE</button>
+  <button class="top_btn" type="button" onclick="location.href='https://www.nasdaq.com/'">NASDAQ</button>  
   <button class="top_btn" type="button" onclick="location.href='http://www.krx.co.kr/main/main.jsp'">KRX</button>
   <button class="top_btn" type="button" onclick="location.href='http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd'">KRX-data</button>
   <button class="top_btn" type="button" onclick="location.href='http://www.bok.or.kr/portal/main/main.do'">BOK</button>
