@@ -14,7 +14,7 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://deargen.me/'">deargen</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div><br>
@@ -52,7 +52,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/_defaults_BIO.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
