@@ -26,9 +26,10 @@ author_staff_member: anonym
 - Going Concern
 - Periodicity
 
-
+<br><br><br>
 ## Management Accounting
 
+<br><br><br>
 ## Tax Accounting
 
 <!-- Content Block -->
