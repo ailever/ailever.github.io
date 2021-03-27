@@ -21,6 +21,11 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Financial Accounting
+### Assumption
+- Business Entity
+- Going Concern
+- Periodicity
+
 
 ## Management Accounting
 
