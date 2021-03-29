@@ -22,8 +22,8 @@ author_staff_member: anonym
 
 ## Risk and Return
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-- $$r_{ij}$$ : , $$M$$ : 
-$E(r_{i})=\sum_{j=1}^M {\frac{r_{ij}}{M}}$
+- $r_{ij}$ :  the return of a security $i$ during a time period $j$ , $M$ : future time
+$$E(r_{i})=\sum_{j=1}^M {\frac{r_{ij}}{M}}$$
 <br><br></div>
 
 
