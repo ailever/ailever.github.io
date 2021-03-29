@@ -22,9 +22,11 @@ author_staff_member: anonym
 
 ## Risk and Return
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-- $E$ : the expected return <br>
-- $r_{ij}$ : the return of a security $i$ during a time period $j$ <br>
-- $P_{ij}$ : the possibility of the return $j$ for the security $i$ <br>
+<ul>
+<li>$E$ : the expected return</li>
+<li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
+<li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
+</ul>
 $$E(r_{i})=\sum_{j=1}^M {P_{ij} r_{ij}}$$
 <br><br></div>
 
