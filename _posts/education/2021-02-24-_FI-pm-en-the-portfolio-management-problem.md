@@ -24,12 +24,12 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E(r_{i})=\sum_{j=1}^M {P_{ij} r_{ij}}$$
 $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
-
 <ul>
 <li>$E$ : the expected return</li>
 <li>$\sigma$ : the variance of return</li>
 <li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
+$$r_{\mathcal{P}j} = \sum_{j=1}^M {w_{i}r_{ij}}$$
 <li>$\mathcal{P}$ : a portfolio which include $N$ securities</li>
 </ul>
 
