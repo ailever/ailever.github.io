@@ -30,6 +30,9 @@ author_staff_member: anonym
 ## Behavioral Economics
 
 <br><br><br>
+## Information Economics
+
+<br><br><br>
 ## Monetary Economics
 
 <br><br><br>
