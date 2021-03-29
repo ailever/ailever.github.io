@@ -22,15 +22,13 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Microeconomics
+- Information Economics
 
 <br><br><br>
 ## Industrial Organization
 
 <br><br><br>
 ## Behavioral Economics
-
-<br><br><br>
-## Information Economics
 
 <br><br><br>
 ## Monetary Economics
