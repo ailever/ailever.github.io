@@ -22,7 +22,8 @@ author_staff_member: anonym
 
 ## Risk and Return
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$E(r_{i})=\sum_{j=1}^M {\frac{r_{ij}}{M}}$  
+- $$r_{ij}$$ : , $$M$$ : 
+$E(r_{i})=\sum_{j=1}^M {\frac{r_{ij}}{M}}$
 <br><br></div>
 
 
