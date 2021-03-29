@@ -31,13 +31,17 @@ $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
 $$r_{\mathcal{P}j} = \sum_{i^{*}=1}^N {w_{i^{*}}r_{i^{*}j}}$$
 $$E(r_{\mathcal{P}j}) = \sum_{i^{*}=1}^N {w_{i^{*}}E(r_{i^{*}j})}$$
-$$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum_{i^{*}=1}^N \sum_{j=1,j \ne i^{*}}^N {w_{i}w_{j}\sigma_{i^{*}j}}$$
+$$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum_{i^{*}=1}^N \sum_{j=1,j \ne i^{*}}^N {w_{i^{*}}w_{j}\sigma_{i^{*}j}}$$
 <li>$r_{\mathcal{P}j}$ : the return of a portfolio</li>
 <li>$\mathcal{P}$ : a portfolio which include $N$ securities</li>
 </ul>
-
 <br><br></div>
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+Vector Form
+$$E(r_{\mathcal{P}}) = \mathbf{r^T w}$$
+$$$$
+<br><br></div>
 
 <br><br><br>
 ## Portfolio Diversification
