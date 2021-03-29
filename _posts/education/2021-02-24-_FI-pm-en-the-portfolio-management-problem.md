@@ -31,7 +31,7 @@ $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
 $$r_{\mathcal{P}j} = \sum_{i^{*}=1}^N {w_{i^{*}}r_{i^{*}j}}$$
-$$E(r_{\mathcal{P}j}) = \sum_{i^{*}=1}^N {w_{i^{*}}E(r_{i^{*}j})}$$
+$$E(r_{\mathcal{P}j}) = \sum_{i^{*}=1}^N {w_{i^{*}}E(r_{i^{*}})}$$
 $$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum_{i^{*}=1}^N \sum_{j=1,j \ne i^{*}}^N {w_{i^{*}}w_{j}\sigma_{i^{*}j}}$$
 <li>$r_{\mathcal{P}j}$ : the return of a portfolio</li>
 <li>$\mathcal{P}$ : a portfolio which include $N$ securities</li>
@@ -42,6 +42,7 @@ $$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum
 Vector Form
 $$E(r_{\mathcal{P}}) = \mathbf{r^T w}$$
 $$\sigma_{\mathcal{P}}^2 = \mathbf{w^T V w}$$
+$$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 <br><br></div>
 
 <br><br><br>
