@@ -18,6 +18,10 @@ author_staff_member: ailever
 
 ## Linear Algebra
 - Matrix Calculus
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## Differential Equation
@@ -40,12 +44,40 @@ author_staff_member: ailever
 <br><br><br>
 ## Convex Analysis
 - Convex Set, Function, Conjugate
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Complementarity Problems
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Lagrange Duality
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Unconstrained Nonlinear
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Constrained Nonlinear
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Convex Optimization
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Non-Convex Optimization 
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
