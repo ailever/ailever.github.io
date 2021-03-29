@@ -28,7 +28,7 @@ $$E(r_{i})=\sum_{j=1}^M {P_{ij} r_{ij}}$$
 <li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
 </ul>
-$$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}\(r_{ij}-E\(r_{i}\)\)^2}$$
+$$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <br><br></div>
 
 
