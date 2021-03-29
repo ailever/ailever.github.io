@@ -17,6 +17,7 @@ author_staff_member: ailever
 </div>
 
 ## Linear Algebra
+- Matrix Calculus
 
 <br><br><br>
 ## Differential Equation
@@ -38,6 +39,14 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Convex Analysis
+- Convex Set, Function, Conjugate
+- Complementarity Problems
+- Lagrange Duality
+- Unconstrained Nonlinear
+- Constrained Nonlinear
+- Convex Optimization
+- Non-Convex Optimization 
+
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
