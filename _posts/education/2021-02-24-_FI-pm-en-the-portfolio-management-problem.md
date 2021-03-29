@@ -22,6 +22,7 @@ author_staff_member: anonym
 
 ## Risk and Return
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+Scalar Form
 $$E(r_{i})=\sum_{j=1}^M {P_{ij} r_{ij}}$$
 $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <ul>
@@ -40,7 +41,7 @@ $$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Vector Form
 $$E(r_{\mathcal{P}}) = \mathbf{r^T w}$$
-$$$$
+$$\sigma_{\mathcal{P}}^2 = \mathbf{w^T V w}$$
 <br><br></div>
 
 <br><br><br>
