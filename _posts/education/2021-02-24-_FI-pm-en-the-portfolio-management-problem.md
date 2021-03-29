@@ -29,7 +29,8 @@ $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <li>$\sigma$ : the variance of return</li>
 <li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
-$$r_{\mathcal{P}j} = \sum_{j=1}^M {w_{i}r_{ij}}$$
+$$r_{\mathcal{P}j} = \sum_{i=1}^N {w_{i}r_{ij}}$$
+$$E(r_{\mathcal{P}j}) = \sum_{i=1}^N {w_{i}E(r_{ij})}$$
 <li>$r_{\mathcal{P}j}$ : the return of a portfolio</li>
 <li>$\mathcal{P}$ : a portfolio which include $N$ securities</li>
 </ul>
