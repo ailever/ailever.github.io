@@ -22,6 +22,7 @@ author_staff_member: anonym
 
 ## Law and Regulation	
 - [Income Standards for Public Rental Housing - korea](https://www.law.go.kr/법령/공공주택특별법시행규칙)
+  - http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134
 
 <br>
 
