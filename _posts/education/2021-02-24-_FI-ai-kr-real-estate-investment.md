@@ -20,11 +20,14 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Law and Regulation	
-- [Income Standards for Public Rental Housing - korea](https://www.law.go.kr/법령/공공주택특별법시행규칙)
-  - http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134
+## 법과 규제
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<ul>
+  <li><a href="https://www.law.go.kr/법령/공공주택특별법시행규칙">공공주택특별법시행규칙</a></li>
+  <ul><li><a href="http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134">[설명] 2월 2일부터 공공임대주택 1~2인 가구 소득기준이 상향됩니다</a></li></ul>
+</ul>  
+<br><br></div>
 
-<br>
 
 
 
