@@ -23,7 +23,7 @@ author_staff_member: anonym
 ## 법과 규제
 - [공공주택특별법시행규칙](https://www.law.go.kr/법령/공공주택특별법시행규칙)
   - [2월 2일부터 공공임대주택 1~2인 가구 소득기준이 상향됩니다](http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134)
- 
+- [역세권청년주택](http://youth2030.co.kr/user/page/mn010104.do) 
 
 ## 공공 주택
 ### 공공 분양
