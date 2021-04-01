@@ -41,9 +41,13 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Reference</b>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do">myhome</a></li>
+  <li><a href="https://apply.lh.or.kr/LH/index.html">LH청약센터</a></li>
+  <li><a href="https://www.i-sh.co.kr/main/index.do">SH서울주택도시공사</a></li>
+  <li><a href="https://www.gh.or.kr/index.do">경기주택도시공사</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ol>
 <br><br></div>
 <!-- Reference Block -->
