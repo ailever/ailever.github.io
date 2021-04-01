@@ -2,7 +2,7 @@
 title: CHEM,
 prev1_title: CHEM,
 prev2_title: Chemistry
-date: 2020-05-30
+date: 2021-04-02
 description: CHEM, 
 _previous: https://ailever.github.io/education/2020/05/30/Chemistry/
 categories:
