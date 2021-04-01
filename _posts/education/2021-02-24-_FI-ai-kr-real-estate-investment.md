@@ -42,7 +42,7 @@ author_staff_member: anonym
 <b>Reference</b>
 <ol>
   <li><a href="https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do">myhome</a></li>
-  <li><a href="https://www.applyhome.co.kr/co/coa/selectMainView.do">청약home</a></li>  
+  <li><a href="https://www.applyhome.co.kr/co/coa/selectMainView.do">한국부동산원 청약홈</a></li>  
   <li><a href="https://apply.lh.or.kr/LH/index.html">LH청약센터</a></li>
   <li><a href="https://www.hf.go.kr/hf/index.do">HF한국주택금융공사</a></li>
   <li><a href="http://nhuf.molit.go.kr/">주택도시기금</a></li>  
