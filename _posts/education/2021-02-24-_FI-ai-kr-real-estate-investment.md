@@ -25,6 +25,10 @@ author_staff_member: anonym
   - [2월 2일부터 공공임대주택 1~2인 가구 소득기준이 상향됩니다](http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134)
  
 
+## 공공 주택
+### 공공 분양
+### 민간 분양
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
