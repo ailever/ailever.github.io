@@ -17,8 +17,10 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Anatomical_terminology'">Anatomical Terminology, WIKI</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Human Anatomy
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
