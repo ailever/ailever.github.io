@@ -5,7 +5,7 @@ description: Python API
 prev1_title: Python
 prev2_title: Programming Language
 prev3_title: Computer Engineering
-_previous: https://ailever.github.io/education/2020/05/30/_CE-en-python/
+_previous: https://ailever.github.io/education/2020/05/30/_CE-lang-en-python/
 categories:
   - education
 HL1: education
