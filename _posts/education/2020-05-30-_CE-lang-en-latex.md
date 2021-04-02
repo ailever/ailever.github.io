@@ -17,8 +17,17 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## 1
+<code class="code-title">Hello, World!</code>
+<pre class="latex-code">
+\documentclass[12pt]{article}
+\begin{document}
+Hello world!
+\end{document}
+</pre>
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
