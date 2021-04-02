@@ -156,6 +156,11 @@ author_staff_member: ailever
   :en
   :kr
 </span>
+- LaTex
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
