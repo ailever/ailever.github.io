@@ -215,10 +215,9 @@
 /* Custom Codeblock */
 .code-title {
 	overflow-x:auto;
-    	border-radius: 3px;
     	font-weight: bold;
-    	color: ghostwhite;
-    	background-color: black;
+    	border-bottom: solid;
+    	border-bottom-color: red;	
 }
 
 .code-path {
