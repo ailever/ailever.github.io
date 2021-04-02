@@ -14,7 +14,7 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Anatomical_terminology'">Anatomical Terminology, WIKI</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div><br>
