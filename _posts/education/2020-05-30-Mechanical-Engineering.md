@@ -35,6 +35,9 @@ author_staff_member: ailever
 ## PAPER REVIEW
 
 <br><br><br>
+## ADDITIONALS
+
+<br><br><br>
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-Mechanical-Engineering.md" target="_blank" style="color:white">Edit</a></span>
 </div>
