@@ -352,10 +352,6 @@ author_staff_member: ailever
   :kr
 </span>
 
-
-<br><br><br>
-## Additional Topics
-
 <br><br><br>
 
 --- 
