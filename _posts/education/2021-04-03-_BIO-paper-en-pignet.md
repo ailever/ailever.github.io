@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-# PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
+## PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
