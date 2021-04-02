@@ -120,7 +120,7 @@ author_staff_member: ailever
 
 --- 
 
-## Paper Review
+## PAPER REVIEW
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
