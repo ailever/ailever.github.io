@@ -156,7 +156,7 @@ author_staff_member: ailever
 
 
 <br><br><br>
-## Additionals
+## Additional Topics
 
 <br><br><br>
 
@@ -164,6 +164,8 @@ author_staff_member: ailever
 
 ## PAPER REVIEW
 
+<br><br><br>
+## ADDITIONALS
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
