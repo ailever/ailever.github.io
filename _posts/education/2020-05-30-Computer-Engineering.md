@@ -119,6 +119,9 @@ author_staff_member: ailever
 ## Data Structure
 
 <br><br><br>
+## Computability Theory
+
+<br><br><br>
 ## Programming Language
 - C
 <span style="font-size:small;">
@@ -153,7 +156,7 @@ author_staff_member: ailever
 
 
 <br><br><br>
-## Computability Theory
+## Additionals
 
 <br><br><br>
 
