@@ -35,6 +35,7 @@ author_staff_member: anonym
 ### Remote Control
 ### Keymap
 ### LaTex
+- [tex live](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
 
 <br>
 ## Pycharm
