@@ -25,30 +25,114 @@ author_staff_member: ailever
 
 ## Natural Language Processing
 - Sentence Embeddings
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Machine Translation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Question Answering
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Language Modelling
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Text Classification
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Text Generation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Text Summarization
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Named Entity Recognition
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Visual Question Answering
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Emotion Recognition
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Sentiment Analysis
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
 ## Computer Vision
 - Image Classification
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Object Detection
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Domain Adaptation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Denoising
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Few-Shot Learning
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Zero-Shot Learning
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Anomaly Detection
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Image Generation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Pose Estimation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Object Tracking
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
