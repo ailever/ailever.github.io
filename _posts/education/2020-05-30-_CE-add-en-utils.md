@@ -21,9 +21,13 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Vim
+### Installation
+### Extension
 
 <br>
 ## Tmux
+### Installation
+### Extension
 
 <br>
 ## VScode
@@ -34,6 +38,8 @@ author_staff_member: anonym
 
 <br>
 ## Pycharm
+### Installation
+### Extension
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
