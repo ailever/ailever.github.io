@@ -43,7 +43,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Related Articles</b>
 <ol>
-  <li><a href="">Installation</a></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-add-en-utilities/">Installation</a></li>
   <li></li>
   <li></li>
 </ol>
