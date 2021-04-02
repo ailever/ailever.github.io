@@ -46,7 +46,6 @@ author_staff_member: anonym
 \documentclass[12pt]{article}
 \begin{document}
 Hello world!
-$Hello world!$
 \end{document}
 </pre>
 
