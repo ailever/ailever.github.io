@@ -22,6 +22,7 @@ author_staff_member: anonym
 <br><br><br>
 ## Analytical chemistry
 
+<br><br><br>
 ## Quantum Chemistry
 <span style="font-size:small;">
   :en
@@ -29,13 +30,32 @@ author_staff_member: anonym
 </span>
 
 <br><br><br>
+## Thermochemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
+<br><br><br>
 ## Biochemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## Inorganic Chemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## Organic Chemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
@@ -43,9 +63,17 @@ author_staff_member: anonym
 --- 
 
 ## PAPER REVIEW
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## ADDITIONALS
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 <!-- Bottom Block -->
