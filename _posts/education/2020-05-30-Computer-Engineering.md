@@ -166,9 +166,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## ADDITIONALS
-- vscode
+- VScode
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-vscode)
   :kr
 </span>
 
