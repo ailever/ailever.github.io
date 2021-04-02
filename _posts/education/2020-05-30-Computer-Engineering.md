@@ -169,9 +169,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## ADDITIONALS
-- VScode
+- Utils
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-vscode)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-utils)
   :kr
 </span>
 
