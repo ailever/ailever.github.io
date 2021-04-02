@@ -134,6 +134,44 @@ author_staff_member: ailever
   :kr
 </span>
 
+<br><br><br>
+## Reinforcement Learning
+- The Markov Decision Process and Dynamic Programming
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Monte Carlo Methods
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Temporal Difference Learning
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Deep Q Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Deep Recurrent Q Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- The Asynchronous Advantage Actor Critic Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Policy Gradients and Optimization
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Deep Learning
