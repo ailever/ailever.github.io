@@ -169,9 +169,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## ADDITIONALS
-- Utils
+- Utilities
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-utils)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-utilities)
   :kr
 </span>
 
