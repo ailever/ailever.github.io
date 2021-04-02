@@ -34,9 +34,11 @@ author_staff_member: anonym
 ### Installation
 ### Remote Control
 ### Keymap
+
 ### LaTex
 - [Tutorials](https://guillaumeblanchet.medium.com/using-latex-in-visual-studio-code-on-windows-121032043dad)
 - [tex live](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
+
 ### Extension
 - [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 - [LaTex Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
