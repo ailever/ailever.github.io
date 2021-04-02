@@ -1,5 +1,5 @@
 ---
-title: PIGNet, A physics-informed deep learning model toward generalized drug-target interaction predictions
+title: PIGNet
 prev1_title: PAPER REVIEW
 prev2_title: Biology
 date: 2021-04-03
