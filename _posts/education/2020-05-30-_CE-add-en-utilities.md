@@ -41,7 +41,7 @@ author_staff_member: anonym
 - [Perl](https://strawberryperl.com/)
 - [MiKTeX](https://miktex.org/)
 
-<code class="code-title">file.tex</code>
+`file.tex`
 <pre class="latex-code">
 \documentclass[12pt]{article}
 \begin{document}
