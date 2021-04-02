@@ -25,6 +25,13 @@ author_staff_member: anonym
 </span>
 
 <br><br><br>
+## Inorganic Chemistry
+
+<br><br><br>
+## Organic Chemistry
+
+
+<br><br><br>
 
 --- 
 
