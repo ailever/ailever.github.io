@@ -81,7 +81,7 @@ Hello world!
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Related Articles</b>
 <ol>
-  <li></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-latex/">LaTex</a></li>
   <li></li>
   <li></li>
 </ol>
