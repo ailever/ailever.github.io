@@ -37,7 +37,7 @@ author_staff_member: anonym
 
 ### LaTex
 - [Tutorials](https://guillaumeblanchet.medium.com/using-latex-in-visual-studio-code-on-windows-121032043dad)
-- [tex live](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
+- [Tex Live](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
 - [Perl](https://strawberryperl.com/)
 - [MiKTeX](https://miktex.org/)
 
