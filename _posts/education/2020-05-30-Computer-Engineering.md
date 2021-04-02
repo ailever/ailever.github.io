@@ -23,6 +23,15 @@ author_staff_member: ailever
 ## Computer Vision
 
 <br><br><br>
+## Deep Learning
+- Multi-Layer Perceptron
+- Convolutional Neural Network
+- Recurent Neural Network
+- Graph Neural Network
+- Generative Adversarial Network
+- Variational Auto-Encoder
+
+<br><br><br>
 ## Machine Learning
 - Cluster Analysis
 <span style="font-size:small;">
