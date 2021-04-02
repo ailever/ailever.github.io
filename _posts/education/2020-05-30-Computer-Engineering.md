@@ -166,6 +166,11 @@ author_staff_member: ailever
 
 <br><br><br>
 ## ADDITIONALS
+- vscode
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
