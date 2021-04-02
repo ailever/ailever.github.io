@@ -20,6 +20,13 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Vim
+
+<br>
+## Tmux
+
+<br>
+## VScode
 ### Installation
 ### Remote Control
 ### Keymap
