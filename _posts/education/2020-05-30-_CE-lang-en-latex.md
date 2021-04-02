@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## 1
+## How it works
 <code class="code-title">Hello, World!</code>
 <pre class="latex-code">
 \documentclass[12pt]{article}
