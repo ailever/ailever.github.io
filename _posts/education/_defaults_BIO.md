@@ -2,7 +2,7 @@
 title: BIO,
 prev1_title: BIO,
 prev2_title: Biology
-date: 2020-05-30
+date: 2021-04-03
 description: BIO, 
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
