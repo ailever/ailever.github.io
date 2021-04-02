@@ -44,14 +44,10 @@ author_staff_member: anonym
 
 ## PAPER REVIEW
 
-<!-- Content Block -->
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-<!-- Content Block -->
+<br><br><br>
+## ADDITIONALS
 
-
-
+<br><br><br>
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-Chemistry.md" target="_blank" style="color:white">Edit</a></span>
