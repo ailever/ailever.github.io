@@ -28,7 +28,7 @@ author_staff_member: anonym
 
 --- 
 
-## Paper Review
+## PAPER REVIEW
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
