@@ -24,6 +24,7 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Deep Learning
+- Hopfield Network
 - Multi-Layer Perceptron
 - Convolutional Neural Network
 - Recurent Neural Network
