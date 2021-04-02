@@ -18,9 +18,32 @@ author_staff_member: ailever
 
 
 ## Natural Language Processing
+- Sentence Embeddings
+- Machine Translation
+- Question Answering
+- Language Modelling
+- Text Classification
+- Text Generation
+- Text Summarization
+- Named Entity Recognition
+- Visual Question Answering
+- Emotion Recognition
+- Sentiment Analysis
+
 
 <br><br><br>
 ## Computer Vision
+- Image Classification
+- Object Detection
+- Domain Adaptation
+- Denoising
+- Few-Shot Learning
+- Zero-Shot Learning
+- Anomaly Detection
+- Image Generation
+- Pose Estimation
+- Object Tracking
+
 
 <br><br><br>
 ## Deep Learning
