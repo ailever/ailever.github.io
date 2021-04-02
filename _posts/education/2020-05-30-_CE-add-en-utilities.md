@@ -41,6 +41,15 @@ author_staff_member: anonym
 - [Perl](https://strawberryperl.com/)
 - [MiKTeX](https://miktex.org/)
 
+<code class="code-title">file.tex</code>
+<pre class="latex-code">
+\documentclass[12pt]{article}
+\begin{document}
+Hello world!
+$Hello world!$
+\end{document}
+</pre>
+
 ### Extension
 - [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 - [LaTex Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
