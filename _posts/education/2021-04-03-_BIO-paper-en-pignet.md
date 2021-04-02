@@ -1,9 +1,9 @@
 ---
-title: PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
+title: PIGNet, A physics-informed deep learning model toward generalized drug-target interaction predictions
 prev1_title: PAPER REVIEW
 prev2_title: Biology
 date: 2021-04-03
-description: PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
+description: PIGNet, A physics-informed deep learning model toward generalized drug-target interaction predictions
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
   - education
