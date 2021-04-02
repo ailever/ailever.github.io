@@ -25,12 +25,41 @@ author_staff_member: ailever
 <br><br><br>
 ## Deep Learning
 - Hopfield Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Multi-Layer Perceptron
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Convolutional Neural Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Recurent Neural Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Graph Neural Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Generative Adversarial Network
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Variational Auto-Encoder
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Machine Learning
