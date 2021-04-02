@@ -121,6 +121,11 @@ author_staff_member: ailever
 --- 
 
 ## PAPER REVIEW
+- PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
+<span style="font-size:small;">
+  :[url](https://arxiv.org/pdf/2008.12249.pdf)
+  :review
+</span>
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
