@@ -16,7 +16,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Biological_organisation'">Biological Organisation, WIKI</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
 
 ## Acellular level and Pre-cellular level
