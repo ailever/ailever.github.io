@@ -21,9 +21,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Targeting Approaches
-### Physical Approache
-### Chemical Approache
-### Biological Approache
+### Physical Approach
+### Chemical Approach
+### Biological Approach
 
 ## Interaction
 ### protein-ligand complex
