@@ -79,23 +79,22 @@ author_staff_member: anonym
   :en
   :kr
 </span>
-- Coordination Chemistry
-  - Structures and Isomers
+- Coordination Chemistry: Structures and Isomers
 <span style="font-size:small;">
   :en
   :kr
 </span>
-  - Bonding
+- Coordination Chemistry: Bonding
 <span style="font-size:small;">
   :en
   :kr
 </span>
-  - Electronic Spectra
+- Coordination Chemistry: Electronic Spectra
 <span style="font-size:small;">
   :en
   :kr
 </span>
-  - Reactions and Mechanisms
+- Coordination Chemistry: Reactions and Mechanisms
 <span style="font-size:small;">
   :en
   :kr
