@@ -19,7 +19,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Terminology in Human Anatomy by Biologoical Human System
+### Terminology in Human Anatomy
 Regions of the Human Body  
 ![image](https://user-images.githubusercontent.com/52376448/113470324-c322bd00-948f-11eb-8e72-89921106565a.png)
 
@@ -33,7 +33,7 @@ Regions and Quadrants of the Peritoneal Cavity
 ![image](https://user-images.githubusercontent.com/52376448/113470380-08df8580-9490-11eb-8463-c09dc1604580.png)
 
 <br><br><br>
-### Musculoskeletal System
+### Terminology in Musculoskeletal System
 Overview of the Muscular System  
 ![image](https://user-images.githubusercontent.com/52376448/113470171-7ab6cf80-948e-11eb-9a25-8e5b98964280.png)
 
@@ -41,12 +41,12 @@ Human synovial joint composition
 ![image](https://user-images.githubusercontent.com/52376448/113470411-62e04b00-9490-11eb-91b7-b8d98bb50b19.png)
 
 <br><br><br>
-### Circulatory System	
+### Terminology in Circulatory System	
 The human circulatory system  
 ![image](https://user-images.githubusercontent.com/52376448/113470426-7d1a2900-9490-11eb-96fa-f0d0140bbdd8.png)
 
 <br><br><br>
-### Nervous System
+### Terminology in Nervous System
 The human nervous system  
 ![image](https://user-images.githubusercontent.com/52376448/113469970-cb2d2d80-948c-11eb-85c1-2d37d02b1317.png)
 
@@ -61,25 +61,25 @@ Simplified schema of basic nervous system function
 ![image](https://user-images.githubusercontent.com/52376448/113470113-f1070200-948d-11eb-8055-caf870abc84e.png)
 
 <br><br><br>
-### Integumentary System	
+### Terminology in Integumentary System	
 
 <br><br><br>
-### Immune Systems
+### Terminology in Immune Systems
 
 <br><br><br>
-### Respiratory System	
+### Terminology in Respiratory System	
 
 <br><br><br>
-### Digestive System	
+### Terminology in Digestive System	
 
 <br><br><br>
-### Urinary System	
+### Terminology in Urinary System	
 
 <br><br><br>
-### Reproductive System	
+### Terminology in Reproductive System	
 
 <br><br><br>
-### Endocrine System	
+### Terminology in Endocrine System	
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
