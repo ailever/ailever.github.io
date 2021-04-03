@@ -22,6 +22,11 @@ author_staff_member: anonym
 
 ## Functional Form in Molecular Systems
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E=a+b$$
+
+</div>
+
 $$a+b$$
 
 ab
