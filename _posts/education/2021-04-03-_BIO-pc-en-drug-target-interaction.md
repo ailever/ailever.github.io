@@ -25,7 +25,7 @@ author_staff_member: anonym
 ### Chemical Approach
 ### Biological Approach
 
-<br>
+<br><br><br>
 ## Protein-Ligand Interaction
 ### Protein-Ligand Complex
 - VDW interaction
@@ -33,14 +33,17 @@ author_staff_member: anonym
 - metal-ligand interaction
 - hydrophobic interaction
 
+<br><br><br>
 ### Evaluation Metric
 - scoring power, ranking power, docking power, screening power
 
+<br><br><br>
 ### Popular docking programs for DTI predictions
 - X-Score10, AutoDock Vina8, ChemPLP@GOLD15, GlideScore
 
 
-
+<br><br><br>
+## Druggability Prediction
 
 
 
