@@ -21,6 +21,19 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Terminology in Human Anatomy by Biologoical Human System
+Regions of the Human Body  
+![image](https://user-images.githubusercontent.com/52376448/113470324-c322bd00-948f-11eb-8e72-89921106565a.png)
+
+Directional Terms Applied to the Human Body  
+![image](https://user-images.githubusercontent.com/52376448/113470357-e5b4d600-948f-11eb-8cb4-5d2175a9ab3e.png)
+
+Planes of the Body  
+![image](https://user-images.githubusercontent.com/52376448/113470364-f6fde280-948f-11eb-979d-8eb073ae632b.png)
+
+Regions and Quadrants of the Peritoneal Cavity  
+![image](https://user-images.githubusercontent.com/52376448/113470380-08df8580-9490-11eb-8463-c09dc1604580.png)
+
+<br><br><br>
 ### Musculoskeletal System
 Overview of the Muscular System  
 ![image](https://user-images.githubusercontent.com/52376448/113470171-7ab6cf80-948e-11eb-9a25-8e5b98964280.png)
