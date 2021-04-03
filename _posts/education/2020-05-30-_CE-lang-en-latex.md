@@ -43,7 +43,7 @@ Hello world!
 <ol>
   <li><a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">LaTex Tutorial, OverLeaf</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Help:Displaying_a_formula">LaTex displaying a formula, Wikipedia</a></li>
-  <li></li>
+  <li><a href="https://www.dickimaw-books.com/latex/novices/html/contents.html">LaTex Syntax</a></li>
 </ol>
 </div>
 <!-- Reference Block -->
