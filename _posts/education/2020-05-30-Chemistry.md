@@ -45,6 +45,73 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Inorganic Chemistry
+- Atomic Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Simple Bonding Theory
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Symmetry and Group Theory
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Molecular Orbitals
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Acid–Base and Donor–Acceptor Chemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- The Crystalline Solid State
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Chemistry of the Main Group Elements
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Coordination Chemistry
+  - Structures and Isomers
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+  - Bonding
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+  - Electronic Spectra
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+  - Reactions and Mechanisms
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Organometallic Chemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Organometallic Reactions and Catalysis
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Parallels between Main Group and Organometallic Chemistry
 <span style="font-size:small;">
   :en
   :kr
