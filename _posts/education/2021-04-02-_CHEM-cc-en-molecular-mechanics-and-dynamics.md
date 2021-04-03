@@ -21,6 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Functional Form in Molecular Systems
+
 $$a+b$$
 
 <!-- Content Block -->
