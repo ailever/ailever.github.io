@@ -26,7 +26,7 @@ author_staff_member: anonym
 ### Biological Approach
 
 <br>
-## Interaction
+## Protein-Ligand Interaction
 ### Protein-Ligand Complex
 - VDW interaction
 - hydrogen bond interaction
