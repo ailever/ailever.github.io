@@ -78,7 +78,7 @@ Simplified schema of basic nervous system function
 <ol>
   <li><a href="https://www.researchgate.net/figure/The-structure-of-a-typical-neuron-18_fig2_258652036">The-structure-of-a-typical-neuron-18_fig2_258652036</a></li>
   <li><a href="https://courses.lumenlearning.com/ap1/chapter/naming-skeletal-muscles/">naming-skeletal-muscles</a></li>
-  <li></li>
+  <li><a href="https://open.oregonstate.education/aandp/chapter/1-4-anatomical-terminology/">1-4-anatomical-terminology</a></li>
 </ol>
 </div>
 <!-- Reference Block -->
