@@ -19,7 +19,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Computational Chemistry
-- Molecular Dynamics
+- Molecular Mechanics and Dynamics
 <span style="font-size:small;">
   :en
   :kr
