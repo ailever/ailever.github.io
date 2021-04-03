@@ -76,7 +76,7 @@ Simplified schema of basic nervous system function
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Reference</b>
 <ol>
-  <li></li>
+  <li><a href="https://www.researchgate.net/figure/The-structure-of-a-typical-neuron-18_fig2_258652036">The-structure-of-a-typical-neuron-18_fig2_258652036</a></li>
   <li></li>
   <li></li>
 </ol>
