@@ -59,7 +59,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b>Reference</b>
 <ol>
-  <li></li>
+  <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex">Protein-Ligand Complex</a></li>
   <li></li>
   <li></li>
 </ol>
