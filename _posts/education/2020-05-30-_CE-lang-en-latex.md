@@ -29,7 +29,11 @@ Hello world!
 \end{document}
 </pre>
 
+<br><br><br>
 ## Structuring Document
+### Author and Title Information
+### Abstract
+### Chapters, Sections, Subsections
 
 
 <!-- Content Block -->
