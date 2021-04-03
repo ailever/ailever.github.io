@@ -18,8 +18,11 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Computational Chemistry
 
-## Analytical chemistry
+
+<br><br><br>
+## Analytical Chemistry
 
 <br><br><br>
 ## Quantum Chemistry
