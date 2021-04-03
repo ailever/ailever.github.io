@@ -33,7 +33,8 @@ Regions and Quadrants of the Peritoneal Cavity
 ![image](https://user-images.githubusercontent.com/52376448/113470380-08df8580-9490-11eb-8463-c09dc1604580.png)
 
 <br><br><br>
-## Terminology in Musculoskeletal System
+## Terminology in Organ system
+### Musculoskeletal System
 Overview of the Muscular System  
 ![image](https://user-images.githubusercontent.com/52376448/113470171-7ab6cf80-948e-11eb-9a25-8e5b98964280.png)
 
@@ -41,12 +42,12 @@ Human synovial joint composition
 ![image](https://user-images.githubusercontent.com/52376448/113470411-62e04b00-9490-11eb-91b7-b8d98bb50b19.png)
 
 <br><br><br>
-## Terminology in Circulatory System	
+### Circulatory System	
 The human circulatory system  
 ![image](https://user-images.githubusercontent.com/52376448/113470426-7d1a2900-9490-11eb-96fa-f0d0140bbdd8.png)
 
 <br><br><br>
-## Terminology in Nervous System
+### Nervous System
 The human nervous system  
 ![image](https://user-images.githubusercontent.com/52376448/113469970-cb2d2d80-948c-11eb-85c1-2d37d02b1317.png)
 
@@ -61,13 +62,13 @@ Simplified schema of basic nervous system function
 ![image](https://user-images.githubusercontent.com/52376448/113470113-f1070200-948d-11eb-8055-caf870abc84e.png)
 
 <br><br><br>
-## Terminology in Integumentary System	
+### Integumentary System	
 Cross-section of all skin layers  
 ![image](https://user-images.githubusercontent.com/52376448/113471648-afc81f80-9498-11eb-9e36-228a4e236cec.png)
 
 
 <br><br><br>
-## Terminology in Immune Systems
+### Immune Systems
 Overview of the processes involved in the primary immune response  
 ![image](https://user-images.githubusercontent.com/52376448/113471664-d1290b80-9498-11eb-9d69-a906f7362ec3.png)
 
@@ -75,12 +76,12 @@ Antibody
 ![image](https://user-images.githubusercontent.com/52376448/113471681-f7e74200-9498-11eb-9ee7-cf34623fe4c0.png)
 
 <br><br><br>
-## Terminology in Respiratory System	
+### Respiratory System	
 Schematic view of the human respiratory system
 ![image](https://user-images.githubusercontent.com/52376448/113471695-164d3d80-9499-11eb-9da8-ebee466bcf42.png)
 
 <br><br><br>
-## Terminology in Digestive System	
+### Digestive System	
 Human digestive system  
 ![image](https://user-images.githubusercontent.com/52376448/113471730-4dbbea00-9499-11eb-838c-621ccfebada3.png)
 
@@ -103,13 +104,13 @@ Duodenum
 ![image](https://user-images.githubusercontent.com/52376448/113471863-316c7d00-949a-11eb-9e35-2ed7c47bae0e.png)
 
 <br><br><br>
-## Terminology in Urinary System	
+### Urinary System	
 
 <br><br><br>
-## Terminology in Reproductive System	
+### Reproductive System	
 
 <br><br><br>
-## Terminology in Endocrine System	
+### Endocrine System	
 Main glands of the endocrine system  
 ![image](https://user-images.githubusercontent.com/52376448/113471786-c28f2400-9499-11eb-9169-0c0f2f666410.png)
 
