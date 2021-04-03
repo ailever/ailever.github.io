@@ -93,6 +93,9 @@ The main salivary glands
 Tongue  
 ![image](https://user-images.githubusercontent.com/52376448/113471755-86f45a00-9499-11eb-9a62-02bf99dff3dc.png)
 
+Small intestine  
+![image](https://user-images.githubusercontent.com/52376448/113472017-282fe000-949b-11eb-9479-aeaef01e6295.png)
+
 Duodenum  
 ![image](https://user-images.githubusercontent.com/52376448/113471863-316c7d00-949a-11eb-9e35-2ed7c47bae0e.png)
 
