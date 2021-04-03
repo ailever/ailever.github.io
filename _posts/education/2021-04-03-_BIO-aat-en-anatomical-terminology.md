@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Human Anatomy by Biologoical Human System
+## Terminology in Human Anatomy by Biologoical Human System
 ### Musculoskeletal System
 
 <br><br><br>
