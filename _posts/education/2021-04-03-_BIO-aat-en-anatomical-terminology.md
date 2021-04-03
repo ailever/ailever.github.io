@@ -28,6 +28,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ### Nervous System
+The human nervous system  
 ![image](https://user-images.githubusercontent.com/52376448/113469970-cb2d2d80-948c-11eb-85c1-2d37d02b1317.png)
 
 Neuron  
@@ -36,6 +37,9 @@ Neuron
 
 Structure of a typical chemical synapse  
 ![image](https://user-images.githubusercontent.com/52376448/113470085-c026cd00-948d-11eb-86d5-0245a987ae4f.png)
+
+Simplified schema of basic nervous system function
+![image](https://user-images.githubusercontent.com/52376448/113470113-f1070200-948d-11eb-8055-caf870abc84e.png)
 
 <br><br><br>
 ### Integumentary System	
