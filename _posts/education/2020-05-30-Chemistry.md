@@ -51,7 +51,7 @@ author_staff_member: anonym
 </span>
 - Simple Bonding Theory
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-simple-bonding-theory/)
   :kr
 </span>
 - Symmetry and Group Theory
