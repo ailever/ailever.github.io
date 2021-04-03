@@ -23,15 +23,25 @@ author_staff_member: anonym
 ### Atoms
 ### Molecule
 ### Biomolecular complex
+
+<br><br><br>
 ## Sub-cellular level	
 ### Organelle
+
+<br><br><br>
 ## Cellular level
 ### Cell
+
+<br><br><br>
 ## Super-cellular level(Multicellular level)
 ### Tissue
+
+<br><br><br>
 ## Organ level
 ### Organ
 ### Organ system	
+
+<br><br><br>
 ## Ecological levels	
 ### Organism	
 
