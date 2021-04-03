@@ -31,9 +31,22 @@ Hello world!
 
 <br><br><br>
 ## Structuring Document
+
+<br><br><br>
 ### Author and Title Information
+
+<br><br><br>
 ### Abstract
+
+<br><br><br>
 ### Chapters, Sections, Subsections
+
+<br><br><br>
+### Table of Contents
+
+<br><br><br>
+### Page Styles and Page Numbering
+
 
 
 <!-- Content Block -->
