@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Functional Form in Molecular Systems
+## Functional Form in Molecular System
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align}
