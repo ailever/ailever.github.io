@@ -34,7 +34,18 @@ author_staff_member: anonym
 - hydrophobic interaction
 
 ### Evaluation Metric
-- scoring power, ranking power, docking power, and screening power
+- scoring power, ranking power, docking power, screening power
+
+### Popular docking programs for DTI predictions
+- X-Score10, AutoDock Vina8, ChemPLP@GOLD15, GlideScore
+
+
+
+
+
+
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
