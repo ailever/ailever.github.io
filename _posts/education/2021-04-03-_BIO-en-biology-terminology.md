@@ -84,6 +84,9 @@ Schematic view of the human respiratory system
 Human digestive system  
 ![image](https://user-images.githubusercontent.com/52376448/113471730-4dbbea00-9499-11eb-838c-621ccfebada3.png)
 
+Gastrointestinal tract  
+![image](https://user-images.githubusercontent.com/52376448/113472169-21ee3380-949c-11eb-9238-3f7cad9da02d.png)
+
 3D Medical Illustration Explaining Oral Digestive System  
 ![image](https://user-images.githubusercontent.com/52376448/113471742-67f5c800-9499-11eb-8ac7-53462fc14adf.png)
 
