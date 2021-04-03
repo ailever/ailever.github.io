@@ -34,6 +34,9 @@ Neuron
 ![image](https://user-images.githubusercontent.com/52376448/113470049-88b82080-948d-11eb-81cd-a3663cbd7743.png)
 ![image](https://user-images.githubusercontent.com/52376448/113470017-41319480-948d-11eb-8ff8-24af99938dba.png)
 
+Structure of a typical chemical synapse  
+![image](https://user-images.githubusercontent.com/52376448/113470085-c026cd00-948d-11eb-86d5-0245a987ae4f.png)
+
 <br><br><br>
 ### Integumentary System	
 
