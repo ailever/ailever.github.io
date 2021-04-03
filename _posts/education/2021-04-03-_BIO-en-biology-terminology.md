@@ -1,9 +1,8 @@
 ---
-title: Anatomical Terminology
-prev1_title: Anatomy
-prev2_title: Biology
+title: Biology Terminology
+prev1_title: Biology
 date: 2021-04-03
-description: Anatomical Terminology 
+description: Biology Terminology 
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
   - education
