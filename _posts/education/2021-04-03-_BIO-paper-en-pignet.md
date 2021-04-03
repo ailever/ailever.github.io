@@ -21,7 +21,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions
-
+### Two key strategies to enhance the generalization ability of DTI models
+- Novel physics-informed graph neural network
+- Data augmentation strategy
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
