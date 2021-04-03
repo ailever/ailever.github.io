@@ -25,12 +25,16 @@ author_staff_member: anonym
 ### Chemical Approach
 ### Biological Approach
 
+<br>
 ## Interaction
-### protein-ligand complex
+### Protein-Ligand Complex
 - VDW interaction
 - hydrogen bond interaction
 - metal-ligand interaction
 - hydrophobic interaction
+
+### Evaluation Metric
+- scoring power, ranking power, docking power, and screening power
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
