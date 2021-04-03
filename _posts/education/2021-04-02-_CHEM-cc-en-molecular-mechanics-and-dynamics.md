@@ -23,15 +23,12 @@ author_staff_member: anonym
 ## Functional Form in Molecular Systems
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$E=a+b$$
+$$\begin{align}
+E & = E + E \\
+& = E + E \\
+\end{align}$$
 
 </div>
-
-$$a+b$$
-
-ab
-
-$a+b$
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
