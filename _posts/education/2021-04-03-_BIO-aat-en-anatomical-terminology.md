@@ -38,8 +38,13 @@ Regions and Quadrants of the Peritoneal Cavity
 Overview of the Muscular System  
 ![image](https://user-images.githubusercontent.com/52376448/113470171-7ab6cf80-948e-11eb-9a25-8e5b98964280.png)
 
+Human synovial joint composition  
+![image](https://user-images.githubusercontent.com/52376448/113470411-62e04b00-9490-11eb-91b7-b8d98bb50b19.png)
+
 <br><br><br>
 ### Circulatory System	
+The human circulatory system  
+![image](https://user-images.githubusercontent.com/52376448/113470426-7d1a2900-9490-11eb-96fa-f0d0140bbdd8.png)
 
 <br><br><br>
 ### Nervous System
