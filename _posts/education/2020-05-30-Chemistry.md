@@ -19,6 +19,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Computational Chemistry
+- Ab initio methods
+- Density functional theory
+- Quantum chemistry methods
 - Molecular Mechanics and Dynamics
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/)
