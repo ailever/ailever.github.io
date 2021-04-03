@@ -62,15 +62,36 @@ Simplified schema of basic nervous system function
 
 <br><br><br>
 ### Terminology in Integumentary System	
+Cross-section of all skin layers  
+![image](https://user-images.githubusercontent.com/52376448/113471648-afc81f80-9498-11eb-9e36-228a4e236cec.png)
+
 
 <br><br><br>
 ### Terminology in Immune Systems
+Overview of the processes involved in the primary immune response  
+![image](https://user-images.githubusercontent.com/52376448/113471664-d1290b80-9498-11eb-9d69-a906f7362ec3.png)
+
+Antibody  
+![image](https://user-images.githubusercontent.com/52376448/113471681-f7e74200-9498-11eb-9ee7-cf34623fe4c0.png)
 
 <br><br><br>
 ### Terminology in Respiratory System	
+Schematic view of the human respiratory system
+![image](https://user-images.githubusercontent.com/52376448/113471695-164d3d80-9499-11eb-9da8-ebee466bcf42.png)
 
 <br><br><br>
 ### Terminology in Digestive System	
+Human digestive system  
+![image](https://user-images.githubusercontent.com/52376448/113471730-4dbbea00-9499-11eb-838c-621ccfebada3.png)
+
+3D Medical Illustration Explaining Oral Digestive System  
+![image](https://user-images.githubusercontent.com/52376448/113471742-67f5c800-9499-11eb-8ac7-53462fc14adf.png)
+
+The main salivary glands  
+![image](https://user-images.githubusercontent.com/52376448/113471746-75ab4d80-9499-11eb-8a67-27b52b49da09.png)
+
+Tongue  
+![image](https://user-images.githubusercontent.com/52376448/113471755-86f45a00-9499-11eb-9a62-02bf99dff3dc.png)
 
 <br><br><br>
 ### Terminology in Urinary System	
@@ -80,6 +101,10 @@ Simplified schema of basic nervous system function
 
 <br><br><br>
 ### Terminology in Endocrine System	
+Main glands of the endocrine system  
+![image](https://user-images.githubusercontent.com/52376448/113471786-c28f2400-9499-11eb-9169-0c0f2f666410.png)
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
