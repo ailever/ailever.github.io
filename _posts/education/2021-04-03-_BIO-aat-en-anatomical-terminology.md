@@ -30,7 +30,7 @@ author_staff_member: anonym
 ### Nervous System
 ![image](https://user-images.githubusercontent.com/52376448/113469970-cb2d2d80-948c-11eb-85c1-2d37d02b1317.png)
 
-Neuron
+Neuron  
 ![image](https://user-images.githubusercontent.com/52376448/113470017-41319480-948d-11eb-8ff8-24af99938dba.png)
 
 <br><br><br>
