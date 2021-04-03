@@ -60,6 +60,8 @@ author_staff_member: anonym
 <b>Reference</b>
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex">Protein-Ligand Complex</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_docking">Protein-ligand docking</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>  
   <li></li>
   <li></li>
 </ol>
@@ -71,7 +73,6 @@ author_staff_member: anonym
 <b>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>
   <li></li>
 </ol>
 </div>
