@@ -71,7 +71,7 @@ author_staff_member: anonym
 <b>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
-  <li></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>
   <li></li>
 </ol>
 </div>
