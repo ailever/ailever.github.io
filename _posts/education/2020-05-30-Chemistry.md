@@ -21,7 +21,7 @@ author_staff_member: anonym
 ## Computational Chemistry
 - Molecular Mechanics and Dynamics
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/)
   :kr
 </span>
 
