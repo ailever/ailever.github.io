@@ -148,7 +148,7 @@ Big Firm in Pharmaceutical Industry
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/Molecular_modelling">Molecular modelling</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex">Protein-Ligand Complex</a></li>
@@ -166,7 +166,7 @@ Big Firm in Pharmaceutical Industry
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
   <li></li>
