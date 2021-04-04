@@ -17,8 +17,12 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://ccsb.scripps.edu/autodock/'">AutoDock</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Set of small-molecule chemicals found within a biological sample
+- Genome(DNA) > Transcriptome(RNA) > Proteome(Proteins) > Metabolome(Metabolities) > Phenome(Metabolic syndorme, Psychiatric disease)
+![image](https://user-images.githubusercontent.com/52376448/113499702-02661200-9553-11eb-9371-c4d0237aff4c.png)
 
 ## Drug Development Process
 - Target Discovery
@@ -43,13 +47,14 @@ author_staff_member: anonym
   - EMA
 - Market
 
-<br><br><br>
 ### Cost of Target Discovery
 Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
-### Set of small-molecule chemicals found within a biological sample
-- Genome(DNA) > Transcriptome(RNA) > Proteome(Proteins) > Metabolome(Metabolities) > Phenome(Metabolic syndorme, Psychiatric disease)
-![image](https://user-images.githubusercontent.com/52376448/113499702-02661200-9553-11eb-9371-c4d0237aff4c.png)
+### Drug-Target Network
+- **Drug, Target, Disease, Gene**
+- Interaction Type
+  - Drug-Target, Drug-Drug, Disease-Disease
+
 
 <br><br><br>
 ## Targeting Approaches
