@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
-## Drug Development
+## Cost of Drug Development
 Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 <br><br><br>
