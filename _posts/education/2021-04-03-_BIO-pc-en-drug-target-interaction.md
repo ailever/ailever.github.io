@@ -80,9 +80,9 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta G_{bind} = -kT \ln K$$
-- $\Delta G_{bind}$: Absolute binding free energy
-- k: Boltzmann constant
-- T: Absolute temperature
+- $\Delta G_{bind}$: Absolute binding free energy<br>
+- k: Boltzmann constant<br>
+- T: Absolute temperature<br>
 <br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
