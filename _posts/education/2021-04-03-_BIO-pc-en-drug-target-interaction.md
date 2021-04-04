@@ -69,8 +69,8 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
   - Drug-Target, Drug-Drug, Target-Gene, Disease-Disease, Drug-Disease, ... 
 
 ### CADD : Computer-Aided Drug Discovery
-- Structure-based(Direct drug design) : Molecular docking
-- Ligand-based(Indirect drug design) : Quantitative structure-activity relationship (QSAR)
+- SBDD, Structure-based drug design(Direct drug design) : Molecular docking
+- LBDD, Ligand-based drug design(Indirect drug design) : Quantitative structure-activity relationship (QSAR)
 
 
 <br><br><br>
