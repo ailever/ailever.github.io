@@ -36,7 +36,7 @@ $ cat /etc/os-release
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li></li>
   <li></li>
@@ -53,7 +53,7 @@ $ cat /etc/os-release
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
