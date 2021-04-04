@@ -20,7 +20,17 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
-## Cost of Drug Discovery
+## Drug Development
+- Target Discovery
+- Discovery & Screening
+- Lead Optimization
+- ADMET
+- Development
+- Registration
+- Market
+
+<br><br><br>
+## Cost of Target Discovery
 Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 <br><br><br>
