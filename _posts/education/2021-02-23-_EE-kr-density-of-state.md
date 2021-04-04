@@ -287,7 +287,7 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E1/2$$
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li> Physics of Semiconductor Devices  -Wiley-Interscience (2006)</li>
   <li> Donald Neamen-Semiconductor physics and devices_ basic principles-McGraw-Hill (2012)</li> 
@@ -302,7 +302,7 @@ $$이상적인\ 상황\ :\ ρDOS(1D)∝E1/2$$
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
