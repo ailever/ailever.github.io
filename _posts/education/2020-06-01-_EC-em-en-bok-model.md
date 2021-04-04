@@ -35,7 +35,7 @@ author_staff_member: anonym
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li></li>
   <li></li>
@@ -46,7 +46,7 @@ author_staff_member: anonym
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
