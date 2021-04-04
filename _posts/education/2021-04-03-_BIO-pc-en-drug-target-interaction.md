@@ -69,8 +69,8 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
   - Drug-Target, Drug-Drug, Target-Gene, Disease-Disease, Drug-Disease, ... 
 
 ### Type of Drug Design
-- Structure-based
-- Ligand-based
+- Structure-based(Direct drug design) : Molecular docking
+- Ligand-based(Indirect drug design) : Quantitative structure-activity relationship (QSAR)
 
 
 <br><br><br>
