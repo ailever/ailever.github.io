@@ -81,7 +81,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align}
   \Delta G_{bind} & = -kT \ln \frac{K}{V_{ref}} \\
-  & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int abc\, dr} \\
+  & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
 \end{align}$$
 - $\Delta G_{bind}$: Absolute binding free energy<br>
 - k: Boltzmann constant<br>
