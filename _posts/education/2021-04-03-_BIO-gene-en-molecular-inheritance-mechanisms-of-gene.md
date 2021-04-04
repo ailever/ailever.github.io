@@ -30,6 +30,7 @@ author_staff_member: anonym
 - Chromosome
 - Haploid
 - Plasma membrane
+- Ex: bateria
 
 ### Eukaryote(Organisms with nuclei)
 - Nucleus
@@ -39,7 +40,7 @@ author_staff_member: anonym
 - Diploid
 - Organlle
 - Plasma membrane
-
+- Ex: yeast
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
