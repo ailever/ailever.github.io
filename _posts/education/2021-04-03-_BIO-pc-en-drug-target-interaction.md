@@ -89,6 +89,7 @@ $$\begin{align}
 - $V_{ref}$: Reference volume in units consistent<br>
 - $\beta=1/kT$<br>
 - $\mathbf{r}, \boldsymbol{\Omega}$: Relative position, orientation<br>
+- $H$: Ensemble average
 <br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
