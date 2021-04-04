@@ -49,7 +49,7 @@ author_staff_member: anonym
 - locus(position)
 - haploid, diploid, ployploid, aneuploid
 - [deoxyribo|ribo]nucleic acid
-- nucleotide(), nucleoside, pentose sugar
+- nucleotide(pentose sugar, base, phosphate group), nucleoside(pentose sugar, base), pentose sugar(DNA:2-deoxyribose, RNA:ribose)
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
