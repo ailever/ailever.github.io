@@ -27,6 +27,8 @@ author_staff_member: anonym
 ### Network Analysis
 - (Based on Omics) Genomics, Transcriptomics, Proteomics, Lipidomics, Metabolomics
 
+### Scaling Analysis
+
 <br><br><br>
 ## Drug Development Process
 - Target Discovery
