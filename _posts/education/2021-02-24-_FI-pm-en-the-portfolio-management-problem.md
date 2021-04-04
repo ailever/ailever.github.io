@@ -61,7 +61,7 @@ $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='ART'>Reference</b>
 <ol>
   <li></li>
   <li></li>
@@ -72,7 +72,7 @@ $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
