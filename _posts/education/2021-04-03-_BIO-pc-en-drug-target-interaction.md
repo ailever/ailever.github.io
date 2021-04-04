@@ -90,7 +90,13 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 
 
-
+## Additionals
+Bio Big Firm
+- Johnson & Johnson
+- Pfizer
+- Santen
+- Merck
+- Novartis
 
 
 <!-- Content Block -->
