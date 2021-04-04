@@ -44,8 +44,11 @@ author_staff_member: anonym
 - Market
 
 <br><br><br>
-## Cost of Target Discovery
+### Cost of Target Discovery
 Drug > Target(Therapeutic Effect), off-Target(Side Effect)
+
+### Set of small-molecule chemicals found within a biological sample
+- Genome(DNA) > Transcriptome(RNA) > Proteome(Proteins) > Metabolome(Metabolities) > Phenome(Metabolic syndorme, Psychiatric disease)
 
 <br><br><br>
 ## Targeting Approaches
