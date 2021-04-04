@@ -78,6 +78,11 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 <br><br><br>
 ## Molecular Binding under Statistical Thermodynamic Perspective
 ### The Binding Constant and Free Energy
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\del G_{bind} = -kT lnK$$
+<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
 ## Protein-Ligand Interaction
