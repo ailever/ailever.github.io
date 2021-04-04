@@ -99,7 +99,7 @@ $$\begin{align}
 ### The Quasi-Harmonic Approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\pi^{6}\det{(C_{\mathbf{r}\boldsymbol{\Omega}})})})}$$
-- $C_{\mathbf{r}\boldsymbol{\Omega}}$: s the $66$ fluctuation covariance matrix of the three positional and three orientation coordinates
+- $C_{\mathbf{r}\boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
 ###
