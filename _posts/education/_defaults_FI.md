@@ -32,9 +32,9 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
 </ol>
 <br><br></div>
 <!-- Reference Block -->
@@ -43,9 +43,9 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
 </ol>
 </div>
 <!-- Article Block -->
