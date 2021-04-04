@@ -81,6 +81,11 @@ author_staff_member: anonym
   <li></li>
   <li></li>
 </ol>
+<ul>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
 </div>
 <!-- Article Block -->
 
