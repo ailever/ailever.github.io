@@ -53,7 +53,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ### Drug-Target Network
 - **Drug, Target, Disease, Gene**
 - Interaction Type
-  - Drug-Target, Drug-Drug, Disease-Disease
+  - Drug-Target, Drug-Drug, Target-Gene, Disease-Disease, Drug-Disease, ... 
 
 
 <br><br><br>
