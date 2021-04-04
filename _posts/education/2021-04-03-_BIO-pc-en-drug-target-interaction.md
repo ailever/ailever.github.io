@@ -76,6 +76,10 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ### Biological Approach
 
 <br><br><br>
+## Molecular Binding under Statistical Thermodynamic Perspective
+### The Binding Constant and Free Energy
+
+
 ## Protein-Ligand Interaction
 ### Protein-Ligand Complex
 - VDW interaction
