@@ -21,12 +21,26 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Drug Development
-- Target Discovery(in-vitro function, in-vivo validation)
+- Target Discovery
+  - Expression analysis
+  - in-vitro function, in-vivo validation(knockout)
+  - Bioinformatics
 - Discovery & Screening
+  - Discovery : Structural drug desgin
+  - Screening : In-vitro, Ex&In-vivo
 - Lead Optimization
+  - Traditional medicinal chemistry
+  - Retional drug desgin
 - ADMET
+  - BA
+  - Systemic exposure
+  - Characteristic for ADMET
 - Development
+  - Clinic Phase
 - Registration
+  - MFDS
+  - FDA
+  - EMA
 - Market
 
 <br><br><br>
