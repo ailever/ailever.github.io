@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
-## Drug Development
+## Drug Development Process
 - Target Discovery
   - Expression analysis
   - in-vitro function, in-vivo validation(knockout)
