@@ -79,7 +79,10 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ## Molecular Binding under Statistical Thermodynamic Perspective
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{bind} = -kT \ln \frac{K}{V_{ref}}$$
+$$\begin{align}
+  \Delta G_{bind} & = -kT \ln \frac{K}{V_{ref}} \\
+  & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int abc\, dr} \\
+\end{align}$$
 - $\Delta G_{bind}$: Absolute binding free energy<br>
 - k: Boltzmann constant<br>
 - T: Absolute temperature<br>
