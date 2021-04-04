@@ -16,6 +16,7 @@ author_staff_member: anonym
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='https://ccsb.scripps.edu/autodock/'">AutoDock</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Latex Formula</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Drug_design'">Drug Design</button>  
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Equilibrium_chemistry'">Equilibrium Chemistry</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Chemical_equilibrium'">Chemical Equilibrium</button>
 </div>
