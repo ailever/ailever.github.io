@@ -84,8 +84,11 @@ $$\begin{align}
   & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
 \end{align}$$
 - $\Delta G_{bind}$: Absolute binding free energy<br>
-- k: Boltzmann constant<br>
-- T: Absolute temperature<br>
+- $k$: Boltzmann constant<br>
+- $T$: Absolute temperature<br>
+- $V_{ref}$: Reference volume in units consistent<br>
+- $\beta=1/kT$<br>
+- $\mathbf{r}, \boldsymbol{\Omega}$: Relative position, orientation<br>
 <br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
