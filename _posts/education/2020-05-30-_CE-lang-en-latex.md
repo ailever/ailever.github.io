@@ -59,7 +59,7 @@ Hello world!
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li><a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">LaTex Tutorial, OverLeaf</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Help:Displaying_a_formula">LaTex displaying a formula, Wikipedia</a></li>
@@ -70,7 +70,7 @@ Hello world!
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-add-en-utilities/">Installation</a></li>
   <li></li>
