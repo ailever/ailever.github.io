@@ -36,6 +36,11 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
+<ul>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
 <br><br></div>
 <!-- Reference Block -->
 
@@ -47,11 +52,6 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
-<ul>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
-</ul>
 </div>
 <!-- Article Block -->
 
