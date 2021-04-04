@@ -33,6 +33,8 @@ author_staff_member: anonym
 ### pdbbind_v2019_cross_screening
 ### pdbbind_v2019_docking_nowater
 ### pdbbind_v2019_random_screening
+- https://chembl.gitbook.io/chembl-interface-documentation/
+- https://www.ibscreen.com/
 ### pdbbind_v2019_refined
 ### rcsb_pdb
 
