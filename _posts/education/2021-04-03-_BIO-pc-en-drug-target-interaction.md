@@ -142,7 +142,7 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_docking">Protein-ligand docking</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>  
   <li><a href="https://www.youtube.com/watch?v=2ewpDYW081Y">AutoDock Vina Installation (Tutorial)</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://m.ibric.org/trend/news/?listmode=publish&listmode2=publisher&PARA3=21"></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
