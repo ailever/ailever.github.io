@@ -20,6 +20,10 @@ author_staff_member: anonym
 </div><br>
 <!-- Top Block -->
 
+## Drug Development
+Drug > Target(Therapeutic Effect), off-Target(Side Effect)
+
+<br><br><br>
 ## Targeting Approaches
 ### Physical Approach
 ### Chemical Approach
