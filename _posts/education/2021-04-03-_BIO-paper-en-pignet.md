@@ -54,14 +54,14 @@ author_staff_member: anonym
   <li><a href="http://www.pdbbind-cn.org/">PDBbind Dataset</a></li>
   <li><a href="http://www.csardock.org/">CSAR Dataset</a></li>
   <li><a href="https://www.rcsb.org/">RCSB Dataset</a></li>  
+  <li><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">(2018) KDEEP: Protein-Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
   <li>Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
 </ol>
 </div>
 <!-- Reference Block -->
