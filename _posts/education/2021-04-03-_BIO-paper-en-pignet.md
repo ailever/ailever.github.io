@@ -67,8 +67,8 @@ author_staff_member: anonym
   <li><a href="https://deepmind.com/research/publications/Lagrangian-Neural-Networks">(2020) Lagrangian Neural Networks</a></li>
   <li><a href="https://deepmind.com/research/publications/hamiltonian-descent-methods">(2018) Hamiltonian Descent Methods</a></li>
   <li><a href="https://deepmind.com/research/publications/Equivariant-Hamiltonian-Flows">(2019) Equivariant Hamiltonian Flows</a></li>
-  <li>Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</li>
-  <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
+  <li><a href="https://link.springer.com/article/10.1208/s12248-017-0092-6">(2017) Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">(2020) FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
 </ol>
 </div>
 <!-- Reference Block -->
