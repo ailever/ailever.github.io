@@ -45,11 +45,11 @@ author_staff_member: anonym
 <br><br><br>
 ## Molecular Basis
 - Homologous Chromosome
-- gene, dominant allele, recessive allele
+- gene, [heterozygous|homozygous] [dominant|recessive] allele
 - locus(position)
-
-
-
+- haploid, diploid, ployploid, aneuploid
+- [deoxyribo|ribo]nucleic acid
+- nucleotide(), nucleoside, pentose sugar
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
