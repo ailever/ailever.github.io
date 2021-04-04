@@ -41,7 +41,7 @@ author_staff_member: anonym
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li><a href="https://www.molit.go.kr/portal.do">국토교통부</a></li>  
   <li><a href="http://www.reb.or.kr/kab/home/main/mainLd.jsp">한국부동산원</a></li>
@@ -73,7 +73,7 @@ author_staff_member: anonym
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
