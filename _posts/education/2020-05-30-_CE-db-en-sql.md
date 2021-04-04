@@ -249,7 +249,7 @@ ctrl + shift + enter
 
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Reference</b>
+<b id='REF'>Reference</b>
 <ol>
   <li>Postgre : https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html</li>
   <li>Postgre : https://www.pgadmin.org/download/pgadmin-4-python/</li>
@@ -260,7 +260,7 @@ ctrl + shift + enter
 
 <!-- Article Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-<b>Related Articles</b>
+<b id='ART'>Related Articles</b>
 <ol>
   <li></li>
   <li></li>
