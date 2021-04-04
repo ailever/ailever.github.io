@@ -1,9 +1,9 @@
 ---
-title: BIO,
-prev1_title: BIO,
+title: Molecular Inheritance Mechanisms of Gene
+prev1_title: Genetics
 prev2_title: Biology
 date: 2021-04-03
-description: BIO, 
+description: Molecular Inheritance Mechanisms of Gene
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
   - education
