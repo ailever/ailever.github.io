@@ -68,7 +68,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 - Interaction Type
   - Drug-Target, Drug-Drug, Target-Gene, Disease-Disease, Drug-Disease, ... 
 
-### Type of Drug Design
+### CADD : Computer-Aided Drug Discovery
 - Structure-based(Direct drug design) : Molecular docking
 - Ligand-based(Indirect drug design) : Quantitative structure-activity relationship (QSAR)
 
