@@ -27,11 +27,18 @@ author_staff_member: anonym
 ### Prokaryote(Organisms without nuclei)
 - Non-Nucleus
 - Nucleoid
-- Chromoome
+- Chromosome
 - Haploid
 - Plasma membrane
 
 ### Eukaryote(Organisms with nuclei)
+- Nucleus
+- Cytoplasma
+- Nuclear membrane, pore
+- Chromosome
+- Diploid
+- Organlle
+- Plasma membrane
 
 
 <!-- Content Block -->
