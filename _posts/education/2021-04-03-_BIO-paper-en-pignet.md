@@ -61,9 +61,12 @@ author_staff_member: anonym
   <li><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">(2018) KDEEP: Protein-Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</a></li>
   <li><a href="https://www.nature.com/articles/s41467-019-10343-5">(2019) Physically informed artificial neural networks for atomistic modeling of materials</a></li>
   <li><a href="https://arxiv.org/abs/1906.01563">(2019) Hamiltonian Neural Networks</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://deepmind.com/research/publications/Hamiltonian-Generative-Networks">(2019) Hamiltonian Generative Networks</a></li>
+  <li><a href="https://deepmind.com/research/publications/Hamiltonian-Graph-Networks-with-ODE-Integrators">(2019) Hamiltonian Graph Networks with ODE Integrators</a></li>
+  <li><a href="https://deepmind.com/research/publications/Hamiltonian-descent-for-composite-objectives">(2019) Hamiltonian descent for composite objectives</a></li>
+  <li><a href="https://deepmind.com/research/publications/Lagrangian-Neural-Networks">(2020) Lagrangian Neural Networks</a></li>
+  <li><a href="https://deepmind.com/research/publications/hamiltonian-descent-methods">(2018) Hamiltonian Descent Methods</a></li>
+  <li><a href="https://deepmind.com/research/publications/Equivariant-Hamiltonian-Flows">(2019) Equivariant Hamiltonian Flows</a></li>
   <li>Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
 </ol>
