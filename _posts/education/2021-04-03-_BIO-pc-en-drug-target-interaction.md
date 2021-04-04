@@ -49,6 +49,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 ### Set of small-molecule chemicals found within a biological sample
 - Genome(DNA) > Transcriptome(RNA) > Proteome(Proteins) > Metabolome(Metabolities) > Phenome(Metabolic syndorme, Psychiatric disease)
+![image](https://user-images.githubusercontent.com/52376448/113499702-02661200-9553-11eb-9371-c4d0237aff4c.png)
 
 <br><br><br>
 ## Targeting Approaches
