@@ -24,6 +24,10 @@ author_staff_member: anonym
 - Genome(DNA) > Transcriptome(RNA) > Proteome(Proteins) > Metabolome(Metabolities) > Phenome(Metabolic syndorme, Psychiatric disease)
 ![image](https://user-images.githubusercontent.com/52376448/113499702-02661200-9553-11eb-9371-c4d0237aff4c.png)
 
+### Network Analysis
+- Genomics, Transcriptomics, Proteomics, Lipidomics, Metabolomics
+
+<br><br><br>
 ## Drug Development Process
 - Target Discovery
   - Expression analysis
