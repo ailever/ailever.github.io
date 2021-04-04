@@ -15,7 +15,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='https://ccsb.scripps.edu/autodock/'">AutoDock</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Latex Formula</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
@@ -98,7 +98,8 @@ $$\begin{align}
 
 ### The Quasi-Harmonic Approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref}+\omega_{min}-\frac{kT}{2}\ln{((2\pi^{6}\det{(C_{\mathbf{r}\boldsymbol{\Omega}})}))})}$$
+$$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\pi^{6}\det{(C_{\mathbf{r}\boldsymbol{\Omega}})})})}$$
+- $C_{\mathbf{r}\boldsymbol{\Omega}}$: s the $66$ fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
 ###
