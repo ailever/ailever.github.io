@@ -68,6 +68,10 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 - Interaction Type
   - Drug-Target, Drug-Drug, Target-Gene, Disease-Disease, Drug-Disease, ... 
 
+### Type of Drug Design
+- Structure-based
+- Ligand-based
+
 
 <br><br><br>
 ## Targeting Approaches
