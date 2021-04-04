@@ -21,8 +21,15 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Cellular Organism
-### Prokaryote
-### 
+### Prokaryote(Organisms without nuclei)
+![image](https://user-images.githubusercontent.com/52376448/113516311-7dabe000-95b4-11eb-8ce3-98c58f8aafbf.png)
+- Non-Nucleus
+- Nucleoid
+- Chromoome
+- Haploid
+- Plasma membrane
+
+### Eukaryote(Organisms with nuclei)
 
 
 <!-- Content Block -->
