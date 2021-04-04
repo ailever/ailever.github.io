@@ -30,6 +30,13 @@ author_staff_member: anonym
 ### Scaling Analysis
 
 <br><br><br>
+## Open Databases for Drug Development
+- KEGG(Kyoto Encyclopedia of Genes and Genomes)
+- CTD(Comperative toxicogenomics)
+- ChEMBL(Chemical European Molecular Biology Laborotory)
+
+
+<br><br><br>
 ## Drug Development Process
 - Target Discovery
   - Expression analysis
