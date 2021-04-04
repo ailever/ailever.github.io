@@ -50,6 +50,9 @@ author_staff_member: anonym
 - haploid, diploid, ployploid, aneuploid
 - [deoxyribo|ribo]nucleic acid
 - nucleotide(pentose sugar, base, phosphate group), nucleoside(pentose sugar, base), pentose sugar(DNA:2-deoxyribose, RNA:ribose)
+![image](https://user-images.githubusercontent.com/52376448/113517787-1fcfc600-95bd-11eb-8866-be4f6cafff18.png)
+[<a href="REF">REF2</a>]
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
@@ -64,8 +67,8 @@ author_staff_member: anonym
 <b id='REF'>Reference</b>
 <ol>
   <li><a href="https://www.thinglink.com/scene/728336081086316545">thinglink</a></li>
-  <li></li>
-  <li></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
 </ol>
 </div>
 <!-- Reference Block -->
@@ -74,9 +77,9 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
 </ol>
 </div>
 <!-- Article Block -->
