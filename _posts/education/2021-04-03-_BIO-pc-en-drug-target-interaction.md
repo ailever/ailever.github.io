@@ -21,7 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Drug Development
-- Target Discovery
+- Target Discovery(in-vitro function, in-vivo validation)
 - Discovery & Screening
 - Lead Optimization
 - ADMET
