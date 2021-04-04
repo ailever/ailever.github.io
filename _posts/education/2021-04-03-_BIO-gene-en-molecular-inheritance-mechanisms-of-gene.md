@@ -42,6 +42,15 @@ author_staff_member: anonym
 - Plasma membrane
 - ex: yeast
 
+<br><br><br>
+## Molecular Basis
+- Homologous Chromosome
+- gene, dominant allele, recessive allele
+- locus(position)
+
+
+
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
