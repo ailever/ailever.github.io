@@ -51,7 +51,7 @@ author_staff_member: anonym
 - [deoxyribo|ribo]nucleic acid
 - nucleotide(pentose sugar, base, phosphate group), nucleoside(pentose sugar, base), pentose sugar(DNA:2-deoxyribose, RNA:ribose)
 ![image](https://user-images.githubusercontent.com/52376448/113517787-1fcfc600-95bd-11eb-8866-be4f6cafff18.png)
-[<a href="REF">REF2</a>]
+[<a href="#REF">REF2</a>]
 
 
 <!-- Content Block -->
