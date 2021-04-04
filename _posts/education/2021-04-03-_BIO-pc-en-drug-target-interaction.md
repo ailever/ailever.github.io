@@ -91,7 +91,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 
 ## Additionals
-Bio Big Firm
+Big Firm in Pharmaceutical Industry
 - Johnson & Johnson
 - Pfizer
 - Santen
