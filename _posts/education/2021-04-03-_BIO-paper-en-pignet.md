@@ -103,12 +103,14 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="https://arxiv.org/pdf/2008.12249.pdf">(2020) PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
   <li><a href="https://aceteamkaist.wixsite.com/home">ACE (Advanced Computational Engine) Team, Laboratory</a></li>
   <li><a href="https://github.com/jaechanglim/DTI_PDBbind">DTI_PDBbind, GitHub</a></li>
   <li><a href="http://www.pdbbind-cn.org/">PDBbind Dataset</a></li>
   <li><a href="http://www.csardock.org/">CSAR Dataset</a></li>
   <li><a href="https://www.rcsb.org/">RCSB Dataset</a></li>
+</ol>
+<ul>
+  <li><a href="https://arxiv.org/pdf/2008.12249.pdf">(2020) PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
   <li><a href="https://www.nature.com/articles/s41570-018-0018-6">(2018) Metal–ligand interactions in drug design</a></li>
   <li><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">(2018) KDEEP: Protein-Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</a></li>
   <li><a href="https://www.nature.com/articles/s41467-019-10343-5">(2019) Physically informed artificial neural networks for atomistic modeling of materials</a></li>
@@ -121,7 +123,10 @@ author_staff_member: anonym
   <li><a href="https://deepmind.com/research/publications/Equivariant-Hamiltonian-Flows">(2019) Equivariant Hamiltonian Flows</a></li>
   <li><a href="https://link.springer.com/article/10.1208/s12248-017-0092-6">(2017) Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">(2020) FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
-</ol>
+  <li><a href="https://www.nature.com/articles/srep11539">(2015) Kinetics of protein-ligand unbinding via smoothed potential molecular dynamics simulations</a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
 </div>
 <!-- Reference Block -->
 
@@ -133,11 +138,6 @@ author_staff_member: anonym
   <li></li>
   <li></li>
 </ol>
-<ul>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
-</ul>
 </div>
 <!-- Article Block -->
 
