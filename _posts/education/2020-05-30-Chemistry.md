@@ -20,14 +20,30 @@ author_staff_member: anonym
 
 ## Computational Chemistry
 - Ab initio methods
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Density Functional Theory
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Quantum Chemistry Methods
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Molecular Mechanics and Dynamics
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/)
   :kr
 </span>
 - QM/MM(Quantum Mechanics/Molecular Mechanics)
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
