@@ -26,6 +26,9 @@ author_staff_member: anonym
 - Accurate prediction for the key steps in the earlystage in-silico drug discovery
 - The reasonable binding poses and binding affinities of protein-ligand complexes
 
+### DTI Model Issues
+- The deficiency in 3D structural data of the protein-ligand complexes
+
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
 - Data augmentation strategy for a wider range of binding poses
