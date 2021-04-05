@@ -27,7 +27,7 @@ author_staff_member: anonym
 - The reasonable binding poses and binding affinities of protein-ligand complexes
 
 ### DTI Model Issues
-- The deficiency in 3D structural data of the protein-ligand complexes
+- Overfitting by the deficiency in 3D structural data of the protein-ligand complexes
 
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
