@@ -97,7 +97,7 @@ author_staff_member: anonym
 </span>
 - Coordination Chemistry: Bonding
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-coordination-chemistry-bonding/)
   :kr
 </span>
 - Coordination Chemistry: Electronic Spectra
