@@ -32,7 +32,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software">List of quantum chemistry and solid state physics software</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
