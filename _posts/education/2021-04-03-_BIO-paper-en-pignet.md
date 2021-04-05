@@ -20,7 +20,11 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Two key strategies to enhance the generalization ability of DTI models
+## Summary
+### Challenging problem in the practice of in-silico drug discovery
+- Generalization of DTI Models
+
+### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
 - Data augmentation strategy
 
