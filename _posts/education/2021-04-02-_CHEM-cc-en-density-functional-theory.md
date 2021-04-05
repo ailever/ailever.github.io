@@ -38,8 +38,8 @@ author_staff_member: anonym
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://scifinder.cas.org">SciFinder - Chemical Abstracts Service</a></li>
+  <li><a href="http://www.crystallography.net/cod/">Crystallography Open Database</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
