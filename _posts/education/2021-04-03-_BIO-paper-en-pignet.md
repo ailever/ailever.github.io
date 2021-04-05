@@ -24,6 +24,7 @@ author_staff_member: anonym
 ### Challenging problem in the practice of in-silico drug discovery
 - Generalization of DTI Models
 - Accurate prediction for the key steps in the earlystage in-silico drug discovery
+- The reasonable binding poses and binding affinities of protein-ligand complexes
 
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
