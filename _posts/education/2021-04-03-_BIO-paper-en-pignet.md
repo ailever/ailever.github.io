@@ -45,9 +45,12 @@ author_staff_member: anonym
 ### Summary of previous works: 3D CNN and GNN
 ### Physics-informed neural networks
 
+
 <br><br><br>
 ## Overview of our model
 ### Model Architecture
+- **Gated graph attention network (gated GAT)** and **interaction network**
+
 ### Physics-informed parameterized function
 ### Loss functions
 ### Dataset 
