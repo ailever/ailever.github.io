@@ -27,6 +27,7 @@ author_staff_member: anonym
   :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/)
   :kr
 </span>
+- QM/MM(Quantum Mechanics/Molecular Mechanics)
 
 
 <br><br><br>
