@@ -20,9 +20,10 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Abstract
+## Summary
 ### Challenging problem in the practice of in-silico drug discovery
 - Generalization of DTI Models
+- Accurate prediction for the key steps in the earlystage in-silico drug discovery
 
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
