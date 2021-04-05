@@ -20,13 +20,17 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Summary
+## Abstract
 ### Challenging problem in the practice of in-silico drug discovery
 - Generalization of DTI Models
 
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
 - Data augmentation strategy for a wider range of binding poses
+
+### Results
+- Improvement in docking success rate, screening enhancement factor, and screening success rate
+- Devising uncertainty estimator of our model’s prediction
 
 <br><br><br>
 ## Related Works
