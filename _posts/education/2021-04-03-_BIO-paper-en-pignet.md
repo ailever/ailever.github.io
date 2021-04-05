@@ -26,7 +26,7 @@ author_staff_member: anonym
 
 ### Two key strategies to enhance the generalization ability of DTI models
 - Novel physics-informed graph neural network
-- Data augmentation strategy
+- Data augmentation strategy for a wider range of binding poses
 
 <br><br><br>
 ## Related Works
