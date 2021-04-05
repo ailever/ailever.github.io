@@ -45,6 +45,12 @@ author_staff_member: anonym
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_proteins">List of proteins</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_topics_related_to_protein">List of topics related to protein</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_protein_structure_prediction_software">List of protein structure prediction software</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_protein_secondary_structure_prediction_programs">List of protein secondary structure prediction programs</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93protein_interaction">Protein-protein interaction</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Protein_design">Protein design</a></li>
   <li><a href="https://pymol.org/2/">PyMol</a></li>
 </ol>
 <ul>
