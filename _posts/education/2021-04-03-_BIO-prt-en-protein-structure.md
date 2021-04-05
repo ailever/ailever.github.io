@@ -25,6 +25,7 @@ author_staff_member: anonym
 ### Tertiary structure
 ### Quaternary structure
 
+<br><br><br>
 ## Structural Units
 ### Domains
 ### Motifs
@@ -42,9 +43,9 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_proteins">List of proteins</a></li>
   <li><a href="https://pymol.org/2/">PyMol</a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
 </ol>
 <ul>
   <li><a href="#"></a></li>
