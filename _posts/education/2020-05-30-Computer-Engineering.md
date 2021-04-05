@@ -316,6 +316,11 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Programming Language
+- Fortran
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-lang-en-fortran)
+  :kr
+</span>
 - C
 <span style="font-size:small;">
   :en
