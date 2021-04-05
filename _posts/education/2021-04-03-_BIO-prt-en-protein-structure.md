@@ -17,8 +17,18 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+## Levels of protein structure
+### Primary structure
+### Secondary structure
+### Tertiary structure
+### Quaternary structure
+
+## Structural Units
+### Domains
+### Motifs
+### Folds
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
