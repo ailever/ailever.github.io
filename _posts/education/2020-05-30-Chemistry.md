@@ -26,7 +26,7 @@ author_staff_member: anonym
 </span>
 - Density Functional Theory
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-density-functional-theory/)
   :kr
 </span>
 - Quantum Chemistry Methods
