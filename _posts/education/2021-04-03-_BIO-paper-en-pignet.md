@@ -25,19 +25,51 @@ author_staff_member: anonym
 - Data augmentation strategy
 
 <br><br><br>
-## Dataset 
-### CASF-2016
-### CSAR_NRC_HiQ_Set
-### CSAR1
-### CSAR2
-### pdbbind_v2019_cross_screening
-### pdbbind_v2019_docking_nowater
-### pdbbind_v2019_random_screening
+## Related Works
+### Summary of previous works: 3D CNN and GNN
+### Physics-informed neural networks
+
+<br><br><br>
+## Overview of our model
+### Model Architecture
+### Physics-informed parameterized function
+### Loss functions
+### Dataset 
+#### CASF-2016
+#### CSAR_NRC_HiQ_Set
+#### CSAR1
+#### CSAR2
+#### pdbbind_v2019_cross_screening
+#### pdbbind_v2019_docking_nowater
+#### pdbbind_v2019_random_screening
 - https://chembl.gitbook.io/chembl-interface-documentation/
 - https://www.ibscreen.com/
 
-### pdbbind_v2019_refined
-### rcsb_pdb
+#### pdbbind_v2019_refined
+#### rcsb_pdb
+### Benchmark method
+
+<br><br><br>
+## Results and Discussions
+### Assessment of the model performance and generalization ability
+### Ablation study on the generalization ability of the model 
+### Interpretation of the physically modeled outputs
+### Uncertainty quantification of PIGNet
+
+<br><br><br>
+## Conclusion
+
+<br><br><br>
+## Supplimentary: Electronic Supplementary Information
+### 1. Model construction
+#### (a) Neural model architecture
+#### (b) Physics-informed parameterized function
+### 2. Benchmark methods
+#### CASF2016 benchmark metrics6
+### 3. Interpretation of the physically modeled outputs
+#### Distribution plot of atom-atom pairwise interaction in each energy component
+### 4. Uncertainty quantification method
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
