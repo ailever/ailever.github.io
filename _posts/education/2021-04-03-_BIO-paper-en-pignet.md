@@ -38,6 +38,7 @@ author_staff_member: anonym
 ### Results
 - Improvement in docking success rate, screening enhancement factor, and screening success rate
 - Devising uncertainty estimator of our model’s prediction
+- Assessment of the contribution of each ligand substructure in total binding free energy
 
 <br><br><br>
 ## Related Works
