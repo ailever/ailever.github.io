@@ -43,6 +43,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
+  <li><a href="https://www.rcsb.org/">RCSB PDB</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_proteins">List of proteins</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_topics_related_to_protein">List of topics related to protein</a></li>
