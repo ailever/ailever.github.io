@@ -131,7 +131,7 @@ author_staff_member: anonym
 </a></li>
   <li><a href="https://www.pnas.org/content/105/17/6290">(2008) Calculation of protein–ligand binding free energy by using a polarizable potential</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816655/">(2012) Statistical Estimation of the Protein-Ligand Binding Free Energy Based On Direct Protein-Ligand Interaction Obtained by Molecular Dynamics Simulation</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
