@@ -48,6 +48,9 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Analytical Chemistry
+- Mass Spectrometry and Infrared Spectroscopy
+- Nuclear Magnetic Resonance Spectroscopy
+
 
 <br><br><br>
 ## Quantum Chemistry
@@ -145,6 +148,35 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Organic Chemistry
+- Structure and Bonding
+- Acids and Bases
+- Organic Molecules and Functional Groups
+- Alkanes
+- Stereochemistry
+- Organic Reactions
+- Alkyl Halides and Nucleophilic Substitution
+- Alkyl Halides and Elimination Recations
+- Alcohols, Ethers, and Epoxides
+- Alkenes
+- Alkynes
+- Oxidation and Reduction
+- Radical Recations
+- Conjugation, Resonance, and Dienes
+- Benzene and Aromatic Compounds
+- Electrophilic Aromatic Substitution
+- Carboxylic Acids and the Acidity of the O-H Bond
+- Carbonyl Chemistry; Organometallic Reagents
+- Aldehydes and Ketones-Nucleophilic Addition
+- Carboxylic Acids and Their Derivatives-Nucleophilic Acyl Substitution
+- Substitution Reactions of Carbonyl Compounds at the alpha Carbon
+- Carbonyl Condensation Recations
+- Amines
+- Carbon-Carbon Bond-Forming Recations in Organic Synthesis
+- Carbohydrates
+- Amino Acids and Proteins
+- Lipids
+- Synthetis Polymers
+
 <span style="font-size:small;">
   :en
   :kr
