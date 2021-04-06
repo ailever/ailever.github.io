@@ -19,6 +19,10 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
+
+## 20 AAc(20 Amino Acids)
+
+
 ## Levels of protein structure
 ### Primary structure
 ### Secondary structure
