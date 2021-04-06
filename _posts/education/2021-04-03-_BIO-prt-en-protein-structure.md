@@ -69,7 +69,7 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 ### Primary structure
 ### Secondary structure
 ### Tertiary structure
-- Denaturation/Renaturation : 1D > 3D
+- Denaturation/Renaturation : Primary > Tertiary
 ### Quaternary structure
 
 <br><br><br>
