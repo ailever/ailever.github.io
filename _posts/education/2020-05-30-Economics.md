@@ -56,7 +56,6 @@ author_staff_member: anonym
 -
 <span style="font-size:small;">
   :[url]()
-  :[review]()
 </span>
 
 
