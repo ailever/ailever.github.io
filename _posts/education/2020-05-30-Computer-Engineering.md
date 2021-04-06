@@ -364,6 +364,15 @@ author_staff_member: ailever
 ## PAPER REVIEW
 
 <br><br><br>
+## RELATED LABORATORY
+-
+<span style="font-size:small;">
+  :[url]()
+  :[review]()
+</span>
+
+
+<br><br><br>
 ## ADDITIONALS
 - Utilities
 <span style="font-size:small;">
