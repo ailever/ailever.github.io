@@ -108,6 +108,7 @@ author_staff_member: anonym
   <li><a href="http://www.pdbbind-cn.org/">PDBbind Dataset</a></li>
   <li><a href="http://www.csardock.org/">CSAR Dataset</a></li>
   <li><a href="https://www.rcsb.org/">RCSB Dataset</a></li>
+  <li><a href="https://proteopedia.org/wiki/index.php/PDB_code">PDB code</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Comparison_of_force-field_implementations">Comparison of force-field implementations</a></li>
 </ol>
 <ul>
