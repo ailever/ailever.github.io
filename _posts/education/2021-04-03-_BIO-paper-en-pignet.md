@@ -126,7 +126,7 @@ author_staff_member: anonym
   <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">(2020) FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
   <li><a href="https://www.nature.com/articles/srep11539">(2015) Kinetics of protein-ligand unbinding via smoothed potential molecular dynamics simulations</a></li>
   <li><a href="https://pubs.rsc.org/en/Content/ArticleLanding/2021/CP/D1CP00206F#!divAbstract">(2021) Protein-ligand free energies of binding from full-protein DFT calculations: convergence and choice of exchange-correlation functional</a></li>
-  <li><a href="https://www.pnas.org/content/102/19/6825">Calculation of absolute protein–ligand binding free energy from computer simulations</a></li>
+  <li><a href="https://www.pnas.org/content/102/19/6825">(2004) Calculation of absolute protein–ligand binding free energy from computer simulations</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
