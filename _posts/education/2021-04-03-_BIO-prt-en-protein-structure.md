@@ -54,6 +54,10 @@ author_staff_member: anonym
 - Residues, N-terminal(amino, begin), C-terminal(carboxyl, end)
 - Main Chain(backbone), Side Chain(R-group)
 
+#### Peptide bond
+![image](https://user-images.githubusercontent.com/52376448/113739350-aa89ff80-973a-11eb-84dd-d3408551abe1.png)
+[<a href="#REF">REF|4</a>]  
+
 
 <br><br><br>
 ## Levels of protein structure
@@ -83,6 +87,7 @@ author_staff_member: anonym
   <li><a href="https://en.wikipedia.org/wiki/Proteinogenic_amino_acid">Proteinogenic amino acid</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Amino_acid">Amino acid</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Peptide">Peptide</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Peptide_bond">Peptide bond</a></li>
   <li><a href="https://www.rcsb.org/">RCSB PDB</a></li>
   <li><a href="http://pdb101.rcsb.org/">PDB101</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
