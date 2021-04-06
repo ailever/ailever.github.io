@@ -42,12 +42,12 @@ author_staff_member: anonym
 ### L-Tryptophan(Trp / W)
 ### L-Tyrosine(Tyr / Y)
 ### L-Valine(Val / V)
+### L-Selenocysteine(Sec / U)
+### L-Pyrrolysine(Pyl / O)
 
 
 
-
-
-
+<br><br><br>
 ## Levels of protein structure
 ### Primary structure
 ### Secondary structure
