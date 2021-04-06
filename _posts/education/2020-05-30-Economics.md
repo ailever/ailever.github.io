@@ -52,6 +52,15 @@ author_staff_member: anonym
 ## PAPER REVIEW
 
 <br><br><br>
+## RELATED LABORATORY
+-
+<span style="font-size:small;">
+  :[url]()
+  :[review]()
+</span>
+
+
+<br><br><br>
 ## ADDITIONALS
 
 <br><br><br>
