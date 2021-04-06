@@ -48,6 +48,11 @@ author_staff_member: anonym
 - L-Pyrrolysine(Pyl / O)
 
 ### Polypeptide
+![image](https://user-images.githubusercontent.com/52376448/113738126-98f42800-9739-11eb-8782-dda8ef22a265.png)
+[<a href="#REF">REF|3</a>]  
+
+- Residues, N-terminal(amino, begin), C-terminal(carboxyl, end)
+
 
 
 <br><br><br>
@@ -77,6 +82,7 @@ author_staff_member: anonym
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/Proteinogenic_amino_acid">Proteinogenic amino acid</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Amino_acid">Amino acid</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Peptide">Peptide</a></li>
   <li><a href="https://www.rcsb.org/">RCSB PDB</a></li>
   <li><a href="http://pdb101.rcsb.org/">PDB101</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
