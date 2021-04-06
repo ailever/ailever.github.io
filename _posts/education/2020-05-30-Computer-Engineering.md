@@ -368,7 +368,6 @@ author_staff_member: ailever
 -
 <span style="font-size:small;">
   :[url]()
-  :[review]()
 </span>
 
 
