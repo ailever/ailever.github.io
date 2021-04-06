@@ -21,6 +21,10 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Amino Acids
+![image](https://user-images.githubusercontent.com/52376448/113742070-33099f80-973d-11eb-9a4d-5a7f2428af26.png)
+[<a href="#REF">REF|2</a>]
+Amino acids comprise **amino(–NH2)** and **carboxyl(–COOH)** functional groups, along with **a side chain(R group)** specific to each amino acid.
+
 ### Proteinogenic Amino Acid : 20 AAc(20 Amino Acids)
 ![image](https://user-images.githubusercontent.com/52376448/113735322-1bc7b380-9737-11eb-864b-0af3eec78fb2.png)
 [<a href="#REF">REF|1,2</a>]
