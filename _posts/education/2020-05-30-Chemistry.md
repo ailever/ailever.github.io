@@ -164,10 +164,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## RELATED LABORATORY
--
-<span style="font-size:small;">
-  :[url]()
-</span>
+- [Seoul National University](https://chem.snu.ac.kr/research-faculty/faculty/fulltime)
 
 
 <br><br><br>
