@@ -35,6 +35,7 @@ author_staff_member: anonym
   <li><a href="https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software">List of quantum chemistry and solid state physics software</a></li>
   <li><a href="https://www.ksc.re.kr/kor/index/main">Korea Supercomputing Center</a></li>
   <li><a href="https://www.quantum-espresso.org/">Quantum Espresso</a></li>
+  <li><a href="http://www.calypso.cn/">CALYPSO</a></li>
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
@@ -48,7 +49,6 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li><a href="http://www.calypso.cn/">CALYPSO</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
