@@ -149,15 +149,35 @@ author_staff_member: anonym
 <br><br><br>
 ## Organic Chemistry
 - Structure and Bonding
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-structure-and-bonding/)
+  :kr
+</span>
 - Acids and Bases
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-acids-and-bases/)
+  :kr
+</span>
 - Organic Molecules and Functional Groups
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-organic-molecules-and-functional-groups/)
   :kr
 </span>
 - Alkanes
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-alkanes/)
+  :kr
+</span>
 - Stereochemistry
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-alkynes/)
+  :kr
+</span>
 - Organic Reactions
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-organic-reactions/)
+  :kr
+</span>
 - Alkyl Halides and Nucleophilic Substitution
 - Alkyl Halides and Elimination Recations
 - Alcohols, Ethers, and Epoxides
