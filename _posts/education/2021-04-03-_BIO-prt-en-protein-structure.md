@@ -52,7 +52,7 @@ author_staff_member: anonym
 [<a href="#REF">REF|3</a>]  
 
 - Residues, N-terminal(amino, begin), C-terminal(carboxyl, end)
-
+- Main Chain(backbone), Side Chain(R-group)
 
 
 <br><br><br>
