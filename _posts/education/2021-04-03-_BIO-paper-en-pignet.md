@@ -135,7 +135,7 @@ author_staff_member: anonym
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816655/">(2012) Statistical Estimation of the Protein-Ligand Binding Free Energy Based On Direct Protein-Ligand Interaction Obtained by Molecular Dynamics Simulation</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2918242/">(2011) Current Status of the AMOEBA Polarizable Force Field</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://www.nature.com/articles/nrd.2017.219">Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
