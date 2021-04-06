@@ -127,6 +127,16 @@ author_staff_member: ailever
   :review
 </span>
 
+
+<br><br><br>
+## RELATED LABORATORY
+-
+<span style="font-size:small;">
+  :[url]()
+  :[review]()
+</span>
+
+
 <br><br><br>
 ## ADDITIONALS
 
