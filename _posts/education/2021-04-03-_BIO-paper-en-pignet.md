@@ -108,6 +108,7 @@ author_staff_member: anonym
   <li><a href="http://www.pdbbind-cn.org/">PDBbind Dataset</a></li>
   <li><a href="http://www.csardock.org/">CSAR Dataset</a></li>
   <li><a href="https://www.rcsb.org/">RCSB Dataset</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Comparison_of_force-field_implementations">Comparison of force-field implementations</a></li>
 </ol>
 <ul>
   <li><a href="https://arxiv.org/pdf/2008.12249.pdf">(2020) PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
