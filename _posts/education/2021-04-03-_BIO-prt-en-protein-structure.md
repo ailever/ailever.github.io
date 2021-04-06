@@ -20,32 +20,34 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Proteinogenic Amino Acid : 20 AAc(20 Amino Acids)
+## Amino Acids
+### Proteinogenic Amino Acid : 20 AAc(20 Amino Acids)
 ![image](https://user-images.githubusercontent.com/52376448/113735322-1bc7b380-9737-11eb-864b-0af3eec78fb2.png)
 [<a href="#REF">REF|1,2</a>]
-### L-Alanine(Ala / A)
-### L-Arginine(Arg / R)
-### L-Asparagine(Asn / N)
-### L-Aspartic acid(Asp / D)
-### L-Cysteine(Cys / C)
-### L-Glutamic acid(Glu / E)
-### L-Glutamine(Gln / Q)
-### Glycine(Gly / G)
-### L-Histidine(His / H)
-### L-Isoleucine(Ile / I)
-### L-Leucine(Leu / L)
-### L-Lysine(Lys / K)
-### L-Methionine(Met / M)
-### L-Phenylalanine(Phe / F)
-### L-Proline(Pro / P)
-### L-Serine(Ser / S)
-### L-Threonine(Thr / T)
-### L-Tryptophan(Trp / W)
-### L-Tyrosine(Tyr / Y)
-### L-Valine(Val / V)
-### L-Selenocysteine(Sec / U)
-### L-Pyrrolysine(Pyl / O)
+- L-Alanine(Ala / A)
+- L-Arginine(Arg / R)
+- L-Asparagine(Asn / N)
+- L-Aspartic acid(Asp / D)
+- L-Cysteine(Cys / C)
+- L-Glutamic acid(Glu / E)
+- L-Glutamine(Gln / Q)
+- Glycine(Gly / G)
+- L-Histidine(His / H)
+- L-Isoleucine(Ile / I)
+- L-Leucine(Leu / L)
+- L-Lysine(Lys / K)
+- L-Methionine(Met / M)
+- L-Phenylalanine(Phe / F)
+- L-Proline(Pro / P)
+- L-Serine(Ser / S)
+- L-Threonine(Thr / T)
+- L-Tryptophan(Trp / W)
+- L-Tyrosine(Tyr / Y)
+- L-Valine(Val / V)
+- L-Selenocysteine(Sec / U)
+- L-Pyrrolysine(Pyl / O)
 
+### Polypeptide
 
 
 <br><br><br>
