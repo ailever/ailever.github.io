@@ -53,6 +53,7 @@ author_staff_member: anonym
   <li>Matplotlib</li>
   <li>Manim</li>
   <li>Plotly</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-rdkit/">RDKit</a></li>
 </ol>
 </div>
 <!-- Article Block -->
