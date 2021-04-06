@@ -162,6 +162,10 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/">(2016) Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods</a></li>
 </ol>
 <ul>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
+  <li><a href="https://www.nature.com/articles/nrd.2017.219">Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
+  <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
+  <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>  
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
