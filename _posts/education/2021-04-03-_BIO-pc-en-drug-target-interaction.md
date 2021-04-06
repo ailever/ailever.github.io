@@ -158,10 +158,10 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://www.youtube.com/watch?v=2ewpDYW081Y">AutoDock Vina Installation (Tutorial)</a></li>
   <li><a href="https://m.ibric.org/trend/news/?listmode=publish&listmode2=publisher&PARA3=21">Computational Chemistry</a></li>
   <li><a href=""></a></li>
-  <li><a href="https://www.nature.com/articles/s41586-019-1923-7?fbclid=IwAR3k8qrx_q1mVDUFd_IF0RuVV9yfUVv30x-oYenFfiaqd8DtOdFdycZrnz8">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/">(2016) Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods</a></li>
 </ol>
 <ul>
+  <li><a href="https://www.nature.com/articles/s41586-019-1923-7?fbclid=IwAR3k8qrx_q1mVDUFd_IF0RuVV9yfUVv30x-oYenFfiaqd8DtOdFdycZrnz8">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/">(2016) Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
   <li><a href="https://www.nature.com/articles/nrd.2017.219">(2017) Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
   <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
