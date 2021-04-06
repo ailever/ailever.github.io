@@ -1,7 +1,8 @@
 ---
 title: RDKit
-prev1_title: Programming Language
-prev2_title: Computer Engineering
+prev1_title: Python
+prev2_title: Programming Language
+prev3_title: Computer Engineering
 date: 2020-05-30
 description: RDKit 
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
