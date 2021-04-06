@@ -151,6 +151,10 @@ author_staff_member: anonym
 - Structure and Bonding
 - Acids and Bases
 - Organic Molecules and Functional Groups
+<span style="font-size:small;">
+  :[en]()
+  :kr
+</span>
 - Alkanes
 - Stereochemistry
 - Organic Reactions
@@ -177,10 +181,6 @@ author_staff_member: anonym
 - Lipids
 - Synthetis Polymers
 
-<span style="font-size:small;">
-  :en
-  :kr
-</span>
 
 
 <br><br><br>
