@@ -1,9 +1,9 @@
 ---
-title: CHEM,
-prev1_title: CHEM,
+title: Acids and Bases
+prev1_title: Organics Chemistry
 prev2_title: Chemistry
 date: 2021-04-02
-description: CHEM, 
+description: Acids and Bases
 _previous: https://ailever.github.io/education/2020/05/30/Chemistry/
 categories:
   - education
