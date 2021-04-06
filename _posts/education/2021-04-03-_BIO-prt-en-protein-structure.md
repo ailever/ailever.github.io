@@ -21,7 +21,8 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Proteinogenic Amino Acid : 20 AAc(20 Amino Acids)
-[<a href="#REF">REF1</a>]
+![image](https://user-images.githubusercontent.com/52376448/113735322-1bc7b380-9737-11eb-864b-0af3eec78fb2.png)
+[<a href="#REF">REF|1,2</a>]
 ### L-Alanine(Ala / A)
 ### L-Arginine(Arg / R)
 ### L-Asparagine(Asn / N)
@@ -73,6 +74,7 @@ author_staff_member: anonym
 <b id='REF'>Reference</b>
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/Proteinogenic_amino_acid">Proteinogenic amino acid</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Amino_acid">Amino acid</a></li>
   <li><a href="https://www.rcsb.org/">RCSB PDB</a></li>
   <li><a href="http://pdb101.rcsb.org/">PDB101</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
