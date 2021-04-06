@@ -152,7 +152,7 @@ author_staff_member: anonym
 - Acids and Bases
 - Organic Molecules and Functional Groups
 <span style="font-size:small;">
-  :[en]()
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-organic-molecules-and-functional-groups/)
   :kr
 </span>
 - Alkanes
@@ -180,6 +180,7 @@ author_staff_member: anonym
 - Amino Acids and Proteins
 - Lipids
 - Synthetis Polymers
+
 
 
 
