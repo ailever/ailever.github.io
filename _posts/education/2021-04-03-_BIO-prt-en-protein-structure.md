@@ -20,8 +20,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## 20 AAc(20 Amino Acids)
-
+## 20 AAc(20 Amino Acids) : Proteinogenic Amino Acid
+[<a href="#REF">REF1</a>]
 
 ## Levels of protein structure
 ### Primary structure
@@ -47,6 +47,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
+  <li><a href="https://en.wikipedia.org/wiki/Proteinogenic_amino_acid">Proteinogenic amino acid</a></li>
   <li><a href="https://www.rcsb.org/">RCSB PDB</a></li>
   <li><a href="http://pdb101.rcsb.org/">PDB101</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_types_of_proteins">List of types of proteins</a></li>
