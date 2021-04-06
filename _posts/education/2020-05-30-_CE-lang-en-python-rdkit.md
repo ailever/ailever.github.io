@@ -5,7 +5,7 @@ prev2_title: Programming Language
 prev3_title: Computer Engineering
 date: 2020-05-30
 description: RDKit 
-_previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
+_previous: https://ailever.github.io/education/2020/05/30/_CE-lang-en-python/
 categories:
   - education
 HL1: education
