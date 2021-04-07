@@ -102,7 +102,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <chem>L+R <=>[\text{k_{on}}][\text{k_{off}}] C</chem>
 $$\delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
-$$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L] \dot [R]}$$
+$$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L] \sdot [R]}$$
 <br><br></div>
 
 ### IC50
