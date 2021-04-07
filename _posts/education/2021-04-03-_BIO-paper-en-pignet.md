@@ -54,6 +54,8 @@ author_staff_member: anonym
 
 ### Physics-informed parameterized function
 ### Loss functions
+$$L_{total} = L_{energy}+L_{derivative}+L_{docking}+L_{random screening}+L_{cross screening}$$
+
 ### Dataset 
 #### CASF-2016
 #### CSAR_NRC_HiQ_Set
