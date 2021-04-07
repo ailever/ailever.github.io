@@ -61,12 +61,12 @@ $$\begin{align*}
   T^{rotor} &= 1 + C_{rotor} \times N_{rotor}\\
 \end{align*}$$
   
-$$  e_{ij} &= 
+$$  e_{ij} = 
     \begin{cases}
       \omega, & \text{if }d_{ij}-d^{\prime}_{ij} < c_{1} \\
       \omega \left (  \frac{d_{ij}-d^{\prime}_{ij}-c_{2}}{c_{1}-c_{2}} \right ), & \text{if }c_{1}< d_{ij}-d^{\prime}_{ij} < c_{2} \\
       0, & \text{if }d_{ij}-d^{\prime}_{ij} > c_{2}
-    \end{cases} \\
+    \end{cases}
 $$
   
 <br><br></div>
