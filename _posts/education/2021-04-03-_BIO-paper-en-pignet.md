@@ -53,6 +53,9 @@ author_staff_member: anonym
 - **Gated graph attention network (gated GAT)** for covalent bonds & **interaction network** for intermolecular interactions 
 
 ### Physics-informed parameterized function
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E^{total}= \frac{E^{vdw}+E^{hbond}+E^{metal}+E^{hydrophobic}}{T^{rotor}}$$
+<br><br></div>
 ### Loss functions
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 
