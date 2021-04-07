@@ -107,6 +107,7 @@ $$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
+$$\delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
 <br><br></div>
 
 ### IC50
