@@ -99,7 +99,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
-[REF|<a href="#REF" style="font-size;xx-small:">Free-energy calculations in structure-based drug design</a>]
+[REF|<a href="#REF" style="font-size:xx-small;">Free-energy calculations in structure-based drug design</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$ L+R \rightleftharpoons C $$
 $$\Delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
