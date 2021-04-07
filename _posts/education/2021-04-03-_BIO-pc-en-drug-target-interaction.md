@@ -99,7 +99,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
-Thermodynamic cycle scheme for the confine-and-release[<a href="#REF">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
+Thermodynamic cycle scheme for the confine-and-release[<a href="#REF">REF|The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
 ![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
