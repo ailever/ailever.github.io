@@ -103,7 +103,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 $$ L+R \rightleftharpoons C $$
 $$\delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
 $$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
-<br><br></div>
+<br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
