@@ -100,9 +100,9 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 
 ### Free Energy Caluations for Lead Optimization
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\ce{L+R <=>[{k_{on}}][{k_{off}}] C}$$
+$$\ce{ L+R <=>[{k_{on}}][{k_{off}}] C }$$
 $$\delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
-$$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L] \sdot [R]}$$
+$$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
 <br><br></div>
 
 ### IC50
