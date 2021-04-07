@@ -111,6 +111,11 @@ $$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda
 $$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
 <br><br></div>
 
+Soft-core potential
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$V_{ij} = 4\epsillon_{ij}$$
+<br><br></div>
+
 ### IC50
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$  
