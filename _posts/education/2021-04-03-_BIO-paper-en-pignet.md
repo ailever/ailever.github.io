@@ -59,8 +59,8 @@ $$\begin{align*}
   L_{total} &= L_{energy} \\
   \ &+c_{derivative}L_{derivative} \\
   \ &+c_{docking}L_{docking} \\
-  \ &+c_{random_screening}L_{random_screening} \\
-  \ &+c_{cross_screening}L_{cross_screening} \\
+  \ &+c_{random\ screening}L_{random\ screening} \\
+  \ &+c_{cross\ screening}L_{cross\ screening} \\
 \end{align*}$$  
 <br><br></div>
 
