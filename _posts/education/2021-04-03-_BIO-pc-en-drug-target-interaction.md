@@ -106,7 +106,7 @@ $$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E^{i}}{k_{B}T}}$$
+$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
 <br><br></div>
 
 ### IC50
