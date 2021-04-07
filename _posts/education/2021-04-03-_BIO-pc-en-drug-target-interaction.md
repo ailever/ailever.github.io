@@ -80,11 +80,11 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
-  \Delta G_{bind} & = -kT \ln \frac{K}{V_{ref}} \\
-  & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
+  \Delta G_{bind} & = -k_{B}T \ln \frac{K}{V_{ref}} \\
+  & = -k_{B}T\ln {(8\pi V_{ref})} - k_{B}T \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
 \end{align*}$$
 - $\Delta G_{bind}$ : Absolute binding free energy<br>
-- $k$ : Boltzmann constant<br>
+- $k_{B}$ : Boltzmann constant<br>
 - $T$ : Absolute temperature<br>
 - $V_{ref}$ : Reference volume in units consistent<br>
 - $\beta=1/kT$<br>
