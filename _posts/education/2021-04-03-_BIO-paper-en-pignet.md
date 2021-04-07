@@ -55,6 +55,14 @@ author_staff_member: anonym
 ### Physics-informed parameterized function
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E^{total}= \frac{E^{vdw}+E^{hbond}+E^{metal}+E^{hydrophobic}}{T^{rotor}}$$
+$$\begin{align*}
+  E^{vdw} &= \\
+  E^{hbond} &= \\
+  E^{metal} &= \\
+  E^{hydrophobic} &= \\
+  T^{rotor} &= \\
+\end{align*}$$
+
 <br><br></div>
 ### Loss functions
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
