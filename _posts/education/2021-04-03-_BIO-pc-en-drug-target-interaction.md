@@ -177,6 +177,7 @@ Big Firm in Pharmaceutical Industry
 
 ---
 
+
 <!-- Reference Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
@@ -189,6 +190,7 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://www.youtube.com/watch?v=2ewpDYW081Y">AutoDock Vina Installation (Tutorial)</a></li>
   <li><a href="https://m.ibric.org/trend/news/?listmode=publish&listmode2=publisher&PARA3=21">Computational Chemistry</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)">Partition Function</a></li>
+  <li><a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Book%3A_Statistical_Thermodynamics_(Jeschke)/05%3A_Entropy/5.02%3A_The_Relation_of_State_Functions_to_the_Partition_Function">The Relation of State Functions to the Partition Function</a></li>
 </ol>
 <ul>
   <li><a href="https://www.nature.com/articles/s41586-019-1923-7?fbclid=IwAR3k8qrx_q1mVDUFd_IF0RuVV9yfUVv30x-oYenFfiaqd8DtOdFdycZrnz8">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
