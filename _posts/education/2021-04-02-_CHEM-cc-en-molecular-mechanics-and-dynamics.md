@@ -24,7 +24,7 @@ author_staff_member: anonym
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align}
-E & = {\color{red}E_{covalent}} + {\color{blue}E_{noncovalent}} \\
+E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 & = {\color{red}E_{bond}} + {\color{red}E_{angle}} + {\color{red}E_{dihedral}} + {\color{blue}E_{electrostatic}} + {\color{blue}E_{van der Waals}} \\
 \end{align}$$
 
