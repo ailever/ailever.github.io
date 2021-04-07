@@ -55,12 +55,13 @@ author_staff_member: anonym
 ### Physics-informed parameterized function
 ### Loss functions
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\begin{align} L_{total} &= L_{energy} \\
+$$\begin{align*}
+  L_{total} &= L_{energy} \\
   &+c_{derivative}L_{derivative} \\
   &+c_{docking}L_{docking} \\
   &+c_{random_screening}L_{random_screening} \\
   &+c_{cross_screening}L_{cross_screening} \\
-\end{align}$$  
+\end{align*}$$  
 <br><br></div>
 
 
