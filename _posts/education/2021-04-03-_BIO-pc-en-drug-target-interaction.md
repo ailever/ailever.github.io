@@ -87,7 +87,7 @@ $$\begin{align*}
 - $k_{B}$ : Boltzmann constant<br>
 - $T$ : Absolute temperature<br>
 - $V_{ref}$ : Reference volume in units consistent<br>
-- $\beta=1/kT$<br>
+- $\beta=\frac{1}{k_{B}T}$<br>
 - $\mathbf{r}, \boldsymbol{\Omega}$ : Relative position, orientation<br>
 - $H$ : Ensemble average
 <br><br></div>
