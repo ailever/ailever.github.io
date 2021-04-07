@@ -99,7 +99,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
-Thermodynamic cycle scheme for the confine-and-release[REF|<a href="#REF"><span style="font-size:xx-small;">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</span></a>]
+Thermodynamic cycle scheme for the confine-and-release[REF|<a href="#REF" style="font-size:xx-small;">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
 ![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -114,7 +114,7 @@ $$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda
 $$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
 <br><br></div>
 
-Soft-core potential
+Soft-core potential[REF|<a href="#REF" style="font-size:xx-small;">Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$V_{ij} = 4\epsilon_{ij}(1-\lambda)^{t} ([\alpha_{LJ}\lambda^{s} + (r_{ij}/\sigma_{ij})^{n}]^{-12/n} - [\alpha_{LJ}\lambda^{s}+(r_{ij}/\sigma_{ij})^{n}]^{-6/n})$$
 <br><br></div>
