@@ -99,8 +99,6 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
-Thermodynamic cycle scheme for the confine-and-release[REF|<a href="#REF" style="font-size:xx-small;">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
-![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$ L+R \rightleftharpoons C $$
@@ -127,6 +125,15 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 <br><br><br>
 ## Protein-Ligand Interaction
+
+### Thermodynamic cycle scheme for the confine-and-release
+![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
+[REF|<a href="#REF" style="font-size:xx-small;">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\Delta G^{o}_{bind} = \Delta G_{conf} + \Delta G^{o}_{bind,C} + \Delta G_{rel}$$
+<br><br></div>
+
 ### G protein-coupled receptor
 
 ### Protein-Ligand Complex
