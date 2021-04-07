@@ -199,6 +199,7 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>  
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4700411/">(2015) Accurate calculation of the absolute free energy of binding for drug molecules</a></li>
+  <li><a href="https://scholar.google.com/scholar_lookup?journal=J.+Phys.+Chem.+B&volume=117&publication_year=2013&pages=8408-8421&pmid=23789789&">(2010) Free-energy calculations in structure-based drug design</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562444/">(2007) The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187911/">(2011) Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a></li>
 </ul>
