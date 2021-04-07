@@ -98,10 +98,11 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 - $C_{\mathbf{r}, \boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
-### Free Energy Caluations
+### Free Energy Caluations for Lead Optimization
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
+<br><br><br>
 ## Protein-Ligand Interaction
 ### Protein-Ligand Complex
 - VDW interaction
