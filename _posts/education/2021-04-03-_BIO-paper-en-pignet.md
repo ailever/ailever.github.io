@@ -65,7 +65,7 @@ $$\begin{align*}
 \end{align*}$$  
 
 $$\begin{align*}
-  {\color{violet}{L_{energy}}} &= \frac{1}{N_{train}\sum_{i} {(y_{pred,i}-y_{true,i})^2}} \\
+  {\color{violet}{L_{energy}}} &= \frac{1}{N_{train}} \sum_{i} {(y_{pred,i}-y_{true,i})^2} \\
   {\color{red}{L_{derivative}}} &= \sum_{i} {((\frac{\partial E^{total}}{\partial q_{i}})^2 - \min(\frac{\partial^2 E^{total}}{\partial q_{i}^{2}},C_{der2}))} \\
   {\color{green}{L_{docking}}} &= \sum_{i} {\max(y_{exp,i}-y_{decoy,i}, 0)}\\
   {\color{blue}{L_{random\ screening}}} &= \sum_{i} {\max(-y_{random,i}-6.8,0)}\\
