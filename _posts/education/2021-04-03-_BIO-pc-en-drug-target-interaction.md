@@ -76,12 +76,6 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 
 <br><br><br>
-## Targeting Approaches
-### Physical Approach
-### Chemical Approach
-### Biological Approach
-
-<br><br><br>
 ## Molecular Binding under Statistical Thermodynamic Perspective
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -104,7 +98,7 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 - $C_{\mathbf{r}, \boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
-###
+### Free Energy Caluations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
