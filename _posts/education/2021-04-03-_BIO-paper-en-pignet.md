@@ -62,6 +62,13 @@ $$\begin{align*}
   \quad &+c_{random\ screening}L_{random\ screening} \\
   \quad &+c_{cross\ screening}L_{cross\ screening} \\
 \end{align*}$$  
+$$\begin{align*}
+  L_{energy} &= \frac{1}{N_{train}\sum_{i} {(y_{pred,i}-y_{true,i})^2}} \\
+  L_{derivative} &= \sum_{i} {((\frac{\partial E^{total}}{\partial q_{i}})^2 - \min(\frac{\partial^2 E^{total}}{\partial q_{i}^{2}},C_{der2}))}\\
+  L_{docking} &= \\
+  L_{random\ screening} &= \\
+  L_{cross\ screening} &= \\
+\end{align*}$$
 <br><br></div>
 
 
