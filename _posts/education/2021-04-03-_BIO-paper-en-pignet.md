@@ -58,12 +58,13 @@ $$E^{total}= \frac{E^{vdw}+E^{hbond}+E^{metal}+E^{hydrophobic}}{T^{rotor}}$$
 $$\begin{align*}
   E^{vdw} &= \sum_{i,j} {c_{i,j}\left [(\frac{d^{\prime}_{i,j}}{d_{i,j}})^{12} - 2(\frac{d^{\prime}_{i,j}}{d_{i,j}})^6 \right ]}\\
   E^{hbond},\ E^{metal},\ E^{hydrophobic} &= \sum_{i,j} e_{ij}\\
-  T^{rotor} &= 
+  e_{ij} &= 
     \begin{cases}
       \omega, & \text{if }d_{ij}-d^{\prime}_{ij} < c_{1} \\
       \omega \left (  \frac{d_{ij}-d^{\prime}_{ij}-c_{2}}{c_{1}-c_{2}} \right ), & \text{if }c_{1}< d_{ij}-d^{\prime}_{ij} < c_{2} \\
       0, & \text{if }d_{ij}-d^{\prime}_{ij} > c_{2}
-    \end{cases}\\
+    \end{cases} \\
+  T^{rotor} &= 1 + C_{rotor} \times N_{rotor}\\
 \end{align*}$$
 
 <br><br></div>
