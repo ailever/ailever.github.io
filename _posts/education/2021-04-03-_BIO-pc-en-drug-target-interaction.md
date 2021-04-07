@@ -99,7 +99,10 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$<chem>L+R <=>[\text{k_{on}}][\text{k_{off}}] C</chem>$$
+  
+<br><br></div>
 
 ### IC50
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
