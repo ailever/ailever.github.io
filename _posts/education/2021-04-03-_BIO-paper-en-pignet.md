@@ -59,9 +59,9 @@ author_staff_member: anonym
 $$\begin{align*}
   L_{total} &= L_{energy} \\
   \quad &{\color{red}{+c_{derivative}L_{derivative}}} \\  
-  \quad &+c_{docking}L_{docking} \\
-  \quad &+c_{random\ screening}L_{random\ screening} \\
-  \quad &+c_{cross\ screening}L_{cross\ screening} \\
+  \quad &{\color{green}{+c_{docking}L_{docking}}} \\
+  \quad &{\color{blue}{+c_{random\ screening}L_{random\ screening}}} \\
+  \quad &{\color{orange}{+c_{cross\ screening}L_{cross\ screening}}} \\
 \end{align*}$$  
 
 $$\begin{align*}
