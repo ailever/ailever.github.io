@@ -49,6 +49,7 @@ author_staff_member: anonym
 <br><br><br>
 ## Overview of our model
 ### Model Architecture
+![image](https://user-images.githubusercontent.com/52376448/113819672-9682e400-97b4-11eb-9533-d6368eae7782.png)
 - **Gated graph attention network (gated GAT)** for covalent bonds & **interaction network** for intermolecular interactions 
 
 ### Physics-informed parameterized function
