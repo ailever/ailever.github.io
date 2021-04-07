@@ -101,13 +101,14 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 ### Free Energy Caluations for Lead Optimization
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$ L+R \rightleftharpoons C $$
-$$\delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
+$$\Delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
 $$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
 <br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
-$$\delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+$$\frac{Z_{A}}{Z_{B}} = \frac{<f(V_{A}-V_{B}+C)>_{B}}{<f(V_{B}-V_{A}+C)>_{A}}$$
 <br><br></div>
 
 ### IC50
