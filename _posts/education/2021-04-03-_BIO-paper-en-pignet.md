@@ -55,12 +55,6 @@ author_staff_member: anonym
 ### Physics-informed parameterized function
 ### Loss functions
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\begin{align*}
-  L_{total} &= L_{energy} \\
-  \quad &+c_{docking}L_{docking} \\
-  \quad &+c_{random\ screening}L_{random\ screening} \\
-  \quad &+c_{cross\ screening}L_{cross\ screening} \\
-\end{align*}$$  
 
 $$\begin{align*}
 \end{align*}$$
@@ -68,6 +62,13 @@ $$\begin{align*}
 <br><br></div>
 
 <!--
+$$\begin{align*}
+  L_{total} &= L_{energy} \\
+  \quad &+c_{docking}L_{docking} \\
+  \quad &+c_{random\ screening}L_{random\ screening} \\
+  \quad &+c_{cross\ screening}L_{cross\ screening} \\
+\end{align*}$$  
+
   \quad &+c_{{\color{red}derivative}}L_{{\color{red}derivative}} \\
   L_{energy} &= \frac{1}{N_{train}\sum_{i} {(y_{pred,i}-y_{true,i})^2}} \\
   L_{{\color{red}derivative}} &= \sum_{i} {((\frac{\partial E^{total}}{\partial q_{i}})^2 - \min(\frac{\partial^2 E^{total}}{\partial q_{i}^{2}},C_{der2}))} \\
