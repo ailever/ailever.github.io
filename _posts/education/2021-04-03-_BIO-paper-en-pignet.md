@@ -56,7 +56,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E^{total}= \frac{E^{vdw}+E^{hbond}+E^{metal}+E^{hydrophobic}}{T^{rotor}}$$
 $$\begin{align*}
-  E^{vdw} &= \\
+  E^{vdw} &= \sum{i,j} {c_{i,j}[(\frac{d^{\prime}_{i,j}}{d_{i,j}})^12 - 2(\frac{d^{\prime}_{i,j}}{d_{i,j}})^6]}\\
   E^{hbond} &= \\
   E^{metal} &= \\
   E^{hydrophobic} &= \\
