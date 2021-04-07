@@ -83,13 +83,13 @@ $$\begin{align*}
   \Delta G_{bind} & = -kT \ln \frac{K}{V_{ref}} \\
   & = -kT\ln {(8\pi V_{ref})} - kT \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
 \end{align*}$$
-- $\Delta G_{bind}$: Absolute binding free energy<br>
-- $k$: Boltzmann constant<br>
-- $T$: Absolute temperature<br>
-- $V_{ref}$: Reference volume in units consistent<br>
+- $\Delta G_{bind}$ : Absolute binding free energy<br>
+- $k$ : Boltzmann constant<br>
+- $T$ : Absolute temperature<br>
+- $V_{ref}$ : Reference volume in units consistent<br>
 - $\beta=1/kT$<br>
-- $\mathbf{r}, \boldsymbol{\Omega}$: Relative position, orientation<br>
-- $H$: Ensemble average
+- $\mathbf{r}, \boldsymbol{\Omega}$ : Relative position, orientation<br>
+- $H$ : Ensemble average
 <br><br></div>
 
 ### The Quasi-Harmonic Approximation
@@ -132,6 +132,10 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta G^{o}_{bind} = \Delta G_{conf} + \Delta G^{o}_{bind,C} + \Delta G_{rel}$$
+- $\Delta G^{o}_{bind}$ : the true (standard) binding free energy <br>
+- $\Delta G_{conf}$ : the free energy of confining the protein to this smaller region of configuration space in the unbound state <br> 
+- $\Delta G^{o}_{bind,C}$ : the standard binding free energy of the ligand to the confined protein <br> 
+- $\Delta G_{rel}$ : the free energy of releasing the protein from conformational confinement in the bound state <br> 
 <br><br></div>
 
 ### G protein-coupled receptor
