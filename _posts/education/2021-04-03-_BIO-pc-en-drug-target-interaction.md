@@ -102,6 +102,10 @@ $$\Delta G_{bind} = kT \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{kT}{2}\ln{((2\p
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 ### IC50
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$  
+<br><br></div>
+
 
 <br><br><br>
 ## Protein-Ligand Interaction
