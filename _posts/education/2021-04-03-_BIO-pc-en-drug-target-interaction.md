@@ -113,7 +113,7 @@ $$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B
 
 Soft-core potential
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$V_{ij} = 4\epsillon_{ij}$$
+$$V_{ij} = 4\epsilon_{ij}(1-\lambda)^{t} ([\alpha_{LJ}\lambda^{s} + (r_{ij}/\sigma_{ij})^{n}]^{-12/n} - [\alpha_{LJ}\lambda^{s}+(r_{ij}/\sigma_{ij})^{n}]^{-6/n})$$
 <br><br></div>
 
 ### IC50
