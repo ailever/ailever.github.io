@@ -57,10 +57,10 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
   L_{total} &= L_{energy} \\
-  \ &+c_{derivative}L_{derivative} \\
-  \ &+c_{docking}L_{docking} \\
-  \ &+c_{random\ screening}L_{random\ screening} \\
-  \ &+c_{cross\ screening}L_{cross\ screening} \\
+  \quad &+c_{derivative}L_{derivative} \\
+  \quad &+c_{docking}L_{docking} \\
+  \quad &+c_{random\ screening}L_{random\ screening} \\
+  \quad &+c_{cross\ screening}L_{cross\ screening} \\
 \end{align*}$$  
 <br><br></div>
 
