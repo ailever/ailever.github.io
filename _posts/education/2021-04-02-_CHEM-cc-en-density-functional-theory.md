@@ -69,6 +69,13 @@ $$
 $$
 H_{i} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
 $$
+
+Coulomb integrals and Exchange integrals
+$$\begin{align*}
+J_{ij} &= \iint \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \frac{1}{r_{12}} \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \, d\overrightarrow{x_{}} \, d\overrightarrow{x_{}} \\
+K_{ij} &= \iint \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \frac{1}{r_{12}} \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \, d\overrightarrow{x_{}} \, d\overrightarrow{x_{}}\\
+\end{align*}$$
+
 <br><br></div>
 
 
