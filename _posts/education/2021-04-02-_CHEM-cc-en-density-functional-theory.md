@@ -34,6 +34,9 @@ $$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
 + \sum_{A=1}^{M} \sum_{B>A}^{M} {\frac{Z_{A}Z_{B}}{R_{AB}}}$$
 
 Born-Oppenheimer approximation
+$$H_{elec} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
+-\sum_{i=1}^{N} \sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}
++ \sum_{i=1}^{N} \sum_{j>i}^{N} {\frac{1}{r_{ij}}}$$
 
 <br><br></div>
 
