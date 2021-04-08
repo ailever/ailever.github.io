@@ -24,7 +24,7 @@ author_staff_member: anonym
 ### The Schrodinger equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H\Psi_{i} = E_{i}\Psi_{i}$$
-$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}} -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}} -\sum_{i=1}^{N}\sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}$$
+$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}} -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}} -\sum_{i=1}^{N}{} \sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}} + \sum_{i=1}^{N}{} \sum_{j>i}^{N} {\frac{1}{r_{ij}} + \sum_{A=1}^{M} {} \sum_{B>A}^{M} {\frac{Z_{A}Z_{B}}{R_{AB}}}$$
 <br><br></div>
 
 
