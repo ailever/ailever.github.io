@@ -159,7 +159,8 @@ $$
 ### The Kohn-Sham equations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$  
-$$E_{XC}[\rho] = (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho])$$
+$$E_{XC}[\rho] \equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho])$$
+$$E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho]$$
 <br><br></div>
 
 <br><br><br>
