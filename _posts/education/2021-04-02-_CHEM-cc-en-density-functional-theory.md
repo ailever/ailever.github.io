@@ -64,7 +64,7 @@ $$
 E_{HF}=min_{\Psi_{HF}\rightarrow N}E[\Psi_{HF}]
 $$
 $$
-E_{HF} = \left \langle | H | \right \rangle = \sum_{i=1}^{N} {H_{i}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
+E_{HF} = \left \langle \Psi_{HF} | H | \Psi_{HF} \right \rangle = \sum_{i=1}^{N} {H_{i}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
 $$
 $$
 H_{i} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
