@@ -161,6 +161,15 @@ $$
 $$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$  
 $$E_{XC}[\rho] \equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho])$$
 $$E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho]$$
+  
+Kohn-Sham equations
+$$
+
+$$
+
+$$
+V_{S}(\vec{r_{1}}) = \int \frac{\rho(\vec{r_{2}})}{r_{12}} \, d\vec{r2_{2}} + V_{XC}(\vec{r_{1}}) - \sum_{A}^{M}\frac{Z_{A}}{r_{1A}}
+$$
 <br><br></div>
 
 <br><br><br>
