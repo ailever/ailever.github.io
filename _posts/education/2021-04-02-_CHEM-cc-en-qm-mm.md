@@ -34,9 +34,9 @@ author_staff_member: anonym
 <ol>
   <li><a href="http://www.fhi-berlin.mpg.de/~luca/Course_TU/">Theoretical Concepts for Chemical Energy Conversion</a></li>
   <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
 </ol>
 <ul>
+  <li><a href="https://www.elsevier.com/books/combining-quantum-mechanics-and-molecular-mechanics-some-recent-progresses-in-qm-mm-methods/sabin/978-0-12-380898-1">(2010) Combining Quantum Mechanics and Molecular Mechanics. Some Recent Progresses in QM/MM Methods</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
