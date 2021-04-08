@@ -223,6 +223,7 @@ Big Firm in Pharmaceutical Industry
 <b id='ART'>Related Articles</b>
 <ol>
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/">Molecular Mechanics and Dynamics</a></li>
   <li></li>
 </ol>
 </div>
