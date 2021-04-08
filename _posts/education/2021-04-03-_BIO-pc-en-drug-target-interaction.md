@@ -77,6 +77,8 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 <br><br><br>
 ## Molecular Binding under Statistical Thermodynamic Perspective
+Gibbs free energy gradient acts as a driving force for a system.
+
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
