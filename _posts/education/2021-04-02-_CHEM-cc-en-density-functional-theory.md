@@ -94,8 +94,9 @@ $$
 
 Hartree-Fock potential
 $$\begin{align*}
-V_{HF}(\overrightarrow{x_{1}}) = \sum_{j}^{N} {(J_{j}(\overrightarrow{x_{1}})-K_{j}(\overrightarrow{x_{1}}))} \\
-J_{j}(\overrightarrow{x_{1}}) = \int \left \vert \psi_{j}(\overrightarrow{x_{2}}) \right \vert^{2} \frac{1}{r_{12}} \, d\overrightarrow{x_{2}}
+V_{HF}(\overrightarrow{x_{1}}) &= \sum_{j}^{N} {(J_{j}(\overrightarrow{x_{1}})-K_{j}(\overrightarrow{x_{1}}))} \\
+J_{j}(\overrightarrow{x_{1}}) &= \int \left \vert \psi_{j}(\overrightarrow{x_{2}}) \right \vert^{2} \frac{1}{r_{12}} \, d\overrightarrow{x_{2}} \\
+K_{j}(\overrightarrow{x_{1}}) \psi_{i}(\overrightarrow{x_{1}}) &= \int \psi_{j}^{*}(\overrightarrow{x_{2}}) \frac{1}{r_{12}} \psi_{i}(\overrightarrow{x_{2}}) \, d\overrightarrow{x_{2}} \psi_{j}(\overrightarrow{x_{1}}) \\
 \end{align*}$$
 
 <br><br></div>
