@@ -60,21 +60,14 @@ author_staff_member: anonym
 
 
 <br><br><br>
-## Quantum Chemistry
-<span style="font-size:small;">
-  :en
-  :kr
-</span>
-
-<br><br><br>
-## Thermochemistry
-<span style="font-size:small;">
-  :en
-  :kr
-</span>
-
-<br><br><br>
 ## Biochemistry
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
+<br><br><br>
+## Physical chemistry
 <span style="font-size:small;">
   :en
   :kr
