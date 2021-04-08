@@ -12,16 +12,16 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mathematics'">Mathematics</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Chemistry'">Chemistry</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Biology'">Biology</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Computer-Engineering'">Computer Engineering</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mechanical-Engineering'">Mechanical Engineering</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Electronics'">Electronics</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Physics'">Physics</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Statistics'">Statistics</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Economics'">Economics</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/education/2020/05/30/Finance'">Finance</button>  
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mathematics'">Mathematics</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Chemistry'">Chemistry</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Biology'">Biology</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Computer-Engineering'">Computer Engineering</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mechanical-Engineering'">Mechanical Engineering</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Electronics'">Electronics</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Physics'">Physics</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Statistics'">Statistics</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Economics'">Economics</button>
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Finance'">Finance</button>    
 </div>
 <!-- Top Block -->
 
