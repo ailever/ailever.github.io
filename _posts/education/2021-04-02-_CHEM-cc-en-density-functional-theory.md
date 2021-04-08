@@ -49,6 +49,7 @@ $$E_{0}=\min_{\Psi \rightarrow N}{E[\Psi]} = \min_{\Psi \rightarrow N}{\left \la
 
 ### The Hartree-Fock approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The Slater determinant  
 $$\Psi_{0} \approx \Psi_{HF} = \frac{1}{\sqrt{N!}} 
 \begin{vmatrix}
 \psi_{1}(\overrightarrow{x_{1}}) & \psi_{2}(\overrightarrow{x_{1}}) & \cdots & \psi_{N}(\overrightarrow{x_{1}})\\
@@ -56,7 +57,15 @@ $$\Psi_{0} \approx \Psi_{HF} = \frac{1}{\sqrt{N!}}
 \vdots & \vdots & & \vdots \\
 \psi_{1}(\overrightarrow{x_{N}}) & \psi_{2}(\overrightarrow{x_{N}}) & \cdots & \psi_{N}(\overrightarrow{x_{N}}) \\
 \end{vmatrix}
-$$  
+$$
+  
+The Hartree-Fock approximation  
+$$
+E_{HF}=min_{\Psi_{HF}\rightarrow N}E[\Psi_{HF}]
+$$
+$$
+E_{HF} = \left \langle | H | \right \rangle = \sum_{i=1}^{N} {H_{i}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
+$$
 <br><br></div>
 
 
