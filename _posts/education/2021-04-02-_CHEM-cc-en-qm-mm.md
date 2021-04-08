@@ -29,6 +29,8 @@ Energy Expression Schemes
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta G_{A>B} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
 $$H(\lambda) = \lambda E_{A} + (1-\lambda)E_{B}$$
+Ensemble average of a function
+$$$$
 <br><br></div>
 
 
