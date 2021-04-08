@@ -108,6 +108,18 @@ K_{j}(\overrightarrow{x_{1}}) \psi_{i}(\overrightarrow{x_{1}}) &= \int \psi_{j}^
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The electron density
 $$\rho(\overrightarrow{r}) = N \int \cdots \int {\left \vert \Psi(\overrightarrow{x_{1}},\overrightarrow{x_{2}},\cdots,\overrightarrow{x_{N}}) \right \vert^{2} } ,\ ds_{1}d\overrightarrow{x_{1}}d\overrightarrow{x_{2}} \cdots d\overrightarrow{x_{N}}$$
+
+$$
+\rho_{\overrightarrow{r}\rightarrow \infty}=0 \qquad \int {\rho(\overrightarrow{r})} \, d\overrightarrow{r}= N 
+$$
+
+$$
+\lim_{r_{i}A \to 0} {[\nabla_{r}+2Z_{A}]\overline{\rho}(\overrightarrow{r})} = 0  
+$$
+
+$$
+\rho(\overrightarrow{r}) \sim e^{-2\sqrt{2I}\left \vert \overrightarrow{r} \right \vert}
+$$
 <br><br></div>
 ### The Thomas-Fermi model
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
