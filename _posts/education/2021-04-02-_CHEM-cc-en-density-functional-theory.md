@@ -142,7 +142,7 @@ $$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E[\rho] = E_{Ne}[\rho] + T[\rho] + E_{ee}[\rho] = \int {\rho(\overrightarrow{r})V_{Ne}(\overrightarrow{r})} \, d\overrightarrow{r} + F_{HK}[\rho]$$  
 $$F_{HF}[\rho] = T[\rho] + E_{ee}$$
-$$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\overrightarrow{r_{1}})\rho(\overrightarrow{r_{2}})}{r_{12}}} \,d\overrightarrow{r_{1}} \,d\overrightarrow{r_{2}} + E_{ncl}
+$$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\overrightarrow{r_{1}})\rho(\overrightarrow{r_{2}})}{r_{12}}} \,d\overrightarrow{r_{1}} \,d\vec{r_{2}} + E_{ncl}
 = J[\rho] + E_{ncl}[\rho]$$
 <br><br></div>
 
