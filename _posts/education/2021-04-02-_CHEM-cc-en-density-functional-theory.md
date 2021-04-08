@@ -139,7 +139,12 @@ $$
 <br><br><br>
 ## The Hohenberg-Kohn theorems
 ### The first Hohenberg-Kohn theorem
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E[\rho] = E_{Ne}[\rho] + T[\rho] + E_{ee}[\rho] = \int {\rho(\overrightarrow{r})V_{Ne}(\overrightarrow{r})} \, d\overrightarrow{r} + F_{HK}[\rho]$$  
+$$F_{HF}[\rho] = T[\rho] + E_{ee}$$
+$$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\overrightarrow{r_{1}})\rho(\overrightarrow{r_{2}})}{r_{12}}} \,d\overrightarrow{r_{1}} \,d\overrightarrow{r_{2}} + E_{ncl}$$
+<br><br></div>
+
 ### The second Hohenberg-Kohn theorem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
