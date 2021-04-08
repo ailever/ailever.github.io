@@ -21,7 +21,7 @@ author_staff_member: anonym
 ## Computational Chemistry
 - Ab initio methods
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-ab-initio-methods/)
   :kr
 </span>
 - Density Functional Theory
@@ -31,7 +31,7 @@ author_staff_member: anonym
 </span>
 - Quantum Chemistry Methods
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-quantum-chemistry-methods/)
   :kr
 </span>
 - Molecular Mechanics and Dynamics
@@ -41,7 +41,7 @@ author_staff_member: anonym
 </span>
 - QM/MM(Quantum Mechanics/Molecular Mechanics)
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-qm-mm/)
   :kr
 </span>
 
