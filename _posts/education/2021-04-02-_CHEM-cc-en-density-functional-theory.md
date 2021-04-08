@@ -157,13 +157,18 @@ $$
 <br><br><br>
 ## The Kohn-Sham approach
 ### The Kohn-Sham equations
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$  
+$$E_{XC}[\rho] = (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho])$$
+<br><br></div>
 
 <br><br><br>
 ## The exchange-correlation functionals
 ### The local density approximation(LDA)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 ### The generalized gradient approximation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### Hybrid functional
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
