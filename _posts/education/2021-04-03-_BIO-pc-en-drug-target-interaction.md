@@ -213,6 +213,7 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://scholar.google.com/scholar_lookup?journal=J.+Phys.+Chem.+B&volume=117&publication_year=2013&pages=8408-8421&pmid=23789789&">(2010) Free-energy calculations in structure-based drug design</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562444/">(2007) The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187911/">(2011) Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a></li>
+  <li><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.5b00630">(2016) Ligand-Binding Affinity Estimates Supported by Quantum-Mechanical Methods</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
