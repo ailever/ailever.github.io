@@ -25,7 +25,8 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex'">Protein-Ligand Complex</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_docking'">Protein-ligand docking</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)'">Partition Function</button>
-  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Ligand_(biochemistry)'">Ligand</button>  
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Ligand_(biochemistry)'">Ligand</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Umbrella_sampling'">Umbrella sampling</button>
 </div>
 <!-- Top Block -->
 
