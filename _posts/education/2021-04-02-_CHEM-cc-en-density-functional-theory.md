@@ -21,10 +21,20 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Elementary quantum mechanics
+
+<br><br><br>
 ## Early density functional theories
+
+<br><br><br>
 ## The Hohenberg-Kohn theorems
+
+<br><br><br>
 ## The Kohn-Sham approach
+
+<br><br><br>
 ## The exchange-correlation functionals
+
+<br><br><br>
 ## The basic machinary of DFT
 
 
