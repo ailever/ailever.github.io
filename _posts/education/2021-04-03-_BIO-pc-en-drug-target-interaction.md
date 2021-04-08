@@ -27,6 +27,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)'">Partition Function</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Ligand_(biochemistry)'">Ligand</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Umbrella_sampling'">Umbrella sampling</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Thermodynamic_integration'">Thermodynamic integration</button>
 </div>
 <!-- Top Block -->
 
