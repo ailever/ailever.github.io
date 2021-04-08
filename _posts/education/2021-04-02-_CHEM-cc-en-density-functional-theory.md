@@ -72,8 +72,8 @@ $$
 
 Coulomb integrals and Exchange integrals
 $$\begin{align*}
-J_{ij} &= \iint \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \frac{1}{r_{12}} \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \, d\overrightarrow{x_{}} \, d\overrightarrow{x_{}} \\
-K_{ij} &= \iint \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \frac{1}{r_{12}} \psi_{\overrightarrow{x_{}}} \psi_{\overrightarrow{x_{}}} \, d\overrightarrow{x_{}} \, d\overrightarrow{x_{}}\\
+J_{ij} &= \iint \psi_{i}(\overrightarrow{x_{1}}) \psi^{*}_{i}(\overrightarrow{x_{1}}) \frac{1}{r_{12}} \psi_{j}^{*}(\overrightarrow{x_{2}}) \psi_{j}(\overrightarrow{x_{2}}) \, d\overrightarrow{x_{1}} \, d\overrightarrow{x_{2}} \\
+K_{ij} &= \iint \psi_{i}^{*}(\overrightarrow{x_{1}}) \psi_{j}(\overrightarrow{x_{1}}) \frac{1}{r_{12}} \psi_{i}(\overrightarrow{x_{2}}) \psi_{j}^{*}(\overrightarrow{x_{1}}) \, d\overrightarrow{x_{1}} \, d\overrightarrow{x_{2}}\\
 \end{align*}$$
 
 <br><br></div>
