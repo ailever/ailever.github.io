@@ -51,8 +51,10 @@ $$E_{0}=\min_{\Psi \rightarrow N}{E[\Psi]} = \min_{\Psi \rightarrow N}{\left \la
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Psi_{0} \approx \Psi_{HF} = \frac{1}{\sqrt{N!}} 
 \begin{vmatrix}
-x & y \\
-z & v
+\psi_{1}(\overrightarrow{x_{1}}) & \psi_{2}(\overrightarrow{x_{1}}) & \cdots & \psi_{N}(\overrightarrow{x_{1}})\\
+\psi_{1}(\overrightarrow{x_{2}}) & \psi_{2}(\overrightarrow{x_{2}}) & \cdots & \psi_{N}(\overrightarrow{x_{2}}) \\
+\vdots & \vdots & & \vdots \\
+\psi_{1}(\overrightarrow{x_{N}}) & \psi_{2}(\overrightarrow{x_{N}}) & \cdots & \psi_{N}(\overrightarrow{x_{N}}) \\
 \end{vmatrix}
 $$  
 <br><br></div>
