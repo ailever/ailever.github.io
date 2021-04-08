@@ -27,7 +27,7 @@ Energy Expression Schemes
 
 ### Free Energy Perturbation(FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta F_{AB} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
+$$\Delta F(A\rightarrow B) = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
 <br><br></div>
 
 ### Thermodynamic Integration(TI)
