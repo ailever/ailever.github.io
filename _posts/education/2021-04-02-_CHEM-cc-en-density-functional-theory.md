@@ -122,7 +122,18 @@ $$
 $$
 <br><br></div>
 ### The Thomas-Fermi model
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$
+T_{TF}[\rho(\overrightarrow{r})] = \frac{3}{10}(3\pi^{2})^{2/3} \int \rho^{5/3}(\overrightarrow{r}) \, d\overrightarrow{r}  
+$$
+
+$$
+E_{TF}[\rho(\overrightarrow{r})] = \frac{3}{10}(3\pi^{2})^{2/3} \int \rho^{5/3}(\overrightarrow{r}) \, d\overrightarrow{r} 
+-Z \int {\frac{\rho(\overrightarrow{r})}{r}}\, d\overrightarrow{r}
++ \frac{1}{2} \iint \frac{\rho(\overrightarrow{r_{1}})\rho(\overrightarrow{r_{2}})}{r_{12}} \,d\overrightarrow{r_{1}} \,d\overrightarrow{r_{2}}
+$$
+
+<br><br></div>
 
 
 <br><br><br>
