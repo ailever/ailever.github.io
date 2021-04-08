@@ -114,7 +114,7 @@ K_{j}(\overrightarrow{x_{1}}) \psi_{i}(\overrightarrow{x_{1}}) &= \int \psi_{j}^
 ## The Hohenberg-Kohn theorems
 ### The first Hohenberg-Kohn theorem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
-### 3.2 The second Hohenberg-Kohn theorem
+### The second Hohenberg-Kohn theorem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
