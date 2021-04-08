@@ -1,5 +1,5 @@
 ---
-title: Statistical Ensembles
+title: Thermodynamic Ensembles
 prev1_title: Statistical Mechanics
 prev2_title: Physics
 date: 2021-03-03
