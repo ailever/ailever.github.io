@@ -28,11 +28,9 @@ Energy Expression Schemes
 ### Free Energy Perturbation(FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta F_{AB} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
-Ensemble average of a function
 <br><br></div>
 
-
-## Thermodynamic Integration(TI)
+### Thermodynamic Integration(TI)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Potential energy function
 $$U(\lambda) = \lambda U_{A} + (1-\lambda)U_{B}$$
@@ -43,6 +41,15 @@ $$F(N,V,T,\lambda) = -k_{B}T\ln{Q(N,V,T,\lambda)}$$
 The ensemble average of the derivative of potential energy with respect to $\lambda$
 $$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \lambda}}\, d\lambda = \int_{0}^{1} {\frac{\partial U(\lambda)}{\partial \lambda}}\, d\lambda$$
 <br><br></div>
+
+### Enhanced sampling
+- Multiple time-step sampling
+- Umbrella sampling
+- Replica Exchange
+- Reaction coordinate-driven methods
+- Transition path sampling
+
+
 
 
 
