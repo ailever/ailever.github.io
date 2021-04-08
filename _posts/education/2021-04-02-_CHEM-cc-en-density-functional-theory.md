@@ -48,7 +48,14 @@ $$E_{0}=\min_{\Psi \rightarrow N}{E[\Psi]} = \min_{\Psi \rightarrow N}{\left \la
 <br><br></div>
 
 ### The Hartree-Fock approximation
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\Psi_{0} \approx \Psi_{HF} = \frac{1}{\sqrt{N!}} 
+\begin{vmatrix}
+x & y \\
+z & v
+\end{vmatrix}
+$$  
+<br><br></div>
 
 
 <br><br><br>
