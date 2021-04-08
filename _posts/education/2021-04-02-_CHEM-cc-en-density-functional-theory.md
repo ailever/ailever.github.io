@@ -23,7 +23,8 @@ author_staff_member: anonym
 ## Elementary quantum mechanics
 ### The Schrodinger equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H$$
+$$H\Psi_{i} = E_{i}\Phi_{i}$$
+$$H = -\frac{1}{2} \nabla^2$$
 <br><br></div>
 
 
