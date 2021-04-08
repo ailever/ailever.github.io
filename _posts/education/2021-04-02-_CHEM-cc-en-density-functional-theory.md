@@ -105,7 +105,10 @@ K_{j}(\overrightarrow{x_{1}}) \psi_{i}(\overrightarrow{x_{1}}) &= \int \psi_{j}^
 <br><br><br>
 ## Early density functional theories
 ### The electron density
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The electron density
+$$\rho(\overrightarrow{r}) = N \int \cdots \int {\left \vert \Psi(\overrightarrow{x_{1}},\overrightarrow{x_{2}},\cdots,\overrightarrow{x_{N}}) \right \vert^{2} } ,\ ds_{1}d\overrightarrow{x_{1}}d\overrightarrow{x_{2}} \cdots d\overrightarrow{x_{N}}$$
+<br><br></div>
 ### The Thomas-Fermi model
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
