@@ -47,20 +47,29 @@ $$E[\Psi]=\frac{\left \langle\Psi|H|\Psi\right \rangle}{\left \langle\Psi|\Psi\r
 $$E_{0}=\min_{\Psi \rightarrow N}{E[\Psi]} = \min_{\Psi \rightarrow N}{\left \langle | T + V_{Ne} + V_{ee} | \right \rangle}$$
 <br><br></div>
 
+### The Hartree-Fock approximation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+
 <br><br><br>
 ## Early density functional theories
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The Hohenberg-Kohn theorems
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The Kohn-Sham approach
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The exchange-correlation functionals
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The basic machinary of DFT
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
 
