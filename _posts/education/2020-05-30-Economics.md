@@ -12,9 +12,12 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" type="button" onclick="location.href='https://paperswithcode.com/sota'">Papers with Code</button>
+  <button class="top_btn" type="button" onclick="location.href='https://distill.pub/'">Distill</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ai-pool.com/'">AI Pool</button>
+  <button class="top_btn" type="button" onclick="location.href='https://wiki.pathmind.com/index'">pathmind</button>
+  <button class="top_btn" type="button" onclick="location.href='https://www.groundai.com/'">Ground AI</button>
+  <button class="top_btn" type="button" onclick="location.href='https://towardsdatascience.com/'">Towards Data Science</button>
 </div>
 <!-- Top Block -->
 
