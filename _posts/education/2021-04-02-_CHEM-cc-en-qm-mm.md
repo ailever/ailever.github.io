@@ -25,13 +25,25 @@ Energy Expression Schemes
 - Subtractive scheme
 - Additive scheme
 
-### Free energy perturbation
+### Free Energy Perturbation(FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{A>B} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
-$$H(\lambda) = \lambda E_{A} + (1-\lambda)E_{B}$$
+$$\Delta F_{AB} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
 Ensemble average of a function
-$$$$
 <br><br></div>
+
+
+## Thermodynamic Integration(TI)
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+Potential energy function
+$$U(\lambda) = \lambda U_{A} + (1-\lambda)U_{B}$$
+The partition function of the system in the canonical ensemble
+$$Q(N,V,T,\lambda) = \sum_{s} e^{-\frac{-U_{s}(\lambda)}{k_{B}T}}$$
+The free energy of this system
+$$F(N,V,T,\lambda) = -k_{B}T\ln{Q(N,V,T,\lambda)}$$
+The ensemble average of the derivative of potential energy with respect to $\lambda$
+$$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \lambda}}, d\lambda = \int_{0}^{1} {\frac{\partial U(\lambda)}{\partial \lambda}}, d\lambda$$
+<br><br></div>
+
 
 
 - Implementing Quantum Mechanics into Molecular Mechanics—Combined QM/MM Modeling Methods
