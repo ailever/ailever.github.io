@@ -10,7 +10,6 @@ categories:
 HL1: education
 image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Chemistry.png
 author_staff_member: anonym
-published: true
 ---
 
 <!-- Top Block -->
@@ -22,34 +21,21 @@ published: true
 <!-- Top Block -->
 
 
-## Implementing Quantum Mechanics into Molecular Mechanics—Combined QM/MM Modeling Methods
+## Energy Expression Schemes
 
-<br><br><br>
-## Extending the Range of Computational Spectroscopy by QM/MM Approaches: Time-Dependent and Time-Independent Routes
 
-<br><br><br>
-## Use of the Average Solvent Potential Approach in the Study of Solvent Effects
+- Implementing Quantum Mechanics into Molecular Mechanics—Combined QM/MM Modeling Methods
+- Extending the Range of Computational Spectroscopy by QM/MM Approaches: Time-Dependent and Time-Independent Routes
+- Use of the Average Solvent Potential Approach in the Study of Solvent Effects
+- QM/MM Approaches to the Electronic Spectra of Hydrogen-Bonding Systems with Connection to Many-Body Decomposition Schemes
+- Molecular Dynamics of Polypeptides and Their Inclusion Compounds with b-Cyclodextrin in Aqueous Solution Using DC–SCC–DFTB/UFF Approach
+- Computer Simulations of Photobiological Processes: The Effect of the Protein Environment
+- Ab Initio Quantum Mechanical Charge Field Molecular Dynamics—A Nonparametrized First-Principle Approach to Liquids and Solutions
+- Applications of Mixed-Quantum/Classical Trajectories to the Study of Nuclear Quantum Effects in Chemical Reactions and Vibrational Relaxation Processes
+- Development of a Quantum Chemical Method Combined with a Theory of Solutions—Free-Energy Calculation for Chemical Reactions by Condensed Phase Simulations
+- A Guide to QM/MM Methodology and Applications
 
-<br><br><br>
-## QM/MM Approaches to the Electronic Spectra of Hydrogen-Bonding Systems with Connection to Many-Body Decomposition Schemes
 
-<br><br><br>
-## Molecular Dynamics of Polypeptides and Their Inclusion Compounds with b-Cyclodextrin in Aqueous Solution Using DC–SCC–DFTB/UFF Approach
-
-<br><br><br>
-## Computer Simulations of Photobiological Processes: The Effect of the Protein Environment
-
-<br><br><br>
-## Ab Initio Quantum Mechanical Charge Field Molecular Dynamics—A Nonparametrized First-Principle Approach to Liquids and Solutions
-
-<br><br><br>
-## Applications of Mixed-Quantum/Classical Trajectories to the Study of Nuclear Quantum Effects in Chemical Reactions and Vibrational Relaxation Processes
-
-<br><br><br>
-## Development of a Quantum Chemical Method Combined with a Theory of Solutions—Free-Energy Calculation for Chemical Reactions by Condensed Phase Simulations
-
-<br><br><br>
-## A Guide to QM/MM Methodology and Applications
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
