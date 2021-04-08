@@ -24,7 +24,7 @@ author_staff_member: anonym
 ### The Schrodinger equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H\Psi_{i} = E_{i}\Phi_{i}$$
-$$H = -\frac{1}{2} \nabla^2$$
+$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}} -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}}$$
 <br><br></div>
 
 
