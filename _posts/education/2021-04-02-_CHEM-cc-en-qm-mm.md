@@ -27,7 +27,8 @@ Energy Expression Schemes
 
 ### Free energy perturbation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{A>B} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$  
+$$\Delta G_{A>B} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
+$$H(\lambda) = \lambda E_{A} + (1-\lambda)E_{B}$$
 <br><br></div>
 
 
@@ -40,7 +41,6 @@ $$\Delta G_{A>B} = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{
 - Ab Initio Quantum Mechanical Charge Field Molecular Dynamics—A Nonparametrized First-Principle Approach to Liquids and Solutions
 - Applications of Mixed-Quantum/Classical Trajectories to the Study of Nuclear Quantum Effects in Chemical Reactions and Vibrational Relaxation Processes
 - Development of a Quantum Chemical Method Combined with a Theory of Solutions—Free-Energy Calculation for Chemical Reactions by Condensed Phase Simulations
-- A Guide to 
 
 
 
