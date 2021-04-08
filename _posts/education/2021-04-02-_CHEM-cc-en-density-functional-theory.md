@@ -164,7 +164,7 @@ $$E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho]$$
   
 Kohn-Sham equations
 $$
-
+\left (  \right ) \psi_{i} = \left ( \right ) \psi_{i} = \epsilon_{i}\psi_{i}
 $$
 
 $$
