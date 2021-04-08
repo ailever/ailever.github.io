@@ -41,7 +41,7 @@ $$Q(N,V,T,\lambda) = \sum_{s} e^{-\frac{-U_{s}(\lambda)}{k_{B}T}}$$
 The free energy of this system
 $$F(N,V,T,\lambda) = -k_{B}T\ln{Q(N,V,T,\lambda)}$$
 The ensemble average of the derivative of potential energy with respect to $\lambda$
-$$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \lambda}}, d\lambda = \int_{0}^{1} {\frac{\partial U(\lambda)}{\partial \lambda}}, d\lambda$$
+$$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \lambda}}\, d\lambda = \int_{0}^{1} {\frac{\partial U(\lambda)}{\partial \lambda}}\, d\lambda$$
 <br><br></div>
 
 
