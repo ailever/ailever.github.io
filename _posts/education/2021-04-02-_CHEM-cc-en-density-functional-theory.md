@@ -91,6 +91,13 @@ $$
 $$
 f = -\frac{1}{2}\nabla^{2}_{i} - \sum_{A}^{M} {\frac{Z_{A}}{r_{iA}}} + V_{HF}(i)
 $$
+
+Hartree-Fock potential
+$$\begin{align*}
+V_{HF}(\overrightarrow{x_{1}}) = \sum_{j}^{N} {(J_{j}(\overrightarrow{x_{1}})-K_{j}(\overrightarrow{x_{1}}))} \\
+J_{j}(\overrightarrow{x_{1}}) = \int \left \vert \psi_{j}(\overrightarrow{x_{2}}) \right \vert^{2} \frac{1}{r_{12}} \, d\overrightarrow{x_{2}}
+\end{align*}$$
+
 <br><br></div>
 
 
