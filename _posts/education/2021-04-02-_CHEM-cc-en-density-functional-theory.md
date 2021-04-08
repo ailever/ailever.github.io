@@ -17,8 +17,17 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Elementary quantum mechanics
+## Early density functional theories
+## The Hohenberg-Kohn theorems
+## The Kohn-Sham approach
+## The exchange-correlation functionals
+## The basic machinary of DFT
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
