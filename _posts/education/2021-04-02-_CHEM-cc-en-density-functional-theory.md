@@ -75,7 +75,22 @@ $$\begin{align*}
 J_{ij} &= \iint \psi_{i}(\overrightarrow{x_{1}}) \psi^{*}_{i}(\overrightarrow{x_{1}}) \frac{1}{r_{12}} \psi_{j}^{*}(\overrightarrow{x_{2}}) \psi_{j}(\overrightarrow{x_{2}}) \, d\overrightarrow{x_{1}} \, d\overrightarrow{x_{2}} \\
 K_{ij} &= \iint \psi_{i}^{*}(\overrightarrow{x_{1}}) \psi_{j}(\overrightarrow{x_{1}}) \frac{1}{r_{12}} \psi_{i}(\overrightarrow{x_{2}}) \psi_{j}^{*}(\overrightarrow{x_{1}}) \, d\overrightarrow{x_{1}} \, d\overrightarrow{x_{2}}\\
 \end{align*}$$
+$$
+J_{ij} \ge K_{ij} \ge 0
+$$
 
+The minimization of the energy functional with the normalization conditions
+$$
+\int {\psi_{i}^{*}(\overrightarrow{x})\psi_{j}(\overrightarrow{x})} \, d\overrightarrow{x} = \delta_{ij}
+$$
+
+The Hartree-Fock differential equations
+$$
+f\psi_{i} = \epsilon_{i}\psi_{i}
+$$
+$$
+f = -\frac{1}{2}\nabla^{2}_{i} - \sum_{A}^{M} {\frac{Z_{A}}{r_{iA}}} + V_{HF}(i)
+$$
 <br><br></div>
 
 
