@@ -104,25 +104,46 @@ K_{j}(\overrightarrow{x_{1}}) \psi_{i}(\overrightarrow{x_{1}}) &= \int \psi_{j}^
 
 <br><br><br>
 ## Early density functional theories
+### The electron density
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### The Thomas-Fermi model
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 
 <br><br><br>
 ## The Hohenberg-Kohn theorems
+### The first Hohenberg-Kohn theorem
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### 3.2 The second Hohenberg-Kohn theorem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The Kohn-Sham approach
+### The Kohn-Sham equations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The exchange-correlation functionals
+### The local density approximation(LDA)
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### The generalized gradient approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## The basic machinary of DFT
+### The LCAO Ansatz in the The Kohn-Sham equations
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### Basis sets
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
-
+<br><br><br>
+## DFT applications
+### Applications in quantum chemistry
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### Applications in solid state physics
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+### DFT in Molecular Electronics
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
