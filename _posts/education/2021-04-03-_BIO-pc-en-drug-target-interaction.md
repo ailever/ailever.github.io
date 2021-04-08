@@ -19,6 +19,13 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Drug_design'">Drug Design</button>  
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Equilibrium_chemistry'">Equilibrium Chemistry</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Chemical_equilibrium'">Chemical Equilibrium</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Free_energy_perturbation'">Free Energy Perturbation(FEP)</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Molecular_modelling'">Molecular modelling</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Biological_target'">Biological target</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex'">Protein-Ligand Complex</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_docking'">Protein-ligand docking</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)'">Partition Function</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Ligand_(biochemistry)'">Ligand</button>  
 </div>
 <!-- Top Block -->
 
@@ -184,15 +191,9 @@ Big Firm in Pharmaceutical Industry
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="https://en.wikipedia.org/wiki/Molecular_modelling">Molecular modelling</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Biological_target">Biological target</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_complex">Protein-Ligand Complex</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93ligand_docking">Protein-ligand docking</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software">List of protein-ligand docking software</a></li>  
   <li><a href="https://www.youtube.com/watch?v=2ewpDYW081Y">AutoDock Vina Installation (Tutorial)</a></li>
   <li><a href="https://m.ibric.org/trend/news/?listmode=publish&listmode2=publisher&PARA3=21">Computational Chemistry</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)">Partition Function</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Ligand_(biochemistry)">Ligand</a></li>
   <li><a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Book%3A_Statistical_Thermodynamics_(Jeschke)/05%3A_Entropy/5.02%3A_The_Relation_of_State_Functions_to_the_Partition_Function">The Relation of State Functions to the Partition Function</a></li>
 </ol>
 <ul>
