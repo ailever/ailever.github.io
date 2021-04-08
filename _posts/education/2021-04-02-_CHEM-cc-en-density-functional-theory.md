@@ -23,8 +23,8 @@ author_staff_member: anonym
 ## Elementary quantum mechanics
 ### The Schrodinger equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H\Psi_{i} = E_{i}\Phi_{i}$$
-$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}} -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}}$$
+$$H\Psi_{i} = E_{i}\Psi_{i}$$
+$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}} -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}} -\sum_{i=1}^{N}\sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}$$
 <br><br></div>
 
 
