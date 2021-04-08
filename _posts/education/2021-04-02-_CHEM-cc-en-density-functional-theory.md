@@ -43,7 +43,8 @@ $$E_{tot}=E_{elec}+E_{nuc}\qquad \text{where } E_{nuc}=\sum_{A=1}^{M}\sum_{B>A}^
 
 ### The variational principle for the ground state
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$E[\Psi]=\frac{<\Psi|H|\Psi>}{<\Psi|\Psi>}$$  
+$$E[\Psi]=\frac{<\Psi|H|\Psi>}{<\Psi|\Psi>} \qquad \text{where} <\Psi|H|\Psi> = \int {\Psi^{*}H\Psi},\ d\overrightarrow{x} $$  
+
 <br><br></div>
 
 <br><br><br>
