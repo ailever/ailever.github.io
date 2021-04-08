@@ -28,6 +28,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Ligand_(biochemistry)'">Ligand</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Umbrella_sampling'">Umbrella sampling</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Thermodynamic_integration'">Thermodynamic integration</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Bennett_acceptance_ratio'">Bennett acceptance ratio</button>
 </div>
 <!-- Top Block -->
 
