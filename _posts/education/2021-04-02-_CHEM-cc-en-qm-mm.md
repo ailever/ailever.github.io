@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: QM/MM
 prev1_title: Computational Chemistry
 prev2_title: Chemistry
