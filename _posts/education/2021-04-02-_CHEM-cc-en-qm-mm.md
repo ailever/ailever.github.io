@@ -23,8 +23,14 @@ author_staff_member: anonym
 
 
 ## Implementing Quantum Mechanics into Molecular Mechanics—Combined QM/MM Modeling Methods
+
+<br><br><br>
 ## Extending the Range of Computational Spectroscopy by QM/MM Approaches: Time-Dependent and Time-Independent Routes
+
+<br><br><br>
 ## Use of the Average Solvent Potential Approach in the Study of Solvent Effects
+
+<br><br><br>
 ## QM/MM Approaches to the Electronic Spectra of Hydrogen-Bonding Systems with Connection to Many-Body Decomposition Schemes
 
 <!-- Content Block -->
