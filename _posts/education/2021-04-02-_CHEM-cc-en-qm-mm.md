@@ -33,6 +33,16 @@ $$
 (H_{QM}+H_{int}) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
 $$
 
+The interaction Hamiltonian associated to the electrostatic and van der Waals contributions
+$$
+H_{int} = H^{elect}_{int} + H^{vdw}_{int}
+$$
+
+The MFA electrostatic interaction
+$$
+\left \langle H^{elect}_{int} \right \rangle = \int {\hat{\rho} \dot \left \langle V_{S}(r) \right \rangle } \, dr
+$$
+
 <br><br></div>
 
 
