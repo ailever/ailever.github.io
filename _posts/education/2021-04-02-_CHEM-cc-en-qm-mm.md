@@ -171,7 +171,11 @@ $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The potential energy of the system by MM force-field
 $$
-V_{MM} = \sum_{i}^{N_{bonds}}V^{bond}_{i} + 
+V_{MM} = \sum_{i}^{N_{bonds}}V^{bond}_{i}
++ \sum_{j}^{N_{angles}} V^{angle}_{j}
++ \sum_{l}^{N_{torsions}} V^{torsion}_{l}
++ \sum_{i}^{N_{MM}}\sum_{j>i}^{N_{MM}} V^{Coul}_{ij}
++ \sum_{i}^{N_{MM}}\sum_{j>i}^{N_{MM}} V^{LJ}_{ij}
 $$  
 
 <br><br></div>
