@@ -149,6 +149,9 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
   - the polarizable multipole interaction with supermolecular pairs (PMISP) method
 ![image](https://user-images.githubusercontent.com/52376448/114173211-c1fefd80-9971-11eb-9243-3b2f4a7de178.png)
 [REF|<a href="#REF" style="font-size:xx-small;">Ligand-Binding Affinity Estimates Supported by Quantum-Mechanical Methods</a>]
+- The QM-cluster approach
+- Continuum-Solvation Methods
+
 
 #### Emprical Approach
 
