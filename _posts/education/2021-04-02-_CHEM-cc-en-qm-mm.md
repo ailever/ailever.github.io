@@ -169,6 +169,11 @@ $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
 <br><br></div>
 ### Mixed quantum classical molecular dynamics
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The potential energy of the system by MM force-field
+$$
+V_{MM} = \sum_{i}^{N_{bonds}}V^{bond}_{i} + 
+$$  
+
 <br><br></div>
 
 <br><br><br>
@@ -225,7 +230,7 @@ $$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \
 </ol>
 <ul>
   <li><a href="https://www.elsevier.com/books/combining-quantum-mechanics-and-molecular-mechanics-some-recent-progresses-in-qm-mm-methods/sabin/978-0-12-380898-1">(2010) Combining Quantum Mechanics and Molecular Mechanics. Some Recent Progresses in QM/MM Methods</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://www.wiley.com/en-sg/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990">(2016) Introduction to Computational Chemistry, 3rd Edition</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
