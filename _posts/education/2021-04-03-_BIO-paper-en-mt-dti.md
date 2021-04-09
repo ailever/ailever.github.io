@@ -1,6 +1,6 @@
 ---
 title: MT-DTI
-prev1_title: Paper
+prev1_title: PAPER REVIEW
 prev2_title: Biology
 date: 2021-04-03
 description: Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction
