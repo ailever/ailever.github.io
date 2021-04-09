@@ -34,7 +34,7 @@ $$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
 $$E_{QM}(M) = \left \langle \Psi(\vec{r};\vec{R};\vec{X})| H | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
 Mechanical coupling
 $$E_{int}(el) = \sum_{A\alpha}\frac{q_{A}q_{\alpha}}{r_{A\alpha}} $$  
-Mechanical coupling with QM polarization
+Mechanical coupling with QM polarization considering potential for the solvent
 $$E_{int}(el) = \left \langle \Psi(r_{i};R_{A};q_{\alpha}) | \sum_{\alpha}\frac{q_{\alpha}}{r_{i\alpha}} | \Psi(r_{i};R_{A};q_{\alpha}) \right \rangle \sum_{A\alpha}\frac{q_{A}q_{\alpha}}{r_{A\alpha}} $$  
 
 <br><br></div>
