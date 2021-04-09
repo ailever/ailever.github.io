@@ -136,8 +136,9 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 ### Binding Affinity Prediction
 #### Theoretical Approach
-##### MM-PBSA : the molecule mechanics Poisson–Boltzmann surface area 
-##### Linear Interaction Methods
+##### MM/PBSA : the molecule mechanics/Poisson–Boltzmann surface area 
+##### MM/GBSA : the molecule mechanics/generalized Born surface area
+##### LIE : Linear Interaction Methods
 #### Emprical Approach
 
 
