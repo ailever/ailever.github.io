@@ -167,8 +167,8 @@ $$\Delta G^{o}_{bind} = \Delta G_{conf} + \Delta G^{o}_{bind,C} + \Delta G_{rel}
 - X-Score10, AutoDock Vina8, ChemPLP@GOLD15, GlideScore
 
 ### Binding Affinity Prediction
-#### Theoretical Methods
-#### Emprical Methods
+#### Theoretical Approach
+#### Emprical Approach
 
 
 <br><br><br>
