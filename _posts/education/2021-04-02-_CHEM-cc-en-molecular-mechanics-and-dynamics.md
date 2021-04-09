@@ -61,8 +61,8 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 <ol>
   <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-ab-initio-methods/">Ab initio methods</a></li>
   <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-density-functional-theory/">Density Functional Theory</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-quantum-chemistry-methods/">Quantum Chemistry Methods</a></li>
   <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-qm-mm/">QM/MM : Quantum Mechanics/Molecular Mechanics</a></li>
-  <li></li>
 </ol>
 </div>
 <!-- Article Block -->
