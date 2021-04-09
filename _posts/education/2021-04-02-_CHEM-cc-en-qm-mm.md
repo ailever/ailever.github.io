@@ -147,10 +147,20 @@ $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
 <br><br><br>
 ## The Effect of the Protein Environment
 ### Born–Oppenheimer approximation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
 ### Conical intersections
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
 ### Excited state molecular dynamics
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
 ### Diabatic surface hopping
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
 ### Mixed quantum classical molecular dynamics
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
 
 <br><br><br>
 ## QM/MM Methodology and Applications
