@@ -218,7 +218,7 @@ author_staff_member: anonym
 <br><br><br>
 ## RELATED LABORATORY
 - [Seoul National University](https://chem.snu.ac.kr/research-faculty/faculty/fulltime)
-
+- [Carnegie Mellon University](https://www.cmu.edu/chemistry/research/bio_chem.html)
 
 <br><br><br>
 ## ADDITIONALS
