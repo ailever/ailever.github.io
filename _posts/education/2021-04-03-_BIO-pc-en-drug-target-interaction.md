@@ -90,15 +90,9 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 ### Definition of Free Energy
 [REF|<a href="#REF" style="font-size:xx-small;">Calculation of Binding Free Energies</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\being{align*}
-F &= U-TS \\
-G &= H-TS \\
-\end{align*}$$
-
-Definition from Patition Function
-$$\being{align*}
-F &= -k_{B}T\ln{Q(N,V,T)} \\
-G &= -k_{B}T\ln{Q(N,P,T)} \\
+$$\begin{align*}
+F &= U-TS = -k_{B}T\ln{Q(N,V,T)} \\
+G &= H-TS = -k_{B}T\ln{Q(N,P,T)} \\
 \end{align*}$$
 
 <br><br></div>
