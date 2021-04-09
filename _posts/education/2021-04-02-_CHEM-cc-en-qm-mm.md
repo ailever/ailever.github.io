@@ -45,6 +45,11 @@ $$
 - $\hat{\rho}$ : the solute charge densitry operator <br>
 - $\left \langle V_{S}(r) \right \rangle$ : the average electrostatic potential by the solvent <br>
 
+The effective Schrodinger equation considering the MFA energy
+$$
+(H_{QM} + \left \langle H_{int} \right \rangle) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
+$$
+
 
 
 <br><br></div>
