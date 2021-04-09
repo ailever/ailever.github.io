@@ -214,11 +214,11 @@ $$
   <li><a href="https://www.quantum-espresso.org/">Quantum Espresso</a></li>
   <li><a href="http://www.calypso.cn/">CALYPSO</a></li>
   <li><a href="https://silo.tips/download/introduction-to-density-functional-theory">Introduction to Density Functional Theory(Juan Carlos Cuevas)</a></li>
+  <li><a href="https://scifinder.cas.org">SciFinder - Chemical Abstracts Service</a></li>
+  <li><a href="http://www.crystallography.net/cod/">Crystallography Open Database</a></li>
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
-  <li><a href="https://scifinder.cas.org">SciFinder - Chemical Abstracts Service</a></li>
-  <li><a href="http://www.crystallography.net/cod/">Crystallography Open Database</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
