@@ -21,6 +21,20 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Average Solvent Potential in mean-field theory
+### The mutual solute–solvent polarization
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The ASEP/MD Hamiltonian
+$$
+H = H_{QM} + H_{class} + H_{int}  
+$$
+
+The effective Schrodinger equation
+$$
+(H_{QM}+H_{int}) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
+$$
+
+<br><br></div>
+
 
 <br><br><br>
 ## The Electronic Spectra of HB Systems
