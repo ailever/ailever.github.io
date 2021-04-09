@@ -49,6 +49,9 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
   <li></li>
   <li></li>
 </ol>
+<ul>
+  <li><a href="https://www.cambridge.org/core/books/nonequilibrium-molecular-dynamics/7F7B15A46CD6D0CD7C2BE3452C98D662">(2017) Nonequilibrium Molecular Dynamics, Theory, Algorithms and Applications</a></li>
+</ul>
 </div>
 <!-- Reference Block -->
 
