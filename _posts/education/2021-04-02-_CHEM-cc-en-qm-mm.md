@@ -27,6 +27,12 @@ The Hamiltonian of the system
 $$H = -\frac{1}{2}\sum_{A=1}^{M}{\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nabla^{2}_{N}} + V(\vec{r_{i}};\vec{R_{A}},\vec{X})$$ 
 <br><br></div>
 
+### Electronic spectra in QM/MM
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The QM/MM coupling schemes
+$$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
+<br><br></div>
+
 
 ## QM/MM Methodology and Applications
 Energy Expression Schemes
@@ -36,6 +42,7 @@ Energy Expression Schemes
 ### Free Energy Perturbation(FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta F(A\rightarrow B) = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
+$$E_{QM}(M) = \left \langle \right \Psi(\vec{r};\vec{R};\vec{X})| H | | \Psi(\vec{r};\vec{R};\vec{X}) \rangle$$
 <br><br></div>
 
 ### Thermodynamic Integration(TI)
