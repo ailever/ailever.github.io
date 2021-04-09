@@ -83,7 +83,7 @@ $$
 
 
 <br><br><br>
-## The Electronic Spectra of HB Systems
+## The Electronic Spectra
 ### Statistical mechanics sampling for many-body interacting systems in condensed phases
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The Hamiltonian of the system
