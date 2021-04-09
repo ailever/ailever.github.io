@@ -56,7 +56,7 @@ $$\begin{align*}
 \end{align*}$$
 <br><br></div>
 
-#### Many body expansion
+#### Many body system expansion
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The QM/MM coupling schemes  
 $$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
@@ -73,6 +73,10 @@ $$\begin{align*}
 \end{align*}$$
 $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
 
+<br><br></div>
+
+####  QM methods for the calculation of electronic spectra
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <br><br></div>
 
 
