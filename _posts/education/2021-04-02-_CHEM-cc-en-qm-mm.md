@@ -24,7 +24,7 @@ author_staff_member: anonym
 ### Statistical mechanics sampling for many-body interacting systems in condensed phases
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The Hamiltonian of the system
-$$H = -\frac{1}{2}\sum_{A=1}^{M}{\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nabla^{2}_{N}} + V(\vec{r_{i}};\vec{R_{A}},\vec{X})$$ 
+$$H = -\frac{1}{2}\sum_{A=1}^{M}{\frac{1}{M_{A}}\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nabla^{2}_{N}} + V(\vec{r_{i}};\vec{R_{A}},\vec{X})$$ 
 <br><br></div>
 
 ### Electronic spectra in QM/MM
