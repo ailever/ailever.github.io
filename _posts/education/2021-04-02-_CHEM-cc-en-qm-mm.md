@@ -42,7 +42,6 @@ Energy Expression Schemes
 ### Free Energy Perturbation(FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta F(A\rightarrow B) = -k_{B}T\ln{\left < e^{-\frac{E_{B}-E_{A}}{k_{B}T}} \right >_{A}}$$
-$$E_{QM}(M) = \left \langle \right \Psi(\vec{r};\vec{R};\vec{X})| H | | \Psi(\vec{r};\vec{R};\vec{X}) \rangle$$
 <br><br></div>
 
 ### Thermodynamic Integration(TI)
