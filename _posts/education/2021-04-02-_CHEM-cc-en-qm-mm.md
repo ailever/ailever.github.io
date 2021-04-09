@@ -62,13 +62,13 @@ The QM/MM coupling schemes
 $$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
 
 The total system energy expression
-$$E = E[M] + \sum_{I \neq M}{E[I]} + \sum_{(I \neq M}{E[MI]-E[M]-E[I])} + \sum_{I>J\ \& \ i,j \neq M}{(E[IJ]-E[I]-E[J])}$$
+$$E = E[M] + \sum_{I \neq M}{E[I]} + \sum_{I \neq M}{(E[MI]-E[M]-E[I])} + \sum_{I>J\ \& \ i,j \neq M}{(E[IJ]-E[I]-E[J])}$$
 
 The energy difference between the ground and a specific excited state
 $$\begin{align*}
 \Delta E = &E[M^{*}] - E[M^{0}] \\
 &+ \sum_{I \neq M}{\Delta E[I]} \\
-&+ \sum_{(I \neq M}{E[M^{*}I]-E[M^{0}I] -E[M^{*}]+E[M^{0}] -\Delta E[I])} \\
+&+ \sum_{I \neq M}{(E[M^{*}I]-E[M^{0}I] -E[M^{*}]+E[M^{0}] -\Delta E[I])} \\
 &+ \sum_{I>J\ \& \ i,j \neq M}{(\Delta E[IJ] -\Delta E[I] -\Delta E[J])} \\
 \end{align*}$$
 $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
