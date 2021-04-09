@@ -37,7 +37,7 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
 </ol>
 <ul>
-  <li><a href="#"></a></li>
+  <li><a href="https://arxiv.org/pdf/1908.06760.pdf">(2019) Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
