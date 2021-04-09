@@ -42,7 +42,7 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li></li>
+  <li><a href="http://www.chem.cmu.edu/courses/09-560/docs/msi/ffbsim/B_AtomTypes.html">Force-Field Terms and Atom Type</a></li>
   <li></li>
   <li></li>
 </ol>
