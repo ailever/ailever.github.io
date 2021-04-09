@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Average Solvent Potential in mean-field theory
+## Average Solvent Potential in Mean-Field Theory
 ### The mutual solute–solvent polarization
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The ASEP/MD Hamiltonian
@@ -72,7 +72,7 @@ $$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Within the ASEP/MD methodology, the free energy difference in solution between two given states
 $$
-\Delta G = \Delta E_{solute} + \Delta G_{int} + \Delta ZPE_{solute}
+\Delta G_{s} = \Delta E_{solute} + \Delta G_{int} + \Delta ZPE_{solute}
 $$
 
 <br><br></div>
