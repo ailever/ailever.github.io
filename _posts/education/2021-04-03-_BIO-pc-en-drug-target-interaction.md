@@ -119,6 +119,14 @@ $$\Delta G_{bind} = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\
 - $C_{\mathbf{r}, \boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
+### Alchemical transition
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
+$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+$$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
+<br><br></div>
+
+
 ### Free Energy Caluations for Lead Optimization
 [REF|<a href="#REF" style="font-size:xx-small;">Free-energy calculations in structure-based drug design</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -127,11 +135,6 @@ $$\Delta F^{0}_{bind} = - RT \ln{K^{0}_{A}}$$
 $$K^{0}_{A}=\frac{1}{K^{0}_{D}}=\frac{k_{on}}{k_{off}}=\frac{[C]}{[L][R]}$$
 <br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
-$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
-$$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
-<br><br></div>
 
 Soft-core potential[REF|<a href="#REF" style="font-size:xx-small;">Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
