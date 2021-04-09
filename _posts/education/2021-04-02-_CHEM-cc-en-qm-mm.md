@@ -20,6 +20,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Average Solvent Potential in mean-field theory
+
 ## The Electronic Spectra of HB Systems
 ### Statistical mechanics sampling for many-body interacting systems in condensed phases
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
