@@ -38,7 +38,7 @@ $$
 H_{int} = H^{elect}_{int} + H^{vdw}_{int}
 $$
 
-The MFA electrostatic interaction
+The MFA electrostatic interaction(a statistical average over configurations)
 $$
 \left \langle H^{elect}_{int} \right \rangle = \int {\hat{\rho} \cdot \left \langle V_{S}(r) \right \rangle } \, dr
 $$
