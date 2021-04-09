@@ -68,6 +68,10 @@ $$
 
 <br><br></div>
 
+### Calculation of free energy differences
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
+
 
 
 <br><br><br>
