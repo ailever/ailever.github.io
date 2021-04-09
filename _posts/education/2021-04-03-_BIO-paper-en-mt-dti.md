@@ -1,7 +1,8 @@
 ---
 title: MT-DTI
-prev1_title: PAPER REVIEW
-prev2_title: Biology
+prev1_title: Drug-Target Interaction
+prev2_title: Pharmacology
+prev3_title: Biology
 date: 2021-04-03
 description: Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction
 _previous: https://ailever.github.io/education/2021/04/03/_BIO-pc-en-drug-target-interaction/
