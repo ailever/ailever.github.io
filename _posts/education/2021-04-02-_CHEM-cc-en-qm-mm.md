@@ -74,7 +74,10 @@ Within the ASEP/MD methodology, the free energy difference in solution between t
 $$
 \Delta G_{s} = \Delta E_{solute} + \Delta G_{int} + \Delta ZPE_{solute}
 $$
-
+$$
+\Delta E_{solute} = E_{B} - E_{A} = \left \langle \Psi_{B} | H^{0}_{B} | \Psi_{B} \right \rangle - \left \langle \Psi_{A} | H^{0}_{A} | \Psi_{A} \right \rangle 
+$$
+  
 <br><br></div>
 
 
