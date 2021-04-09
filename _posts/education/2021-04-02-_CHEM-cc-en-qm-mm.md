@@ -45,14 +45,30 @@ $$
 - $\hat{\rho}$ : the solute charge densitry operator <br>
 - $\left \langle V_{S}(r) \right \rangle$ : the average electrostatic potential by the solvent <br>
 
+<br>
 The effective Schrodinger equation considering the MFA energy
 $$
 (H_{QM} + \left \langle H_{int} \right \rangle) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
 $$
 
+<br><br></div>
+### Location of critical points on free energy surfaces
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The force on the Helmholtz free energy surface
+$$
+G = -k_{B}T\ln{Z_{NVT}}
+$$
+$$
+\left \langle F(R) \right \rangle
+= - \frac{\partial G(R)}{\partial R}
+= - \left \langle \frac{\partial E}{\partial R} \right \rangle
+= - \left \langle \frac{\partial E_{QM}}{\partial R} \right \rangle
+= - \left \langle \frac{\partial E_{int}}{\partial R} \right \rangle
+$$
 
 
 <br><br></div>
+
 
 
 <br><br><br>
