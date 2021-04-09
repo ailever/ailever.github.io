@@ -42,7 +42,7 @@ The MFA electrostatic interaction(a statistical average over configurations)
 $$
 \left \langle H^{elect}_{int} \right \rangle = \int {\hat{\rho} \cdot \left \langle V_{S}(r) \right \rangle } \, dr
 $$
-- $\hat{\rho}$ : the solute charge densitry operator <br>
+- $\hat{\rho}$ : the solute charge density operator <br>
 - $\left \langle V_{S}(r) \right \rangle$ : the average electrostatic potential by the solvent <br>
 
 <br>
