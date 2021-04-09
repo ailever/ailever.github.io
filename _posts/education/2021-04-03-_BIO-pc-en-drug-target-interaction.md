@@ -136,9 +136,20 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 ### Binding Affinity Prediction
 #### Theoretical Approach
-##### MM/PBSA : the molecule mechanics/Poisson–Boltzmann surface area 
-##### MM/GBSA : the molecule mechanics/generalized Born surface area
-##### LIE : Linear Interaction Methods
+- MM/PBSA : the molecule mechanics/Poisson–Boltzmann surface area 
+- MM/GBSA : the molecule mechanics/generalized Born surface area
+- LIE : Linear Interaction Methods
+- Fragmentation Methods
+  - the fragment molecular orbital (FMO) method
+  - the polarized continuum model (PCM)
+  - Poisson–Boltzmann (PB) solvation
+  - the electrostatically embedded pairwise additive (EE-PA) model
+  - the molecular fractionation with conjugate caps (MFCC) method
+  - the electrostatically embedded generalized MFCC (EE-GMFCC)
+  - the polarizable multipole interaction with supermolecular pairs (PMISP) method
+![image](https://user-images.githubusercontent.com/52376448/114173211-c1fefd80-9971-11eb-9243-3b2f4a7de178.png)
+[REF|<a href="#REF" style="font-size:xx-small;">Ligand-Binding Affinity Estimates Supported by Quantum-Mechanical Methods</a>]
+
 #### Emprical Approach
 
 
