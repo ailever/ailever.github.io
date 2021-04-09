@@ -142,6 +142,7 @@ $$\text{where } \Delta E[I] = E[I]_{M^{*}} - E[I]_{M^{0}}$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <br><br></div>
 
+## SCC-DFTB : The self-consistent charge-density functional tight-binding method
 
 
 ## QM/MM Methodology and Applications
@@ -177,18 +178,6 @@ $$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \
 - Transition path sampling
 
 
-
-
-
-- Implementing Quantum Mechanics into Molecular Mechanics—Combined QM/MM Modeling Methods
-- Extending the Range of Computational Spectroscopy by QM/MM Approaches: Time-Dependent and Time-Independent Routes
-- Use of the Average Solvent Potential Approach in the Study of Solvent Effects
-- QM/MM Approaches to the Electronic Spectra of Hydrogen-Bonding Systems with Connection to Many-Body Decomposition Schemes
-- Molecular Dynamics of Polypeptides and Their Inclusion Compounds with b-Cyclodextrin in Aqueous Solution Using DC–SCC–DFTB/UFF Approach
-- Computer Simulations of Photobiological Processes: The Effect of the Protein Environment
-- Ab Initio Quantum Mechanical Charge Field Molecular Dynamics—A Nonparametrized First-Principle Approach to Liquids and Solutions
-- Applications of Mixed-Quantum/Classical Trajectories to the Study of Nuclear Quantum Effects in Chemical Reactions and Vibrational Relaxation Processes
-- Development of a Quantum Chemical Method Combined with a Theory of Solutions—Free-Energy Calculation for Chemical Reactions by Condensed Phase Simulations
 
 
 
