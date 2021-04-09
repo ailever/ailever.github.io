@@ -62,8 +62,7 @@ $$
 \left \langle F(R) \right \rangle
 = - \frac{\partial G(R)}{\partial R}
 = - \left \langle \frac{\partial E}{\partial R} \right \rangle
-= - \left \langle \frac{\partial E_{QM}}{\partial R} \right \rangle
-= - \left \langle \frac{\partial E_{int}}{\partial R} \right \rangle
+= - \left \langle \frac{\partial E_{QM}}{\partial R} \right \rangle - \left \langle \frac{\partial E_{int}}{\partial R} \right \rangle
 $$
 
 
