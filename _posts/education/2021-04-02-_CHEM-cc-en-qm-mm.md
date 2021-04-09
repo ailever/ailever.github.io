@@ -174,7 +174,7 @@ $$
 V_{MM} = \sum_{i}^{N_{bonds}}V^{bond}_{i}
 + \sum_{j}^{N_{angles}} V^{angle}_{j}
 + \sum_{l}^{N_{torsions}} V^{torsion}_{l}
-+ \sum_{i}^{N_{MM}}\sum_{j>i}^{N_{MM}} V^{Coul}_{ij}
++ \sum_{i}^{N_{MM}}\sum_{j>i}^{N_{MM}} V^{Coulomb}_{ij}
 + \sum_{i}^{N_{MM}}\sum_{j>i}^{N_{MM}} V^{LJ}_{ij}
 $$  
 
