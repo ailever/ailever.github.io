@@ -182,8 +182,8 @@ $$\begin{align*}
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/15943484/">(2005) The PDBbind database: methodologies and updates</a></li>
   <li><a href="https://arxiv.org/ftp/arxiv/papers/1906/1906.02418.pdf">OnionNet: a multiple-layer inter-molecular contact based convolutional
 neural network for protein-ligand binding affinity prediction</a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://arxiv.org/pdf/1912.00318.pdf">(2019) DeepAtom: A Framework for Protein-Ligand Binding Affinity Prediction</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10822-020-00305-1">(2020) Improving the binding affinity estimations of protein–ligand complexes using machine-learning facilitated force field method</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
