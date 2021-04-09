@@ -58,6 +58,7 @@ $$\begin{align*}
 
 #### Many body expansion
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The QM/MM coupling schemes  
 $$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
 <br><br></div>
 
