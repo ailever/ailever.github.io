@@ -32,10 +32,27 @@ $$H = -\frac{1}{2}\sum_{A=1}^{M}{\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nab
 The QM/MM coupling schemes
 $$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
 $$E_{QM}(M) = \left \langle \Psi(\vec{r};\vec{R};\vec{X})| H | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
+
 Mechanical coupling
 $$E_{int}(el) = \sum_{A\alpha}\frac{q_{A}q_{\alpha}}{r_{A\alpha}} $$  
+
 Electrostatic coupling : Mechanical coupling with QM polarization considering potential for the solvent
 $$E_{int}(el) = \left \langle \Psi(r_{i};R_{A};q_{\alpha}) | \sum_{\alpha}\frac{q_{\alpha}}{r_{i\alpha}} | \Psi(r_{i};R_{A};q_{\alpha}) \right \rangle + \sum_{A\alpha}\frac{q_{A}q_{\alpha}}{r_{A\alpha}} $$  
+
+The wavefunctions for both ground and excited states
+$$\begin{align*}
+\Psi^{0} &= \Phi^{0}_{(0)} + \Phi^{0}_{(1)} + \Phi^{0}_{(2)} + \cdots \\
+\Psi^{*} &= \Phi^{*}_{(0)} + \Phi^{*}_{(1)} + \Phi^{*}_{(2)} + \cdots \\
+\end{align*}$$
+
+QM Expectation for the excitation energy
+$$\begin{align*}
+\omega_{(0)} &= \left \langle \Phi^{*}_{(0)} | H | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | H | \Phi^{0}_{(0)} \right \rangle \\
+\omega_{(1)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(0)} \right \rangle \\
+\omega_{(2)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(1)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(1)} \right \rangle \\
+&\vdots \\
+\omega_{(n)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(n-1)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(n-1)} \right \rangle \\
+\end{align*}$$
 
 <br><br></div>
 
