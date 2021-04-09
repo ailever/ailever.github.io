@@ -168,6 +168,8 @@ $$\Delta G^{o}_{bind} = \Delta G_{conf} + \Delta G^{o}_{bind,C} + \Delta G_{rel}
 
 ### Binding Affinity Prediction
 #### Theoretical Approach
+##### MM-PBSA : the molecule mechanics Poisson–Boltzmann surface area 
+##### Linear Interaction Methods
 #### Emprical Approach
 
 
