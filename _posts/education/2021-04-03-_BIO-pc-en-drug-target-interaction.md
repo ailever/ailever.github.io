@@ -134,6 +134,12 @@ $$V_{ij} = 4\epsilon_{ij}(1-\lambda)^{t} ([\alpha_{LJ}\lambda^{s} + (r_{ij}/\sig
 $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$  
 <br><br></div>
 
+### Binding Affinity Prediction
+#### Theoretical Approach
+##### MM-PBSA : the molecule mechanics Poisson–Boltzmann surface area 
+##### Linear Interaction Methods
+#### Emprical Approach
+
 
 <br><br><br>
 ## Protein-Ligand Interaction
@@ -166,11 +172,6 @@ $$\Delta G^{o}_{bind} = \Delta G_{conf} + \Delta G^{o}_{bind,C} + \Delta G_{rel}
 ### Popular docking programs for DTI predictions
 - X-Score10, AutoDock Vina8, ChemPLP@GOLD15, GlideScore
 
-### Binding Affinity Prediction
-#### Theoretical Approach
-##### MM-PBSA : the molecule mechanics Poisson–Boltzmann surface area 
-##### Linear Interaction Methods
-#### Emprical Approach
 
 
 <br><br><br>
