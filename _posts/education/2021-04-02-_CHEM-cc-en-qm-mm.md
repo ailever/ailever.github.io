@@ -31,7 +31,7 @@ $$H = -\frac{1}{2}\sum_{A=1}^{M}{\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nab
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The QM/MM coupling schemes
 $$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
-$$E_{QM}(M) = \left \langle \right \Psi(\vec{r};\vec{R};\vec{X})| H | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
+$$E_{QM}(M) = \left \langle \Psi(\vec{r};\vec{R};\vec{X})| H | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
   
 
 <br><br></div>
