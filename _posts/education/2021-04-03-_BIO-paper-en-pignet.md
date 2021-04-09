@@ -180,6 +180,10 @@ $$\begin{align*}
   <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/15163179/">(2004) The PDBbind database: collection of binding affinities for protein-ligand complexes with known three-dimensional structures</a></li>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/15943484/">(2005) The PDBbind database: methodologies and updates</a></li>
+  <li><a href="https://arxiv.org/ftp/arxiv/papers/1906/1906.02418.pdf">OnionNet: a multiple-layer inter-molecular contact based convolutional
+neural network for protein-ligand binding affinity prediction</a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
