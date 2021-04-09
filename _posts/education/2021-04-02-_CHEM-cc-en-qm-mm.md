@@ -28,6 +28,7 @@ $$H = -\frac{1}{2}\sum_{A=1}^{M}{\frac{1}{M_{A}}\nabla^{2}_{M}} -\frac{1}{2}\sum
 <br><br></div>
 
 ### Electronic spectra in QM/MM
+#### A QM solute(M) and MM solvent molecules(I) system 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The QM/MM coupling schemes
 $$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
@@ -53,8 +54,13 @@ $$\begin{align*}
 &\vdots \\
 \omega_{(n)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(n-1)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(n-1)} \right \rangle \\
 \end{align*}$$
-
 <br><br></div>
+
+#### Many body expansion
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
+<br><br></div>
+
 
 
 ## QM/MM Methodology and Applications
