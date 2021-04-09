@@ -64,7 +64,7 @@ $$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}
 The total system energy expression
 $$E = E[M] + \sum_{I \neq M}{E[I]} + \sum_{I \neq M}{(E[MI]-E[M]-E[I])} + \sum_{I>J\ \& \ i,j \neq M}{(E[IJ]-E[I]-E[J])}$$
 
-The energy difference between the ground and a specific excited state
+The energy difference between the ground($M^{0}$) and a specific excited($M^{*}$) state
 $$\begin{align*}
 \Delta E = &E[M^{*}] - E[M^{0}] \\
 &+ \sum_{I \neq M}{\Delta E[I]} \\
