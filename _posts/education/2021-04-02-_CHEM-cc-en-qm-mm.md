@@ -61,7 +61,7 @@ $$\begin{align*}
 The QM/MM coupling schemes  
 $$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
 
-The total system energy expression
+The total system energy expression making a distinction between the solute M and the solvent molecules {I}
 $$E = E[M] + \sum_{I \neq M}{E[I]} + \sum_{I \neq M}{(E[MI]-E[M]-E[I])} + \sum_{I>J\ \& \ i,j \neq M}{(E[IJ]-E[I]-E[J])}$$
 
 The energy difference between the ground($M^{0}$) and a specific excited($M^{*}$) state
