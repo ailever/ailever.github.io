@@ -17,8 +17,11 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Crooks_fluctuation_theorem'">Crooks fluctuation theorem</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Jarzynski equality
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
