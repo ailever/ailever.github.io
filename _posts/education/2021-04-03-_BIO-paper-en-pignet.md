@@ -238,62 +238,102 @@ $$\begin{align*}
 <details markdown="1">
   <summary align="center">dataset.py</summary>
 <pre class="python-code">
-def get_torsion_energy
-def get_epsilon_sigma
-def get_epsilon_sigma_uff
-def get_epsilon_sigma_mmff
-def cal_torsion_energy
-def cal_internal_vdw
-def cal_charge
-def one_of_k_encoding
-def one_of_k_encoding_unk
-def atom_feature
-def get_atom_feature
-def rotate
-def dm_vector
-def extract_valid_amino_acid
-def position_to_index
-def get_interaction_matrix
-def classifyAtoms
-def cal_sasa
-def get_vdw_radius
-def cal_uff
-def get_hydrophobic_atom
-def get_A_hydrophobic
-def get_hbond_donor_indice
-def get_hbond_acceptor_indice
-def get_A_hbond
-def get_A_metal_complexes
-def mol_to_feature
-def is_atoms_in_same_ring
-def count_active_rotatable_bond
-class MolDataset
-class DTISampler
-def check_dimension
-def collate_tensor
-def tensor_collate_fn
+def get_torsion_energy(m):
+def get_epsilon_sigma(m1, m2, mmff=True):
+def get_epsilon_sigma_uff(m1, m2):
+def get_epsilon_sigma_mmff(m1, m2):
+def cal_torsion_energy(m):
+def cal_internal_vdw(m):
+def cal_charge(m):
+def one_of_k_encoding(x, allowable_set):
+def one_of_k_encoding_unk(x, allowable_set):
+def atom_feature(m, atom_i, i_donor, i_acceptor):
+def get_atom_feature(m, is_ligand=True):
+def rotate(molecule, angle, axis, fix_com=False):
+def dm_vector(d1, d2):
+def extract_valid_amino_acid(m, amino_acids):
+def position_to_index(positions, target_position):
+def get_interaction_matrix(d1, d2, interaction_data):
+def classifyAtoms(mol, polar_atoms=[7, 8, 15, 16]):
+    # Taken from https://github.com/mittinatten/freesasa/blob/master/src/classifier.c
+def cal_sasa(m):
+    radii = rdFreeSASA.classifyAtoms(m)
+    radii = classifyAtoms(m)
+    # radii = rdFreeSASA.classifyAtoms(m1)
+def get_vdw_radius(a):
+def cal_uff(m):
+def get_hydrophobic_atom(m):
+def get_A_hydrophobic(m1, m2):
+def get_hbond_donor_indice(m):
+def get_hbond_acceptor_indice(m):
+def get_A_hbond(m1, m2):
+def get_A_metal_complexes(m1, m2):
+def mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std):
+def is_atoms_in_same_ring(i, j, ssr):
+def count_active_rotatable_bond(m, dm):
+class MolDataset(Dataset):
+    def __init__(self, keys, data_dir, id_to_y, random_rotation=0.0,
+    def __len__(self):
+    def __getitem__(self, idx):
+class DTISampler(Sampler):
+    This simply changes the __iter__ part of the dataset class.
+    def __init__(self, weights, num_samples, replacement=True):
+    def __iter__(self):
+    def __len__(self):
+def check_dimension(tensors):
+def collate_tensor(tensor, max_tensor, batch_idx):
+def tensor_collate_fn(batch):
 </pre>
 </details>
 <details markdown="1">
   <summary align="center">layers.py</summary>
 <pre class="python-code">
-class MPNN
-class InteractionNet
-class IntraNet
-class GAT_gate
-class Gconv_gate
-class ConcreteDropout
-class MultiHeadAttention
-class NewMultiHeadAttention
-class GraphAttention
-class ConvBlock
-class PredictBlock
+class MPNN(torch.nn.Module):
+    def __init__(self, n_edge_feature, n_atom_feature):
+    def forward(self, x1, x2, edge):
+class InteractionNet(torch.nn.Module):
+    def __init__(self, n_edge_feature, n_atom_feature):
+    def forward(self, x1, x2, edge, valid_edge):
+class IntraNet(torch.nn.Module):
+    def __init__(self, n_atom_feature, n_edge_feature):
+    def forward(self, edge, adj, x):
+class GAT_gate(torch.nn.Module):
+    def __init__(self, n_in_feature, n_out_feature):
+    def forward(self, x, adj):
+class GConv_gate(torch.nn.Module):
+    def __init__(self, n_in_feature, n_out_feature):
+    def forward(self, x, adj):
+class ConcreteDropout(nn.Module):
+    def __init__(self, weight_regularizer=1e-6,
+    def forward(self, x1, layer, additional_args=None):
+    def _concrete_dropout(self, x, p):
+class MultiHeadAttention(nn.Module):
+    def __init__(self, args, ninfo):
+    def forward(self, x):
+    def _split_heads(self, x):
+    def _multi_head_attention(self, xq, xk, xv):
+class NewMultiHeadAttention(nn.Module):
+    def __init__(self, args, ninfo):
+    def forward(self, x):
+    def _split_heads(self, x):
+    def _multi_head_attention(self, xq, xk, xv):
+class GraphAttention(nn.Module):
+    def __init__(self, args, ninfo):
+    def forward(self, x):
+    def _arbit_embedding(self, vec):
+    def _attn_matrix(self, q, k, info):
+class ConvBlock(nn.Module):
+    def __init__(self, in_feature, out_feature, do=0.0, stride=1, kernel=3,
+    def forward(self, input):
+class PredictBlock(nn.Module):
+    def __init__(self, in_feature, out_feature, dropout, is_last):
+    def forward(self, input):
 </pre>
 </details>
 <details markdown="1">
   <summary align="center">model.py</summary>
 <pre class="python-code">
-class DTIHarmonic
+class DTIHarmonic(nn.Module):
     def __init__(self, args):
     def vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A):
     def vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A):
@@ -302,17 +342,17 @@ class DTIHarmonic
     def cal_distance_matrix(self, p1, p2, dm_min):
     def get_embedding_vector(self, sample):
     def forward(self, sample, DM_min=0.5, cal_der_loss=False):
-class GNN
+class GNN(nn.Module):
     def __init__(self, args):
     def cal_distance_matrix(self, p1, p2, dm_min):
     def forward(self, sample, DM_min=0.5, cal_der_loss=False):
     def _linear(tensor, layers, act=None):
-class CNN3D
+class CNN3D(nn.Module):
     def __init__(self, args):
     def forward(self, sample, DM_min=0.5, cal_der_loss=False):
     def _get_lattice(self, batch_size, pos1, pos2, h1, h2, lattice_size):
     def _plot(self, lattice, idx):
-class CNN3D_KDEEP
+class CNN3D_KDEEP(nn.Module):
     def __init__(self, args):
     def forward(self, sample, DM_min=0.5, cal_der_loss=False):
     def _get_lattice(self, pos1, pos2, vr1, vr2, h1, h2, lattice_dim):
