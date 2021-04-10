@@ -139,8 +139,8 @@ $$\begin{align*}
 - dataset.py
 - dependencies
 - layers.py
-- model.py
-- predict.py
+- model.py | layers, dataset, utils 
+- predict.py | arguments, dataset, model, utils
 - save
 - submit.py
 - test.py
