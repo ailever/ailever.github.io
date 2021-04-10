@@ -130,7 +130,7 @@ $$\begin{align*}
 ### 4. Uncertainty quantification method
 
 ## Implementation
-### Director Structure
+### Directory Structure
 
 
 
