@@ -106,13 +106,16 @@ $$\Delta G_{bind} = -\frac{1}{\beta} \ln{\frac{Q_{B}}{Q_{A}}} = - \frac{1}{\beta
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 End state equilibrium sampling  
 $$\Delta G_{bind} = \frac{1}{\beta} \frac{\left <f(H_{A}-H_{B}+C)\right >_{B}}{\left <f(H_{B}-H_{A}-C) \right >_{A}} + C$$
-$$f(x)=\frac{1}{1+e^{\beta x}},\quad C=frac{1}{\beta}\ln{\frac{Q_{A}}{Q_{B}}\frac{n_{B}}{n_{A}}}$$
+$$f(x)=\frac{1}{1+e^{\beta x}},\quad C=\frac{1}{\beta}\ln{\frac{Q_{A}}{Q_{B}}\frac{n_{B}}{n_{A}}}$$
 <br><br></div>
 
-### Alchemical transition
+### Thermodynamic integration (TI)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\Delta G_{bind} = \int_{0}^{1} \left \langle \frac{\partial H}{\partial \lambda} \right \rangle_{\lambda}\, d\lambda$$
+Alchemical transition
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
 $$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+
 <br><br></div>
 
 ### The Binding Constant and Free Energy
