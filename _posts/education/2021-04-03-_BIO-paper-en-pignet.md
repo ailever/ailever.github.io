@@ -161,6 +161,10 @@ $$\begin{align*}
 <details markdown="1">
   <summary align="center">model.py</summary>
 <pre class="python-code">
+class DTIHarmonic
+class GNN
+class CNN3D
+class CNN3D_KDEEP
 </pre>
 </details>
 <details markdown="1">
