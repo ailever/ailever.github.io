@@ -131,7 +131,24 @@ $$\begin{align*}
 
 ## Implementation
 ### Directory Structure
-
+<pre class="code-path">
+- README.md
+- arguments.py
+- benchmarks
+- casf2016_benchmark
+- data
+- dataset.py
+- dependencies
+- layers.py
+- model.py
+- predict.py
+- save
+- submit.py
+- test.py
+- train.py
+- train.sh
+- utils.py
+</pre>
 
 
 <!-- Content Block -->
