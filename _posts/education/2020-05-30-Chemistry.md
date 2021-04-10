@@ -195,9 +195,17 @@ author_staff_member: anonym
 - Substitution Reactions of Carbonyl Compounds at the alpha Carbon
 - Carbonyl Condensation Recations
 - Amines
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-amines/)
+  :kr
+</span>
 - Carbon-Carbon Bond-Forming Recations in Organic Synthesis
 - Carbohydrates
 - Amino Acids and Proteins
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-amino-acids-and-proteins/)
+  :kr
+</span>
 - Lipids
 - Synthetis Polymers
 
