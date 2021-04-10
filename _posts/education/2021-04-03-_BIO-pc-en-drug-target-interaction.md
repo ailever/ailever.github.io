@@ -111,10 +111,8 @@ $$f(x)=\frac{1}{1+e^{\beta x}},\quad C=\frac{1}{\beta}\ln{\frac{Q_{A}}{Q_{B}}\fr
 
 ### Thermodynamic integration (TI)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{bind} = \int_{0}^{1} \left \langle \frac{\partial H}{\partial \lambda} \right \rangle_{\lambda}\, d\lambda$$
 Alchemical transition
-$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
-$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+$$\Delta G_{bind} = \int_{0}^{1} \left \langle \frac{\partial H}{\partial \lambda} \right \rangle_{\lambda}\, d\lambda$$
 
 <br><br></div>
 
