@@ -130,8 +130,7 @@ $$\begin{align*}
 ### 4. Uncertainty quantification method
 
 <br><br><br>
-## Implementation
-### Directory Structure
+### 5. Implementation
 [REF|<a href="#REF" style="font-size:xx-small;">2</a>]
 <pre class="code-path">
 - README.md
