@@ -105,7 +105,8 @@ $$\Delta G_{bind} = -\frac{1}{\beta} \ln{\frac{Q_{B}}{Q_{A}}} = - \frac{1}{\beta
 ### Bennet’s Acceptance Ratio (BAR) 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 End state equilibrium sampling  
-$$\Delta G_{bind} = \frac{1}{\beta} \frac{\left <f(H_{A}-H_{B}+C)\right >_{B}}{\left <f(H_{B}-H_{A}+C) \right >_{A}} + C$$
+$$\Delta G_{bind} = \frac{1}{\beta} \frac{\left <f(H_{A}-H_{B}+C)\right >_{B}}{\left <f(H_{B}-H_{A}-C) \right >_{A}} + C$$
+$$f(x)=\frac{1}{1+e^{\beta x}},\quad C=frac{1}{\beta}\ln{\frac{Q_{A}}{Q_{B}}\frac{n_{B}}{n_{A}}}$$
 <br><br></div>
 
 ### The Binding Constant and Free Energy
