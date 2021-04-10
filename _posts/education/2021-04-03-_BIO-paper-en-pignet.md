@@ -150,7 +150,7 @@ $$\begin{align*}
 </pre>
 <details markdown="1">
   <summary align="center">train.py</summary>
-<pre class="debugger">
+<pre class="python-code">
 abc
 </pre>
 </details>
