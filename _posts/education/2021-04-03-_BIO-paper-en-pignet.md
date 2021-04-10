@@ -303,6 +303,15 @@ class CNN3D_KDEEP
   <summary align="center">predict.py</summary>
 <pre class="python-code">
 def write
+    > Parameter : Local opt
+    > Parameter : Hbond coeff
+    > Parameter : Hydrophobic coeff
+    > Parameter : Rotor coeff
+    > Prediction : Total prediction
+    > Prediction : VDW
+    > Prediction : Hbond
+    > Prediction : Metal
+    > Prediction : Hydrophobic
 def cal_vdw_energy
 def cal_hbond_energy
 def cal_hydrophobic_energy
