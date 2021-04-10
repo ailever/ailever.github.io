@@ -86,7 +86,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 
 <br><br><br>
-## REVIEW : Molecular Binding under Statistical Thermodynamic Perspective
+## Molecular Binding under Statistical Thermodynamic Perspective
 ### Definition of Free Energy
 [REF|<a href="#REF" style="font-size:xx-small;">5, Calculation of Binding Free Energies</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
