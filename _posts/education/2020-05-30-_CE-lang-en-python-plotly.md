@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Plotly
 date: 2020-05-30
-description: Pandas 
+description: Plotly 
 prev1_title: Python
 prev2_title: Programming Language
 prev3_title: Computer Engineering
@@ -54,7 +54,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-_CE-lang-en-python-pandas.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-_CE-lang-en-python-plotly.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
