@@ -47,12 +47,12 @@ author_staff_member: anonym
   <li>Numpy</li>
   <li>Scipy</li>
   <li>Statsmodels</li>
-  <li>Pytorch</li>
-  <li>TensorFlow</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pytorch/">Pytorch</a></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-tensorflow/">TensorFlow</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pandas/">Pandas</a></li>
   <li>Matplotlib</li>
   <li>Manim</li>
-  <li>Plotly</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-plotly/">Plotly</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-rdkit/">RDKit</a></li>
 </ol>
 </div>
