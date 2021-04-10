@@ -135,10 +135,15 @@ $$\begin{align*}
 ├── arguments.py
 ├── benchmarks
 │   ├── csar1
+│   │   └── csar1_test.sh
 │   ├── csar2
+│   │   └── csar2_test.sh
 │   ├── docking
+│   │   └── docking_test.sh
 │   ├── scoring
+│   │   └── scoring_test.sh
 │   ├── screening
+│   │   └── screening_test.sh
 │   └── test.sh
 ├── casf2016_benchmark
 │   ├── docking_power.py
@@ -148,15 +153,75 @@ $$\begin{align*}
 │   └── screening_power.py
 ├── data
 │   ├── CASF-2016
+│   │   ├── docking
+│   │   ├── mol2_decoy_docking
+│   │   ├── mol2_decoy_screening
+│   │   ├── scoring
+│   │   └── screening
 │   ├── CSAR_NRC_HiQ_Set
+│   │   └── binding.pkl
 │   ├── README.md
 │   ├── csar1
+│   │   ├── csar1.txt
+│   │   ├── data
+│   │   ├── keys
+│   │   ├── pdb_to_affinity.py
+│   │   └── split_receptor_ligand.py
 │   ├── csar2
+│   │   ├── csar2.txt
+│   │   ├── data
+│   │   ├── keys
+│   │   ├── pdb_to_affinity.py
+│   │   └── split_receptor_ligand.py
 │   ├── pdbbind_v2019_cross_screening
+│   │   ├── cal_docking.py
+│   │   ├── data
+│   │   ├── keys
+│   │   ├── pdb_to_affinity.py
+│   │   ├── pdb_to_affinity.txt
+│   │   ├── pdbqt_to_pdb.py
+│   │   ├── test.txt
+│   │   ├── total.txt
+│   │   └── train.txt
 │   ├── pdbbind_v2019_docking_nowater
+│   │   ├── cal_docking.py
+│   │   ├── data
+│   │   ├── keys
+│   │   ├── pdb_to_affinity.py
+│   │   ├── pdb_to_affinity.txt
+│   │   ├── pdbqt_to_pdb.py
+│   │   └── total.txt
 │   ├── pdbbind_v2019_random_screening
+│   │   ├── cal_docking.py
+│   │   ├── chembl_27_chemreps.txt
+│   │   ├── data
+│   │   ├── id_smiles.txt
+│   │   ├── keys
+│   │   ├── pdb_to_affinity.py
+│   │   ├── pdb_to_affinity.txt
+│   │   ├── pdbqt_to_pdb.py
+│   │   ├── test.txt
+│   │   ├── total.txt
+│   │   └── train.txt
 │   ├── pdbbind_v2019_refined
+│   │   ├── keys
+│   │   ├── ligand_to_complex.txt
+│   │   ├── pdb_to_affinity.py
+│   │   ├── pdb_to_affinity.txt
+│   │   ├── pp_test
+│   │   ├── pp_train
+│   │   └── test.txt
 │   └── rcsb_pdb
+│       ├── INDEX_refined_data.2019
+│       ├── download_ligand.py
+│       ├── ligand_crawling.py
+│       ├── ligand_to_complex0.txt
+│       ├── ligand_to_complex2.txt
+│       ├── ligand_to_complex3.txt
+│       ├── refined_data
+│       ├── rename.py
+│       ├── test_keys.pkl
+│       └── train_keys.pkl
 ├── dataset.py
 ├── dependencies
 ├── layers.py
