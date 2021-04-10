@@ -123,6 +123,10 @@ $$\Delta G_{bind} = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
 $$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+<br><br></div>
+
+### Bennet’s Acceptance Ratio (BAR) 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
 <br><br></div>
 
