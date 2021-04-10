@@ -37,7 +37,7 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
 </ol>
 <ul>
-  <li><a href="#"></a></li>
+  <li><a href="https://pubs.rsc.org/en/content/ebook/978-1-78262-429-5">(2016) Simulating Enzyme Reactivity</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
