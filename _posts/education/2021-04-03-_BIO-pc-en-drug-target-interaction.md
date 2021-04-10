@@ -86,7 +86,7 @@ Drug > Target(Therapeutic Effect), off-Target(Side Effect)
 
 
 <br><br><br>
-## Molecular Binding under Statistical Thermodynamic Perspective
+## REVIEW : Molecular Binding under Statistical Thermodynamic Perspective
 ### Definition of Free Energy
 [REF|<a href="#REF" style="font-size:xx-small;">5, Calculation of Binding Free Energies</a>]
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -95,6 +95,11 @@ $$\begin{align*}
 F &= U-TS = -k_{B}T\ln{Q(N,V,T)} \\
 G &= H-TS = -k_{B}T\ln{Q(N,P,T)} \\
 \end{align*}$$
+<br><br></div>
+
+### The free energy perturbation (FEP)
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\Delta G(A\rightarrow B) = -k_{B}T \ln{\frac{Q_{B}}{Q_{A}}} = - k_{B}T \ln{\left \langle e^{-\frac{H_{B}-H_{A}}{k_{B}T}} \right \rangle_{A}}$$
 <br><br></div>
 
 
