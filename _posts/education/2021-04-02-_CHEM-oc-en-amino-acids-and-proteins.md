@@ -1,9 +1,9 @@
 ---
-title: CHEM,
-prev1_title: CHEM,
+title: Amino Acids and Proteins
+prev1_title: Organic Chemistry
 prev2_title: Chemistry
 date: 2021-04-02
-description: CHEM, 
+description: Amino Acids and Proteins
 _previous: https://ailever.github.io/education/2020/05/30/Chemistry/
 categories:
   - education
@@ -57,7 +57,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-04-02-_CHEM-oc-en-amino-acids-and-proteins.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
