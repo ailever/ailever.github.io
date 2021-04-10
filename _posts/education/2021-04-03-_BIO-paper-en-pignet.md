@@ -384,16 +384,18 @@ def predict(model, lf, pf, of, args, device):
 <details markdown="1">
   <summary align="center">utils.py</summary>
 <pre class="python-code">
-def loss_var
-def dic_to_device
-def load_data
-def set_cuda_visible_device
-def initialize_model
-def read_data
-def get_dataset_dataloader
-def write_result
-def extract_binding_pocket
-def read_molecule
+def loss_var(pred_var, pred, affinity, log=True):
+def dic_to_device(dic, device):
+def load_data(filename):
+def set_cuda_visible_device(ngpus):
+def initialize_model(model, device, load_save_file=False):
+def read_data(filename, key_dir):
+def get_dataset_dataloader(train_keys, test_keys, data_dir, id_to_y,
+def write_result(filename, pred, true):
+def extract_binding_pocket(ligand, pdb):
+    class GlySelect(Select):
+        def accept_residue(self, residue):
+def read_molecule(filename):
 </pre>
 </details>
 <details markdown="1">
