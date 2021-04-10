@@ -109,6 +109,12 @@ $$\Delta G_{bind} = \frac{1}{\beta} \frac{\left <f(H_{A}-H_{B}+C)\right >_{B}}{\
 $$f(x)=\frac{1}{1+e^{\beta x}},\quad C=frac{1}{\beta}\ln{\frac{Q_{A}}{Q_{B}}\frac{n_{B}}{n_{A}}}$$
 <br><br></div>
 
+### Alchemical transition
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
+$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
+<br><br></div>
+
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
@@ -130,11 +136,6 @@ $$\Delta G_{bind} = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\
 - $C_{\mathbf{r}, \boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
-### Alchemical transition
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
-$$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
-<br><br></div>
 
 ### Free Energy Caluations for Lead Optimization
 [REF|<a href="#REF" style="font-size:xx-small;">Free-energy calculations in structure-based drug design</a>]
