@@ -129,6 +129,7 @@ $$\begin{align*}
 #### Distribution plot of atom-atom pairwise interaction in each energy component
 ### 4. Uncertainty quantification method
 
+<br><br><br>
 ## Implementation
 ### Directory Structure
 <pre class="code-path">
