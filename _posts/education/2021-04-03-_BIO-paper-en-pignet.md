@@ -255,11 +255,7 @@ def extract_valid_amino_acid(m, amino_acids):
 def position_to_index(positions, target_position):
 def get_interaction_matrix(d1, d2, interaction_data):
 def classifyAtoms(mol, polar_atoms=[7, 8, 15, 16]):
-    # Taken from https://github.com/mittinatten/freesasa/blob/master/src/classifier.c
 def cal_sasa(m):
-    radii = rdFreeSASA.classifyAtoms(m)
-    radii = classifyAtoms(m)
-    # radii = rdFreeSASA.classifyAtoms(m1)
 def get_vdw_radius(a):
 def cal_uff(m):
 def get_hydrophobic_atom(m):
@@ -363,7 +359,7 @@ class CNN3D_KDEEP(nn.Module):
 <details markdown="1">
   <summary align="center">predict.py</summary>
 <pre class="python-code">
-def write
+def write(of, model, pred, time, args, extra_data=None):
     > Parameter : Local opt
     > Parameter : Hbond coeff
     > Parameter : Hydrophobic coeff
@@ -373,16 +369,16 @@ def write
     > Prediction : Hbond
     > Prediction : Metal
     > Prediction : Hydrophobic
-def cal_vdw_energy
-def cal_hbond_energy
-def cal_hydrophobic_energy
-def cal_internal_vdw_energy
-def make_ring_matrix
-def make_conjugate_matrix
-def distance_fix_pair
-def write_molecule
-def local_optimize
-def predict
+def cal_vdw_energy(dm, dm_0, vdw_A, vdw_N, is_last=False):
+def cal_hbond_energy(dm, dm_0, coeff, A, is_last=False):
+def cal_hydrophobic_energy(dm, dm_0, coeff, A, is_last=False):
+def cal_internal_vdw_energy(dm, topological_dm, epsilon, sigma, is_last=False):
+def make_ring_matrix(m):
+def make_conjugate_matrix(m):
+def distance_fix_pair(m):
+def write_molecule(filename, m, pos):
+def local_optimize(model, lf, pf, of, loof, args, device):
+def predict(model, lf, pf, of, args, device):
 </pre>
 </details>
 <details markdown="1">
