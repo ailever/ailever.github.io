@@ -131,22 +131,44 @@ $$\begin{align*}
 ### 5. Implementation
 [REF|<a href="#REF" style="font-size:xx-small;">2</a>]
 <pre class="code-path">
-- README.md
-- arguments.py
-- benchmarks
-- casf2016_benchmark
-- data
-- dataset.py
-- dependencies
-- layers.py
-- model.py | layers, dataset, utils 
-- predict.py | arguments, dataset, model, utils
-- save
-- submit.py
-- test.py
-- train.py
-- train.sh
-- utils.py
+├── README.md
+├── arguments.py
+├── benchmarks
+│   ├── csar1
+│   ├── csar2
+│   ├── docking
+│   ├── scoring
+│   ├── screening
+│   └── test.sh
+├── casf2016_benchmark
+│   ├── docking_power.py
+│   ├── index.txt
+│   ├── ranking_power.py
+│   ├── scoring_power.py
+│   └── screening_power.py
+├── data
+│   ├── CASF-2016
+│   ├── CSAR_NRC_HiQ_Set
+│   ├── README.md
+│   ├── csar1
+│   ├── csar2
+│   ├── pdbbind_v2019_cross_screening
+│   ├── pdbbind_v2019_docking_nowater
+│   ├── pdbbind_v2019_random_screening
+│   ├── pdbbind_v2019_refined
+│   └── rcsb_pdb
+├── dataset.py
+├── dependencies
+├── layers.py
+├── model.py < layers, dataset, utils
+├── predict.py < arguments, dataset, model, utils
+├── save
+│   └── save_1000.pt
+├── submit.py
+├── test.py
+├── train.py
+├── train.sh
+└── utils.py
 </pre>
 <details markdown="1">
   <summary align="center">dataset.py</summary>
