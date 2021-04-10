@@ -1,7 +1,7 @@
 ---
 title: FinTech
 date: 2020-01-30
-description: FinTech
+description: Financials
 categories:
   - industry
 image: https://source.unsplash.com/4fsCBcZt9H8/2000x1322?a=.png
