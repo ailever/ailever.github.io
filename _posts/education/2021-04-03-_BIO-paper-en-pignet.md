@@ -156,6 +156,17 @@ $$\begin{align*}
 <details markdown="1">
   <summary align="center">layers.py</summary>
 <pre class="python-code">
+class MPNN
+class InteractionNet
+class IntraNet
+class GAT_gate
+class Gconv_gate
+class ConcreteDropout
+class MultiHeadAttention
+class NewMultiHeadAttention
+class GraphAttention
+class ConvBlock
+class PredictBlock
 </pre>
 </details>
 <details markdown="1">
