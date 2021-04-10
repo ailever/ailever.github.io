@@ -99,7 +99,7 @@ G &= H-TS = -k_{B}T\ln{Q(N,P,T)} \\
 
 ### The free energy perturbation (FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G(A\rightarrow B) = -k_{B}T \ln{\frac{Q_{B}}{Q_{A}}} = - k_{B}T \ln{\left \langle e^{-\frac{H_{B}-H_{A}}{k_{B}T}} \right \rangle_{A}}$$
+$$\Delta G_{bind} = -k_{B}T \ln{\frac{Q_{B}}{Q_{A}}} = - k_{B}T \ln{\left \langle e^{-\frac{H_{B}-H_{A}}{k_{B}T}} \right \rangle_{A}}$$
 <br><br></div>
 
 ### Bennet’s Acceptance Ratio (BAR) 
