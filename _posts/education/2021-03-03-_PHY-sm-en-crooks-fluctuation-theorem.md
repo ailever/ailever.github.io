@@ -1,5 +1,5 @@
 ---
-title: Crooks Fluctutation Theorem
+title: Crooks Fluctuation Theorem
 prev1_title: Statistical Mechanics
 prev2_title: Physics
 date: 2021-03-03
