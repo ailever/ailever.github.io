@@ -4,7 +4,7 @@ date: 2020-01-30
 description: Health Care
 categories:
   - industry
-image: https://source.unsplash.com/4fsCBcZt9H8/2000x1322?a=.png
+image: https://source.unsplash.com/atSaEOeE8Nk/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
