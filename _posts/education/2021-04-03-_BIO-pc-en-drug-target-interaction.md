@@ -102,6 +102,11 @@ G &= H-TS = -k_{B}T\ln{Q(N,P,T)} \\
 $$\Delta G(A\rightarrow B) = -k_{B}T \ln{\frac{Q_{B}}{Q_{A}}} = - k_{B}T \ln{\left \langle e^{-\frac{H_{B}-H_{A}}{k_{B}T}} \right \rangle_{A}}$$
 <br><br></div>
 
+### Bennet’s Acceptance Ratio (BAR) 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+End state equilibrium sampling  
+$$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
+<br><br></div>
 
 ### The Binding Constant and Free Energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -129,13 +134,6 @@ $$\Delta G_{bind} = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\
 $$F^{0}=-k_{B}\ln{Z},\ Z=\sum_{i} e^{-\frac{E_{i}}{k_{B}T}}$$
 $$\Delta F^{0}=\int_{0}^{1} {\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda}}\, d\lambda \approx \sum_{i} {\omega_{i}\left < \frac{\partial V(\lambda)}{\partial \lambda} \right >_{\lambda_{i}} }$$
 <br><br></div>
-
-### Bennet’s Acceptance Ratio (BAR) 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-End state equilibrium sampling  
-$$\frac{Z_{A}}{Z_{B}} = \frac{\left <f(V_{A}-V_{B}+C)\right >_{B}}{\left <f(V_{B}-V_{A}+C) \right >_{A}}$$
-<br><br></div>
-
 
 ### Free Energy Caluations for Lead Optimization
 [REF|<a href="#REF" style="font-size:xx-small;">Free-energy calculations in structure-based drug design</a>]
