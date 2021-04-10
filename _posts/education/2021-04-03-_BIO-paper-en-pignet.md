@@ -149,9 +149,33 @@ $$\begin{align*}
 - utils.py
 </pre>
 <details markdown="1">
-  <summary align="center">train.py</summary>
+  <summary align="center">dataset.py</summary>
 <pre class="python-code">
-abc
+</pre>
+</details>
+<details markdown="1">
+  <summary align="center">layers.py</summary>
+<pre class="python-code">
+</pre>
+</details>
+<details markdown="1">
+  <summary align="center">model.py</summary>
+<pre class="python-code">
+</pre>
+</details>
+<details markdown="1">
+  <summary align="center">predict.py</summary>
+<pre class="python-code">
+</pre>
+</details>
+<details markdown="1">
+  <summary align="center">utils.py</summary>
+<pre class="python-code">
+</pre>
+</details>
+<details markdown="1">
+  <summary align="center">submit.py</summary>
+<pre class="python-code">
 </pre>
 </details>
 
