@@ -8,5 +8,69 @@ image: https://source.unsplash.com/atSaEOeE8Nk/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
+<!-- Top Block -->
+<div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+</div>
+<!-- Top Block -->
 
-Conventional wisdom suggests that good friendships enhance an individual's sense of happiness and overall well-being. Indeed, a number of studies have found that strong social supports improve a woman's prospects for good health and longevity. Conversely, loneliness and a lack of social supports have been linked to an increased risk of heart disease, viral infections, and cancer, as well as higher mortality rates overall. Two researchers have even termed friendship networks a "behavioral vaccine" that boosts both physical and mental health.
+<!-- Content Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<!-- Content Block -->
+
+---
+
+<!-- Reference Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<b id='REF'>Reference</b>
+<ol>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ol>
+<ul>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
+</div>
+<!-- Reference Block -->
+
+<!-- Article Block -->
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<b id='ART'>Related Articles</b>
+<ol>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ol>
+</div>
+<!-- Article Block -->
+
+<!-- Bottom Block -->
+<div align="center" class="bottom_btn_box">
+  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
+</div>
+<!-- Bottom Block -->
+
+<!-- Notice
+# Mathematical Expression
+- outline : $  $
+- inline  : $$  $$
+
+# Default Div Tag
+- align : left, right, center
+- font-size : xx-small, x-small, small, medium, large, x-large, xx-large
+- font-weight : normal, bold
+- color : red, orange, yellow, green, cyan, blue, purple, pink, white, gray, brown
+- background-color : red, orange, yellow, green, cyan, blue, purple, pink, white, gray, brown
+
+# Html Ref
+- color code : https://htmlcolorcodes.com/
+- tags : https://www.w3schools.com/tags/default.asp
+- attributes : https://www.w3schools.com/tags/ref_attributes.asp
+Notice -->
