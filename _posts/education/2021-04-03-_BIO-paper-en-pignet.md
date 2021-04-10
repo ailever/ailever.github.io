@@ -294,9 +294,30 @@ class PredictBlock
   <summary align="center">model.py</summary>
 <pre class="python-code">
 class DTIHarmonic
+    def __init__(self, args):
+    def vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A):
+    def vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A):
+    def cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2,
+    def cal_torsion_energy(self, torsion_energy):
+    def cal_distance_matrix(self, p1, p2, dm_min):
+    def get_embedding_vector(self, sample):
+    def forward(self, sample, DM_min=0.5, cal_der_loss=False):
 class GNN
+    def __init__(self, args):
+    def cal_distance_matrix(self, p1, p2, dm_min):
+    def forward(self, sample, DM_min=0.5, cal_der_loss=False):
+    def _linear(tensor, layers, act=None):
 class CNN3D
+    def __init__(self, args):
+    def forward(self, sample, DM_min=0.5, cal_der_loss=False):
+    def _get_lattice(self, batch_size, pos1, pos2, h1, h2, lattice_size):
+    def _plot(self, lattice, idx):
 class CNN3D_KDEEP
+    def __init__(self, args):
+    def forward(self, sample, DM_min=0.5, cal_der_loss=False):
+    def _get_lattice(self, pos1, pos2, vr1, vr2, h1, h2, lattice_dim):
+    def _plot(self, lattice, idx):
+    def _add_act(self, func, act="relu"):
 </pre>
 </details>
 <details markdown="1">
