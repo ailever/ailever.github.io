@@ -1,5 +1,5 @@
 ---
-title: FinTech
+title: Financials
 date: 2020-01-30
 description: Financials
 categories:
