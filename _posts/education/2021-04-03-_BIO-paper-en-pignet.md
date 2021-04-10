@@ -181,6 +181,17 @@ class CNN3D_KDEEP
 <details markdown="1">
   <summary align="center">predict.py</summary>
 <pre class="python-code">
+def write
+def cal_vdw_energy
+def cal_hbond_energy
+def cal_hydrophobic_energy
+def cal_internal_vdw_energy
+def make_ring_matrix
+def make_conjugate_matrix
+def distance_fix_pair
+def write_molecule
+def local_optimize
+def predict
 </pre>
 </details>
 <details markdown="1">
