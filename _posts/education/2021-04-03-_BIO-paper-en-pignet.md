@@ -128,8 +128,6 @@ $$\begin{align*}
 ### 3. Interpretation of the physically modeled outputs
 #### Distribution plot of atom-atom pairwise interaction in each energy component
 ### 4. Uncertainty quantification method
-
-<br><br><br>
 ### 5. Implementation
 [REF|<a href="#REF" style="font-size:xx-small;">2</a>]
 <pre class="code-path">
