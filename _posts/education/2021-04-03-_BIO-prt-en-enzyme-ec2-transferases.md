@@ -14,9 +14,13 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec1-oxidoreductases/'">Oxidoreductases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec2-transferases/'">Transferases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec3-hydrolases/'">Hydrolases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec4-lyases/'">Lyases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec5-isomerases/'">Isomerases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec6-ligases/'">Ligases</button>
+  <button class="top_btn" style="background-color:black;" type="button" onclick="location.href='https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec7-translocases/'">Translocases</button>  
 </div><br>
 <!-- Top Block -->
 
