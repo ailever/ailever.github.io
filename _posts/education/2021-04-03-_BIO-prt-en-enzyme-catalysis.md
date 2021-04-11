@@ -48,10 +48,19 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
-  <li><a href="#"></a></li>
+  <li><a href="#">EC1 Oxidoreductases</a></li>
+  <li><a href="#">EC2 Transferases</a></li>
+  <li><a href="#">EC3 Hydrolases</a></li>
+  <li><a href="#">EC4 Lyases</a></li>
+  <li><a href="#">EC5 Isomerases</a></li>
+  <li><a href="#">EC6 Ligases</a></li>
+  <li><a href="#">EC7 Translocases</a></li>
 </ol>
+<ul>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
 </div>
 <!-- Article Block -->
 
