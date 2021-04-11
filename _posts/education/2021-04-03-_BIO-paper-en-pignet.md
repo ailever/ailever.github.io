@@ -435,6 +435,29 @@ train_losses, train_losses_der1, train_losses_der2, train_losses_docking, train_
 </pre>
 </details>
 <details markdown="1">
+  <summary align="center">train.sh</summary>
+<pre class="sudo-code">
+--train_result_filename=result_train.txt \
+--test_result_filename=result_test.txt \
+--train_result_docking_filename=result_docking_train.txt \
+--test_result_docking_filename=result_docking_test.txt \
+--train_result_screening_filename=result_screening_train.txt \
+--test_result_screening_filename=result_screening_test.txt \
+--data_dir=./data/pdbbind_v2019_refined/data/ \
+--filename=./data/pdbbind_v2019_refined/pdb_to_affinity.txt \
+--key_dir=./data/pdbbind_v2019_refined/keys/ \
+--data_dir2=./data/pdbbind_v2019_docking_nowater/data/ \
+--filename2=./data/pdbbind_v2019_docking_nowater/pdb_to_affinity.txt \
+--key_dir2=./data/pdbbind_v2019_docking_nowater/keys/ \
+--data_dir3=./data/pdbbind_v2019_random_screening/data/ \
+--filename3=./data/pdbbind_v2019_random_screening/pdb_to_affinity.txt \
+--key_dir3=./data/pdbbind_v2019_random_screening/keys/ \
+--data_dir4=./data/pdbbind_v2019_cross_screening/data/ \
+--filename4=./data/pdbbind_v2019_cross_screening/pdb_to_affinity.txt \
+--key_dir4=./data/pdbbind_v2019_cross_screening/keys/ \
+</pre>
+</details>
+<details markdown="1">
   <summary align="center">test.py</summary>
 <pre class="sudo-code">
 test_keys.pkl > MolDataset > test_dataset
@@ -448,9 +471,6 @@ sample > model > pred
 <pre class="sudo-code">
 </pre>
 </details>
-
-
-
 
 
 <!-- Content Block -->
