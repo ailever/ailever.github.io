@@ -405,6 +405,13 @@ def run(model, data_iter, data_iter2, data_iter3, data_iter4, train_mode):
 </pre>
 <pre class="sudo-code">
 
+args.filename, args.filename2, args.filename3, args.filename4, args.key_dir, args.key_dir2, args.key_dir3, args.key_dir4
+----------V----------
+utils.read_data
+----------V----------
+train_keys, test_keys, id_to_y, train_keys2, test_keys2, id_to_y2, train_keys3, test_keys3, id_to_y3, train_keys4, test_keys4, id_to_y4
+
+
 train_keys, test_keys, args.data_dir, id_to_y, args.batch_size, args.num_workers, args.pos_noise_std
 ----------V----------                                 
 utils.get_dataset_dataloader
