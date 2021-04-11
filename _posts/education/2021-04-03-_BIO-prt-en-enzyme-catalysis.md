@@ -48,13 +48,13 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li><a href="#">EC1 Oxidoreductases</a></li>
-  <li><a href="#">EC2 Transferases</a></li>
-  <li><a href="#">EC3 Hydrolases</a></li>
-  <li><a href="#">EC4 Lyases</a></li>
-  <li><a href="#">EC5 Isomerases</a></li>
-  <li><a href="#">EC6 Ligases</a></li>
-  <li><a href="#">EC7 Translocases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec1-oxidoreductases/">EC1 Oxidoreductases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec2-transferases/">EC2 Transferases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec3-hydrolases/">EC3 Hydrolases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec4-lyases/">EC4 Lyases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec5-isomerases/">EC5 Isomerases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec6-ligases/">EC6 Ligases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-ec7-translocases/">EC7 Translocases</a></li>
 </ol>
 <ul>
   <li><a href="#"></a></li>
