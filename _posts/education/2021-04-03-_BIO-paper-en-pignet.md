@@ -318,7 +318,7 @@ data/pdbbind_v2019_refined/pp_test/preprocess.py:with open(fn, 'r') as r:
 data/pdbbind_v2019_refined/pp_train/preprocess.py:    with open(data_dir + key, 'wb') as fp:
 data/pdbbind_v2019_refined/pp_train/preprocess.py:with open(fn, 'r') as r:
 </pre>
-<code class="code-title">./data/pdbbind_v2019_refined/pdb_to_affinity.txt</code>
+<code class="code-title">original dataset : ./data/pdbbind_v2019_refined/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
 2r58    2.00
 3c2f    2.00
@@ -334,7 +334,7 @@ data/pdbbind_v2019_refined/pp_train/preprocess.py:with open(fn, 'r') as r:
 ...
 ...
 </pre>
-<code class="code-title">./data/pdbbind_v2019_docking_nowater/pdb_to_affinity.txt</code>
+<code class="code-title">docking dataset : ./data/pdbbind_v2019_docking_nowater/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
 2r58_out_76     2.00
 2r58_out_77     2.00
@@ -350,7 +350,7 @@ data/pdbbind_v2019_refined/pp_train/preprocess.py:with open(fn, 'r') as r:
 ...
 ...
 </pre>
-<code class="code-title">./data/pdbbind_v2019_random_screening/pdb_to_affinity.txt</code>
+<code class="code-title">random_screening dataset : ./data/pdbbind_v2019_random_screening/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
 STOCK4S-00529_4zl4      5
 STOCK2S-63769_3q2j      5
@@ -366,7 +366,7 @@ STOCK3S-53058_4epy      5
 ...
 ...
 </pre>
-<code class="code-title">./data/pdbbind_v2019_cross_screening/pdb_to_affinity.txt</code>
+<code class="code-title">cross_screening dataset : ./data/pdbbind_v2019_cross_screening/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
 4jkw_3aqt       5
 2iwx_1tsy       5
