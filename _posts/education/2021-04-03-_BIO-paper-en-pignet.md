@@ -401,6 +401,16 @@ def read_molecule(filename):
 <details markdown="1">
   <summary align="center">train.py</summary>
 <pre class="sudo-code">
+def run(model, data_iter, data_iter2, data_iter3, data_iter4, train_mode):
+</pre>
+<pre class="sudo-code">
+
+model, train_data_iter, train_data_iter2, train_data_iter3, train_data_iter4
+---V--- 
+run
+---V--- 
+train_losses, train_losses_der1, train_losses_der2, train_losses_docking, train_losses_screening, train_losses_var, train_pred, train_true, train_pred_docking, train_true_docking, train_pred_screening, train_true_screening, train_total_losses
+
 </pre>
 </details>
 <details markdown="1">
