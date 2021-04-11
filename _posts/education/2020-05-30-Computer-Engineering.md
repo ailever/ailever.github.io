@@ -204,7 +204,7 @@ author_staff_member: ailever
 </span>
 - Graph Neural Network
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-graph-neural-network/)
   :kr
 </span>
 - Generative Adversarial Network
@@ -217,7 +217,11 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-
+- Network imposing physically informed inductive biases
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-network-imposing-physically-informed-inductive-biases/)
+  :kr
+</span>
 
 <br><br><br>
 ## Machine Learning
