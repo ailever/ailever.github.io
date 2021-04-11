@@ -286,6 +286,38 @@ $$\begin{align*}
 ./data/rcsb_pdb/ligand_crawling.py
 ./data/rcsb_pdb/rename.py
 </pre>
+<code class="code-title">File I/O</code>
+<pre class="code-path">
+data/pdbbind_v2019_cross_screening/cal_docking.py:    with open("./remain.txt", "r") as f:
+data/pdbbind_v2019_cross_screening/data/preprocess.py:    with open(data_dir + pdb_fn, "wb") as fp:
+data/pdbbind_v2019_cross_screening/data/remove_noatom_protein.py:    with open(k, "rb") as f:
+data/pdbbind_v2019_cross_screening/data/submit.py:    with open("./jobscript.x", "w") as w:
+data/pdbbind_v2019_cross_screening/keys/generate_keys.py:with open("train_keys.pkl", "wb") as w:
+data/pdbbind_v2019_cross_screening/keys/generate_keys.py:with open("test_keys.pkl", "wb") as w:
+data/pdbbind_v2019_cross_screening/pdbqt_to_pdb.py:    with open("./remain.txt", "r") as f:
+data/pdbbind_v2019_cross_screening/pdb_to_affinity.py:with open("./pdb_to_affinity.txt", "w") as f:
+data/pdbbind_v2019_docking_nowater/cal_docking.py:    with open("./total.txt", "r") as f:
+data/pdbbind_v2019_docking_nowater/data/preprocess.py:    with open(data_dir + pdb_fn, "wb") as fp:
+data/pdbbind_v2019_docking_nowater/keys/generate_keys.py:with open("train_keys.pkl", "wb") as w:
+data/pdbbind_v2019_docking_nowater/keys/generate_keys.py:with open("test_keys.pkl", "wb") as w:
+data/pdbbind_v2019_docking_nowater/pdb_to_affinity.py:with open('../index_pdbbind_v2019/index/INDEX_refined_data.2019', 'r') as r:
+data/pdbbind_v2019_docking_nowater/pdb_to_affinity.py:with open('./pdb_to_affinity.txt', 'w') as w:
+data/pdbbind_v2019_random_screening/cal_docking.py:    with open('./id_smiles.txt', 'r') as f:
+data/pdbbind_v2019_random_screening/cal_docking.py:    with open('./chembl_27_chemreps.txt', 'r') as f:
+data/pdbbind_v2019_random_screening/cal_docking.py:    with open('./total.txt', 'r') as f:
+data/pdbbind_v2019_random_screening/data/preprocess.py:    with open(data_dir + pdb_fn, "wb") as fp:
+data/pdbbind_v2019_random_screening/keys/generate_keys.py:with open("train_keys.pkl", "wb") as w:
+data/pdbbind_v2019_random_screening/keys/generate_keys.py:with open("test_keys.pkl", "wb") as w:
+data/pdbbind_v2019_random_screening/pdb_to_affinity.py:with open("./pdb_to_affinity.txt", "w") as f:
+data/pdbbind_v2019_refined/keys/generate_keys.py:with open("train_keys.pkl", "wb") as w:
+data/pdbbind_v2019_refined/keys/generate_keys.py:with open("test_keys.pkl", "wb") as w:
+data/pdbbind_v2019_refined/pdb_to_affinity.py:with open("../index_pdbbind_v2019/index/INDEX_refined_data.2019", "r") as f:
+data/pdbbind_v2019_refined/pdb_to_affinity.py:with open("./pdb_to_affinity.txt", "w") as f:
+data/pdbbind_v2019_refined/pp_test/preprocess.py:    with open(f'{data_dir}/{key}', 'wb') as fp:
+data/pdbbind_v2019_refined/pp_test/preprocess.py:with open(fn, 'r') as r:
+data/pdbbind_v2019_refined/pp_train/preprocess.py:    with open(data_dir + key, 'wb') as fp:
+data/pdbbind_v2019_refined/pp_train/preprocess.py:with open(fn, 'r') as r:
+</pre>
 <details markdown="1">
   <summary align="center">dataset.py</summary>
 <pre class="sudo-code">
