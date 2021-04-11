@@ -1,6 +1,6 @@
 ---
 title: BIO,
-prev1_title: BIO,
+prev1_title: Proteomics
 prev2_title: Biology
 date: 2021-04-03
 description: BIO, 
