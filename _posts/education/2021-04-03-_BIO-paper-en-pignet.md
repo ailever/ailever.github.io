@@ -406,30 +406,30 @@ def run(model, data_iter, data_iter2, data_iter3, data_iter4, train_mode):
 <pre class="sudo-code">
 
 args.filename, args.filename2, args.filename3, args.filename4, args.key_dir, args.key_dir2, args.key_dir3, args.key_dir4
-----------V----------
+----------v----------
 utils.read_data
-----------V----------
+----------v----------
 train_keys, test_keys, id_to_y, train_keys2, test_keys2, id_to_y2, train_keys3, test_keys3, id_to_y3, train_keys4, test_keys4, id_to_y4
 
 
 train_keys, test_keys, args.data_dir, id_to_y, args.batch_size, args.num_workers, args.pos_noise_std
-----------V----------                                 
+----------v----------                                 
 utils.get_dataset_dataloader
-----------V----------
+----------v----------
 train_dataset, train_dataloader, test_dataset, test_dataloader
 
 
 train_dataloader, train_dataloader2, train_dataloader3, train_dataloader4, test_dataloader, test_dataloader2, test_dataloader3, test_dataloader4
-----------V----------
+----------v----------
 iter
-----------V----------
+----------v----------
 train_data_iter, train_data_iter2, train_data_iter3, train_data_iter4, test_data_iter, test_data_iter2, test_data_iter3, test_data_iter4
 
 
 model, train_data_iter, train_data_iter2, train_data_iter3, train_data_iter4
-----------V----------
+----------v----------
 run
-----------V----------
+----------v----------
 train_losses, train_losses_der1, train_losses_der2, train_losses_docking, train_losses_screening, train_losses_var, train_pred, train_true, train_pred_docking, train_true_docking, train_pred_screening, train_true_screening, train_total_losses
 
 </pre>
