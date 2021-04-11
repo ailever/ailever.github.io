@@ -3,7 +3,7 @@ title: NEW
 prev1_title: PAPER REVIEW
 prev2_title: Biology
 date: 2021-04-03
-description: BIO, 
+description: NEW 
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
   - education
@@ -17,8 +17,11 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Issues
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
