@@ -25,6 +25,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Issues
+- how to put off-target activity/toxicity into context
+- solving ADME/T issues
 - 
 
 
