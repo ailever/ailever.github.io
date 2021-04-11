@@ -406,9 +406,9 @@ def run(model, data_iter, data_iter2, data_iter3, data_iter4, train_mode):
 <pre class="sudo-code">
 
 model, train_data_iter, train_data_iter2, train_data_iter3, train_data_iter4
----V--- 
+----------V----------
 run
----V--- 
+----------V----------
 train_losses, train_losses_der1, train_losses_der2, train_losses_docking, train_losses_screening, train_losses_var, train_pred, train_true, train_pred_docking, train_true_docking, train_pred_screening, train_true_screening, train_total_losses
 
 </pre>
