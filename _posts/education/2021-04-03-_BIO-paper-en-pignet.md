@@ -320,15 +320,67 @@ data/pdbbind_v2019_refined/pp_train/preprocess.py:with open(fn, 'r') as r:
 </pre>
 <code class="code-title">./data/pdbbind_v2019_refined/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
+2r58    2.00
+3c2f    2.00
+3g2y    2.00
+3pce    2.00
+4qsu    2.00
+4qsv    2.00
+4u54    2.06
+3ao4    2.07
+4cs9    2.10
+2w8w    2.12
+...
+...
+...
 </pre>
 <code class="code-title">./data/pdbbind_v2019_docking_nowater/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
+2r58_out_76     2.00
+2r58_out_77     2.00
+2r58_out_78     2.00
+2r58_out_79     2.00
+2r58_out_80     2.00
+2r58_out_81     2.00
+2r58_out_82     2.00
+2r58_out_83     2.00
+2r58_out_84     2.00
+2r58_out_85     2.00
+...
+...
+...
 </pre>
 <code class="code-title">./data/pdbbind_v2019_random_screening/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
+STOCK4S-00529_4zl4      5
+STOCK2S-63769_3q2j      5
+STOCK4S-36534_3uz5      5
+STOCK3S-34201_4o04      5
+STOCK7S-22208_5cc2      5
+STOCK2S-68433_4tte      5
+STOCK6S-18695_2wm0      5
+STOCK5S-00257_3myq      5
+STOCK4S-66352_2fmb      5
+STOCK3S-53058_4epy      5
+...
+...
+...
 </pre>
 <code class="code-title">./data/pdbbind_v2019_cross_screening/pdb_to_affinity.txt</code>
 <pre class="sudo-code">
+4jkw_3aqt       5
+2iwx_1tsy       5
+4k18_4xip       5
+2vvv_1iy7       5
+4cjq_2f7o       5
+4xit_5oei       5
+1p1n_4mme       5
+1o2z_2v54       5
+4att_3l0v       5
+4jx9_1o2q       5
+...
+...
+...
 </pre>
 <code class="code-title"></code>
 <pre class="sudo-code">
