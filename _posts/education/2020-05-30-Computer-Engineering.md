@@ -204,7 +204,7 @@ author_staff_member: ailever
 </span>
 - Graph Neural Network
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-ml-en-graph-neural-network/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-graph-neural-network/)
   :kr
 </span>
 - Generative Adversarial Network
