@@ -52,6 +52,7 @@ Hello world!
 - [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 - [LaTex Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
 - [Text Marker](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
+- [Python Preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview)
 
 <br>
 ## Pycharm
