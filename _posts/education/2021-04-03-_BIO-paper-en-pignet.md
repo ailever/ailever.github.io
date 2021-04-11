@@ -416,8 +416,10 @@ def read_molecule(filename):
 
 #### Predict Process
 <pre class="sudo-code">
-MolDataset
-
+test_keys.pkl > MolDataset > test_dataset
+test_dataset > DataLoader > test_data_loader
+test_data_loader > iteration > sample
+sample > model > pred
 </pre>
 
 
