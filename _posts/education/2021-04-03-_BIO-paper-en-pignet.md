@@ -230,10 +230,10 @@ $$\begin{align*}
 ├── save
 │   └── save_1000.pt
 ├── submit.py
-├── test.py
-├── train.py
+├── test.py < arguments, dataset, model, utils
+├── train.py < arguments, model, utils
 ├── train.sh
-└── utils.py
+└── utils.py < dataset
 </pre>
 <details markdown="1">
   <summary align="center">dataset.py</summary>
