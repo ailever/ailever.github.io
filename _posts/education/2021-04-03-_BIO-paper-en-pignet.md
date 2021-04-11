@@ -129,7 +129,7 @@ $$\begin{align*}
 #### Distribution plot of atom-atom pairwise interaction in each energy component
 ### 4. Uncertainty quantification method
 ### 5. Implementation
-[REF|<a href="#REF" style="font-size:xx-small;">2</a>]<br>
+[REF|<a href="#REF">2</a>, <a href="https://github.com/jaechanglim/DTI_PDBbind/blob/master/README.md" style="font-size:xx-small;">README.md</a>]<br>
 <code class="code-title">Full Directory</code>
 <pre class="code-path">
 ├── README.md
