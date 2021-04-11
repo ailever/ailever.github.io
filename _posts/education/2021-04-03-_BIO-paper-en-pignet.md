@@ -284,9 +284,6 @@ $$\begin{align*}
 ./data/pdbbind_v2019_refined/pp_train/preprocess.py
 ./data/rcsb_pdb/download_ligand.py
 ./data/rcsb_pdb/ligand_crawling.py
-./data/rcsb_pdb/refined_data/2bpy
-./data/rcsb_pdb/refined_data/4cpy
-./data/rcsb_pdb/refined_data/4epy
 ./data/rcsb_pdb/rename.py
 </pre>
 <details markdown="1">
