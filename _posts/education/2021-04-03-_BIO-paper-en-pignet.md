@@ -514,6 +514,7 @@ class CNN3D_KDEEP(nn.Module):
     def _plot(self, lattice, idx):
     def _add_act(self, func, act="relu"):
 </pre>
+<img width="1209" alt="pignet" src="https://user-images.githubusercontent.com/52376448/114317414-f249c600-9b42-11eb-92cc-4d0069314085.png">
 </details>
 <details markdown="1">
   <summary align="center">predict.py</summary>
