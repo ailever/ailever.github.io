@@ -1,5 +1,5 @@
 ---
-title: Network Imposing Physically Informed Inductive Biases
+title: Physically informed Neural Network
 prev1_title: Deep Learning
 prev2_title: Computer Engineering
 date: 2020-05-30
