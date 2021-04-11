@@ -78,10 +78,17 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Physical chemistry
+- Periodic Table
 <span style="font-size:small;">
   :en
   :kr
 </span>
+- Helmholtz and Gibbs Free Energy
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Inorganic Chemistry
