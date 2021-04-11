@@ -116,11 +116,12 @@ $$\Delta G_{bind} = \int_{0}^{1} \left \langle \frac{\partial H}{\partial \lambd
 
 <br><br></div>
 
-### The Binding Constant and Free Energy
+### The Quasi-Harmonic Approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
   \Delta G_{bind} & = -k_{B}T \ln \frac{K}{V_{ref}} \\
   & = -k_{B}T\ln {(8\pi V_{ref})} - k_{B}T \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
+  & = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\ln{((2\pi)^{6}\det{C_{\mathbf{r}, \boldsymbol{\Omega}}}})} \\
 \end{align*}$$
 - $\Delta G_{bind}$ : Absolute binding free energy<br>
 - $k_{B}$ : Boltzmann constant<br>
@@ -129,11 +130,6 @@ $$\begin{align*}
 - $\beta=\frac{1}{k_{B}T}$<br>
 - $\mathbf{r}, \boldsymbol{\Omega}$ : Relative position, orientation<br>
 - $H$ : Ensemble average
-<br><br></div>
-
-### The Quasi-Harmonic Approximation
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{bind} = k_{B}T \ln {(8\pi^{2}V_{ref})+\omega_{min}-\frac{k_{B}T}{2}\ln{((2\pi)^{6}\det{C_{\mathbf{r}, \boldsymbol{\Omega}}}})}$$
 - $C_{\mathbf{r}, \boldsymbol{\Omega}}$: 6 by 6 fluctuation covariance matrix of the three positional and three orientation coordinates
 <br><br></div>
 
