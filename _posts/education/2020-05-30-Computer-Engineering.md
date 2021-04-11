@@ -217,9 +217,9 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-- Network Imposing Physically Informed Inductive Biases
+- Physically Informed Neural Network
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-network-imposing-physically-informed-inductive-biases/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-physically-informed-neural-network/)
   :kr
 </span>
 
