@@ -122,7 +122,7 @@ $$\Delta G_{bind} = \int_{0}^{1} \left \langle \frac{\partial H}{\partial \lambd
 $$\begin{align*}
   \Delta G_{bind} & = -k_{B}T \ln \frac{K}{V_{ref}} \\
   & = -k_{B}T \ln {(8\pi^{2} V_{ref})} - k_{B}T \ln {\int {H(\mathbf{r},\boldsymbol{\Omega})e^{-\beta \omega(\mathbf{r},\boldsymbol{\Omega})}}\, d\mathbf{r}d\boldsymbol{\Omega}} \\
-  & = -k_{B}T \ln {(8\pi^{2} V_{ref})} + \omega_{min}-\frac{k_{B}T}{2} \ln{((2\pi)^{6}\det{C_{\mathbf{r}, \boldsymbol{\Omega}}}})} \\
+  & = -k_{B}T \ln {(8\pi^{2} V_{ref}) + \omega_{min}-\frac{k_{B}T}{2} \ln{((2\pi)^{6}\det{C_{\mathbf{r}, \boldsymbol{\Omega}}}})} \\
 \end{align*}$$
 - $\Delta G_{bind}$ : Absolute binding free energy<br>
 - $k_{B}$ : Boltzmann constant<br>
