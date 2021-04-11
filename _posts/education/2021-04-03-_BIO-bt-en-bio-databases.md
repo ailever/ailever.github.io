@@ -21,6 +21,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## PubChem database
+- SMILES sequence
+
+## 
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
