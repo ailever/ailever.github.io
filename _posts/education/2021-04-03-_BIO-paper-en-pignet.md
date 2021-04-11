@@ -415,6 +415,7 @@ def read_molecule(filename):
 </pre>
 
 #### Predict Process
+<code class="code-title">test.py</code>
 <pre class="sudo-code">
 test_keys.pkl > MolDataset > test_dataset
 test_dataset > DataLoader > test_data_loader
