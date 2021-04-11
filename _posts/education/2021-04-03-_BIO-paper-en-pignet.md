@@ -399,29 +399,27 @@ def read_molecule(filename):
 </pre>
 </details>
 <details markdown="1">
-  <summary align="center">submit.py</summary>
+  <summary align="center">train.py</summary>
 <pre class="sudo-code">
 </pre>
 </details>
-
-#### Data Preprocess
-<pre class="sudo-code">
-
-</pre>
-
-#### Train Process
-<pre class="sudo-code">
-
-</pre>
-
-#### Predict Process
-<code class="code-title">test.py</code>
+<details markdown="1">
+  <summary align="center">test.py</summary>
 <pre class="sudo-code">
 test_keys.pkl > MolDataset > test_dataset
 test_dataset > DataLoader > test_data_loader
 test_data_loader > iteration > sample
 sample > model > pred
 </pre>
+</details>
+<details markdown="1">
+  <summary align="center">submit.py</summary>
+<pre class="sudo-code">
+</pre>
+</details>
+
+
+
 
 
 <!-- Content Block -->
