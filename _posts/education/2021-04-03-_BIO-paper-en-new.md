@@ -21,9 +21,13 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## The drug design process
+- Target Receptor > Screening > Lead Optimization > Drug Candidate
 
 <br><br><br>
 ## Issues
+- 
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
