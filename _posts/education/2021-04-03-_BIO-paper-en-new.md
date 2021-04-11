@@ -27,7 +27,8 @@ author_staff_member: anonym
 ## Issues
 - how to put off-target activity/toxicity into context
 - solving ADME/T issues
-- 
+- Affinity Prediction of Each Drug to ACE2 and TMPRSS2
+
 
 
 
