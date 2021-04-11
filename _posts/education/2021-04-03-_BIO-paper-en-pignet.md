@@ -237,7 +237,7 @@ $$\begin{align*}
 </pre>
 <details markdown="1">
   <summary align="center">dataset.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 def get_torsion_energy(m):
 def get_epsilon_sigma(m1, m2, mmff=True):
 def get_epsilon_sigma_uff(m1, m2):
@@ -283,7 +283,7 @@ def tensor_collate_fn(batch):
 </details>
 <details markdown="1">
   <summary align="center">layers.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 class MPNN(torch.nn.Module):
     def __init__(self, n_edge_feature, n_atom_feature):
     def forward(self, x1, x2, edge):
@@ -328,7 +328,7 @@ class PredictBlock(nn.Module):
 </details>
 <details markdown="1">
   <summary align="center">model.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 class DTIHarmonic(nn.Module):
     def __init__(self, args):
     def vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A):
@@ -358,7 +358,7 @@ class CNN3D_KDEEP(nn.Module):
 </details>
 <details markdown="1">
   <summary align="center">predict.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 def write(of, model, pred, time, args, extra_data=None):
     > Parameter : Local opt
     > Parameter : Hbond coeff
@@ -383,7 +383,7 @@ def predict(model, lf, pf, of, args, device):
 </details>
 <details markdown="1">
   <summary align="center">utils.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 def loss_var(pred_var, pred, affinity, log=True):
 def dic_to_device(dic, device):
 def load_data(filename):
@@ -400,7 +400,7 @@ def read_molecule(filename):
 </details>
 <details markdown="1">
   <summary align="center">submit.py</summary>
-<pre class="python-code">
+<pre class="sudo-code">
 </pre>
 </details>
 
