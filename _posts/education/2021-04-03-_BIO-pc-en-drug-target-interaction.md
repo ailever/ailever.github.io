@@ -13,7 +13,8 @@ author_staff_member: anonym
 ---
 
 <!-- Top Block -->
-<div align="center" class="top_btn_box">
+<div align="center" class="top_btn_box"> 
+  <button class="top_btn" type="button" onclick="location.href='https://www.accessdata.fda.gov/scripts/cder/daf/'">FDA-Approved Drugs</button>
   <button class="top_btn" type="button" onclick="location.href='https://ccsb.scripps.edu/autodock/'">AutoDock</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Latex Formula</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Drug_design'">Drug Design</button>  
