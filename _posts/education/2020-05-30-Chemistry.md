@@ -61,10 +61,20 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Biochemistry
+- Lipid Structure
+- Protein Structure
+- DNA & Central Dogma
+- Membranes
 <span style="font-size:small;">
   :en
   :kr
 </span>
+- Binding
+- Catalysis
+- Oxidation & Phosphorylation
+- Metabolic and Signal Tranduction
+- Metabolic Pathways
+
 
 <br><br><br>
 ## Physical chemistry
