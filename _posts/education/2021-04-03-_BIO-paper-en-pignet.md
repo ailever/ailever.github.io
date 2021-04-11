@@ -405,8 +405,19 @@ def read_molecule(filename):
 </details>
 
 #### DataProcessing
+<pre class="sudo-code">
+
+</pre>
+
 #### Train Process
+<pre class="sudo-code">
+
+</pre>
+
 #### Predict Process
+<pre class="sudo-code">
+
+</pre>
 
 
 <!-- Content Block -->
