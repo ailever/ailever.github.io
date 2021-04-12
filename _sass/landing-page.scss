@@ -178,6 +178,9 @@
 	border-style: none none solid none;
 	border-color:#F4F4F4
 }
+.uguide_list {
+	margin-bottom:0;
+}
 .uguide_box:hover {
     background-color: whitesmoke;
 }
@@ -185,6 +188,7 @@
 	background-color:none;
 }
 .uguide_elt:hover {
+	font-weight:bold;
 	color:white;
 	background-color:gray;
 }
