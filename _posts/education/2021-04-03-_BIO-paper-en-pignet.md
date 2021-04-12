@@ -430,97 +430,105 @@ def tensor_collate_fn(batch):
 <code class="code-title">get_torsion_energy(m) : e</code><br>
 m, mp ffTerms, iTerm, jTerm, state, setMethod, ff, e
 
-<code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : </code><br>
+<code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : get_epsilon_sigma_uff(m1, m2)</code><br>
 m1, m2, mmff
 
-<code class="code-title">get_epsilon_sigma_uff(m1, m2) : </code><br>
+<code class="code-title">get_epsilon_sigma_uff(m1, m2) : vdw_epsilon, vdw_sigma</code><br>
 m1, m2, n1, n2, vdw_epsilon, vdw_sigma, m_combine, i1, i2, param, d, e
 
-<code class="code-title">get_epsilon_sigma_mmff(m1, m2) : </code><br>
+<code class="code-title">get_epsilon_sigma_mmff(m1, m2) : vdw_epsilon, vdw_sigma</code><br>
 m1, m2, n1, n2, vdw_epsilon, vdw_sigma, m_combine, mp, i1, i2, param, d, e
 
-<code class="code-title">cal_torsion_energy(m) : </code><br>
+<code class="code-title">cal_torsion_energy(m) : energy</code><br>
 m, energy, torsion_list, torsion_list_ring, angles, idx, t, indice, angle, v, hs, i, n, pi_zero
 
-<code class="code-title">cal_internal_vdw(m) : </code><br>
+<code class="code-title">cal_internal_vdw(m) : retval</code><br>
 m, retval, n, c, d, dm, adj, topological_dm, i1, i2, param, e
 
-<code class="code-title">cal_charge(m) : </code><br>
+<code class="code-title">cal_charge(m) : charges</code><br>
 m, charges, i
 
-<code class="code-title">one_of_k_encoding(x, allowable_set) : </code><br>
+<code class="code-title">one_of_k_encoding(x, allowable_set) : list(map(lambda s: x == s, allowable_set))</code><br>
 x, allowable_set, s
 
-<code class="code-title">one_of_k_encoding_unk(x, allowable_set) : </code><br>
+<code class="code-title">one_of_k_encoding_unk(x, allowable_set) : list(map(lambda s: x == s, allowable_set))</code><br>
 x, allowable_set, s
 
-<code class="code-title">atom_feature(m, atom_i, i_donor, i_acceptor) :</code><br>
+<code class="code-title">atom_feature(m, atom_i, i_donor, i_acceptor) : return</code><br>
 m, atom_i, i_donor, i_acceptor, atom
+```
+return np.array(one_of_k_encoding_unk(atom.GetSymbol(),
+                ["C", "N", "O", "S", "F", "P", "Cl", "Br", "X"]) +
+                one_of_k_encoding_unk(atom.GetDegree(), [0, 1, 2, 3, 4, 5]) +
+                one_of_k_encoding_unk(atom.GetTotalNumHs(), [0, 1, 2, 3, 4]) +
+                one_of_k_encoding_unk(atom.GetImplicitValence(), [0, 1, 2, 3, 4, 5]) +
+                [atom.GetIsAromatic()])  # (10, 6, 5, 6, 1) --> total 28
+```
 
-<code class="code-title">get_atom_feature(m, is_ligand=True) : </code><br>
+<code class="code-title">get_atom_feature(m, is_ligand=True) : H</code><br>
 m, is_ligand, n, H
 
-<code class="code-title">rotate(molecule, angle, axis, fix_com=False) : </code><br>
+<code class="code-title">rotate(molecule, angle, axis, fix_com=False) : molecule</code><br>
 molecule, angle, axis, fix_corn, c, d, ori_mean, d, atoms, i, new_d
 
-<code class="code-title">dm_vector(d1, d2) : </code><br>
+<code class="code-title">dm_vector(d1, d2) : d1 - d2</code><br>
 d1, d2, n1, n2
 
-<code class="code-title">extract_valid_amino_acid(m, amino_acids) : </code><br>
+<code class="code-title">extract_valid_amino_acid(m, amino_acids) : ret_m</code><br>
 m, amino_acids, ms, valid_ms, k, ret_m, i, ret_m
 
-<code class="code-title">position_to_index(positions, target_position):</code><br>
+<code class="code-title">position_to_index(positions, target_position) : indice.tolist()</code><br>
 positions, target_position, indice, diff
 
-<code class="code-title">get_interaction_matrix(d1, d2, interaction_data):</code><br>
+<code class="code-title">get_interaction_matrix(d1, d2, interaction_data) : A</code><br>
 d1, d2, interaction_data, n1, n2, A, i_type, k, ps, p1, p2, i1, i2
 
-<code class="code-title">classifyAtoms(mol, polar_atoms=[7, 8, 15, 16]):</code><br>
+<code class="code-title">classifyAtoms(mol, polar_atoms=[7, 8, 15, 16]) : (radii)</code><br>
 mol, polar_atoms, symbol_radius, radii, atom
 
-<code class="code-title">cal_sasa(m):</code><br>
+<code class="code-title">cal_sasa(m) : sasa</code><br>
 m, radii, sasa
 
-<code class="code-title">get_vdw_radius(a):</code><br>
+<code class="code-title">get_vdw_radius(a) : Chem.GetPeriodicTable().GetRvdw(atomic_number)</code><br>
 a, metal_symbols, atomic_number, atomic_number_to_radius
 
-<code class="code-title">cal_uff(m):</code><br>
+<code class="code-title">cal_uff(m) : e</code><br>
 m, ffu, e
 
-<code class="code-title">get_hydrophobic_atom(m):</code><br>
+<code class="code-title">get_hydrophobic_atom(m) : retval</code><br>
 m, n, retval, i, a, s, n_a, x, diff
 
-<code class="code-title">get_A_hydrophobic(m1, m2):</code><br>
+<code class="code-title">get_A_hydrophobic(m1, m2) : np.outer(indice1, indice2)</code><br>
 m1, m2, indice1, indice2
     
-<code class="code-title">get_hbond_donor_indice(m):</code><br>
+<code class="code-title">get_hbond_donor_indice(m) : indice</code><br>
 m, smarts, indice, s, i
     
-<code class="code-title">get_hbond_acceptor_indice(m):</code><br>
+<code class="code-title">get_hbond_acceptor_indice(m) : indice</code><br>
 m, smarts, indice, s
     
-<code class="code-title">get_A_hbond(m1, m2):</code><br>
+<code class="code-title">get_A_hbond(m1, m2) : A</code><br>
 m1, m2, h_acc_indice1, h_acc_indice2, A, i, j
 
-<code class="code-title">get_A_metal_complexes(m1, m2):</code><br>
+<code class="code-title">get_A_metal_complexes(m1, m2) : A</code><br>
 m1, m2, h_acc_indice1, h_acc_indice2, metal_symbols, metal_indice1, metal_indice2
 
-<code class="code-title">mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std):</code><br>
+<code class="code-title">mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std) : sample</code><br>
 m1, m1_uff, m2, interaction_data, pos_noise_std, m1, m2, angle, axis, m1_rot, n1, d1, d1_rot, adf1, h1, n1, c2, d2, adj2, h2, dmv, dmv_rot, A_int, sasa, dsasa, rotor, charge1, charge2, valid1, valid2, metal_symbols, no_metal1, a, no_metal2, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, delta_uff, sample
 
-<code class="code-title">is_atoms_in_same_ring(i, j, ssr):</code><br>
+<code class="code-title">is_atoms_in_same_ring(i, j, ssr) : True/False</code><br>
 i, j, ssr, s
 
-<code class="code-title">count_active_rotatable_bond(m, dm):</code><br>
+<code class="code-title">count_active_rotatable_bond(m, dm) : sum(RT)</code><br>
 m, dm, rot_atom_pairs, ssr, n, RT, pair, RT_copy, min_dm, hydrophobic_indice, i
 
-<code class="code-title">check_dimension(tensors):</code><br>
+<code class="code-title">check_dimension(tensors) : np.max(size, 0)</code><br>
 tensors, size, tensor
     
-<code class="code-title">collate_tensor(tensor, max_tensor, batch_idx):</code><br>
+<code class="code-title">collate_tensor(tensor, max_tensor, batch_idx) : max_tensor</code><br>
 tensor, max_tensor, batch_idx, dims, max_dims, slice_list
 
-<code class="code-title">tensor_collate_fn(batch):</code><br>
+<code class="code-title">tensor_collate_fn(batch) : ret_dict</code><br>
 batch, batch_items, e, it, dim_dict, total_key, total_value, batch_size, n_element, total_key, i, k, value_list, j, keys, key, value
     
 </details>
