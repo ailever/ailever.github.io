@@ -16,7 +16,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
-</div><br>
+</div>
 
 ## Ailever Library
 <pre class="python-code">
@@ -24,7 +24,7 @@ from ailever import dashboard
 </pre>
 
 
-### Forecast Package
+- Forecast Package
 <pre class="python-code">
 from ailever.forecast import dashboard
 from ailever.forecast.STOCK import krx, Ailf_KR
@@ -36,7 +36,7 @@ from ailever.forecast.STOCK import krx, Ailf_KR
 </div>
 
 
-### Analysis Package
+- Analysis Package
 <pre class="python-code">
 from ailever.analysis import dashboard
 </pre>
@@ -49,7 +49,7 @@ from ailever.analysis import dashboard
 </div>
 
 
-### Machine Package
+- Machine Package
 <pre class="python-code">
 from ailever.machine import dashboard
 </pre>
@@ -64,7 +64,7 @@ from ailever.machine import dashboard
 </div>
 
 
-### Language Package
+- Language Package
 <pre class="python-code">
 from ailever.language import dashboard
 </pre>
@@ -75,7 +75,7 @@ from ailever.language import dashboard
 </div>
 
 
-### Detection Package
+- Detection Package
 <pre class="python-code">
 from ailever.detection import dashboard
 </pre>
@@ -86,7 +86,7 @@ from ailever.detection import dashboard
 </div>
 
 
-### Captioning Package
+- Captioning Package
 <pre class="python-code">
 from ailever.captioning import dashboard
 </pre>
@@ -97,7 +97,7 @@ from ailever.captioning import dashboard
 </div>
 
 
-### Utile Package
+- Utile Package
 <pre class="python-code">
 from ailever.utils import dashboard
 from ailever.utils import source
@@ -109,6 +109,10 @@ from ailever.utils import VISUAL
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-source/" style="color:white">source</a></span>
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-visual/" style="color:white">VISUAL</a></span>
 </div>
+<hr>
+
+
+
 
 
 <br><br><br>
