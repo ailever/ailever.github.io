@@ -150,26 +150,48 @@ source('FI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">pandas-datareader</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">quant-c-library</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
+    [finance] Korean Stock Item Dataset : From KRX API
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance] Korean Stock Real-Time Price : From KRX API
+    <span class="uguide_elt"><a href="#">: FI-0001</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance] Korean Stock Real-Time Price (with saving .csv file) : From KRX API
+    <span class="uguide_elt"><a href="#">: FI-0002</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance◇FI-0000] Korean Stock Dataset : From FinanceDataReader
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance] Time Series Analysis For Stock Price
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance] Momentum investing
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [finance] Bollinger Bands
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-pandas-datareader| quant-c-library|
 
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/FI-theory.md
-[finance] Korean Stock Item Dataset : From KRX API
-[finance◇FI-0001] Korean Stock Real-Time Price : From KRX API
-[finance◆FI-0002] Korean Stock Real-Time Price (with saving .csv file) : From KRX API
-[finance◇FI-0000] Korean Stock Dataset : From FinanceDataReader
-[finance] Time Series Analysis For Stock Price
-[finance] Momentum investing
-[finance] Bollinger Bands
 
 
 ## Chemical Engineering
