@@ -516,7 +516,7 @@ class CNN3D_KDEEP(nn.Module):
 </pre>
 <code class="code-title">vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
 <code class="code-title">vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
-<code class="code-title">cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid)</code>
+<code class="code-title">cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid) : energy</code>
 ![image](https://user-images.githubusercontent.com/52376448/114346912-2357e400-9b9f-11eb-963b-1c75c200cb6d.png)
 <code class="code-title">cal_torsion_energy(self, torsion_energy)</code>
 <code class="code-title">cal_distance_matrix(self, p1, p2, dm_min)</code>
