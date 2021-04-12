@@ -430,7 +430,7 @@ def tensor_collate_fn(batch):
 <code class="code-title">get_torsion_energy(m) : e</code><br>
 m, mp ffTerms, iTerm, jTerm, state, setMethod, ff, e
 
-<code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : get_epsilon_sigma_uff(m1, m2)</code><br>
+<code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : get_epsilon_sigma_uff(m1, m2)/get_epsilon_sigma_mmff(m1, m2)</code><br>
 m1, m2, mmff
 
 <code class="code-title">get_epsilon_sigma_uff(m1, m2) : vdw_epsilon, vdw_sigma</code><br>
