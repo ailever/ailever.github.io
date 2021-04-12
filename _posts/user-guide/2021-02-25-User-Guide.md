@@ -116,7 +116,7 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
-## Society Issue
+## SI : Society Issue
 <pre class="python-code">
 from ailever.utils import source
 source('SI-0000')
@@ -147,7 +147,7 @@ source('SI-0000')
 
 
 
-## Financial Engineering
+## FI : Financial Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('FI-0000')
@@ -204,7 +204,7 @@ source('FI-0000')
 
 
 
-## Biological Engineering
+## BO : Biological Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('BO-0000')
@@ -231,7 +231,7 @@ source('BO-0000')
 
 
 
-## Chemical Engineering
+## CH : Chemical Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('CH-0000')
@@ -257,7 +257,7 @@ source('CH-0000')
 
 
 
-## Electronic Engineering
+## EE : Electronic Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('EE-0000')
@@ -283,7 +283,7 @@ source('EE-0000')
 
 
 
-## Artificial Intelligence
+## AI : Artificial Intelligence
 <pre class="python-code">
 from ailever.utils import source
 source('AI-0000')
@@ -319,7 +319,7 @@ source('AI-0000')
 
 
 
-## Reinforcement Learning
+## RL : Reinforcement Learning
 <pre class="python-code">
 from ailever.utils import source
 source('RL-0000')
@@ -403,7 +403,7 @@ source('RL-0000')
 
 
 
-## Deep Learning
+## DL : Deep Learning
 <pre class="python-code">
 from ailever.utils import source
 source('DL-0000')
@@ -664,7 +664,7 @@ source('DL-0000')
 
 
 
-## Machine Learning
+## ML : Machine Learning
 <pre class="python-code">
 from ailever.utils import source
 source('ML-0000')
@@ -851,7 +851,7 @@ source('ML-0000')
 
 
 
-## Factor Analysis
+## FA : Factor Analysis
 <pre class="python-code">
 from ailever.utils import source
 source('FA-0000')
@@ -873,7 +873,7 @@ source('FA-0000')
 
 
 
-## Statistics
+## ST : Statistics
 <pre class="python-code">
 from ailever.utils import source
 source('ST-0000')
@@ -1659,7 +1659,7 @@ source('ST-0000')
 
 
 
-## Numerical Method
+## NM : Numerical Method
 <pre class="python-code">
 from ailever.utils import source
 source('NM-0000')
@@ -1814,7 +1814,7 @@ source('PL-0000')
 
 
 
-## Utils
+## UT : Utils
 <pre class="python-code">
 from ailever.utils import source
 source('UT-0000')
@@ -2038,7 +2038,7 @@ source('UT-0000')
 
 
 
-## Materials
+## MA : Materials
 <pre class="python-code">
 from ailever.utils import source
 source('MA-0000')
