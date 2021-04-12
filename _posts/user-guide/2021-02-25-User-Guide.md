@@ -137,6 +137,10 @@ source('SI-0000')
     <span class="uguide_elt"><a href="#">: SI-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div> 
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
 </div>
 
 
@@ -189,6 +193,10 @@ source('FI-0000')
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
 </div>
 
 
@@ -209,6 +217,10 @@ source('CH-0000')
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
 </div>
 
 
@@ -238,6 +250,10 @@ source('AI-0000')
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
 </div>
 
 
@@ -310,6 +326,10 @@ source('RL-0000')
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
 </div>
 
 
