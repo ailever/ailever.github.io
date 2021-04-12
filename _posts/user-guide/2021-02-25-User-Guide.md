@@ -18,7 +18,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
 </div>
 
-## Ailever Library
+## [AIL] : Ailever Library
 <pre class="python-code">
 from ailever import dashboard
 </pre>
@@ -116,7 +116,7 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
-## SI : Society Issue
+## [SI] : Society Issue
 <pre class="python-code">
 from ailever.utils import source
 source('SI-0000')
@@ -147,7 +147,7 @@ source('SI-0000')
 
 
 
-## FI : Financial Engineering
+## [FI] : Financial Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('FI-0000')
@@ -204,7 +204,7 @@ source('FI-0000')
 
 
 
-## BO : Biological Engineering
+## [BO] : Biological Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('BO-0000')
@@ -231,7 +231,7 @@ source('BO-0000')
 
 
 
-## CH : Chemical Engineering
+## [CH] : Chemical Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('CH-0000')
@@ -257,7 +257,7 @@ source('CH-0000')
 
 
 
-## EE : Electronic Engineering
+## [EE] : Electronic Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('EE-0000')
@@ -283,7 +283,7 @@ source('EE-0000')
 
 
 
-## AI : Artificial Intelligence
+## [AI] : Artificial Intelligence
 <pre class="python-code">
 from ailever.utils import source
 source('AI-0000')
@@ -319,7 +319,7 @@ source('AI-0000')
 
 
 
-## RL : Reinforcement Learning
+## [RL] : Reinforcement Learning
 <pre class="python-code">
 from ailever.utils import source
 source('RL-0000')
@@ -403,7 +403,7 @@ source('RL-0000')
 
 
 
-## DL : Deep Learning
+## [DL] : Deep Learning
 <pre class="python-code">
 from ailever.utils import source
 source('DL-0000')
@@ -664,7 +664,7 @@ source('DL-0000')
 
 
 
-## ML : Machine Learning
+## [ML] : Machine Learning
 <pre class="python-code">
 from ailever.utils import source
 source('ML-0000')
@@ -851,7 +851,7 @@ source('ML-0000')
 
 
 
-## FA : Factor Analysis
+## [FA] : Factor Analysis
 <pre class="python-code">
 from ailever.utils import source
 source('FA-0000')
@@ -873,7 +873,7 @@ source('FA-0000')
 
 
 
-## ST : Statistics
+## [ST] : Statistics
 <pre class="python-code">
 from ailever.utils import source
 source('ST-0000')
@@ -1659,7 +1659,7 @@ source('ST-0000')
 
 
 
-## NM : Numerical Method
+## [NM] : Numerical Method
 <pre class="python-code">
 from ailever.utils import source
 source('NM-0000')
@@ -1778,7 +1778,7 @@ source('NM-0000')
 
 
 
-## Programming Language
+## [PL] : Programming Language
 <pre class="python-code">
 from ailever.utils import source
 source('PL-0000')
@@ -1814,7 +1814,7 @@ source('PL-0000')
 
 
 
-## UT : Utils
+## [UT] : Utils
 <pre class="python-code">
 from ailever.utils import source
 source('UT-0000')
@@ -2038,7 +2038,7 @@ source('UT-0000')
 
 
 
-## MA : Materials
+## [MA] : Materials
 <pre class="python-code">
 from ailever.utils import source
 source('MA-0000')
