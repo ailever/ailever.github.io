@@ -520,6 +520,7 @@ class CNN3D_KDEEP(nn.Module):
 ![image](https://user-images.githubusercontent.com/52376448/114346912-2357e400-9b9f-11eb-963b-1c75c200cb6d.png)
 <code class="code-title">cal_torsion_energy(self, torsion_energy)</code>
 <code class="code-title">cal_distance_matrix(self, p1, p2, dm_min)</code>
+![image](https://user-images.githubusercontent.com/52376448/114348097-0ae8c900-9ba1-11eb-8663-47e853f785fb.png)
 <code class="code-title">get_embedding_vector(self, sample) : h1, h2</code>
 ![image](https://user-images.githubusercontent.com/52376448/114344784-67e18080-9b9b-11eb-83e0-17754fcc094e.png)
 <code class="code-title">forward(self, sample, DM_min=0.5, cal_der_loss=False)</code>
