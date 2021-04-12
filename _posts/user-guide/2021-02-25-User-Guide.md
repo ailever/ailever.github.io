@@ -18,11 +18,12 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
 </div>
 
-## [AIL] : Ailever Library
+## Ailever Library
 <pre class="python-code">
 from ailever import dashboard
 </pre>
 
+### [AIL-F] : Forecast
 <code class="code-title">Forecast Package</code>
 <pre class="python-code">
 from ailever.forecast import dashboard
@@ -49,6 +50,7 @@ source('AIL-F-0000')
 </div>
 
 
+### [AIL-A] : Analysis
 <code class="code-title">Analysis Package</code>
 <pre class="python-code">
 from ailever.analysis import dashboard
@@ -76,7 +78,7 @@ source('AIL-A-0000')
   <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
 
-
+### [AIL-M] : Machine
 <code class="code-title">Machine Package</code>
 <pre class="python-code">
 from ailever.machine import dashboard
@@ -106,6 +108,7 @@ source('AIL-M-0000')
 </div>
 
 
+### [AIL-L] : Language
 <code class="code-title">Language Package</code>
 <pre class="python-code">
 from ailever.language import dashboard
@@ -131,6 +134,7 @@ source('AIL-L-0000')
 </div>
 
 
+### [AIL-D] : Detection
 <code class="code-title">Detection Package</code>
 <pre class="python-code">
 from ailever.detection import dashboard
@@ -156,6 +160,7 @@ source('AIL-D-0000')
 </div>
 
 
+### [AIL-C] : Captioning
 <code class="code-title">Captioning Package</code>
 <pre class="python-code">
 from ailever.captioning import dashboard
@@ -180,7 +185,7 @@ source('AIL-C-0000')
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
-
+### [AIL-U] : Utile
 <code class="code-title">Utile Package</code>
 <pre class="python-code">
 from ailever.utils import dashboard
