@@ -1840,7 +1840,7 @@ from ailever.utils import source
 source('NM-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">FEniCS</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">sympy</a></span>
