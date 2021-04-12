@@ -1068,8 +1068,21 @@ source('UT-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">pyautogui</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">urllib</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">requests</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">beautifulsoup4</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">selenium</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">scrapy</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">pandas</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">visdom</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">plotly</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">plotly-figure</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">plotly-api</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">dash-callback</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">dash-core</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">dash-html</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">dash-bootstrap</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
@@ -1078,7 +1091,6 @@ source('UT-0000')
   </div>
 </div>
 
-pyautogui| urllib| requests| beautifulsoup4| selenium| scrapy| pandas| visdom| plotly| plotly-figure| plotly-api| dash-callback| dash-core| dash-html| dash-bootstrap|
 
 [automation] Encode : percentage encoder
 [automation] Time Object : python
