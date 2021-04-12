@@ -617,8 +617,8 @@ source('ML-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
-    [theory◇ML-theory] Machine Learning Theory
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [theory] Machine Learning Theory
+    <span class="uguide_elt"><a href="#">: ML-theory</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
