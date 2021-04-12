@@ -45,7 +45,7 @@ from ailever.utils import source
 source('AIL-F-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -71,7 +71,7 @@ from ailever.utils import source
 source('AIL-A-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -99,7 +99,7 @@ from ailever.utils import source
 source('AIL-M-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -129,7 +129,7 @@ from ailever.utils import source
 source('AIL-L-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -155,7 +155,7 @@ from ailever.utils import source
 source('AIL-D-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -181,7 +181,7 @@ from ailever.utils import source
 source('AIL-C-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -224,7 +224,7 @@ from ailever.utils import source
 source('lib-PX-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
 </div>
@@ -256,7 +256,7 @@ from ailever.utils import source
 source('lib-GO-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
 </div>
@@ -297,7 +297,7 @@ from ailever.utils import source
 source('SI-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -328,7 +328,7 @@ from ailever.utils import source
 source('FI-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">pandas-datareader</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">quant-c-library</a></span>
 </div>
@@ -385,7 +385,7 @@ from ailever.utils import source
 source('BO-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -412,7 +412,7 @@ from ailever.utils import source
 source('CH-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -438,7 +438,7 @@ from ailever.utils import source
 source('EE-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -464,7 +464,7 @@ from ailever.utils import source
 source('AI-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">librosa</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -500,7 +500,7 @@ from ailever.utils import source
 source('RL-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">gym</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">rlcard</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">Softlearning</a></span>
@@ -584,7 +584,7 @@ from ailever.utils import source
 source('DL-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">pytorch</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">torch-summary</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">geotorch</a></span>
@@ -845,7 +845,7 @@ from ailever.utils import source
 source('ML-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">scikit-learn</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">mlxtend</a></span>
 </div>
@@ -1032,7 +1032,7 @@ from ailever.utils import source
 source('FA-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">factor-analyzer</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">semopy</a></span>
 </div>
@@ -1054,7 +1054,7 @@ from ailever.utils import source
 source('ST-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">numpy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">symfit</a></span>
@@ -1959,7 +1959,7 @@ from ailever.utils import source
 source('PL-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">ipaddress</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">tcpschool</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">repl</a></span>
@@ -1995,7 +1995,7 @@ from ailever.utils import source
 source('UT-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">pyautogui</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">urllib</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">requests</a></span>
@@ -2219,7 +2219,7 @@ from ailever.utils import source
 source('MA-0000')
 </pre>
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
 </div>
