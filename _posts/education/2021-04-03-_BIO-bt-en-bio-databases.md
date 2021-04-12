@@ -28,17 +28,23 @@ author_staff_member: anonym
 ### Protein Data Bank (PDB)
 - [PDBbind](http://www.pdbbind-cn.org/download.php)
 <pre class="code-path">
-├── 2019_index.lst
-├── INDEX_general_NL.2019
-├── INDEX_general_PL.2019
-├── INDEX_general_PL_data.2019
-├── INDEX_general_PL_name.2019
-├── INDEX_general_PN.2019
-├── INDEX_general_PP.2019
-├── INDEX_refined_data.2019
-├── INDEX_refined_name.2019
-├── INDEX_refined_set.2019
-└── INDEX_structure.2019
+├── PDBbind_2019_plain_text_index.tar.gz
+└── plain-text-index
+    ├── index
+    │   ├── 2019_index.lst
+    │   ├── INDEX_general_NL.2019
+    │   ├── INDEX_general_PL.2019
+    │   ├── INDEX_general_PL_data.2019
+    │   ├── INDEX_general_PL_name.2019
+    │   ├── INDEX_general_PN.2019
+    │   ├── INDEX_general_PP.2019
+    │   ├── INDEX_refined_data.2019
+    │   ├── INDEX_refined_name.2019
+    │   ├── INDEX_refined_set.2019
+    │   └── INDEX_structure.2019
+    └── readme
+        ├── PDBbind-101.txt
+        └── pdbbind_2019_intro.pdf
 </pre>
 <code class="code-title">2019_index.lst</code><br>
 <pre class="sudo-code">
