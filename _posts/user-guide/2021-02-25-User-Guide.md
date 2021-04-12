@@ -253,6 +253,36 @@ source('CH-0000')
 </div>
 
 
+
+
+
+
+## Electronic Engineering
+<pre class="python-code">
+from ailever.utils import source
+source('EE-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>  
+</div>
+
+
+
+
+
+
 ## Artificial Intelligence
 <pre class="python-code">
 from ailever.utils import source
