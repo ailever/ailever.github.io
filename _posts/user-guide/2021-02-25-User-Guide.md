@@ -277,8 +277,8 @@ source('RL-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
-    [theory◆RL-theory] Reinforcement Learning Theory
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [theory] Reinforcement Learning Theory
+    <span class="uguide_elt"><a href="#">: RL-theory</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
