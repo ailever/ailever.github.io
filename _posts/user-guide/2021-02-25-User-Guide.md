@@ -205,6 +205,7 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
+<br><br><br>
 ## External Libraries
 ### [lib-PX] : plotly-express
 <pre class="python-code">
@@ -277,6 +278,7 @@ source('lib-GO-0000')
 </div>
 
 
+<br><br><br>
 ## Applications
 ### [SI] : Society Issue
 <pre class="python-code">
