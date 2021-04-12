@@ -2082,10 +2082,22 @@ source('lib-PX-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    px.timeline
+    <span class="uguide_elt"><a href="#">: lib-PX-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    px.sunburst
+    <span class="uguide_elt"><a href="#">: lib-PX-0001</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    px.treemap
+    <span class="uguide_elt"><a href="#">: lib-PX-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
+
 
 
 
