@@ -1044,19 +1044,31 @@ source('PL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">ipaddress</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">tcpschool</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">repl</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">w3schools</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">devkuma</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">rosettacode</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">isolution</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">SQL</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C++</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">Java</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">JavaScript</a></span>
 </div>
 <div class="uguide_box">
+  <div class="uguide_list">
+    [security]
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
   <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-ipaddress| tcpschool| repl| w3schools| devkuma| rosettacode| isolution| SQL| C++| Java| JavaScript
 
-[security]
 
 
 
