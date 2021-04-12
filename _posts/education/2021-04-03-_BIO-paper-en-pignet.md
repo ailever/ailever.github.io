@@ -519,7 +519,7 @@ class CNN3D_KDEEP(nn.Module):
 <code class="code-title">cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid)</code>
 <code class="code-title">cal_torsion_energy(self, torsion_energy)</code>
 <code class="code-title">cal_distance_matrix(self, p1, p2, dm_min)</code>
-<code class="code-title">get_embedding_vector(self, sample)</code>
+<code class="code-title">get_embedding_vector(self, sample) : h1, h2</code>
 ![image](https://user-images.githubusercontent.com/52376448/114344784-67e18080-9b9b-11eb-83e0-17754fcc094e.png)
 <code class="code-title">forward(self, sample, DM_min=0.5, cal_der_loss=False)</code>
 ![image](https://user-images.githubusercontent.com/52376448/114341875-b4c25880-9b95-11eb-8bd1-7eae9a555445.png)
