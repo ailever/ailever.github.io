@@ -219,22 +219,27 @@ source('AI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">librosa</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
+    [sound]
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [computer vision]
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [natural language processing] Word Cloud
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-librosa|
-
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/AI-theory.md
-[sound]
-[computer vision]
-[natural language processing] Word Cloud
 
 
 
@@ -246,29 +251,75 @@ source('RL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">gym</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">rlcard</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">Softlearning</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">stable-baselines</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">rl-baselines-zoo</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">policy gradient</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">openai spinningup</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
+    [theory◆RL-theory] Reinforcement Learning Theory
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [value-based] Markov Decision Process
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [value-based] Synchronous Dynamic Programming
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [value-based] Asynchronous Dynamic Programming
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: In-Place DP (Full Sweeping)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Prioritized Sweeping
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Real Time DP
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [value-based] Policy Evaluation
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Monte-Carlo Policy Evaluation : Non-Bootstrap, Unbiased estimator of Value function
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value function
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-gym|rlcard| Softlearning| stable-baselines| rl-baselines-zoo| policy gradient| openai spinningup|
 
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/RL-theory.md
-[theory◆RL-theory] Reinforcement Learning Theory
-[value-based] Markov Decision Process
-[value-based] Synchronous Dynamic Programming
-[value-based] Asynchronous Dynamic Programming
-In-Place DP (Full Sweeping)
-Prioritized Sweeping
-Real Time DP
-[value-based] Policy Evaluation
-Monte-Carlo Policy Evaluation : Non-Bootstrap, Unbiased estimator of Value function
-Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value function
+
+
+
+
+
+
+
 
 
 
