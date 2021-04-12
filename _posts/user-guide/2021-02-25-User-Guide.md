@@ -205,7 +205,7 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
-## Libraries
+## External Libraries
 ### [lib-PX] : plotly-express
 <pre class="python-code">
 from ailever.utils import source
