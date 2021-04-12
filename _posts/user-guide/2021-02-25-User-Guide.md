@@ -28,7 +28,21 @@ from ailever import dashboard
 from ailever.forecast import dashboard
 from ailever.forecast.STOCK import krx, Ailf_KR
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-F-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/forecast-en-dashboard/" style="color:white">dashboard</a></span>
   <span class="link_btn"><a href="" style="color:white">STOCK</a></span>
@@ -39,7 +53,21 @@ from ailever.forecast.STOCK import krx, Ailf_KR
 <pre class="python-code">
 from ailever.analysis import dashboard
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-A-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/analysis-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">PHYSICS</a></span>
@@ -53,7 +81,21 @@ from ailever.analysis import dashboard
 <pre class="python-code">
 from ailever.machine import dashboard
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-M-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-rl/" style="color:white">RL</a></span>
@@ -68,7 +110,21 @@ from ailever.machine import dashboard
 <pre class="python-code">
 from ailever.language import dashboard
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-L-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/language-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
@@ -79,7 +135,21 @@ from ailever.language import dashboard
 <pre class="python-code">
 from ailever.detection import dashboard
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-D-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/detection-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
@@ -90,7 +160,21 @@ from ailever.detection import dashboard
 <pre class="python-code">
 from ailever.captioning import dashboard
 </pre>
-
+<pre class="python-code">
+from ailever.utils import source
+source('AIL-C-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/captioning-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
