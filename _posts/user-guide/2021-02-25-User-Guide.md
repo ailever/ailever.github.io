@@ -1098,49 +1098,201 @@ source('UT-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
+    [automation] Encode : percentage encoder
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Time Object : python
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Time Object : numpy
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Time Object : pandas
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Scheduler : Bash
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Scheduler : Python
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Argument Parser : Bash
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Argument Parser : Python
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Control : Mouse & Keyboard & Messagebox
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Email
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [automation] Clipboard Control
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset] Dataset Links
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset◇UT-0003] Downloader
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset◇UT-0002] Crawler : urllib
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset◇UT-0001] Crawler : requests
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset◇UT-0000] Crawler : selenium
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [dataset] Crawler : scrapy
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [programming] MetaClass
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [container] Query : python
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [container] Query : numpy
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [container] Query : pandas
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [container] Query : pytorch
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [documentation] Dash Template - structure : raw
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [documentation◇UT-0004] Dash Template - Simple Project
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [documentation◆UT-0005] Dash Template - Real Time Analysis
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : multiple axes
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : direction field
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : 3d plot
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : animate one figure with IPython.display
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : animate multiple figure with IPython.display
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : trajectory-2d with IPython.display
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : trajectory-3d with IPython.display
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : UI Interface for one figure with ipywidgets
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : UI Interface for multiple figure with ipywidgets
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : UI Interface for trajectory with ipywidgets
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] plotly : subplots
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [visualization] plotly : Parallel Coordinates Chart
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
 
-[automation] Encode : percentage encoder
-[automation] Time Object : python
-[automation] Time Object : numpy
-[automation] Time Object : pandas
-[automation] Scheduler : Bash
-[automation] Scheduler : Python
-[automation] Argument Parser : Bash
-[automation] Argument Parser : Python
-[automation] Control : Mouse & Keyboard & Messagebox
-[automation] Email
-[automation] Clipboard Control
-[dataset] Dataset Links
-[dataset◇UT-0003] Downloader
-[dataset◇UT-0002] Crawler : urllib
-[dataset◇UT-0001] Crawler : requests
-[dataset◇UT-0000] Crawler : selenium
-[dataset] Crawler : scrapy
-[programming] MetaClass
-[container] Query : python
-[container] Query : numpy
-[container] Query : pandas
-[container] Query : pytorch
-[documentation] Dash Template - structure : raw
-[documentation◇UT-0004] Dash Template - Simple Project
-[documentation◆UT-0005] Dash Template - Real Time Analysis
-[visualization] matplotlib : multiple axes
-[visualization] matplotlib : direction field
-[visualization] matplotlib : 3d plot
-[visualization] matplotlib : animate one figure with IPython.display
-[visualization] matplotlib : animate multiple figure with IPython.display
-[visualization] matplotlib : trajectory-2d with IPython.display
-[visualization] matplotlib : trajectory-3d with IPython.display
-[visualization] matplotlib : UI Interface for one figure with ipywidgets
-[visualization] matplotlib : UI Interface for multiple figure with ipywidgets
-[visualization] matplotlib : UI Interface for trajectory with ipywidgets
-[visualization] plotly : subplots
-[visualization] plotly : Parallel Coordinates Chart
 
 
 
