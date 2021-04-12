@@ -439,6 +439,38 @@ def check_dimension(tensors):
 def collate_tensor(tensor, max_tensor, batch_idx):
 def tensor_collate_fn(batch):
 </pre>
+<code class="code-title">get_torsion_energy(m) : </code>
+<code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : </code>
+<code class="code-title">get_epsilon_sigma_uff(m1, m2) : </code>
+<code class="code-title">get_epsilon_sigma_mmff(m1, m2) : </code>
+<code class="code-title">cal_torsion_energy(m) : </code>
+<code class="code-title">cal_internal_vdw(m) : </code>
+<code class="code-title">cal_charge(m) : </code>
+<code class="code-title">one_of_k_encoding(x, allowable_set) : </code>
+<code class="code-title">one_of_k_encoding_unk(x, allowable_set) : </code>
+<code class="code-title">atom_feature(m, atom_i, i_donor, i_acceptor) :</code>
+<code class="code-title">get_atom_feature(m, is_ligand=True) : </code>
+<code class="code-title">rotate(molecule, angle, axis, fix_com=False) : </code>
+<code class="code-title">dm_vector(d1, d2) : </code>
+<code class="code-title">extract_valid_amino_acid(m, amino_acids) : </code>
+<code class="code-title">position_to_index(positions, target_position):</code>
+<code class="code-title">get_interaction_matrix(d1, d2, interaction_data):</code>
+<code class="code-title">classifyAtoms(mol, polar_atoms=[7, 8, 15, 16]):</code>
+<code class="code-title">cal_sasa(m):</code>
+<code class="code-title">get_vdw_radius(a):</code>
+<code class="code-title">cal_uff(m):</code>
+<code class="code-title">get_hydrophobic_atom(m):</code>
+<code class="code-title">get_A_hydrophobic(m1, m2):</code>
+<code class="code-title">get_hbond_donor_indice(m):</code>
+<code class="code-title">get_hbond_acceptor_indice(m):</code>
+<code class="code-title">get_A_hbond(m1, m2):</code>
+<code class="code-title">get_A_metal_complexes(m1, m2):</code>
+<code class="code-title">mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std):</code>
+<code class="code-title">is_atoms_in_same_ring(i, j, ssr):</code>
+<code class="code-title">count_active_rotatable_bond(m, dm):</code>
+<code class="code-title">check_dimension(tensors):</code>
+<code class="code-title">collate_tensor(tensor, max_tensor, batch_idx):</code>
+<code class="code-title">tensor_collate_fn(batch):</code>
 </details>
 <details markdown="1">
   <summary align="center">layers.py</summary>
@@ -514,17 +546,17 @@ class CNN3D_KDEEP(nn.Module):
     def _plot(self, lattice, idx):
     def _add_act(self, func, act="relu"):
 </pre>
-<code class="code-title">vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
-<code class="code-title">vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
-<code class="code-title">cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid) : energy</code>
+<code class="code-title">[DTIHarmonic]vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
+<code class="code-title">[DTIHarmonic]vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
+<code class="code-title">[DTIHarmonic]cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid) : energy</code>
 ![image](https://user-images.githubusercontent.com/52376448/114346912-2357e400-9b9f-11eb-963b-1c75c200cb6d.png)
-<code class="code-title">cal_torsion_energy(self, torsion_energy) : torsion_energy</code>
+<code class="code-title">[DTIHarmonic]cal_torsion_energy(self, torsion_energy) : torsion_energy</code>
 ![image](https://user-images.githubusercontent.com/52376448/114348594-b98d0980-9ba1-11eb-9218-5a337ad52774.png)
-<code class="code-title">cal_distance_matrix(self, p1, p2, dm_min) : dm</code>
+<code class="code-title">[DTIHarmonic]cal_distance_matrix(self, p1, p2, dm_min) : dm</code>
 ![image](https://user-images.githubusercontent.com/52376448/114348097-0ae8c900-9ba1-11eb-8663-47e853f785fb.png)
-<code class="code-title">get_embedding_vector(self, sample) : h1, h2</code>
+<code class="code-title">[DTIHarmonic]get_embedding_vector(self, sample) : h1, h2</code>
 ![image](https://user-images.githubusercontent.com/52376448/114344784-67e18080-9b9b-11eb-83e0-17754fcc094e.png)
-<code class="code-title">forward(self, sample, DM_min=0.5, cal_der_loss=False)</code>
+<code class="code-title">[DTIHarmonic]forward(self, sample, DM_min=0.5, cal_der_loss=False)</code>
 ![image](https://user-images.githubusercontent.com/52376448/114341875-b4c25880-9b95-11eb-8bd1-7eae9a555445.png)
 </details>
 <details markdown="1">
