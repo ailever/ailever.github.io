@@ -1001,38 +1001,114 @@ source('NM-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">FEniCS</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">sympy</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">symfit</a></span>
 </div>
 <div class="uguide_box">
+  <div class="uguide_list">
+    [theory◇NM-theory] Numerical Methods Theory
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [fitting] Fourier Series Fitting
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [fitting] Taylor Series Fitting
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [Optimize]
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] Inverse Matrix
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] LU Decomposition
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] QR Decomposition
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] Cholesky Decomposition
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] Eigen Decomposition
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] Singular Value Decomposition
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [linear algebra] Eigen-Value Problems
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ordinary differential equation] Euler method
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ordinary differential equation] Runge–Kutta
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [partial differential equation] Finite difference method
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [partial differential equation] Finite element method
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [partial differential equation] Finite volume method
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [symbolic computing] Mathematical Formula Expression
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [symbolic computing] Matrix
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [symbolic computing] Polynomial
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
   <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-FEniCS| scipy| sympy| symfit|
 
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/NM-theory.md
-[theory◇NM-theory] Numerical Methods Theory
-[fitting] Fourier Series Fitting
-[fitting] Taylor Series Fitting
-[Optimize]
-[linear algebra] Inverse Matrix
-[linear algebra] LU Decomposition
-[linear algebra] QR Decomposition
-[linear algebra] Cholesky Decomposition
-[linear algebra] Eigen Decomposition
-[linear algebra] Singular Value Decomposition
-[linear algebra] Eigen-Value Problems
-[ordinary differential equation] Euler method
-[ordinary differential equation] Runge–Kutta
-[partial differential equation] Finite difference method
-[partial differential equation] Finite element method
-[partial differential equation] Finite volume method
-[symbolic computing] Mathematical Formula Expression
-[symbolic computing] Matrix
-[symbolic computing] Polynomial
 
 
 
