@@ -24,8 +24,7 @@ from ailever import dashboard
 </pre>
 
 
-<br><br><br>
-## Manual : Forecast Package
+### Forecast Package
 <pre class="python-code">
 from ailever.forecast import dashboard
 from ailever.forecast.STOCK import krx, Ailf_KR
@@ -37,8 +36,7 @@ from ailever.forecast.STOCK import krx, Ailf_KR
 </div>
 
 
-<br><br><br>
-## Manual : Analysis Package
+### Analysis Package
 <pre class="python-code">
 from ailever.analysis import dashboard
 </pre>
@@ -51,8 +49,7 @@ from ailever.analysis import dashboard
 </div>
 
 
-<br><br><br>
-## Manual : Machine Package
+### Machine Package
 <pre class="python-code">
 from ailever.machine import dashboard
 </pre>
@@ -67,8 +64,7 @@ from ailever.machine import dashboard
 </div>
 
 
-<br><br><br>
-## Manual : Language Package
+### Language Package
 <pre class="python-code">
 from ailever.language import dashboard
 </pre>
@@ -79,8 +75,7 @@ from ailever.language import dashboard
 </div>
 
 
-<br><br><br>
-## Manual : Detection Package
+### Detection Package
 <pre class="python-code">
 from ailever.detection import dashboard
 </pre>
@@ -91,8 +86,7 @@ from ailever.detection import dashboard
 </div>
 
 
-<br><br><br>
-## Manual : Captioning Package
+### Captioning Package
 <pre class="python-code">
 from ailever.captioning import dashboard
 </pre>
@@ -103,8 +97,7 @@ from ailever.captioning import dashboard
 </div>
 
 
-<br><br><br>
-## Manual : Utile Package
+### Utile Package
 <pre class="python-code">
 from ailever.utils import dashboard
 from ailever.utils import source
