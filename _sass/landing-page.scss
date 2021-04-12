@@ -183,12 +183,14 @@
 	margin-bottom: 5px;
 }
 .uguide_box:hover {
-    background-color: whitesmoke;
+	background-color: whitesmoke;
 }
 .uguide_elt {
+	font-size:xx-small;
 	background-color:none;
 }
 .uguide_elt:hover {
+	font-size:small;
 	font-weight:bold;
 	color:white;
 	background-color:gray;
