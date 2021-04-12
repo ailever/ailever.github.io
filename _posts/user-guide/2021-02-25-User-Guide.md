@@ -117,6 +117,12 @@ from ailever.utils import VISUAL
 <!-- Content Block -->
 
 ## Society Issue
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
+</div>
+
 from ailever.utils import source
 source('SI-0000')
 [health] COVID-19 : Global Dataset
