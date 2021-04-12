@@ -439,8 +439,11 @@ def check_dimension(tensors):
 def collate_tensor(tensor, max_tensor, batch_idx):
 def tensor_collate_fn(batch):
 </pre>
-<code class="code-title">get_torsion_energy(m) : </code><br>
+<code class="code-title">get_torsion_energy(m) : e</code><br>
+m, mp ffTerms, iTerm, jTerm, state, setMethod, ff, e
+
 <code class="code-title">get_epsilon_sigma(m1, m2, mmff=True) : </code><br>
+
 <code class="code-title">get_epsilon_sigma_uff(m1, m2) : </code><br>
 <code class="code-title">get_epsilon_sigma_mmff(m1, m2) : </code><br>
 <code class="code-title">cal_torsion_energy(m) : </code><br>
@@ -547,15 +550,21 @@ class CNN3D_KDEEP(nn.Module):
     def _add_act(self, func, act="relu"):
 </pre>
 <code class="code-title">[DTIHarmonic]vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A)</code><br>
+
 <code class="code-title">[DTIHarmonic]vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A)</code><br>
+
 <code class="code-title">[DTIHarmonic]cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid) : energy</code><br>
 ![image](https://user-images.githubusercontent.com/52376448/114346912-2357e400-9b9f-11eb-963b-1c75c200cb6d.png)
+
 <code class="code-title">[DTIHarmonic]cal_torsion_energy(self, torsion_energy) : torsion_energy</code><br>
 ![image](https://user-images.githubusercontent.com/52376448/114348594-b98d0980-9ba1-11eb-9218-5a337ad52774.png)
+
 <code class="code-title">[DTIHarmonic]cal_distance_matrix(self, p1, p2, dm_min) : dm</code><br>
 ![image](https://user-images.githubusercontent.com/52376448/114348097-0ae8c900-9ba1-11eb-8663-47e853f785fb.png)
+
 <code class="code-title">[DTIHarmonic]get_embedding_vector(self, sample) : h1, h2</code><br>
 ![image](https://user-images.githubusercontent.com/52376448/114344784-67e18080-9b9b-11eb-83e0-17754fcc094e.png)
+
 <code class="code-title">[DTIHarmonic]forward(self, sample, DM_min=0.5, cal_der_loss=False)</code><br>
 ![image](https://user-images.githubusercontent.com/52376448/114341875-b4c25880-9b95-11eb-8bd1-7eae9a555445.png)
 </details>
