@@ -517,6 +517,7 @@ m1, m2, h_acc_indice1, h_acc_indice2, metal_symbols, metal_indice1, metal_indice
 
 <code class="code-title">mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std) : sample</code><br>
 m1, m1_uff, m2, interaction_data, pos_noise_std, m1, m2, angle, axis, m1_rot, n1, d1, d1_rot, adf1, h1, n1, c2, d2, adj2, h2, dmv, dmv_rot, A_int, sasa, dsasa, rotor, charge1, charge2, valid1, valid2, metal_symbols, no_metal1, a, no_metal2, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, delta_uff, sample
+![image](https://user-images.githubusercontent.com/52376448/114428608-5c23a780-9bf7-11eb-982d-26668e5a5818.png)
 
 <code class="code-title">is_atoms_in_same_ring(i, j, ssr) : True/False</code><br>
 i, j, ssr, s
