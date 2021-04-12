@@ -123,7 +123,7 @@ from ailever.utils import VISUAL
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
 <div class="uguide_box">
-  <ul>
+  <ul class="uguide-list">
     <li class="uguide_elt">[health] COVID-19 : Global Dataset</li>
     <li class="uguide_elt">[health◆SI-0000] COVID-19 : Domestic Dataset (Korea)</li>
   </ul>
