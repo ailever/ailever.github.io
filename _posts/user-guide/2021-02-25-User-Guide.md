@@ -109,7 +109,11 @@ from ailever.utils import VISUAL
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-source/" style="color:white">source</a></span>
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-visual/" style="color:white">VISUAL</a></span>
 </div>
-<br><br><hr><br><br>
+<br><br>
+
+---
+
+<br><br>
 
 
 
