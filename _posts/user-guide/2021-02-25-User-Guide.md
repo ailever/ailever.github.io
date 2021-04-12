@@ -799,8 +799,8 @@ source('FA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">factor-analyzer</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">semopy</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
@@ -809,7 +809,6 @@ source('FA-0000')
   </div>
 </div>
 
-factor-analyzer| semopy|
 
 
 
@@ -822,8 +821,14 @@ source('ST-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">numpy</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">symfit</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">statsmodels</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">arch</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">quantecon</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">hmmlearn</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">pymc3</a></span>
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
@@ -832,9 +837,7 @@ source('ST-0000')
   </div>
 </div>
 
-numpy| scipy| symfit| statsmodels| arch| quantecon| hmmlearn| pymc3|
 
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ST-theory.md
 [correlation] Pearson’s Correlation
 [correlation] Spearman’s Rank Correlation
 [correlation] Kendall’s Rank Correlation
