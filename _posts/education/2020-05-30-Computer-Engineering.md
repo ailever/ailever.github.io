@@ -11,6 +11,7 @@ author_staff_member: ailever
 ---
 
 <div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/02/25/User-Guide/'">User Guide</button>
   <button class="top_btn" type="button" onclick="location.href='https://paperswithcode.com/sota'">Papers with Code</button>
   <button class="top_btn" type="button" onclick="location.href='https://distill.pub/'">Distill</button>
   <button class="top_btn" type="button" onclick="location.href='https://ai-pool.com/'">AI Pool</button>
