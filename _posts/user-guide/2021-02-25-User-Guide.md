@@ -118,9 +118,9 @@ from ailever.utils import VISUAL
 
 ## Society Issue
 <div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
-  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
-  <span class="private_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
 
 from ailever.utils import source
@@ -132,6 +132,12 @@ source('SI-0000')
 
 
 ## Financial Engineering
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 pandas-datareader| quant-c-library|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/FI-theory.md
@@ -150,6 +156,12 @@ source('FI-0000')
 
 
 ## Artificial Intelligence
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 librosa|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/AI-theory.md
@@ -163,6 +175,12 @@ source('AI-0000')
 
 
 ## Reinforcement Learning
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 gym|rlcard| Softlearning| stable-baselines| rl-baselines-zoo| policy gradient| openai spinningup|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/RL-theory.md
@@ -183,6 +201,12 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
 
 
 ## Deep Learning
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 pytorch| torch-summary| geotorch| transformers| open-mmlab| gan|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/DL-theory.md
@@ -240,6 +264,12 @@ Instance Normalization
 
 
 ## Machine Learning
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 scikit-learn| mlxtend|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ML-theory.md
@@ -283,6 +313,12 @@ LightGBM
 
 
 ## Factor Analysis
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 factor-analyzer| semopy|
 
 from ailever.utils import source
@@ -292,6 +328,12 @@ source('FA-0000')
 
 
 ## Statistics
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 numpy| scipy| symfit| statsmodels| arch| quantecon| hmmlearn| pymc3|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ST-theory.md
@@ -454,6 +496,12 @@ Prediction intervals
 
 
 ## Numerical Method
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 FEniCS| scipy| sympy| symfit|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/NM-theory.md
@@ -483,6 +531,12 @@ source('NM-0000')
 
 
 ## Programming Language
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 ipaddress| tcpschool| repl| w3schools| devkuma| rosettacode| isolution| SQL| C++| Java| JavaScript
 
 from ailever.utils import source
@@ -493,6 +547,12 @@ source('PL-0000')
 
 
 ## Utils
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 pyautogui| urllib| requests| beautifulsoup4| selenium| scrapy| pandas| visdom| plotly| plotly-figure| plotly-api| dash-callback| dash-core| dash-html| dash-bootstrap|
 
 from ailever.utils import source
@@ -539,6 +599,12 @@ source('UT-0000')
 
 
 ## Materials
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="" target="_blank" style="color:white">A</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+
 latex| katex|
 [analysis◇MA-0000] SARIMA
 [analysis◇MA-0001] COVID-19
