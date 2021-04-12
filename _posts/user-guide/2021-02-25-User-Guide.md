@@ -886,12 +886,12 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-WN Gaussian White Noise
+    ::: RP-WN Gaussian White Noise
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-WN Bernoulli White Noise
+    ::: RP-WN Bernoulli White Noise
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
@@ -901,267 +901,267 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : MA(Moving Average) - (5)
+    ::: RP-GN : MA(Moving Average) - (5)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : AR(AutoRegressive) - (5)
+    ::: RP-GN : AR(AutoRegressive) - (5)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : ARMA(AutoRegressive Moving Average) - (2,2)
+    ::: RP-GN : ARMA(AutoRegressive Moving Average) - (2,2)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(0,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(0,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(0,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(0,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,0,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,0,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,0,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,0,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,1,12)
+    ::: RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,0)
+    ::: RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,0)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,1)
+    ::: RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,1)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,0)
+    ::: RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,0)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,1)
+    ::: RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,1)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (2,1,2)
+    ::: RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (2,1,2)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,0,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(0,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,0,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(0,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(0,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,0,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,1,12)
+    ::: RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,0,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,1,12)
+    ::: RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,1,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP-BN(Stochastic Trend&Seasonality) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,1,0,12)
+    ::: RP-BN(Stochastic Trend&Seasonality) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,1,0,12)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    RP : SARIMAX(SARIMA with exogenous variables)
+    ::: RP : SARIMAX(SARIMA with exogenous variables)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Forecasting Gray Noise : MA(Moving Average)
+    ::: Forecasting Gray Noise : MA(Moving Average)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Forecasting Gray Noise : AR(AutoRegressive)
+    ::: Forecasting Gray Noise : AR(AutoRegressive)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Forecasting Gray Noise : ARMA(AutoRegressive Moving Average)
+    ::: Forecasting Gray Noise : ARMA(AutoRegressive Moving Average)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ST-0000◇FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
+    ::: ST-0000◇FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ST-0001◇FSC(Black Noise) SARIMA(Seasonal ARIMA)
+    ::: ST-0001◇FSC(Black Noise) SARIMA(Seasonal ARIMA)
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ST-0002◇SARIMA(Seasonal ARIMA) Equation
+    ::: ST-0002◇SARIMA(Seasonal ARIMA) Equation
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
