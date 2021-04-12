@@ -832,16 +832,32 @@ source('ST-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
+    [correlation] Pearson’s Correlation
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [correlation] Spearman’s Rank Correlation
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [correlation] Kendall’s Rank Correlation
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [correlation] Auto-Correlation Function
+    <span class="uguide_elt"><a href="#">: ST-0003</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
 
-[correlation] Pearson’s Correlation
-[correlation] Spearman’s Rank Correlation
-[correlation] Kendall’s Rank Correlation
-[correlation◇ST-0003] Auto-Correlation Function
 [time series] White Noise
 RP-WN Gaussian White Noise
 RP-WN Bernoulli White Noise
