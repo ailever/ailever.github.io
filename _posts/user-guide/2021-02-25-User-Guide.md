@@ -1128,19 +1128,26 @@ source('MA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
 </div>
 <div class="uguide_box">
+  <div class="uguide_list">
+    [analysis] SARIMA
+    <span class="uguide_elt"><a href="#">: MA-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [analysis] COVID-19
+    <span class="uguide_elt"><a href="#">: MA-0001</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
   <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-latex| katex|
-[analysis◇MA-0000] SARIMA
-[analysis◇MA-0001] COVID-19
 
 
 
