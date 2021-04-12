@@ -117,6 +117,10 @@ from ailever.utils import VISUAL
 <!-- Content Block -->
 
 ## Society Issue
+<pre class="python-code">
+from ailever.utils import source
+source('SI-0000')
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -135,13 +139,13 @@ from ailever.utils import VISUAL
   </div> 
 </div>
 
-from ailever.utils import source
-source('SI-0000')
 
 
 
 
 ## Financial Engineering
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -169,6 +173,8 @@ source('FI-0000')
 
 
 ## Chemical Engineering
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -183,6 +189,8 @@ source('FI-0000')
 
 
 ## Artificial Intelligence
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -208,6 +216,8 @@ source('AI-0000')
 
 
 ## Reinforcement Learning
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -240,6 +250,8 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
 
 
 ## Deep Learning
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -309,6 +321,8 @@ Instance Normalization
 
 
 ## Machine Learning
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -364,6 +378,8 @@ LightGBM
 
 
 ## Factor Analysis
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -385,6 +401,8 @@ source('FA-0000')
 
 
 ## Statistics
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -559,6 +577,8 @@ Prediction intervals
 
 
 ## Numerical Method
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -600,6 +620,8 @@ source('NM-0000')
 
 
 ## Programming Language
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -622,6 +644,8 @@ source('PL-0000')
 
 
 ## Utils
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -680,6 +704,8 @@ source('UT-0000')
 
 
 ## Materials
+<pre class="python-code">
+</pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
@@ -702,7 +728,6 @@ latex| katex|
 <!-- Content Block -->
 
 <!-- Bottom Block -->
-<br><br><br>
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
 </div>
