@@ -113,7 +113,42 @@ author_staff_member: anonym
 ...
 ...
 </pre>
-
+<code class="code-title">INDEX_general_PL_data.2019</code><br>
+<pre class="sudo-code">
+# ==============================================================================
+# List of protein-ligand complexes with known binding data in PDBbind v.2019
+# 17679 protein-ligand complexes in total, sorted by binding data
+# Latest update: Dec 2019
+# PDB code, resolution, release year, -logKd/Ki, Kd/Ki, reference, ligand name
+# ==============================================================================
+3zzf  2.20  2012   0.40  Ki=400mM      // 3zzf.pdf (NLG)
+3gww  2.46  2009   0.45  IC50=355mM    // 3gwu.pdf (SFX)
+1w8l  1.80  2004   0.49  Ki=320mM      // 1w8l.pdf (1P3)
+3fqa  2.35  2009   0.49  IC50=320mM    // 3fq7.pdf (GAB&PMP)
+1zsb  2.00  1996   0.60  Kd=250mM      // 1zsb.pdf (AZM)
+4obv  2.84  2014   0.75  Ki=178mM      // 4obv.pdf (2SU)
+1wkm  2.30  2005   0.82  Ki=150mM      // 1wkm.pdf (MET)
+3k41  1.90  2009   0.82  Kd=150mM      // 3k41.pdf (M6D)
+4eu3  1.58  2012   0.82  Ki=150mM      // 4eu3.pdf (CIT)
+2w97  2.29  2010   0.96  Kd=110mM      // 2w97.pdf (GOL)
+1p0y  2.55  2003   1.00  Ki=100.8mM    // 1p0y.pdf (MLZ)
+2b1r  2.20  2006   1.00  Ki=101mM      // 2b1q.pdf (CBI)
+2d2v  2.50  2006   1.00  Ki=100mM      // 2b1q.pdf (MAL)
+1aw1  2.70  1998   1.05  Ki=89mM       // 1aw1.pdf (PGA)
+1maw  3.00  2003   1.10  Kd=80mM       // 1maw.pdf (ATP)
+3fl9  2.40  2009   1.11  IC50=77.2mM   // 3fl8.pdf (TOP)
+5eb2  2.71  2016   1.11  Kd=76.9mM     // 5eb1.pdf (TRP)
+4lh2  1.67  2013   1.24  Ki=58mM       // 4lh2.pdf (SIN)
+4to8  2.10  2014   1.24  IC50=56.9mM   // 4to8.pdf (FLC)
+4fci  1.82  2012   1.26  Ki~55mM       // 4fci.pdf (GPA)
+4fck  1.90  2012   1.26  Ki~55mM       // 4fci.pdf (GPA)
+4clp  1.90  2014   1.27  Kd=54.2mM     // 4clk.pdf (CMP)
+1f9g  2.00  2001   1.28  Ki=53mM       // 1f9g.pdf (ASC)
+1a0t  2.40  1998   1.30  Kd=50mM       // 1a0t.pdf (SUC)
+...
+...
+...
+</pre>
 
 
 
