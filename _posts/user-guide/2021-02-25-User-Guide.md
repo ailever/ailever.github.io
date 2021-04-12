@@ -145,6 +145,8 @@ source('SI-0000')
 
 ## Financial Engineering
 <pre class="python-code">
+from ailever.utils import source
+source('FI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -161,8 +163,6 @@ source('SI-0000')
 pandas-datareader| quant-c-library|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/FI-theory.md
-from ailever.utils import source
-source('FI-0000')
 [finance] Korean Stock Item Dataset : From KRX API
 [finance◇FI-0001] Korean Stock Real-Time Price : From KRX API
 [finance◆FI-0002] Korean Stock Real-Time Price (with saving .csv file) : From KRX API
@@ -174,6 +174,8 @@ source('FI-0000')
 
 ## Chemical Engineering
 <pre class="python-code">
+from ailever.utils import source
+source('CH-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -190,6 +192,8 @@ source('FI-0000')
 
 ## Artificial Intelligence
 <pre class="python-code">
+from ailever.utils import source
+source('AI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -206,8 +210,6 @@ source('FI-0000')
 librosa|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/AI-theory.md
-from ailever.utils import source
-source('AI-0000')
 [sound]
 [computer vision]
 [natural language processing] Word Cloud
@@ -217,6 +219,8 @@ source('AI-0000')
 
 ## Reinforcement Learning
 <pre class="python-code">
+from ailever.utils import source
+source('RL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -233,8 +237,6 @@ source('AI-0000')
 gym|rlcard| Softlearning| stable-baselines| rl-baselines-zoo| policy gradient| openai spinningup|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/RL-theory.md
-from ailever.utils import source
-source('RL-0000')
 [theory◆RL-theory] Reinforcement Learning Theory
 [value-based] Markov Decision Process
 [value-based] Synchronous Dynamic Programming
@@ -251,6 +253,8 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
 
 ## Deep Learning
 <pre class="python-code">
+from ailever.utils import source
+source('DL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -267,8 +271,6 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
 pytorch| torch-summary| geotorch| transformers| open-mmlab| gan|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/DL-theory.md
-from ailever.utils import source
-source('DL-0000')
 [theory◇DL-theory] Deep Learning Theory
 [computational resource◇DL-0000] Directed Acyclic Graph
 [computational resource◇DL-0001] Information for Network Structure
@@ -322,6 +324,8 @@ Instance Normalization
 
 ## Machine Learning
 <pre class="python-code">
+from ailever.utils import source
+source('ML-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -338,8 +342,6 @@ Instance Normalization
 scikit-learn| mlxtend|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ML-theory.md
-from ailever.utils import source
-source('ML-0000')
 [theory◇ML-theory] Machine Learning Theory
 [preprocessing] Scaling
 [classifier] Decision Tree
@@ -379,6 +381,8 @@ LightGBM
 
 ## Factor Analysis
 <pre class="python-code">
+from ailever.utils import source
+source('FA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -394,14 +398,14 @@ LightGBM
 
 factor-analyzer| semopy|
 
-from ailever.utils import source
-source('FA-0000')
 
 
 
 
 ## Statistics
 <pre class="python-code">
+from ailever.utils import source
+source('ST-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -418,8 +422,6 @@ source('FA-0000')
 numpy| scipy| symfit| statsmodels| arch| quantecon| hmmlearn| pymc3|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ST-theory.md
-from ailever.utils import source
-source('ST-0000')
 [correlation] Pearson’s Correlation
 [correlation] Spearman’s Rank Correlation
 [correlation] Kendall’s Rank Correlation
@@ -578,6 +580,8 @@ Prediction intervals
 
 ## Numerical Method
 <pre class="python-code">
+from ailever.utils import source
+source('NM-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -594,8 +598,6 @@ Prediction intervals
 FEniCS| scipy| sympy| symfit|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/NM-theory.md
-from ailever.utils import source
-source('NM-0000')
 [theory◇NM-theory] Numerical Methods Theory
 [fitting] Fourier Series Fitting
 [fitting] Taylor Series Fitting
@@ -621,6 +623,8 @@ source('NM-0000')
 
 ## Programming Language
 <pre class="python-code">
+from ailever.utils import source
+source('PL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -636,8 +640,6 @@ source('NM-0000')
 
 ipaddress| tcpschool| repl| w3schools| devkuma| rosettacode| isolution| SQL| C++| Java| JavaScript
 
-from ailever.utils import source
-source('PL-0000')
 [security]
 
 
@@ -645,6 +647,8 @@ source('PL-0000')
 
 ## Utils
 <pre class="python-code">
+from ailever.utils import source
+source('UT-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
@@ -660,8 +664,6 @@ source('PL-0000')
 
 pyautogui| urllib| requests| beautifulsoup4| selenium| scrapy| pandas| visdom| plotly| plotly-figure| plotly-api| dash-callback| dash-core| dash-html| dash-bootstrap|
 
-from ailever.utils import source
-source('UT-0000')
 [automation] Encode : percentage encoder
 [automation] Time Object : python
 [automation] Time Object : numpy
@@ -705,6 +707,8 @@ source('UT-0000')
 
 ## Materials
 <pre class="python-code">
+from ailever.utils import source
+source('MA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
