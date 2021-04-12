@@ -116,7 +116,7 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
-Society Issue
+## Society Issue
 from ailever.utils import source
 source('SI-0000')
 [health] COVID-19 : Global Dataset
@@ -125,7 +125,7 @@ source('SI-0000')
 
 
 
-Financial Engineering
+## Financial Engineering
 pandas-datareader| quant-c-library|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/FI-theory.md
@@ -142,7 +142,7 @@ source('FI-0000')
 
 
 
-Artificial Intelligence
+## Artificial Intelligence
 librosa|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/AI-theory.md
@@ -155,7 +155,7 @@ source('AI-0000')
 
 
 
-Reinforcement Learning
+## Reinforcement Learning
 gym|rlcard| Softlearning| stable-baselines| rl-baselines-zoo| policy gradient| openai spinningup|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/RL-theory.md
@@ -175,7 +175,7 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
 
 
 
-Deep Learning
+## Deep Learning
 pytorch| torch-summary| geotorch| transformers| open-mmlab| gan|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/DL-theory.md
@@ -232,7 +232,7 @@ Instance Normalization
 
 
 
-Machine Learning
+## Machine Learning
 scikit-learn| mlxtend|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ML-theory.md
@@ -275,7 +275,7 @@ LightGBM
 
 
 
-Factor Analysis
+## Factor Analysis
 factor-analyzer| semopy|
 
 from ailever.utils import source
@@ -284,7 +284,7 @@ source('FA-0000')
 
 
 
-Statistics
+## Statistics
 numpy| scipy| symfit| statsmodels| arch| quantecon| hmmlearn| pymc3|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ST-theory.md
@@ -446,7 +446,7 @@ Prediction intervals
 
 
 
-Numerical Method
+## Numerical Method
 FEniCS| scipy| sympy| symfit|
 
 $ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/NM-theory.md
@@ -475,7 +475,7 @@ source('NM-0000')
 
 
 
-Programming Language
+## Programming Language
 ipaddress| tcpschool| repl| w3schools| devkuma| rosettacode| isolution| SQL| C++| Java| JavaScript
 
 from ailever.utils import source
@@ -485,7 +485,7 @@ source('PL-0000')
 
 
 
-Utils
+## Utils
 pyautogui| urllib| requests| beautifulsoup4| selenium| scrapy| pandas| visdom| plotly| plotly-figure| plotly-api| dash-callback| dash-core| dash-html| dash-bootstrap|
 
 from ailever.utils import source
@@ -531,7 +531,7 @@ source('UT-0000')
 
 
 
-Materials
+## Materials
 latex| katex|
 [analysis◇MA-0000] SARIMA
 [analysis◇MA-0001] COVID-19
