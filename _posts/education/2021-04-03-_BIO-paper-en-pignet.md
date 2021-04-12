@@ -427,6 +427,8 @@ def check_dimension(tensors):
 def collate_tensor(tensor, max_tensor, batch_idx):
 def tensor_collate_fn(batch):
 </pre>
+![image](https://user-images.githubusercontent.com/52376448/114423214-ebc65780-9bf1-11eb-9c99-21a0882b463d.png)
+
 <code class="code-title">get_torsion_energy(m) : e</code><br>
 m, mp ffTerms, iTerm, jTerm, state, setMethod, ff, e
 
