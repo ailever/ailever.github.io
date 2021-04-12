@@ -147,6 +147,12 @@ source('SI-0000')
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 pandas-datareader| quant-c-library|
 
@@ -163,6 +169,17 @@ source('FI-0000')
 
 
 ## Chemical Engineering
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 
 ## Artificial Intelligence
@@ -170,6 +187,12 @@ source('FI-0000')
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 librosa|
@@ -189,6 +212,12 @@ source('AI-0000')
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 gym|rlcard| Softlearning| stable-baselines| rl-baselines-zoo| policy gradient| openai spinningup|
@@ -215,6 +244,12 @@ Temporal-Difference Policy Evaluation : Bootstrap, Biased estimator of Value fun
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 pytorch| torch-summary| geotorch| transformers| open-mmlab| gan|
@@ -279,6 +314,12 @@ Instance Normalization
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 scikit-learn| mlxtend|
 
@@ -328,6 +369,12 @@ LightGBM
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 factor-analyzer| semopy|
 
@@ -342,6 +389,12 @@ source('FA-0000')
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 numpy| scipy| symfit| statsmodels| arch| quantecon| hmmlearn| pymc3|
@@ -511,6 +564,12 @@ Prediction intervals
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 FEniCS| scipy| sympy| symfit|
 
@@ -546,6 +605,12 @@ source('NM-0000')
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
 
 ipaddress| tcpschool| repl| w3schools| devkuma| rosettacode| isolution| SQL| C++| Java| JavaScript
 
@@ -561,6 +626,12 @@ source('PL-0000')
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 pyautogui| urllib| requests| beautifulsoup4| selenium| scrapy| pandas| visdom| plotly| plotly-figure| plotly-api| dash-callback| dash-core| dash-html| dash-bootstrap|
@@ -613,6 +684,12 @@ source('UT-0000')
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
 </div>
 
 latex| katex|
