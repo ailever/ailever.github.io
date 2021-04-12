@@ -23,8 +23,7 @@ author_staff_member: ailever
 from ailever import dashboard
 </pre>
 
-<code class="code-title"></code>
-- Forecast Package
+<code class="code-title">Forecast Package</code>
 <pre class="python-code">
 from ailever.forecast import dashboard
 from ailever.forecast.STOCK import krx, Ailf_KR
