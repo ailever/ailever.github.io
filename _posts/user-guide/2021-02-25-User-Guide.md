@@ -23,7 +23,7 @@ author_staff_member: ailever
 from ailever import dashboard
 </pre>
 
-
+<code class="code-title"></code>
 - Forecast Package
 <pre class="python-code">
 from ailever.forecast import dashboard
@@ -36,7 +36,7 @@ from ailever.forecast.STOCK import krx, Ailf_KR
 </div>
 
 
-- Analysis Package
+<code class="code-title">Analysis Package</code>
 <pre class="python-code">
 from ailever.analysis import dashboard
 </pre>
@@ -44,12 +44,13 @@ from ailever.analysis import dashboard
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/analysis-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">PHYSICS</a></span>
+  <span class="link_btn"><a href="" style="color:white">CHEMISTRY</a></span>
   <span class="link_btn"><a href="" style="color:white">FINANCE</a></span>
   <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
 
 
-- Machine Package
+<code class="code-title">Machine Package</code>
 <pre class="python-code">
 from ailever.machine import dashboard
 </pre>
@@ -64,7 +65,7 @@ from ailever.machine import dashboard
 </div>
 
 
-- Language Package
+<code class="code-title">Language Package</code>
 <pre class="python-code">
 from ailever.language import dashboard
 </pre>
@@ -75,7 +76,7 @@ from ailever.language import dashboard
 </div>
 
 
-- Detection Package
+<code class="code-title">Detection Package</code>
 <pre class="python-code">
 from ailever.detection import dashboard
 </pre>
@@ -86,7 +87,7 @@ from ailever.detection import dashboard
 </div>
 
 
-- Captioning Package
+<code class="code-title">Captioning Package</code>
 <pre class="python-code">
 from ailever.captioning import dashboard
 </pre>
@@ -97,7 +98,7 @@ from ailever.captioning import dashboard
 </div>
 
 
-- Utile Package
+<code class="code-title">Utile Package</code>
 <pre class="python-code">
 from ailever.utils import dashboard
 from ailever.utils import source
