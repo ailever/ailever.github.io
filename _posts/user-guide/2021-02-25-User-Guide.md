@@ -612,52 +612,182 @@ source('ML-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">scikit-learn</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">mlxtend</a></span>
 </div>
 <div class="uguide_box">
+  <div class="uguide_list">
+    [theory◇ML-theory] Machine Learning Theory
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [preprocessing] Scaling
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Decision Tree
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Naive Bayes
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Gaussian Naive Bayes
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Bernoulli Naive Bayes
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Multinomial Naive Bayes
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Logistic Regression
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Linear Discriminant Analysis
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Quadratic Discriminant Analysis
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] Support Vector Machines | kernel : ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [classifier] K-Nearest Neighbors
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [clustering] K-Means
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [clustering] Affinity Propagation
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [clustering] DBSCAN
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [manifold] Isomap Embedding
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [manifold] Locally Linear Embedding
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [manifold] Multidimensional scaling
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [manifold] t-distributed Stochastic Neighbor Embedding
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [manifold] Locally Linear Embedding
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [feature selection] Recursive Feature Elimination
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [feature selection] Principal Component Analysis
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ensemble] Bagging
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Bagged Decision Trees
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Random Forest
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Extra Trees
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ensemble] Boosting
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Adaptive Boosting(AdaBoost)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: Gradient Boosting Machine(GBM)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: eXtreme Gradient Boosting(XGBoost)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ::: LightGBM
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ensemble] Voting
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [ensemble] Stacking
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
   <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
 
-scikit-learn| mlxtend|
 
-$ curl -O https://raw.githubusercontent.com/ailever/openapi/master/source/ML-theory.md
-[theory◇ML-theory] Machine Learning Theory
-[preprocessing] Scaling
-[classifier] Decision Tree
-[classifier] Naive Bayes
-Gaussian Naive Bayes
-Bernoulli Naive Bayes
-Multinomial Naive Bayes
-[classifier] Logistic Regression
-[classifier] Linear Discriminant Analysis
-[classifier] Quadratic Discriminant Analysis
-[classifier] Support Vector Machines | kernel : ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’
-[classifier] K-Nearest Neighbors
-[clustering] K-Means
-[clustering] Affinity Propagation
-[clustering] DBSCAN
-[manifold] Isomap Embedding
-[manifold] Locally Linear Embedding
-[manifold] Multidimensional scaling
-[manifold] t-distributed Stochastic Neighbor Embedding
-[manifold] Locally Linear Embedding
-[feature selection] Recursive Feature Elimination
-[feature selection] Principal Component Analysis
-[ensemble] Bagging
-Bagged Decision Trees
-Random Forest
-Extra Trees
-[ensemble] Boosting
-Adaptive Boosting(AdaBoost)
-Gradient Boosting Machine(GBM)
-eXtreme Gradient Boosting(XGBoost)
-LightGBM
-[ensemble] Voting
-[ensemble] Stacking
 
 
 
