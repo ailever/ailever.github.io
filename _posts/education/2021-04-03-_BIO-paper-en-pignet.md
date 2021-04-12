@@ -514,8 +514,14 @@ class CNN3D_KDEEP(nn.Module):
     def _plot(self, lattice, idx):
     def _add_act(self, func, act="relu"):
 </pre>
+<code class="code-title">vina_hbond(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
+<code class="code-title">vina_hydrophobic(self, dm, h, vdw_radius1, vdw_radius2, A)</code>
+<code class="code-title">cal_vdw_interaction(self, dm, h, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, valid1, valid)</code>
+<code class="code-title">cal_torsion_energy(self, torsion_energy)</code>
+<code class="code-title">cal_distance_matrix(self, p1, p2, dm_min)</code>
+<code class="code-title">get_embedding_vector(self, sample)</code>
+<code class="code-title">forward(self, sample, DM_min=0.5, cal_der_loss=False)</code>
 ![image](https://user-images.githubusercontent.com/52376448/114341875-b4c25880-9b95-11eb-8bd1-7eae9a555445.png)
-
 </details>
 <details markdown="1">
   <summary align="center">predict.py</summary>
