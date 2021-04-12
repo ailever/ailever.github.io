@@ -263,6 +263,42 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+<code class="code-title">INDEX_refined_set.2019</code><br>
+<pre class="sudo-code">
+# ==============================================================================
+# List of protein-ligand complexes in the PDBbind refined set v.2019
+# 4,852 protein-ligand complexes in total, sorted by their release year.
+# Latest update: Dec 2019
+# PDB code, resolution, release year, binding data, reference, ligand name
+# ==============================================================================
+2tpi  2.10  1982  Kd=49uM       // 2tpi.pdf (2-mer)
+4tln  2.30  1982  Ki=190uM      // 4tln.pdf (LNO)
+1rnt  1.90  1987  Kd=6.5uM      // 1rnt.pdf (2GP)
+4ts1  2.50  1989  Kd=11.6uM     // 4ts1.pdf (TYR)
+4tmn  1.70  1989  Ki=0.068nM    // 4tmn.pdf (0PK)
+2tmn  1.60  1989  Ki=1.3uM      // 2tmn.pdf (0FA)
+1tlp  2.30  1989  Ki=28nM       // 1tlp.pdf (RDF)
+1tmn  1.90  1989  Ki=50nM       // 1tmn.pdf (0ZN)
+5tmn  1.60  1989  Ki=9.1nM      // 5tmn.pdf (0PJ)
+1rbp  2.00  1991  Kd=0.19uM     // 1rbp.pdf (RTL)
+1fkf  1.70  1991  Kd=0.4nM      // 1fkf.pdf (FK5)
+4er1  2.00  1991  Ki=0.242uM    // 4er1.pdf (0ZP)
+5er2  1.80  1991  Ki=0.27uM     // 5er2.pdf (0EK)
+4er2  2.00  1991  Ki=0.5nM      // 4er2.pdf (6-mer)
+2ypi  2.50  1991  Ki=15uM       // 2ypi.pdf (PGA)
+6cpa  2.00  1991  Ki=3pM        // 6cpa.pdf (ZAF)
+4sga  1.80  1991  Ki=50nM       // 4sga.pdf (5-mer)
+5er1  2.00  1991  Ki=960nM      // 5er1.pdf (0HT)
+4tim  2.40  1992  Ki=6.9mM      // 4tim.pdf (2PG)
+1igj  2.50  1993  Kd=0.1nM      // 1igj.pdf (DGX)
+1fkb  1.70  1993  Kd=0.2nM      // 1fkb.pdf (RAP)
+1l83  1.70  1993  Kd=0.40mM     // 1l83.pdf (BNZ)
+1atr  2.34  1993  Kd=110nM      // 1atr.pdf (ADP)
+6rnt  1.80  1993  Kd=4.3mM      // 6rnt.pdf (2AM)
+...
+...
+...
+</pre>
 <code class="code-title">INDEX_structure.2019</code><br>
 <pre class="sudo-code">
 4tln  2.30  1982  0.169  -1.000  -1.000
