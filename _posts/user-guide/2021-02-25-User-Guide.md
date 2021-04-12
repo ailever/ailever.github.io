@@ -340,17 +340,17 @@ source('FI-0000')
   </div>
   <div class="uguide_list">
     [finance] Korean Stock Real-Time Price : From KRX API
-    <span class="uguide_elt"><a href="#">: FI-0001</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/FI-0001.py">: FI-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     [finance] Korean Stock Real-Time Price (with saving .csv file) : From KRX API
-    <span class="uguide_elt"><a href="#">: FI-0002</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/FI-0002.py">: FI-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     [finance] Korean Stock Dataset : From FinanceDataReader
-    <span class="uguide_elt"><a href="#">: FI-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/FI-0000.py">: FI-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
