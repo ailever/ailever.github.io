@@ -191,6 +191,42 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+<code class="code-title">INDEX_refined_data.2019</code><br>
+<pre class="sudo-code">
+# ==============================================================================
+# List of the protein-ligand complexes in the PDBbind refined set v.2019
+# 4,852 protein-ligand complexes in total, which are ranked by binding data
+# Latest update: Dec 2019
+# PDB code, resolution, release year, -logKd/Ki, Kd/Ki, reference, ligand name
+# ==============================================================================
+2r58  2.00  2007   2.00  Kd=10mM       // 2r58.pdf (MLY)
+3c2f  2.35  2008   2.00  Kd=10.1mM     // 3c2f.pdf (PRP)
+3g2y  1.31  2009   2.00  Ki=10mM       // 3g2y.pdf (GF4)
+3pce  2.06  1998   2.00  Ki=10mM       // 3pce.pdf (3HP)
+4qsu  1.90  2014   2.00  Kd=10mM       // 4qsu.pdf (TDR)
+4qsv  1.90  2014   2.00  Kd=10mM       // 4qsv.pdf (THM)
+4u54  2.41  2015   2.06  Kd=8.7mM      // 4u54.pdf (3C5)
+3ao4  1.95  2011   2.07  Kd=8.5mM      // 3ao1.pdf (833)
+4cs9  2.01  2014   2.10  Kd=8mM        // 4cs8.pdf (AMP)
+2w8w  2.14  2009   2.12  Kd=7.5mM      // 2w8j.pdf (PLS)
+3gv9  1.80  2009   2.12  Ki=7.5mM      // 3gqz.pdf (GV9)
+4q90  1.54  2015   2.15  Ki=7.0mM      // 4q7p.pdf (4H2)
+5cs3  2.50  2015   2.15  Kd=7.0mM      // 5cs3.pdf (EP1)
+4tim  2.40  1992   2.16  Ki=6.9mM      // 4tim.pdf (2PG)
+5fe6  1.77  2016   2.16  Kd=6910uM     // 5fdz.pdf (5WZ)
+6ghj  2.26  2018   2.16  Kd=6.89mM     // 6ghj.pdf (3-mer)
+3gqz  1.80  2009   2.17  Ki=6.7mM      // 3gqz.pdf (GF7)
+4y3j  1.31  2016   2.17  Kd=6.8mM      // 4y38.pdf (HIC)
+5oxk  2.38  2018   2.17  Kd=6.82mM     // 5oxk.pdf (2-mer)
+5z5f  2.10  2018   2.17  Ki=6.8mM      // 5z5f.pdf (FUB)
+4ahr  1.90  2012   2.19  Kd=6.5mM      // 3vq4.pdf (I2E)
+4ahs  1.75  2012   2.19  Kd=6.4mM      // 3vq4.pdf (AKH)
+4mre  1.58  2014   2.19  Kd=6.4mM      // 4mrd.pdf (2C9)
+1x8d  1.80  2005   2.21  Kd=6.16mM     // 1x8d.pdf (RNS)
+...
+...
+...
+</pre>
 <code class="code-title">INDEX_structure.2019</code><br>
 <pre class="sudo-code">
 4tln  2.30  1982  0.169  -1.000  -1.000
@@ -227,7 +263,6 @@ author_staff_member: anonym
 ...
 ...
 </pre>
-
 
 
 <br><br><br>
