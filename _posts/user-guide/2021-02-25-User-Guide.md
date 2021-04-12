@@ -170,8 +170,8 @@ source('FI-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [finance◇FI-0000] Korean Stock Dataset : From FinanceDataReader
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [finance] Korean Stock Dataset : From FinanceDataReader
+    <span class="uguide_elt"><a href="#">: FI-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
