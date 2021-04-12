@@ -10,7 +10,7 @@ author_staff_member: ailever
 ---
 
 <div align="center" class="top_btn_box">
-  <span class="top_btn" style="background-color:red;padding:1.5px;padding-left:5px;padding-right:5px;"><a href="https://colab.research.google.com/" target="_blank" style="color:white;">Colab</a></span>  
+  <span class="sp_top_btn" style="background-color:red;"><a href="https://colab.research.google.com/" target="_blank" style="color:white;">Colab</a></span>  
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/'">Home</button>
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://github.com/ailever/ailever'">Github</button>
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://github.com/ailever/ailever/wiki'">WIKI</button>
