@@ -19,20 +19,18 @@ author_staff_member: ailever
 </div><br>
 
 ## Ailever Library
-<hr>
-```python
+<pre class="python-code">
 from ailever import dashboard
-```
-<hr>
+</pre>
+
 
 <br><br><br>
 ## Manual : Forecast Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.forecast import dashboard
 from ailever.forecast.STOCK import krx, Ailf_KR
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/forecast-en-dashboard/" style="color:white">dashboard</a></span>
   <span class="link_btn"><a href="" style="color:white">STOCK</a></span>
@@ -41,11 +39,10 @@ from ailever.forecast.STOCK import krx, Ailf_KR
 
 <br><br><br>
 ## Manual : Analysis Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.analysis import dashboard
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/analysis-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">PHYSICS</a></span>
@@ -56,11 +53,10 @@ from ailever.analysis import dashboard
 
 <br><br><br>
 ## Manual : Machine Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.machine import dashboard
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/machine-en-rl/" style="color:white">RL</a></span>
@@ -73,11 +69,10 @@ from ailever.machine import dashboard
 
 <br><br><br>
 ## Manual : Language Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.language import dashboard
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/language-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
@@ -86,11 +81,10 @@ from ailever.language import dashboard
 
 <br><br><br>
 ## Manual : Detection Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.detection import dashboard
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/detection-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
@@ -99,11 +93,10 @@ from ailever.detection import dashboard
 
 <br><br><br>
 ## Manual : Captioning Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.captioning import dashboard
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/captioning-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="" style="color:white">module</a></span>
@@ -112,13 +105,12 @@ from ailever.captioning import dashboard
 
 <br><br><br>
 ## Manual : Utile Package
-<hr>
-```python
+<pre class="python-code">
 from ailever.utils import dashboard
 from ailever.utils import source
 from ailever.utils import VISUAL
-```
-<hr>
+</pre>
+
 <div align="left" class="link_btn_box">
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-dashboard/" style="color:white">dashboard</a></span>  
   <span class="link_btn"><a href="https://ailever.github.io/user%20guide/2021/02/25/utils-en-source/" style="color:white">source</a></span>
