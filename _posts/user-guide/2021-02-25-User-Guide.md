@@ -205,6 +205,79 @@ from ailever.utils import VISUAL
 <br><br>
 <!-- Content Block -->
 
+## Libraries
+### [lib-PX] : plotly-express
+<pre class="python-code">
+from ailever.utils import source
+source('lib-PX-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    px.timeline
+    <span class="uguide_elt"><a href="#">: lib-PX-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    px.sunburst
+    <span class="uguide_elt"><a href="#">: lib-PX-0001</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    px.treemap
+    <span class="uguide_elt"><a href="#">: lib-PX-0002</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
+
+
+
+
+
+### [lib-GO] : plotly graph object
+<pre class="python-code">
+from ailever.utils import source
+source('lib-GO-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    go.Bar
+    <span class="uguide_elt"><a href="#">: lib-GO-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    go.Bar
+    <span class="uguide_elt"><a href="#">: lib-GO-0001</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    go.Sankey
+    <span class="uguide_elt"><a href="#">: lib-GO-0002</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    go.Treemap
+    <span class="uguide_elt"><a href="#">: lib-GO-0003</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    go.Sunburst
+    <span class="uguide_elt"><a href="#">: lib-GO-0004</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
+
+
+
 ## [SI] : Society Issue
 <pre class="python-code">
 from ailever.utils import source
@@ -2158,76 +2231,6 @@ source('MA-0000')
 
 
 
-## Libraries
-### [lib-PX] : plotly-express
-<pre class="python-code">
-from ailever.utils import source
-source('lib-PX-0000')
-</pre>
-<div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
-</div>
-<div class="uguide_box">
-  <div class="uguide_list">
-    px.timeline
-    <span class="uguide_elt"><a href="#">: lib-PX-0000</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    px.sunburst
-    <span class="uguide_elt"><a href="#">: lib-PX-0001</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    px.treemap
-    <span class="uguide_elt"><a href="#">: lib-PX-0002</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-</div>
-
-
-
-
-
-### [lib-GO] : plotly graph object
-<pre class="python-code">
-from ailever.utils import source
-source('lib-GO-0000')
-</pre>
-<div align="center" class="private_btn_box">
-  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
-</div>
-<div class="uguide_box">
-  <div class="uguide_list">
-    go.Bar
-    <span class="uguide_elt"><a href="#">: lib-GO-0000</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    go.Bar
-    <span class="uguide_elt"><a href="#">: lib-GO-0001</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    go.Sankey
-    <span class="uguide_elt"><a href="#">: lib-GO-0002</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    go.Treemap
-    <span class="uguide_elt"><a href="#">: lib-GO-0003</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-  <div class="uguide_list">
-    go.Sunburst
-    <span class="uguide_elt"><a href="#">: lib-GO-0004</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
-  </div>
-</div>
 
 
 
