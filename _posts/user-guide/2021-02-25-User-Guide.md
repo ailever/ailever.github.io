@@ -2069,6 +2069,46 @@ source('MA-0000')
 
 
 
+## Libraries
+### [lib-PX] : plotly-express
+<pre class="python-code">
+from ailever.utils import source
+source('lib-PX-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: MA-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
+
+
+
+
+### [lib-GO] : plotly graph object
+<pre class="python-code">
+from ailever.utils import source
+source('lib-GO-0000')
+</pre>
+<div align="center" class="private_btn_box">
+  <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">GitHub</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
+  <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
+</div>
+<div class="uguide_box">
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: MA-0000</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+</div>
+
+
+
 <!-- Content Block -->
 
 <!-- Bottom Block -->
