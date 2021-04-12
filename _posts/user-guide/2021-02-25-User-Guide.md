@@ -1008,8 +1008,8 @@ source('NM-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
-    [theory◇NM-theory] Numerical Methods Theory
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [theory] Numerical Methods Theory
+    <span class="uguide_elt"><a href="#">: NM-theory</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1234,23 +1234,23 @@ source('UT-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [dataset◇UT-0003] Downloader
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [dataset] Downloader
+    <span class="uguide_elt"><a href="#">: UT-0003</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [dataset◇UT-0002] Crawler : urllib
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [dataset] Crawler : urllib
+    <span class="uguide_elt"><a href="#">: UT-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [dataset◇UT-0001] Crawler : requests
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [dataset] Crawler : requests
+    <span class="uguide_elt"><a href="#">: UT-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [dataset◇UT-0000] Crawler : selenium
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [dataset] Crawler : selenium
+    <span class="uguide_elt"><a href="#">: UT-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1289,13 +1289,13 @@ source('UT-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [documentation◇UT-0004] Dash Template - Simple Project
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [documentation] Dash Template - Simple Project
+    <span class="uguide_elt"><a href="#">: UT-0004</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [documentation◆UT-0005] Dash Template - Real Time Analysis
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [documentation] Dash Template - Real Time Analysis
+    <span class="uguide_elt"><a href="#">: UT-0005</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
