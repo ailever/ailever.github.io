@@ -11,7 +11,7 @@ author_staff_member: ailever
 ---
 
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/user%20guide/2021/02/25/User-Guide/'">User Guide</button>
+  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/02/25/User-Guide/'">User Guide</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mathematics'">Mathematics</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Chemistry'">Chemistry</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Biology'">Biology</button>
