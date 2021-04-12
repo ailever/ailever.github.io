@@ -360,23 +360,23 @@ source('DL-0000')
 </div>
 <div class="uguide_box">
   <div class="uguide_list">
-    [theory◇DL-theory] Deep Learning Theory
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [theory] Deep Learning Theory
+    <span class="uguide_elt"><a href="#">: DL-theory</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [computational resource◇DL-0000] Directed Acyclic Graph
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [computational resource] Directed Acyclic Graph
+    <span class="uguide_elt"><a href="#">: DL-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [computational resource◇DL-0001] Information for Network Structure
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [computational resource] Information for Network Structure
+    <span class="uguide_elt"><a href="#">: DL-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [computational resource◇DL-0002] Checkpoints
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [computational resource] Checkpoints
+    <span class="uguide_elt"><a href="#">: DL-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -385,17 +385,17 @@ source('DL-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Batch Normalization
+    ::: Batch Normalization
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Layer Normalization
+    ::: Layer Normalization
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    Instance Normalization
+    ::: Instance Normalization
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
@@ -505,8 +505,8 @@ source('DL-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [recurrent◇DL-0003] LSTM
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [recurrent] LSTM
+    <span class="uguide_elt"><a href="#">: DL-0003</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -520,8 +520,8 @@ source('DL-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [recurrent◆DL-0004] Attention
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [recurrent] Attention
+    <span class="uguide_elt"><a href="#">: DL-0004</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
