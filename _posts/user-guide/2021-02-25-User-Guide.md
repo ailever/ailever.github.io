@@ -309,7 +309,7 @@ source('SI-0000')
   </div>
   <div class="uguide_list">
     [health] COVID-19 : Domestic Dataset (Korea)
-    <span class="uguide_elt"><a href="#">: SI-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/SI-0000.py">: SI-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div> 
   <div class="uguide_list">
