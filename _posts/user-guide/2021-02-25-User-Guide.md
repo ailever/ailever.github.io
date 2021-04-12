@@ -140,6 +140,7 @@ source('FI-0000')
 [finance] Bollinger Bands
 
 
+## Chemical Engineering
 
 
 ## Artificial Intelligence
