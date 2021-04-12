@@ -881,160 +881,289 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
+    [time series] White Noise
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-WN Gaussian White Noise
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-WN Bernoulli White Noise
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    [time series] SARIMAX
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : MA(Moving Average) - (5)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : AR(AutoRegressive) - (5)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : ARMA(AutoRegressive Moving Average) - (2,2)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,0)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,1)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,0)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,1)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (2,1,2)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(0,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,1,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP-BN(Stochastic Trend&Seasonality) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,1,0,12)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    RP : SARIMAX(SARIMA with exogenous variables)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    Forecasting Gray Noise : MA(Moving Average)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    Forecasting Gray Noise : AR(AutoRegressive)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    Forecasting Gray Noise : ARMA(AutoRegressive Moving Average)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    ST-0000◇FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
-
-
-[time series] White Noise
-RP-WN Gaussian White Noise
-RP-WN Bernoulli White Noise
-[time series] SARIMAX
-RP-GN : MA(Moving Average) - (5)
-RP-GN : AR(AutoRegressive) - (5)
-RP-GN : ARMA(AutoRegressive Moving Average) - (2,2)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(0,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(0,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(0,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(0,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,0,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,0,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,0,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,0,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,0)(1,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (0,0,1)(1,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,0)(1,0,1,12)
-RP-GN : SARIMA(Seasonal ARIMA) - (1,0,1)(1,0,1,12)
-RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,0)
-RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (0,1,1)
-RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,0)
-RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (1,1,1)
-RP-BN(Stochastic Trend) : ARIMA(AutoRegressive Integrated Moving Average) - (2,1,2)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,0,1,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,0,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,0)(1,0,1,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(0,0,1,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,0,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (0,1,1)(1,0,1,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(0,0,1,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,0,12)
-RP-BN(Stochastic Trend) : SARIMA(Seasonal ARIMA) - (1,1,0)(1,0,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(0,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(0,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(0,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(0,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,0,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,0)(1,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (0,0,1)(1,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,0)(1,1,1,12)
-RP-BN(Stochastic Seasonality) : SARIMA(Seasonal ARIMA) - (1,0,1)(1,1,1,12)
-RP-BN(Stochastic Trend&Seasonality) : SARIMA(Seasonal ARIMA) - (0,1,0)(0,1,0,12)
-RP : SARIMAX(SARIMA with exogenous variables)
-Forecasting Gray Noise : MA(Moving Average)
-Forecasting Gray Noise : AR(AutoRegressive)
-Forecasting Gray Noise : ARMA(AutoRegressive Moving Average)
-ST-0000◇FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
-ST-0001◇FSC(Black Noise) SARIMA(Seasonal ARIMA)
-ST-0002◇SARIMA(Seasonal ARIMA) Equation
-Forecasting : SARIMAX(SARIMA with exogenous variables)
-[time series] Multi-variate Random Process
-ST-0014◇RP : VAR(Vector AutoRegression)
-Forecasting Gray Noise : VAR(Vector AutoRegression)
-ST-0015◇IRP(Impulse Response Precursor) through VAR
-ST-0016◇Granger Causality
-ST-0017◇Cointegration
-[time series] Exponential Smoothing
-ST-0004◇FDC : TS( N,N) - Simple Exponential Smoothing
-ST-0005◇FDC : TS( A,N) - Holt Linear Method
-ST-0006◇FDC : TS(Ad,N) - Additive Damped Trend Method
-ST-0007◇FDC : TS( A,A) - Additive Holt-Winters' Method
-ST-0008◇FDC : TS( A,M) - Multiplicative Holt-Winters' Method
-ST-0009◇FDC : TS(Ad,M) - Holt-Winters Damped Method
-ST-0010◇FDC : ETS(A,N,N) - Simple Exponential Smoothing with Additive Errors
-ST-0011◇FDC : ETS(M,N,N) - Simple Exponential Smoothing with Multiplicative Errors
-ST-0012◇FDC : ETS(A,A,N) - Holt’s Linear Method with Additive Errors
-ST-0013◇FDC : ETS(M,A,N) - Holt’s Linear Method with Multiplicative Errors
-[time series] Non-Linear Random Process
-Dynamics Linear Model
-Local Level Model
-Structural Model
-Stochastic Volatility Model
-ARCH(Autoregressive conditional heteroskedasticity)
-GARCH(Generalized Autoregressive conditional heteroskedasticity)
-HMM: Hidden Markov Model
-Independent Mixture Model
-Kalman Filter
-[time series] Autocorrelation
-Ljung–Box test
-Portmanteau test
-Breusch–Godfrey test
-Durbin–Watson test
-[time series] Homoscedasticity/Heteroscedasticity
-Goldfeld–Quandt test
-Breusch–Pagan test
-Bartlett's test
-[time series] Stationary
-ADF(Augmented Dickey-Fuller) test
-ADF-GLS test
-PP(Phillips–Perron) test
-KPSS(Kwiatkowski Phillips Schmidt Shin) test
-ST-0018◇Detrending : with Differencing
-ST-0019◇Detrending : with Modeling
-ST-0020◇Deseasonalizing : with Differencing
-ST-0021◇Deseasonalizing : with Modeling
-[regression] Linear Regression
-Analytic solution : statsmodels
-Analytic solution : numpy
-Solution via QR Decomposition
-Solution via truncated SVD
-[regression] Residual Analysis
-[regression] Multicollinearity
-[hypothesis test] ANOVA
-one-way(independent)
-one-way(paired) : repeated measure
-two-way(independent)
-two-way(paired) : repeated measure
-three-way(independent)
-three-way(paired) : repeated measure
-higher multivariate(independent)
-higher multivariate(paired) : repeated measure
-[hypothesis test] variance-test
-[hypothesis test] t-test
-independent t-test
-paired t-test
-[hypothesis test] z-test
-[hypothesis test] binomial-test
-[hypothesis test] Cohen's measure
-[hypothesis test] Nonparametric
-Mann-Whitney U Test : nonparametric statistical significance test for determining whether two independent samples were drawn from a population with the same distribution
-Wilcoxon Signed-Rank Test : nonparametric version of the paired Student’s t-test
-Kruskal-Wallis H Test : nonparametric version of the one-way analysis of variance test or ANOVA
-Friedman Test : nonparametric version of the repeated measures analysis of variance test, or repeated measures ANOVA
-[theory◇ST-theory] Statistics Theory
-[theory] Normality
-Shapiro–Wilk test
-Kolmogorov–Smirnov test
-Lilliefors test
-Anderson–Darling test
-Jarque–Bera test
-Pearson's chi-squared test
-D'Agostino's K-squared test
-[estimation] Interval Estimation
-Tolerance intervals
-Confidence intervals
-Prediction intervals
-[estimation] Density Estimation
-[stochastic process] Hidden Markov model
-[stochastic process] Markov process
-[stochastic process◆ST-0021] Gaussian process
 
 
 
