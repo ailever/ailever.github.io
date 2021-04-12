@@ -2226,12 +2226,12 @@ source('MA-0000')
 <div class="uguide_box">
   <div class="uguide_list">
     [analysis] SARIMA
-    <span class="uguide_elt"><a href="#">: MA-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/MA-0000.py">: MA-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     [analysis] COVID-19
-    <span class="uguide_elt"><a href="#">: MA-0001</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/MA-0001.py">: MA-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
