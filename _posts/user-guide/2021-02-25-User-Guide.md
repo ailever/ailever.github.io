@@ -1082,7 +1082,7 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     [correlation] Auto-Correlation Function
-    <span class="uguide_elt"><a href="#">: ST-0003</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0003.py">: ST-0003</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1357,17 +1357,17 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     ::: FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
-    <span class="uguide_elt"><a href="#">: ST-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0000.py">: ST-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FSC(Black Noise) SARIMA(Seasonal ARIMA)
-    <span class="uguide_elt"><a href="#">: ST-0001</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0001.py">: ST-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: SARIMA(Seasonal ARIMA) Equation
-    <span class="uguide_elt"><a href="#">: ST-0002</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0002.py">: ST-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1382,7 +1382,7 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     ::: RP : VAR(Vector AutoRegression)
-    <span class="uguide_elt"><a href="#">: ST-0014</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0014.py">: ST-0014</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1392,17 +1392,17 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     ::: IRP(Impulse Response Precursor) through VAR
-    <span class="uguide_elt"><a href="#">: ST-0015</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0015.py">: ST-0015</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: Granger Causality
-    <span class="uguide_elt"><a href="#">: ST-0016</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0016.py">: ST-0016</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: Cointegration
-    <span class="uguide_elt"><a href="#">: ST-0017</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0017.py">: ST-0017</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1412,52 +1412,52 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     ::: FDC : TS( N,N) - Simple Exponential Smoothing
-    <span class="uguide_elt"><a href="#">: ST-0004</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0004.py">: ST-0004</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,N) - Holt Linear Method
-    <span class="uguide_elt"><a href="#">: ST-0005</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0005.py">: ST-0005</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS(Ad,N) - Additive Damped Trend Method
-    <span class="uguide_elt"><a href="#">: ST-0006</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0006.py">: ST-0006</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,A) - Additive Holt-Winters' Method
-    <span class="uguide_elt"><a href="#">: ST-0007</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0007.py">: ST-0007</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,M) - Multiplicative Holt-Winters' Method
-    <span class="uguide_elt"><a href="#">: ST-0008</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0008.py">: ST-0008</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS(Ad,M) - Holt-Winters Damped Method
-    <span class="uguide_elt"><a href="#">: ST-0009</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0009.py">: ST-0009</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(A,N,N) - Simple Exponential Smoothing with Additive Errors
-    <span class="uguide_elt"><a href="#">: ST-0010</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0010.py">: ST-0010</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(M,N,N) - Simple Exponential Smoothing with Multiplicative Errors
-    <span class="uguide_elt"><a href="#">: ST-0011</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0011.py">: ST-0011</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(A,A,N) - Holt’s Linear Method with Additive Errors
-    <span class="uguide_elt"><a href="#">: ST-0012</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0012.py">: ST-0012</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(M,A,N) - Holt’s Linear Method with Multiplicative Errors
-    <span class="uguide_elt"><a href="#">: ST-0013</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0013.py">: ST-0013</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1582,22 +1582,22 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     ::: Detrending : with Differencing
-    <span class="uguide_elt"><a href="#">: ST-0018</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0018.py">: ST-0018</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: Detrending : with Modeling
-    <span class="uguide_elt"><a href="#">: ST-0019</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0019.py">: ST-0019</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: Deseasonalizing : with Differencing
-    <span class="uguide_elt"><a href="#">: ST-0020</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0020.py">: ST-0020</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     ::: Deseasonalizing : with Modeling
-    <span class="uguide_elt"><a href="#">: ST-0021</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0021.py">: ST-0021</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1822,7 +1822,7 @@ source('ST-0000')
   </div>
   <div class="uguide_list">
     [stochastic process] Gaussian process
-    <span class="uguide_elt"><a href="#">: ST-0021</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0021.py">: ST-0021</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
