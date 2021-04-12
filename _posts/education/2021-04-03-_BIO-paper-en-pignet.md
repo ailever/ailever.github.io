@@ -381,76 +381,64 @@ Coordinates from PDB:184L:A:401 Model:1 without hydrogens
   8  9  1  0  0  0  0
   8 10  1  0  0  0  0
 M  END
->  <InstanceId>
+~ InstanceId
 184L_I4B_A_401
 
->  <ChemCompId>
+~ ChemCompId
 I4B
 
->  <PdbId>
+~ PdbId
 184L
 
->  <ChainId>
+~ ChainId
 A
 
->  <ResidueNumber>
+~ ResidueNumber
 401
 
->  <InsertionCode>
-
-
->  <Model>
+~ InsertionCode
+~ Model
 1
 
->  <AltIds>
-
-
->  <MissingHeavyAtoms>
+~ AltIds
+~ MissingHeavyAtoms
 0
 
->  <ObservedFormula>
+~ ObservedFormula
 C10
 
->  <Name>
+~ Name
 ISOBUTYLBENZENE
 
->  <SystematicName>
+~ SystematicName
 2-methylpropylbenzene
 
->  <Synonyms>
-
-
->  <Type>
+~ Synonyms
+~ Type
 NON-POLYMER
 
->  <Formula>
+~ Formula
 C10 H14
 
->  <MolecularWeight>
+~ MolecularWeight
 134.218
 
->  <ModifiedDate>
+~ ModifiedDate
 2011-06-04
 
->  <Parent>
-
-
->  <OneLetterCode>
-
-
->  <SubcomponentList>
-
-
->  <AmbiguousFlag>
+~ Parent
+~ OneLetterCode
+~ SubcomponentList
+~ AmbiguousFlag
 N
 
->  <InChI>
+~ InChI
 InChI=1S/C10H14/c1-9(2)8-10-6-4-3-5-7-10/h3-7,9H,8H2,1-2H3
 
->  <InChIKey>
+~ InChIKey
 KXUHSQYYJYAXGZ-UHFFFAOYSA-N
 
->  <SMILES>
+~ SMILES
 CC(C)Cc1ccccc1
 
 $$$$
