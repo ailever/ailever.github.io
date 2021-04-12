@@ -129,8 +129,8 @@ from ailever.utils import VISUAL
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    - [health◆SI-0000] COVID-19 : Domestic Dataset (Korea)
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    - [health] COVID-19 : Domestic Dataset (Korea)
+    <span class="uguide_elt"><a href="#">: SI-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div> 
 </div>
