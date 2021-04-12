@@ -1151,18 +1151,18 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0000◇FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FSC(Black Noise) ARIMA(AutoRegressive Integrated Moving Average)
+    <span class="uguide_elt"><a href="#">: ST-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0001◇FSC(Black Noise) SARIMA(Seasonal ARIMA)
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FSC(Black Noise) SARIMA(Seasonal ARIMA)
+    <span class="uguide_elt"><a href="#">: ST-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0002◇SARIMA(Seasonal ARIMA) Equation
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: SARIMA(Seasonal ARIMA) Equation
+    <span class="uguide_elt"><a href="#">: ST-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1176,8 +1176,8 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0014◇RP : VAR(Vector AutoRegression)
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: RP : VAR(Vector AutoRegression)
+    <span class="uguide_elt"><a href="#">: ST-0014</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1186,18 +1186,18 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0015◇IRP(Impulse Response Precursor) through VAR
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: IRP(Impulse Response Precursor) through VAR
+    <span class="uguide_elt"><a href="#">: ST-0015</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0016◇Granger Causality
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Granger Causality
+    <span class="uguide_elt"><a href="#">: ST-0016</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0017◇Cointegration
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Cointegration
+    <span class="uguide_elt"><a href="#">: ST-0017</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1206,53 +1206,53 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0004◇FDC : TS( N,N) - Simple Exponential Smoothing
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS( N,N) - Simple Exponential Smoothing
+    <span class="uguide_elt"><a href="#">: ST-0004</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0005◇FDC : TS( A,N) - Holt Linear Method
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS( A,N) - Holt Linear Method
+    <span class="uguide_elt"><a href="#">: ST-0005</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0006◇FDC : TS(Ad,N) - Additive Damped Trend Method
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS(Ad,N) - Additive Damped Trend Method
+    <span class="uguide_elt"><a href="#">: ST-0006</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ST-0007◇FDC : TS( A,A) - Additive Holt-Winters' Method
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS( A,A) - Additive Holt-Winters' Method
+    <span class="uguide_elt"><a href="#">: ST-0007</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0008◇FDC : TS( A,M) - Multiplicative Holt-Winters' Method
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS( A,M) - Multiplicative Holt-Winters' Method
+    <span class="uguide_elt"><a href="#">: ST-0008</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0009◇FDC : TS(Ad,M) - Holt-Winters Damped Method
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : TS(Ad,M) - Holt-Winters Damped Method
+    <span class="uguide_elt"><a href="#">: ST-0009</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0010◇FDC : ETS(A,N,N) - Simple Exponential Smoothing with Additive Errors
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : ETS(A,N,N) - Simple Exponential Smoothing with Additive Errors
+    <span class="uguide_elt"><a href="#">: ST-0010</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0011◇FDC : ETS(M,N,N) - Simple Exponential Smoothing with Multiplicative Errors
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : ETS(M,N,N) - Simple Exponential Smoothing with Multiplicative Errors
+    <span class="uguide_elt"><a href="#">: ST-0011</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0012◇FDC : ETS(A,A,N) - Holt’s Linear Method with Additive Errors
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : ETS(A,A,N) - Holt’s Linear Method with Additive Errors
+    <span class="uguide_elt"><a href="#">: ST-0012</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0013◇FDC : ETS(M,A,N) - Holt’s Linear Method with Multiplicative Errors
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: FDC : ETS(M,A,N) - Holt’s Linear Method with Multiplicative Errors
+    <span class="uguide_elt"><a href="#">: ST-0013</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1376,23 +1376,23 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0018◇Detrending : with Differencing
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Detrending : with Differencing
+    <span class="uguide_elt"><a href="#">: ST-0018</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0019◇Detrending : with Modeling
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Detrending : with Modeling
+    <span class="uguide_elt"><a href="#">: ST-0019</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0020◇Deseasonalizing : with Differencing
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Deseasonalizing : with Differencing
+    <span class="uguide_elt"><a href="#">: ST-0020</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    ::: ST-0021◇Deseasonalizing : with Modeling
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    ::: Deseasonalizing : with Modeling
+    <span class="uguide_elt"><a href="#">: ST-0021</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1536,8 +1536,8 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [theory◇ST-theory] Statistics Theory
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [theory] Statistics Theory
+    <span class="uguide_elt"><a href="#">: ST-theory</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -1616,8 +1616,8 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [stochastic process◆ST-0021] Gaussian process
-    <span class="uguide_elt"><a href="#">: github</a></span>
+    [stochastic process] Gaussian process
+    <span class="uguide_elt"><a href="#">: ST-0021</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
