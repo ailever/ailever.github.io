@@ -227,6 +227,42 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+<code class="code-title">INDEX_refined_name.2019</code>
+<pre class="sudo-code">
+# ==============================================================================
+# List of protein-ligand complexes in the PDBbind refined set v.2019
+# 4,852 complexes in total, clustered by 90% protein sequence similarity
+# latest update: Dec 2019
+# PDB code, release year, Uniprot ID, protein name
+# ==============================================================================
+1n4k  2002  P11881  INOSITOL 1,4,5-TRISPHOSPHATE RECEPTOR TYPE 1
+5uk8  2017  P42336  PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE
+5dxt  2016  P42336  PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE
+1i1e  2001  P10844  BOTULINUM NEUROTOXIN TYPE B
+1bxr  1999  P00968  CARBAMOYL-PHOSPHATE SYNTHASE
+3i3b  2010  B8LFD6  BETA-GALACTOSIDASE
+3dyo  2008  P00722  BETA-GALACTOSIDASE
+3t0d  2012  P00722  BETA-GALACTOSIDASE
+3vdb  2012  P00722  BETA-GALACTOSIDASE
+3t08  2012  P00722  BETA-GALACTOSIDASE
+1px4  2004  P00722  BETA-GALACTOSIDASE
+3muz  2011  B8LFD6  BETA-GALACTOSIDASE
+3t2q  2012  P00722  BETA-GALACTOSIDASE
+3t09  2012  P00722  BETA-GALACTOSIDASE
+3mv0  2011  B8LFD6  BETA-GALACTOSIDASE
+3vd9  2012  P00722  BETA-GALACTOSIDASE
+3t0b  2012  P00722  BETA-GALACTOSIDASE
+3vd4  2012  P00722  BETA-GALACTOSIDASE
+1ps3  2003  Q24451  ALPHA-MANNOSIDASE II
+3d52  2008  Q24451  ALPHA-MANNOSIDASE II
+3dx1  2009  Q24451  ALPHA-MANNOSIDASE II
+3d51  2008  Q24451  ALPHA-MANNOSIDASE II
+3ddf  2008  Q24451  ALPHA-MANNOSIDASE II
+3d50  2008  Q24451  ALPHA-MANNOSIDASE II
+...
+...
+...
+</pre>
 <code class="code-title">INDEX_structure.2019</code><br>
 <pre class="sudo-code">
 4tln  2.30  1982  0.169  -1.000  -1.000
