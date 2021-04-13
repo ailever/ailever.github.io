@@ -644,6 +644,130 @@ m1, m2, h_acc_indice1, h_acc_indice2, metal_symbols, metal_indice1, metal_indice
 <code class="code-title">mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std) : sample</code><br>
 m1, m1_uff, m2, interaction_data, pos_noise_std, m1, m2, angle, axis, m1_rot, n1, d1, d1_rot, adf1, h1, n1, c2, d2, adj2, h2, dmv, dmv_rot, A_int, sasa, dsasa, rotor, charge1, charge2, valid1, valid2, metal_symbols, no_metal1, a, no_metal2, vdw_radius1, vdw_radius2, vdw_epsilon, vdw_sigma, delta_uff, sample
 ![image](https://user-images.githubusercontent.com/52376448/114428608-5c23a780-9bf7-11eb-982d-26668e5a5818.png)
+<pre class="python-code">
+def mol_to_feature(m1, m1_uff, m2, interaction_data, pos_noise_std):
+    # Remove hydrogens
+    m1 = Chem.RemoveHs(m1)
+    m2 = Chem.RemoveHs(m2)
+
+    # extract valid amino acids
+    # m2 = extract_valid_amino_acid(m2, self.amino_acids)
+
+    # random rotation
+    angle = np.random.uniform(0, 360, 1)[0]
+    axis = np.random.uniform(-1, 1, 3)
+    # m1 = rotate(m1, angle, axis, False)
+    # m2 = rotate(m2, angle, axis, False)
+
+    angle = np.random.uniform(0, 360, 1)[0]
+    axis = np.random.uniform(-1, 1, 3)
+    m1_rot = rotate(copy.deepcopy(m1), angle, axis, True)
+    
+    # prepare ligand
+    n1 = m1.GetNumAtoms()
+    d1 = np.array(m1.GetConformers()[0].GetPositions())
+    d1 += np.random.normal(0.0, pos_noise_std, d1.shape)
+    d1_rot = np.array(m1_rot.GetConformers()[0].GetPositions())
+    adj1 = GetAdjacencyMatrix(m1) + np.eye(n1)
+    h1 = get_atom_feature(m1, True)
+
+    # prepare protein
+    n2 = m2.GetNumAtoms()
+    c2 = m2.GetConformers()[0]
+    d2 = np.array(c2.GetPositions())
+    d2 += np.random.normal(0.0, pos_noise_std, d2.shape)
+    adj2 = GetAdjacencyMatrix(m2) + np.eye(n2)
+    h2 = get_atom_feature(m2, True)
+
+    # prepare distance vector
+    dmv = dm_vector(d1, d2)
+    dmv_rot = dm_vector(d1_rot, d2)
+
+    # get interaction matrix
+    # A_int = get_interaction_matrix(d1, d2, interaction_data)
+    A_int = np.zeros(
+        (len(interaction_types), m1.GetNumAtoms(), m2.GetNumAtoms()))
+    A_int[-2] = get_A_hydrophobic(m1, m2)
+    A_int[1] = get_A_hbond(m1, m2)
+    A_int[-1] = get_A_metal_complexes(m1, m2)
+
+    # cal sasa
+    sasa = cal_sasa(m1)
+    dsasa = sasa - cal_sasa(m1_uff)
+
+    # count rotatable bonds
+    rotor = CalcNumRotatableBonds(m1)
+    # dm = distance_matrix(d1, d2)
+    # rotor = count_active_rotatable_bond(m1, dm)
+    # charge
+    # charge1 = cal_charge(m1)
+    # charge2 = cal_charge(m2)
+    charge1 = np.zeros((n1,))
+    charge2 = np.zeros((n2,))
+    
+    """
+    mp1 = AllChem.MMFFGetMoleculeProperties(m1)
+    mp2 = AllChem.MMFFGetMoleculeProperties(m2)
+    charge1 = [mp1.GetMMFFPartialCharge(i) for i in range(m1.GetNumAtoms())]
+    charge2 = [mp2.GetMMFFPartialCharge(i) for i in range(m2.GetNumAtoms())]
+    """
+
+    # partial charge calculated by gasteiger
+    charge1 = np.array(charge1)
+    charge2 = np.array(charge2)
+
+    # There is nan for some cases.
+    charge1 = np.nan_to_num(charge1, nan=0, neginf=0, posinf=0)
+    charge2 = np.nan_to_num(charge2, nan=0, neginf=0, posinf=0)
+
+    # valid
+    valid1 = np.ones((n1,))
+    valid2 = np.ones((n2,))
+
+    # no metal
+    metal_symbols = ["Zn", "Mn", "Co", "Mg", "Ni", "Fe", "Ca", "Cu"]
+    no_metal1 = np.array([1 if a.GetSymbol() not in metal_symbols else 0
+                          for a in m1.GetAtoms()])
+    no_metal2 = np.array([1 if a.GetSymbol() not in metal_symbols else 0
+                          for a in m2.GetAtoms()])
+    # vdw radius
+    vdw_radius1 = np.array([get_vdw_radius(a) for a in m1.GetAtoms()])
+    vdw_radius2 = np.array([get_vdw_radius(a) for a in m2.GetAtoms()])
+
+    vdw_epsilon, vdw_sigma = get_epsilon_sigma(m1, m2, False)
+    
+    # uff energy difference
+    # delta_uff = cal_uff(m1)-cal_uff(m1_uff)
+    # delta_uff = get_torsion_energy(m1) - get_torsion_energy(m1_uff)
+    # delta_uff = cal_torsion_energy(m1)+cal_internal_vdw(m1)
+    delta_uff = 0.0
+    sample = {
+        "h1": h1,
+        "adj1": adj1,
+        "h2": h2,
+        "adj2": adj2,
+        "A_int": A_int,
+        "dmv": dmv,
+        "dmv_rot": dmv_rot,
+        "pos1": d1,
+        "pos2": d2,
+        "sasa": sasa,
+        "dsasa": dsasa,
+        "rotor": rotor,
+        "charge1": charge1,
+        "charge2": charge2,
+        "vdw_radius1": vdw_radius1,
+        "vdw_radius2": vdw_radius2,
+        "vdw_epsilon": vdw_epsilon,
+        "vdw_sigma": vdw_sigma,
+        "delta_uff": delta_uff,
+        "valid1": valid1,
+        "valid2": valid2,
+        "no_metal1": no_metal1,
+        "no_metal2": no_metal2,
+    }
+    return sample
+</pre>
 
 <code class="code-title">is_atoms_in_same_ring(i, j, ssr) : True/False</code><br>
 i, j, ssr, s
