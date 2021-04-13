@@ -651,7 +651,7 @@ i, j, ssr, s
 <code class="code-title">count_active_rotatable_bond(m, dm) : sum(RT)</code><br>
 m, dm, rot_atom_pairs, ssr, n, RT, pair, RT_copy, min_dm, hydrophobic_indice, i
 
-<code class="code-title">[MolDataset]__init__(self, keys, data_dir, id_to_y, random_rotation=0.0, pos_noise_std=0.0) : </code><br>
+<code class="code-title">MolDataset(keys, data_dir, id_to_y, random_rotation=0.0, pos_noise_std=0.0) : </code><br>
 <pre class="python-code">
 class MolDataset(Dataset):
     def __init__(self, keys, data_dir, id_to_y, random_rotation=0.0,
