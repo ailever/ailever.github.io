@@ -652,6 +652,33 @@ i, j, ssr, s
 m, dm, rot_atom_pairs, ssr, n, RT, pair, RT_copy, min_dm, hydrophobic_indice, i
 
 <code class="code-title">[MolDataset]__init__(self, keys, data_dir, id_to_y, random_rotation=0.0, pos_noise_std=0.0) : </code><br>
+<pre class="python-code">
+class MolDataset(Dataset):
+    def __init__(self, keys, data_dir, id_to_y, random_rotation=0.0,
+                 pos_noise_std=0.0):
+        self.keys = keys
+        self.data_dir = data_dir
+        self.id_to_y = id_to_y
+        self.random_rotation = random_rotation
+        self.amino_acids = ["ALA", "ARG", "ASN", "ASP", "ASX", "CYS", "GLU", "GLN", "GLX",
+                            "GLY", "HIS", "ILE", "LEU", "LYS", "MET", "PHE", "PRO", "SER",
+                            "THR", "TRP", "TYR", "VAL"]
+        self.pos_noise_std = pos_noise_std
+
+    def __len__(self):
+        return len(self.keys)
+
+    def __getitem__(self, idx):
+        key = self.keys[idx]
+        with open(self.data_dir + "/" + key, "rb") as f:
+            m1, m1_uff, m2, interaction_data = pickle.load(f)
+
+        sample = mol_to_feature(
+            m1, m1_uff, m2, interaction_data, self.pos_noise_std)
+        sample["affinity"] = self.id_to_y[key] * -1.36
+        sample["key"] = key
+        return sample
+</pre>
 <code class="code-title">[DTISampler]__init__(self, weights, num_samples, replacement=True) : </code><br>
 
 <code class="code-title">check_dimension(tensors) : np.max(size, 0)</code><br>
