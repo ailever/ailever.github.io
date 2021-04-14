@@ -179,7 +179,7 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 <br><br><br>
 ## Protein-Ligand Interaction
 
-### Thermodynamic cycle scheme for the confine-and-release
+### Thermodynamic cycle scheme for the confine-and-release by lock and key model
 ![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
 [REF|<a href="#REF" style="font-size:xx-small;">The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a>]
 
