@@ -24,6 +24,7 @@ author_staff_member: anonym
 - Enzymes are proteins that act as biocatalysts.
 - Specific Substrate binding
 - Mechanism by Lock and key model
+- Organisation of enzyme structure : Active site = Binding sites + Catalytic site
 
 <br><br><br>
 ## Cofactors
