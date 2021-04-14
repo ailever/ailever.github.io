@@ -27,6 +27,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Cofactors
+- Metal or Coenzyme
 
 <br><br><br>
 ## Thermodynamics
