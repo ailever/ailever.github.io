@@ -42,7 +42,7 @@ author_staff_member: anonym
 <br><br><br>
 ## Thermodynamics
 ### Gibbs Free Energy
-Spontaneity($\Delta G = G_{product} - G_{reactant}$)
+Recation Spontaneity($\Delta G = G_{product} - G_{reactant}$)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   - $\Delta G < 0$ : Exergonic Reaction(Spontaneous Reaction) <br>
   - $\Delta G = 0$ : At Equilibrium <br>
