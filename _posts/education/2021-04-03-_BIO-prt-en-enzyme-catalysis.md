@@ -44,6 +44,11 @@ Spontaneity($\Delta G = G_{product} - G_{reactant}$)
   - $\Delta G > 0$ : Endogornic Reaction(Non-spontaneous Reaction) <br>
 <br><br></div>
 
+Standard and Biological Gibbs Free Energy
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+
+<br><br></div>
+
 - Activation Energy
 
 
