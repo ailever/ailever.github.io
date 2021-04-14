@@ -20,8 +20,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Calculous of Variations
-### Functional $J$
+## Hamilton's Principle 
+### Calculous of Variations 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Maupertuis's principle of least action
 $$
@@ -44,7 +44,8 @@ $$\frac{\partial J(\alpha)}{\partial \alpha} = \int_{x_{1}}^{x_{2}} \left [ \fra
 $$\delta J = \int_{x_{1}}^{x_{2}} \left (  \frac{\partial f}{\partial y} - \frac{d}{dx}\frac{\partial f}{\partial y_{x}} \right ) \delta y \, dx = 0$$
 $$\because \text{Stationary value of} J,\quda \left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
 
-
+### Euler equation
+$$\frac{\partial f}{\partial y} - \frac{d}{dx}\frac{\partial f}{\partial y_{x}}$$
 
 <br><br></div>
 
