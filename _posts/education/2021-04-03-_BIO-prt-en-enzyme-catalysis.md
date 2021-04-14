@@ -20,6 +20,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+Enzymes are proteins that act as biocatalysts.
+
 ## Thermodynamics
 
 <br><br><br>
