@@ -39,9 +39,9 @@ author_staff_member: anonym
 ### Gibbs Free Energy
 Spontaneity($\Delta G = G_{product} - G_{reactant}$)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  - $\Delta G < 0$ : Exergonic Reaction(Spontaneous Reaction)
-  - $\Delta G = 0$ : At Equilibrium
-  - $\Delta G > 0$ : Endogornic Reaction(Non-spontaneous Reaction)
+  - $\Delta G < 0$ : Exergonic Reaction(Spontaneous Reaction) <br>
+  - $\Delta G = 0$ : At Equilibrium <br>
+  - $\Delta G > 0$ : Endogornic Reaction(Non-spontaneous Reaction) <br>
 <br><br></div>
 
 - Activation Energy
