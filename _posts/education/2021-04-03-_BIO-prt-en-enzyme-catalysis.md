@@ -20,8 +20,15 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-Enzymes are proteins that act as biocatalysts.
+## Introduction
+- Enzymes are proteins that act as biocatalysts.
+- Specific Substrate binding
+- Mechanism by Lock and key model
 
+<br><br><br>
+## Cofactors
+
+<br><br><br>
 ## Thermodynamics
 
 <br><br><br>
