@@ -43,10 +43,12 @@ Least action
 $$\frac{\partial J(\alpha)}{\partial \alpha} = \int_{x_{1}}^{x_{2}} \left [ \frac{\partial f}{\partial y}\frac{\partial y}{\partial \alpha} + \frac{\partial f}{\partial y_{x}}\frac{\partial y_{x}}{\partial \alpha} \right ] \, dx = 0$$
 $$\delta J = \int_{x_{1}}^{x_{2}} \left (  \frac{\partial f}{\partial y} - \frac{d}{dx}\frac{\partial f}{\partial y_{x}} \right ) \delta y \, dx = 0$$
 $$\because \text{Stationary value of} J,\quad \left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
+<br><br></div>
 
 ### Euler equation
-$$\frac{\partial f}{\partial y} - \frac{d}{dx}\frac{\partial f}{\partial y_{x}}$$
-
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\frac{\partial L}{\partial x} - \frac{d}{dt}\frac{\partial L}{\partial x_{t}}$$
+  
 <br><br></div>
 
 
