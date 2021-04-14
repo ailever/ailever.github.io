@@ -57,7 +57,7 @@ $$\begin{align*}
 \frac{\partial \mathcal{L}}{\partial x^{i}} &= 
   \frac{\partial}{\partial x^{i}} \left ( \frac{1}{2}{m\dot{x}^{i}}^{2} - V(x^{i})\right ) 
   = -\frac{\partial V(x^{i})}{\partial x^{i}} \\
-\frac{\partial \mathcal{L}}{\partial \dot{x}^{i}} &= 
+\frac{d}{dt} \frac{\partial \mathcal{L}}{\partial \dot{x}^{i}} &= 
   \frac{d}{dt} \left [ \frac{\partial}{\partial \dot{x}^{i}} \left ( \frac{1}{2}{m\dot{x}^{i}}^{2} - V(x^{i})\right ) \right ]
   = m\dot{x}^{i}\\
 \end{align*}$$  
