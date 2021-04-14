@@ -47,7 +47,7 @@ $$\because \text{Stationary value of} J,\quad \left [ \frac{\partial J(\alpha)}{
 
 ### Euler equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\frac{\partial L}{\partial x} - \frac{d}{dt}\frac{\partial L}{\partial x_{t}}$$
+$$\frac{\partial L}{\partial x} - \frac{d}{dt}\frac{\partial L}{\partial \dot{x}}$$
   
 <br><br></div>
 
