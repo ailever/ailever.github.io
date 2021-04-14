@@ -23,7 +23,7 @@ author_staff_member: anonym
 ## Introduction
 - Enzymes are **proteins** that act as biocatalysts. (It is different from catalytic **RNA molecules** called ribozymes and **DNA molecules** called synthetic deoxyribozymes.)
 - Specific Substrate binding
-- Organisation of enzyme structure : Active site = Binding sites + Catalytic site
+- Organisation of enzyme structure(or ES complex) : Active site = Binding sites + Catalytic site
 
 <br><br><br>
 ## Mechanisms
