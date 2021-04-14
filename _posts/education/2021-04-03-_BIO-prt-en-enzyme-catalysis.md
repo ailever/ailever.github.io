@@ -21,7 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Introduction
-- Enzymes are **proteins** that act as biocatalysts. (It is different from catalytic **RNA** molecules called ribozymes.)
+- Enzymes are **proteins** that act as biocatalysts. (It is different from **catalytic RNA molecules** called ribozymes.)
 - Specific Substrate binding
 - Mechanism by Lock and key model
 - Organisation of enzyme structure : Active site = Binding sites + Catalytic site
@@ -36,10 +36,14 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Thermodynamics
+### Activation Energy
 
 <br><br><br>
 ## Kinetics
 ### Michaelis–Menten kinetics
+
+## Inhibition
+### Allosteric Effect 
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
