@@ -61,6 +61,9 @@ $$\begin{align*}
   \frac{d}{dt}\frac{\partial}{\partial \dot{x}^{i}} \left ( \frac{1}{2}{m\dot{x}^{i}}^{2} - V(x^{i})\right ) 
   = m\dot{x}^{i}\\
 \end{align*}$$  
+
+$$\therefore F=m\ddot{x}\quad \text{for conservative force}$$
+
 <br><br></div>
 
 #### Maxwell Equation
