@@ -48,10 +48,16 @@ $$\because \text{Stationary value of}\ J,\quad \left [ \frac{\partial J(\alpha)}
 ### Euler equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\frac{\partial \mathcal{L}}{\partial x^{i}} - \frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{x}^{i}} = 0 $$
-  
 <br><br></div>
 
+#### Newton's equation of motion
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
+#### Maxwell Equation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
+#### Schrodinger Equation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
 
