@@ -27,6 +27,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Cofactors
+> Apoenzyme(Apoprotein) + Cofactor = Holoenzyme
+
 - Metal or Coenzyme
 
 <br><br><br>
