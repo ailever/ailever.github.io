@@ -62,7 +62,7 @@ $$\begin{align*}
   = m\dot{x}^{i}\\
 \end{align*}$$  
 
-$$\therefore F=m\ddot{x}\quad \text{for conservative force}$$
+$$\therefore F=m\ddot{x}\quad \text{under conservative force}$$
 
 <br><br></div>
 
