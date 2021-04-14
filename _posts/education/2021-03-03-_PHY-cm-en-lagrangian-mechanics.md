@@ -23,7 +23,18 @@ author_staff_member: anonym
 ## Calculous of Variations
 ### Functional $J$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$$$  
+Maupertuis's principle of least action
+$$
+J[y] = \int_{x_{1}}^{x_{2}} f(y(x), \frac{dy(x)}{dx}, x) \, dx 
+$$
+$$
+\delta J = \delta \int_{x_{1}}^{x_{2}} f(y,y_{x},x) \, dx  
+$$
+$$J(\alpha) = \int_{x_{1}}^{x_{2}} f(y(x, \alpha), y_{x}(x, \alpha), x) \, dx$$
+
+Stationary value of $J$
+$$\left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
+
 <br><br></div>
 
 
