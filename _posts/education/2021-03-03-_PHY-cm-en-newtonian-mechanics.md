@@ -20,7 +20,6 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Hamilton's Variational Principle
 
 
 <!-- Content Block -->
