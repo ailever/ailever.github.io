@@ -21,6 +21,10 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Calculous of Variations
+### Functional $J$
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$$$  
+<br><br></div>
 
 
 
