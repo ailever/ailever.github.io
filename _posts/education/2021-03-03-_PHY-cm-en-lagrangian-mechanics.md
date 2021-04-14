@@ -34,7 +34,7 @@ $$
 Restricting attention to functions f(x) within given path of $y$
 $$J(\alpha) = \int_{x_{1}}^{x_{2}} f(y(x, \alpha), y_{x}(x, \alpha), x) \, dx$$
 $$y(x, \alpha) = y(x, 0) + \eta(x) $$
-$$\because  \eta (x_{1}) = \eta (x_{2}) = 0$$
+$$\eta (x_{1}) = \eta (x_{2}) = 0$$
 
 
 Stationary value of $J$
