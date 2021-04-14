@@ -73,6 +73,12 @@ $$\therefore F=m\ddot{q}\quad \text{under conservative systems}$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
+### Hamiltonian Equation
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+  
+</div>
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
