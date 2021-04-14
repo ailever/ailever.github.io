@@ -155,6 +155,14 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 <br><br></div>
 
 ### Binding Affinity Prediction
+#### Experimental Approach
+- NMR Methods for the Determination of Protein–Ligand Interactions
+  - Detection and Verification of Ligand Binding
+  - Interaction Site Mapping
+  - Interaction Models and Binding Affinity
+  - Molecular Recognition
+  - Structure of Protein–Ligand Complexes
+
 #### Theoretical Approach
 - MM/PBSA : the molecule mechanics/Poisson–Boltzmann surface area 
 - MM/GBSA : the molecule mechanics/generalized Born surface area
