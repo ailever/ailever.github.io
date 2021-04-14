@@ -21,7 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Introduction
-- Enzymes are **proteins** that act as biocatalysts. (It is different from **catalytic RNA molecules** called ribozymes.)
+- Enzymes are **proteins** that act as biocatalysts. (It is different from catalytic **RNA molecules** called ribozymes and **DNA molecules** called synthetic deoxyribozymes.)
 - Specific Substrate binding
 - Mechanism by Lock and key model / Induced fit model
 - Organisation of enzyme structure : Active site = Binding sites + Catalytic site
