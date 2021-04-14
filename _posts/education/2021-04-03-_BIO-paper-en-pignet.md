@@ -37,9 +37,9 @@ author_staff_member: anonym
 - **Data augmentation** strategy for a wider range of binding poses
 
 ### Results
-- Improvement in docking success rate, screening enhancement factor, and screening success rate
-- Devising uncertainty estimator of our model’s prediction
-- Assessment of the contribution of each ligand substructure in total binding free energy
+- **Improvement** in docking success rate, screening enhancement factor, and screening success rate
+- Devising **uncertainty estimator** of our model’s prediction
+- **Assessment** of the contribution of each ligand substructure in total binding free energy
 
 <br><br><br>
 ## Related Works
