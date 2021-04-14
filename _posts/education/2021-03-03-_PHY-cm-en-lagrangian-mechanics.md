@@ -14,7 +14,7 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Mathematical Formula</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
@@ -30,10 +30,14 @@ $$
 $$
 \delta J = \delta \int_{x_{1}}^{x_{2}} f(y,y_{x},x) \, dx  
 $$
+
+Restricting attention to functions f(x) within given path
 $$J(\alpha) = \int_{x_{1}}^{x_{2}} f(y(x, \alpha), y_{x}(x, \alpha), x) \, dx$$
+$$\$$
 
 Stationary value of $J$
 $$\left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
+
 
 <br><br></div>
 
