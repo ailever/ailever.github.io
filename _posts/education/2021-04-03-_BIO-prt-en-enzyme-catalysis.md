@@ -29,7 +29,15 @@ author_staff_member: anonym
 ## Mechanisms
 ### Lock and key model
 ### Induced fit model
-
+### Interaction Aspects
+-	Proximity and orientation
+-	Proton donors or acceptors
+-	Electrostatic catalysis
+-	Covalent catalysis
+-	Metal ion catalysis
+-	Bond strain
+-	Quantum tunneling
+-	Active enzyme
 
 <br><br><br>
 ## Cofactors
