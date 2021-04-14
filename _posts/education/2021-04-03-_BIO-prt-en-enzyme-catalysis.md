@@ -23,7 +23,7 @@ author_staff_member: anonym
 ## Introduction
 - Enzymes are **proteins** that act as biocatalysts. (It is different from **catalytic RNA molecules** called ribozymes.)
 - Specific Substrate binding
-- Mechanism by Lock and key model
+- Mechanism by Lock and key model / Induced fit model
 - Organisation of enzyme structure : Active site = Binding sites + Catalytic site
 
 <br><br><br>
