@@ -40,6 +40,8 @@ $$\eta (x_{1}) = \eta (x_{2}) = 0$$
 Stationary value of $J$
 $$\left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
 
+Least action
+$$\frac{\partial J(\alpha)}{\partial \alpha} = \int_{x_{1}}^{x_{2}} \left [ \frac{f}{y}\frac{y}{\alpha} + \frac{f}{y_{x}}\frac{y_{x}}{\alpha} \right ] \, dx = 0$$
 
 <br><br></div>
 
