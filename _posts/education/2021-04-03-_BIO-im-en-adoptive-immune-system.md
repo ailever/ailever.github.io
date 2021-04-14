@@ -1,9 +1,9 @@
 ---
-title: BIO,
-prev1_title: BIO,
+title: Adoptive Immune System
+prev1_title: Immunology
 prev2_title: Biology
 date: 2021-04-03
-description: BIO, 
+description: Adoptive Immune System
 _previous: https://ailever.github.io/education/2020/05/30/Biology/
 categories:
   - education
@@ -62,7 +62,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="#" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-04-03-_BIO-im-en-adoptive-immune-system.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
