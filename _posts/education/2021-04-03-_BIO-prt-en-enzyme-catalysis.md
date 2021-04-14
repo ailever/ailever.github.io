@@ -57,8 +57,11 @@ Standard and Biological Gibbs Free Energy
 ## Kinetics
 ### Michaelis–Menten kinetics
 
+<br><br><br>
 ## Inhibition
-### Allosteric Effect 
+
+<br><br><br>
+## Allosteric Effect 
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
