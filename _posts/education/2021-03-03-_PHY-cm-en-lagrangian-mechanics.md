@@ -51,7 +51,10 @@ $$\frac{\partial \mathcal{L}}{\partial x^{i}} - \frac{d}{dt}\frac{\partial \math
 <br><br></div>
 
 #### Newton's equation of motion
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+Let say Lagrangian is $\mathcal{L} = T - V$, where T is the total kinetic energy of given system, V is the potential energy of the system.
+$$\frac{\partial \mathcal{L}}{\partial x^{i}} - \frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{x}^{i}} = 0 $$  
+<br><br></div>
 
 #### Maxwell Equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
