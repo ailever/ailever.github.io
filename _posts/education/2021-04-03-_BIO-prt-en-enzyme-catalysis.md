@@ -30,7 +30,9 @@ author_staff_member: anonym
 ## Cofactors
 > Apoenzyme(Apoprotein) + Cofactor = Holoenzyme
 
-- Metal or Coenzyme
+### Metal
+### Coenzyme
+- Prosthetic groups
 
 <br><br><br>
 ## Thermodynamics
