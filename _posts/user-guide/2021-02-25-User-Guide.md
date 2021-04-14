@@ -2103,6 +2103,7 @@ source('UT-0000')
     ::: Crawler : scrapy | search.naver.com
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/#dataset">: manual</a></span>
   </div>
   <div class="uguide_list">
     [programming] MetaClass
