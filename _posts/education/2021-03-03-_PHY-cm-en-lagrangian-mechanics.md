@@ -52,7 +52,7 @@ $$\frac{\partial \mathcal{L}}{\partial x} - \frac{d}{dt}\frac{\partial \mathcal{
 
 #### Newton's equation of motion
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-Let say Lagrangian is $\mathcal{L} = T - V$, where $T$ is the total kinetic energy of given system, $V$ is the potential energy of the system.
+Let say Lagrangian $\mathcal{L}$ is $T - V$, where $T$ is the total kinetic energy of given system, $V$ is the potential energy of the system.
 $$\begin{align*}
 \frac{\partial \mathcal{L}}{\partial x^{i}} &= 
   \frac{\partial}{\partial x^{i}} \left ( \frac{1}{2}{m\dot{x}^{i}}^{2} - V(x^{i})\right ) 
