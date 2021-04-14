@@ -2100,6 +2100,11 @@ source('UT-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
+    ::: Crawler : scrapy | search.naver.com
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+  </div>
+  <div class="uguide_list">
     [programming] MetaClass
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
