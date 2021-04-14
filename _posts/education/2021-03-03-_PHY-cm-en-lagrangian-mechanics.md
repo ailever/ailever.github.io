@@ -31,9 +31,9 @@ $$
 \delta J = \delta \int_{x_{1}}^{x_{2}} f(y,y_{x},x) \, dx  
 $$
 
-Restricting attention to functions f(x) within given path
+Restricting attention to functions f(x) within given path of $y$, $y(x, \alpha) = y(x, 0) + \eta(x) $
 $$J(\alpha) = \int_{x_{1}}^{x_{2}} f(y(x, \alpha), y_{x}(x, \alpha), x) \, dx$$
-$$\$$
+$$\eta (x_{1}) = \eta (x_{2}) = 0$$
 
 Stationary value of $J$
 $$\left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
