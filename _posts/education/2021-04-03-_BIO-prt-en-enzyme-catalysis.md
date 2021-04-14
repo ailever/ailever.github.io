@@ -72,9 +72,14 @@ Standard and Biological Gibbs Free Energy
 
 <br><br><br>
 ## Inhibition
+### Irreversible Inhibition
+### Competitive Inhibition
+### Uncompetitive Inhibition
+### Non-competitive Inhibition
+- Allosteric inhibitors
+- Allosteric Effect
 
-<br><br><br>
-## Allosteric Effect 
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
