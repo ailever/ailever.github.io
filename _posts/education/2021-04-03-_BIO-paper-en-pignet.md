@@ -1052,38 +1052,37 @@ sample > model > pred
 </ol>
 <ul>
   <li><a href="https://arxiv.org/pdf/2008.12249.pdf">(2020) PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
+  <li><a href="https://www.nature.com/articles/s41598-020-80769-1">(2021) Automation of absolute protein‑ligand binding free energy calculations for docking refnement and compound evaluation</a></li>
+  <li><a href="https://pubs.rsc.org/en/Content/ArticleLanding/2021/CP/D1CP00206F#!divAbstract">(2021) Protein-ligand free energies of binding from full-protein DFT calculations: convergence and choice of exchange-correlation functional</a></li>
+  <li><a href="https://deepmind.com/research/publications/Lagrangian-Neural-Networks">(2020) Lagrangian Neural Networks</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">(2020) FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s10822-020-00305-1">(2020) Improving the binding affinity estimations of protein–ligand complexes using machine-learning facilitated force field method</a></li>
+  <li><a href="https://www.nature.com/articles/s41467-019-10343-5">(2019) Physically informed artificial neural networks for atomistic modeling of materials</a></li>  
   <li><a href="https://arxiv.org/ftp/arxiv/papers/1906/1906.02418.pdf">(2019) OnionNet: a multiple-layer inter-molecular contact based convolutional
 neural network for protein-ligand binding affinity prediction</a></li>
-  <li><a href="https://arxiv.org/pdf/1912.00318.pdf">(2019) DeepAtom: A Framework for Protein-Ligand Binding Affinity Prediction</a></li>
-  <li><a href="https://link.springer.com/article/10.1007/s10822-020-00305-1">(2020) Improving the binding affinity estimations of protein–ligand complexes using machine-learning facilitated force field method</a></li>  
-  <li><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">(2018) KDEEP: Protein-Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</a></li>
-  <li><a href="https://arxiv.org/abs/1904.08144">(2019) Predicting drug-target interaction using 3D structure-embedded graph representations from graph neural networks</a></li>
-  <li><a href="https://www.nature.com/articles/s41570-018-0018-6">(2018) Metal–ligand interactions in drug design</a></li>
-  <li><a href="https://www.nature.com/articles/s41467-019-10343-5">(2019) Physically informed artificial neural networks for atomistic modeling of materials</a></li>
-  <li><a href="https://arxiv.org/abs/1906.01563">(2019) Hamiltonian Neural Networks</a></li>
-  <li><a href="https://deepmind.com/research/publications/Hamiltonian-Generative-Networks">(2019) Hamiltonian Generative Networks</a></li>
   <li><a href="https://deepmind.com/research/publications/Hamiltonian-Graph-Networks-with-ODE-Integrators">(2019) Hamiltonian Graph Networks with ODE Integrators</a></li>
   <li><a href="https://deepmind.com/research/publications/Hamiltonian-descent-for-composite-objectives">(2019) Hamiltonian descent for composite objectives</a></li>
-  <li><a href="https://deepmind.com/research/publications/Lagrangian-Neural-Networks">(2020) Lagrangian Neural Networks</a></li>
-  <li><a href="https://deepmind.com/research/publications/hamiltonian-descent-methods">(2018) Hamiltonian Descent Methods</a></li>
+  <li><a href="https://deepmind.com/research/publications/Hamiltonian-Generative-Networks">(2019) Hamiltonian Generative Networks</a></li>  
   <li><a href="https://deepmind.com/research/publications/Equivariant-Hamiltonian-Flows">(2019) Equivariant Hamiltonian Flows</a></li>
+  <li><a href="https://arxiv.org/pdf/1912.00318.pdf">(2019) DeepAtom: A Framework for Protein-Ligand Binding Affinity Prediction</a></li>
+  <li><a href="https://arxiv.org/abs/1906.01563">(2019) Hamiltonian Neural Networks</a></li>  
+  <li><a href="https://arxiv.org/abs/1904.08144">(2019) Predicting drug-target interaction using 3D structure-embedded graph representations from graph neural networks</a></li>
+  <li><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650">(2018) KDEEP: Protein-Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
+  <li><a href="https://www.nature.com/articles/s41570-018-0018-6">(2018) Metal–ligand interactions in drug design</a></li>
+  <li><a href="https://deepmind.com/research/publications/hamiltonian-descent-methods">(2018) Hamiltonian Descent Methods</a></li>
+  <li><a href="https://www.nature.com/articles/nrd.2017.219">(2017) Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
   <li><a href="https://link.springer.com/article/10.1208/s12248-017-0092-6">(2017) Large-Scale Prediction of Drug-Target Interaction: a Data-Centric Review</a></li>
-  <li><a href="https://www.sciencedirect.com/science/article/pii/S2405844020302899">(2020) FRnet-DTI: Deep convolutional neural network for drug-target interaction prediction</a></li>
   <li><a href="https://www.nature.com/articles/srep11539">(2015) Kinetics of protein-ligand unbinding via smoothed potential molecular dynamics simulations</a></li>
-  <li><a href="https://pubs.rsc.org/en/Content/ArticleLanding/2021/CP/D1CP00206F#!divAbstract">(2021) Protein-ligand free energies of binding from full-protein DFT calculations: convergence and choice of exchange-correlation functional</a></li>
-  <li><a href="https://www.pnas.org/content/102/19/6825">(2005) Calculation of absolute protein–ligand binding free energy from computer simulations</a></li>
-  <li><a href="https://www.nature.com/articles/s41598-020-80769-1">(2021) Automation of absolute protein‑ligand binding free energy calculations for docking refnement and compound evaluation
-</a></li>
-  <li><a href="https://www.pnas.org/content/105/17/6290">(2008) Calculation of protein–ligand binding free energy by using a polarizable potential</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816655/">(2012) Statistical Estimation of the Protein-Ligand Binding Free Energy Based On Direct Protein-Ligand Interaction Obtained by Molecular Dynamics Simulation</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2918242/">(2011) Current Status of the AMOEBA Polarizable Force Field</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
-  <li><a href="https://www.nature.com/articles/nrd.2017.219">(2017) Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
-  <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
   <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/15163179/">(2004) The PDBbind database: collection of binding affinities for protein-ligand complexes with known three-dimensional structures</a></li>
+  <li><a href="https://www.pnas.org/content/105/17/6290">(2008) Calculation of protein–ligand binding free energy by using a polarizable potential</a></li>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/15943484/">(2005) The PDBbind database: methodologies and updates</a></li>
+  <li><a href="https://www.pnas.org/content/102/19/6825">(2005) Calculation of absolute protein–ligand binding free energy from computer simulations</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/15163179/">(2004) The PDBbind database: collection of binding affinities for protein-ligand complexes with known three-dimensional structures</a></li>
+  <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
