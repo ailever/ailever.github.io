@@ -28,9 +28,9 @@ author_staff_member: anonym
 #### Hydrogen-Molecule
 - parahydrogen, orthohydrogen
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 ![image](https://user-images.githubusercontent.com/52376448/114889086-c3826700-9e44-11eb-849b-ae8ce5c0d2da.png)
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H\Psi = E\Psi$$
 $$H = -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
 \left (  
