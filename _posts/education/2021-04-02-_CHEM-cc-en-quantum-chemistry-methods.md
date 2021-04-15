@@ -76,7 +76,7 @@ $$\Psi_{H_{2}^{+}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\var
 
 <br><br></div>
 
-<br><br></div>
+
 
 
 <br><br><br>
