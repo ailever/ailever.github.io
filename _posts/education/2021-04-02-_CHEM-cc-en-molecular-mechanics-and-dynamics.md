@@ -34,11 +34,18 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 
 ## Polarizable Force Fields
 ### AMOEBA Polarizable Potential Energy Model
+The AMOEBA potential function
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$U = U_{bond} + U_{angle} + U_{b\theta} + U_{oop} + U_{torsion} + U_{vdW} + U_{e}^{perm} + U_{e}^{ind}$$  
+<br><br></div>
+
 ### Bond, Angle, and Cross-Energy
 ### Torsional Energy
 ### Van der Waals Interactions
 ### Permanent Electrostatic Interactions
 ### Electronic Polarization
+
+
 
 
 ## Dynamics in Fluid System
