@@ -57,6 +57,25 @@ $$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H_{H_{2}^{+}}\Psi_{H_{2}^{+}} = E_{H_{2}^{+}}\Psi_{H_{2}^{+}}$$
 
+Hamiltonian
+$$\begin{align*}
+H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
+-\frac{\hbar^2}{2m_{e}}\nabla^{2} - \frac{e^{2}}{4\pi\epsilon_{0}}
+\left (  
+\frac{1}{r_{A}} + \frac{1}{r_{B}} - \frac{1}{R_{AB}}
+\right ) \\
+
+&\approx -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
+\left (  
+\frac{1}{r_{A}} + \frac{1}{r_{B}} - \frac{1}{R}
+\right )
+\end{align*}$$
+
+Wave Function for radial variables $r_{1}, r_{2}$
+$$\Psi_{H_{2}^{+}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_{ncl}(R_{A}, R_{B})$$
+
+<br><br></div>
+
 <br><br></div>
 
 
