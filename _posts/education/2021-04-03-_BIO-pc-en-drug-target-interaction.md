@@ -204,6 +204,7 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
     - Simulated Annealing
     - Swarm-Intelligence Algorithm
 - Binding Site and Molecular Interactions
+  - protein–ligand(small molecule) binding site
   - protein–protein binding site
   - protein–nucleic acid binding site
   - protein–carbohydrate binding site
