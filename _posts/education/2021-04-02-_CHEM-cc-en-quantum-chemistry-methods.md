@@ -79,7 +79,7 @@ $$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
 <br><br></div>
 ##### $\pi,\ \sigma$ Bond
 
-#### Polyatomic molecule : Hybrid Orbital
+#### Polyatomic molecule : Hybridization
 - <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$H_{2}O, NH_{3}, CH_{4}$<br><br></span>
 
 
