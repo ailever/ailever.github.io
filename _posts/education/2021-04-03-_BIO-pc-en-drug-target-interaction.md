@@ -279,6 +279,7 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://scholar.harvard.edu/files/schwartz/files/8-freeenergy.pdf">Lecture 8: Free energy</a></li>
   <li><a href="https://www.cambridgemedchemconsulting.com/resources/">Cambridge MedChem Consulting</a></li>
   <li><a href="https://www.rcsb.org/pages/search_features">RCSB PDB Search</a></li>
+  <li><a href="https://github.com/garywei944/FMol">FMol</a></li>
 </ol>
 <ul>
   <li><a href="https://www.nature.com/articles/s41570-018-0018-6">(2020) Metal–ligand interactions in drug design</a></li>
