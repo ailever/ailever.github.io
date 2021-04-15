@@ -71,7 +71,18 @@ U_{e}^{perm} =
 \begin{bmatrix}
 q_{i} &  \\
 d_{ix} &  \\
+d_{iy} & \\
+d_{iz} & \\
+Q_{ixx} & \\
 \vdots & 
+\end{bmatrix}^{t}
+
+\begin{bmatrix}
+1                               & \frac{\partial}{\partial x_{j}}                    & \frac{\partial}{\partial y_{j}} & \frac{\partial}{\partial z_{j}} & \cdots \\
+\frac{\partial}{\partial x_{i}} & \frac{\partial^{2}}{\partial x_{i} \partial x_{j}} & \frac{\partial^{2}}{\partial x_{i} \partial y_{j}} & \frac{\partial^{2}}{\partial x_{i} \partial z_{j}} & \cdots \\
+\frac{\partial}{\partial y_{i}} & \frac{\partial^{2}}{\partial y_{i} \partial x_{j}} & \frac{\partial^{2}}{\partial y_{i} \partial y_{j}} & \frac{\partial^{2}}{\partial x_{i} \partial z_{j}} & \cdots \\
+\frac{\partial}{\partial z_{i}} & \frac{\partial^{2}}{\partial z_{i} \partial x_{j}} & \frac{\partial^{2}}{\partial z_{i} \partial y_{j}} & \frac{\partial^{2}}{\partial x_{i} \partial z_{j}} & \cdots \\
+\vdots                          & \vdots                                             & \vdots & \vdots & \ddots \\
 \end{bmatrix}
 
 $<br><br>
