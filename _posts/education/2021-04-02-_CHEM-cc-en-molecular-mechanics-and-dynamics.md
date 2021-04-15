@@ -53,27 +53,27 @@ $$\begin{align*}
 Energy by Wilson–Decius–Cross function<br>
 $
   U_{oop} = k_{\chi} \chi^{2}
-$
+$<br>
 
 Bell torsion Energy<br>
 $
 U_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
-$
+$<br>
 
 The pairwise additive vdW interaction<br>
 $
 U_{vdW}(ij) = \epsilon_{ij} + \left ( \frac{1.07}{\varrho_{ij} + 0.07} \right )^{7} \left ( \frac{1.12}{\varrho_{ij}^{7}+0.12} -2 \right )
-$
+$<br>
 
 Permanent Electrostatic Interactions in Cartesian polytensor formalism<br>
 $
 U_{e}^{perm} 
-$
+$<br>
 
 Polarization Energy<br>
 $
 U_{e}^{ind} 
-$
+$<br>
 
 <br><br></div>
 
