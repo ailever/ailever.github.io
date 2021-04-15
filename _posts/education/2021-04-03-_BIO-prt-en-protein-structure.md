@@ -67,8 +67,12 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 
 <br><br><br>
 ## Molecular Modeling
+![image](https://user-images.githubusercontent.com/52376448/114812029-2abefd80-9dea-11eb-8658-7bf47554b503.png)
+[REF|<a href="#REF">16</a>]
 - conventional ball-and-stick molecular model
-
+- sphere model
+- ribbon model
+...
 
 <br><br><br>
 ## Levels of protein structure
