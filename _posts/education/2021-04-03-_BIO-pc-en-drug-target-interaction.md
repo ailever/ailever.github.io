@@ -210,6 +210,8 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
   - protein–carbohydrate
   - protein–lipid
 - Binding Site
+- Water Solvation and Docking
+
 
 ### Thermodynamic cycle scheme for the confine-and-release by lock and key model
 ![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
