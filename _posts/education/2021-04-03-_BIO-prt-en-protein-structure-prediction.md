@@ -57,6 +57,11 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
+<ul>
+  <li><a href="#">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ul>
 </div>
 <!-- Article Block -->
 
