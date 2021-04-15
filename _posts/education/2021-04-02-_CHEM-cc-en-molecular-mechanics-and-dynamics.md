@@ -68,6 +68,12 @@ $<br><br>
 Permanent Electrostatic Interactions in Cartesian polytensor formalism<br>
 $
 U_{e}^{perm} = 
+\begin{bmatrix}
+q_{i} &  \\
+d_{ix} &  \\
+\vdots & 
+\end{bmatrix}
+
 $<br><br>
 
 Polarization Energy<br>
