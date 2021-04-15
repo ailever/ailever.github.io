@@ -21,8 +21,8 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Molecular Quantum Mechanics
-- Valence Bond Theory : Bond Length, Bond Strength
-- Molecular Orbital theory(LCAO-MO) : Bonding Angle
+- Valence Bond Theory : Bond Length, Bond Strength, Bonding Angle
+- Molecular Orbital theory(LCAO-MO)
 
 ### Born-Oppenheimer Approximation
 
