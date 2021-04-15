@@ -28,7 +28,7 @@ author_staff_member: anonym
 #### Hydrogen-Molecule
 - parahydrogen, orthohydrogen
 
-![image](https://user-images.githubusercontent.com/52376448/114889086-c3826700-9e44-11eb-849b-ae8ce5c0d2da.png)
+![image](https://user-images.githubusercontent.com/52376448/114890800-4ce66900-9e46-11eb-932e-a311bcfd50ba.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H\Psi = E\Psi$$
