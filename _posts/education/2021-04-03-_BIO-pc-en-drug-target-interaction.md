@@ -188,8 +188,20 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 ## Protein-Ligand Interaction
 ### Design Considerations
 - Molecular Docking
-  - Flexible docking
-  - Rigid docking
+  - Flexible docking / Rigid docking
+  - Scoring Function
+    - Force Field
+    - Empirical
+    - Knowledge based
+  - Search Algorithm
+    - Lamarckian Genetic Algorithm
+    - Shape Matching
+    - Evoluationary Optimization
+    - Genetic Algorithm
+    - Hybrid
+    - Local Optimization
+    - Simulated Annealing
+    - Swarm-Intelligence Algorithm
 - Binding Site and Molecular Interactions
   - protein–protein binding site
   - protein–nucleic acid binding site
