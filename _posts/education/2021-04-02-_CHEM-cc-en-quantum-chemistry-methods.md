@@ -52,7 +52,12 @@ $$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_
 <br><br></div>
 
 #### Hydrogen-Ion
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+![image](https://user-images.githubusercontent.com/52376448/114894979-0c88ea00-9e4a-11eb-8cd6-99c437d9685c.png)
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$H_{H_{2}^{+}}\Psi_{H_{2}^{+}} = E_{H_{2}^{+}}\Psi_{H_{2}^{+}}$$
+
+<br><br></div>
 
 
 <br><br><br>
