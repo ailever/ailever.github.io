@@ -14,7 +14,7 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Mathematical Formula</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Force_field_(chemistry)'">Force-Field</button>
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Morse_potential'">Morse potential</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
@@ -38,6 +38,25 @@ The AMOEBA potential function
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$U = U_{bond} + U_{angle} + U_{b\theta} + U_{oop} + U_{torsion} + U_{vdW} + U_{e}^{perm} + U_{e}^{ind}$$  
 <br><br></div>
+Energy by empirical functions
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\begin{align*}
+  U_{bond} &= K_{b}(b-b_{0})^{2} \left [ 1-2.55(b-b_{0})+3.793125(b-b_{0})^{2} \right ] \\
+  U_{angle} &= K_{b}(b-b_{0})^{2} \left [ 
+  1-0.014(\theta-\theta_{0}) 
+  + 5.6\times 10^{-5}(\theta-\theta_{0})^{2} 
+  - 7.0 \times 10^{-7} (\theta - \theta_{0})^{3} 
+  + 2.2 \times 10^{-8} (\theta-\theta_{0})^{4} \right ] \\ 
+  U_{b\theta} &= k_{b\theta}\left [ (b-b_{0}) - (b^{\prime} - b^{\prime}_{\theta} ) \right ] (\theta - \theta_{0}) \\ 
+\end{align*}$$
+
+Energy by Wilson–Decius–Cross function
+$$
+  U_{oop} = k_{\chi} \chi^{2}
+$$
+
+<br><br></div>
+
 
 ### Bond, Angle, and Cross-Energy
 ### Torsional Energy
