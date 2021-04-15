@@ -1,9 +1,9 @@
 ---
-title: CHEM,
-prev1_title: CHEM,
+title: Lipids
+prev1_title: Organic Chemistry
 prev2_title: Chemistry
 date: 2021-04-02
-description: CHEM, 
+description: Lipids 
 _previous: https://ailever.github.io/education/2020/05/30/Chemistry/
 categories:
   - education
