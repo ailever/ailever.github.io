@@ -4,7 +4,7 @@ prev1_title: Protein Structure Prediction
 prev2_title: Proteomics
 prev3_title: Biology
 date: 2021-04-03
-description: AlphaFold
+description: Improved protein structure prediction using potentials from deep learning
 _previous: https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure-prediction/
 categories:
   - education
