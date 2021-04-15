@@ -32,6 +32,7 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 
 </div>
 
+<br><br><br>
 ## Polarizable Force Fields
 ### AMOEBA Polarizable Potential Energy Model
 The AMOEBA potential function
@@ -108,6 +109,7 @@ $<br><br>
 
 
 
+<br><br><br>
 ## Dynamics in Fluid System
 
 <!-- Content Block -->
