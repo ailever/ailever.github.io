@@ -31,9 +31,9 @@ author_staff_member: anonym
 ![image](https://user-images.githubusercontent.com/52376448/114890800-4ce66900-9e46-11eb-932e-a311bcfd50ba.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H_{molecule}\Psi_{molecule} = E_{molecule}\Psi_{molecule}$$
+$$H_{H_{2}}\Psi_{H_{2}} = E_{H_{2}}\Psi_{H_{2}}$$
 $$\begin{align*}
-H_{molecule} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
+H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
 -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
 \left (  
 \frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
@@ -44,7 +44,10 @@ H_{molecule} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B})
 \frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
 \right )
 \end{align*}$$
+
+$$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \Phi_e(r_{1},r_{2},R)\Phi_{ncl}(R_{A}, R_{B}) $$
 <br><br></div>
+
 
 
 <br><br><br>
