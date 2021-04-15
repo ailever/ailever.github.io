@@ -21,7 +21,15 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Combined QM/MM Modeling Methods
+### Interactions in the QM/MM coupling
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E_{total} = E_{QM} + E_{MM} + E_{QM/MM}$$
+<br><br></div>
 
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## Average Solvent Potential in Mean-Field Theory
