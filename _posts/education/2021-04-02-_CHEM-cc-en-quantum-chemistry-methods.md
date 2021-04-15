@@ -32,16 +32,18 @@ author_staff_member: anonym
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$H\Psi = E\Psi$$
-$$H = -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
+$$\begin{align*}
+H &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
 -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
 \left (  
 \frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
 \right )
-$$
-$$H = -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
+
+&\approx -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
 \left (  
 \frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
-\right )$$
+\right )
+\end{align*}$$
 <br><br></div>
 
 
