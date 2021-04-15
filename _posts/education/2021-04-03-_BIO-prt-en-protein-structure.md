@@ -35,7 +35,7 @@ author_staff_member: anonym
 - conventional ball-and-stick molecular model
 - sphere model
 - ribbon model
-...
+
 
 <br><br><br>
 ## Amino Acids
