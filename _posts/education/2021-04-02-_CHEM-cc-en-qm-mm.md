@@ -24,6 +24,9 @@ author_staff_member: anonym
 ### Interactions in the QM/MM coupling
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E_{total} = E_{QM} + E_{MM} + E_{QM/MM}$$
+$$
+E_{QM/MM} = E_{ES}(QM/MM) + E_{vdW}(QM/MM) + E_{bonded}(QM/MM)
+$$
 <br><br></div>
 
 
