@@ -191,8 +191,7 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
   - Flexible docking / Rigid docking
   - Scoring Function
     - Force Field
-    - Empirical scoring
-      - solvent accessible surface area (SASA) value
+    - Empirical scoring(Solvent Accessible Surface Area value, SASA)
     - Knowledge-Based scoring
   - Search Algorithm
     - Lamarckian Genetic Algorithm
