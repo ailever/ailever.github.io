@@ -223,12 +223,20 @@ author_staff_member: anonym
 </span>
 - Carbon-Carbon Bond-Forming Recations in Organic Synthesis
 - Carbohydrates
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-carbohydrates/)
+  :kr
+</span>
 - Amino Acids and Proteins
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-amino-acids-and-proteins/)
   :kr
 </span>
 - Lipids
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-oc-en-lipids/)
+  :kr
+</span>
 - Synthetis Polymers
 
 
