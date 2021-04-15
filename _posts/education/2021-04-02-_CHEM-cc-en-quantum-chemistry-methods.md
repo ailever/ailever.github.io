@@ -26,8 +26,17 @@ author_staff_member: anonym
 
 ### Born-Oppenheimer Approximation
 #### Hydrogen-Molecule
-- parahydrogen
-- orthohydrogen
+- parahydrogen, orthohydrogen
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+![image](https://user-images.githubusercontent.com/52376448/114889086-c3826700-9e44-11eb-849b-ae8ce5c0d2da.png)
+
+$$H\Psi = E\Psi$$
+$$H = -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
+\left (  
+\frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
+\right )$$
+<br><br></div>
 
 
 <br><br><br>
