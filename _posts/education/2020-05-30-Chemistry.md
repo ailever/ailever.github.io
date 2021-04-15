@@ -71,6 +71,10 @@ author_staff_member: anonym
   :kr
 </span>
 - Binding
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-bc-en-binding/)
+  :kr
+</span>
 - Catalysis
 - Oxidation & Phosphorylation
 - Metabolic and Signal Tranduction
