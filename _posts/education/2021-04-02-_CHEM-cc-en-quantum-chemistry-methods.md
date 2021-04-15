@@ -45,7 +45,7 @@ Hamiltonian
 \right )
 \end{align*}$$
 
-Wave Function
+Wave Function with only radial variable
 $$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_{ncl}(R_{A}, R_{B})$$
 
 <br><br></div>
