@@ -85,6 +85,17 @@ Q_{ixx} & \\
 \vdots                          & \vdots                                             & \vdots & \vdots & \ddots \\
 \end{bmatrix}
 
+\left ( \frac{1}{r_{ji}} \right )
+
+\begin{bmatrix}
+q_{j} &  \\
+d_{jx} &  \\
+d_{jy} & \\
+d_{jz} & \\
+Q_{jxx} & \\
+\vdots & 
+\end{bmatrix}
+
 $<br><br>
 
 Polarization Energy<br>
