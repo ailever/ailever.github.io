@@ -25,7 +25,9 @@ author_staff_member: anonym
 - Molecular Orbital theory(LCAO-MO)
 
 ### Born-Oppenheimer Approximation
-
+#### Hydrogen-Molecule
+- parahydrogen
+- orthohydrogen
 
 
 <br><br><br>
