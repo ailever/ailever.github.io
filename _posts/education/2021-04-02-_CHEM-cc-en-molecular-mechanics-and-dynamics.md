@@ -67,12 +67,12 @@ $<br><br>
 
 Permanent Electrostatic Interactions in Cartesian polytensor formalism<br>
 $
-U_{e}^{perm} 
+U_{e}^{perm} = 
 $<br><br>
 
 Polarization Energy<br>
 $
-U_{e}^{ind} 
+U_{e}^{ind} = -\frac{1}{2} \sum_{i} \alpha_{i} \left ( \sum_{j \ne i} T^{1}_{ij}M_{j} - \sum_{k \ne i} T^{11}_{ik}\mu_{k} \right )^{T}E_{i}
 $<br><br>
 
 <br><br></div>
