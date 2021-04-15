@@ -186,6 +186,9 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 <br><br><br>
 ## Protein-Ligand Interaction
+![image](https://user-images.githubusercontent.com/52376448/114827229-63b79c00-9e03-11eb-9568-200ac71fcb82.png)
+[REF|<a href="#REF" style="font-size:xx-small;">Metal–ligand interactions in drug design</a>]
+
 ### Design Considerations
 - Molecular Docking
   - Flexible docking / Rigid docking
@@ -278,20 +281,21 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://www.rcsb.org/pages/search_features">RCSB PDB Search</a></li>
 </ol>
 <ul>
+  <li><a href="https://www.nature.com/articles/s41570-018-0018-6">(2020) Metal–ligand interactions in drug design</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
   <li><a href="https://www.nature.com/articles/s41586-019-1923-7?fbclid=IwAR3k8qrx_q1mVDUFd_IF0RuVV9yfUVv30x-oYenFfiaqd8DtOdFdycZrnz8">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/">(2016) Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749230/">(2018) A bioinorganic approach to fragment-based drug discovery targeting metalloenzymes</a></li>
   <li><a href="https://www.nature.com/articles/nrd.2017.219">(2017) Mechanistic enzymology in drug discovery: a fresh perspective</a></li>
-  <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
-  <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>
-  <li><a href="https://link.springer.com/article/10.1007/s00214-012-1272-1">(2012) Binding free energy, energy and entropy calculations using simple model systems</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/25330964/">(2015) Calculation of Binding Free Energies</a></li>  
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369993/">(2020) Absolute Binding Free Energy Calculations for Highly Flexible Protein MDM2 and Its Inhibitors</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4700411/">(2015) Accurate calculation of the absolute free energy of binding for drug molecules</a></li>
-  <li><a href="https://dasher.wustl.edu/chem478/reading/free-energy-shirts.pdf">(2010) Free-energy calculations in structure-based drug design</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562444/">(2007) The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a></li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187911/">(2011) Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783878/">(2016) Insights into Protein–Ligand Interactions: Mechanisms, Models, and Methods</a></li>
   <li><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.5b00630">(2016) Ligand-Binding Affinity Estimates Supported by Quantum-Mechanical Methods</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/25330964/">(2015) Calculation of Binding Free Energies</a></li>  
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4700411/">(2015) Accurate calculation of the absolute free energy of binding for drug molecules</a></li>
+  <li><a href="https://link.springer.com/article/10.1007/s00214-012-1272-1">(2012) Binding free energy, energy and entropy calculations using simple model systems</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187911/">(2011) Soft-Core Potentials in Thermodynamic Integration. Comparing One- and Two-Step Transformations</a></li>
+  <li><a href="https://dasher.wustl.edu/chem478/reading/free-energy-shirts.pdf">(2010) Free-energy calculations in structure-based drug design</a></li>
+  <li><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cmdc.201000085">(2010) High-throughput virtual screening using quantum mechanical probes: discovery of selective kinase inhibitors</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2562444/">(2007) The Confine-and-Release Method: Obtaining Correct Binding Free Energies in the Presence of Protein Conformational Change</a></li>
+  <li><a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572004000400022">(2004) A genetic algorithm for the ligand-protein docking problem</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
