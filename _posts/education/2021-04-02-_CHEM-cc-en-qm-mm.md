@@ -29,8 +29,11 @@ E_{QM/MM} = E_{ES}(QM/MM) + E_{vdW}(QM/MM) + E_{bonded}(QM/MM)
 $$
 <br><br></div>
 
+The effective Hamiltonian
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$H_{eff} = H_{QM} + H_{ES}(QM/MM)$$  
+<br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
