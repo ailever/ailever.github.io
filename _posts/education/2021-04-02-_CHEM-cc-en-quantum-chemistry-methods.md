@@ -22,7 +22,7 @@ author_staff_member: anonym
 
 ## Molecular Quantum Mechanics
 - Bond Length, Bond Strength, Bonding Angle
-- Valence Bond Theory > Molecular Orbital theory
+- Valence Bond Theory > Molecular Orbital theory(LCAO-MO)
 
 
 <br><br><br>
