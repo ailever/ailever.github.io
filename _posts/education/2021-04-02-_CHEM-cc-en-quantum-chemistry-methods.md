@@ -24,6 +24,9 @@ author_staff_member: anonym
 - Bond Length, Bond Strength, Bonding Angle
 - Valence Bond Theory > Molecular Orbital theory(LCAO-MO)
 
+### Born-Oppenheimer Approximation
+
+
 
 <br><br><br>
 ## QM-Based Force Fields
