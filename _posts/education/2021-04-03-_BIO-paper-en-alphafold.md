@@ -20,14 +20,6 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## The drug design process
-- Target Receptor > Screening > Lead Optimization > Drug Candidate
-
-<br><br><br>
-## Issues
-- how to put off-target activity/toxicity into context
-- solving ADME/T issues
-- Affinity Prediction of Each Drug to ACE2 and TMPRSS2
 
 
 
@@ -74,7 +66,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-04-03-_BIO-paper-en-new.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-04-03-_BIO-paper-en-alphafold.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
