@@ -21,8 +21,21 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Cropped distograms
 
+## Distance potential
 
+## Structure realization by gradient descent
+
+## Accuracy
+
+## Full chains without domain segmentation
+
+## CASP13 results
+
+## Biological relevance of AlphaFold predictions
+
+## Interpretation of distogram neural network
 
 
 <!-- Content Block -->
