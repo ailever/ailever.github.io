@@ -77,6 +77,7 @@ $$\Psi_{H_{2}^{+}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\var
 $$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
 
 <br><br></div>
+##### $\pi,\ \sigma$ Bond
 
 #### Polyatomic molecule : Hybrid Orbital
 - <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$H_{2}O, NH_{3}, CH_{4}$<br><br></span>
