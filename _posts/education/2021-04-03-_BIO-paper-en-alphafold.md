@@ -1,10 +1,11 @@
 ---
 title: AlphaFold
-prev1_title: PAPER REVIEW
-prev2_title: Biology
+prev1_title: Protein Structure Prediction
+prev2_title: Proteomics
+prev3_title: Biology
 date: 2021-04-03
 description: AlphaFold
-_previous: https://ailever.github.io/education/2020/05/30/Biology/
+_previous: https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure-prediction/
 categories:
   - education
 HL1: education
