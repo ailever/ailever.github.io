@@ -60,14 +60,17 @@ $$
 U_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
 $$
 
+The pairwise additive vdW interaction
+$$
+U_{vdW}(ij) = \epsilon_{ij} + \left ( \frac{1.07}{\varrho_{ij} + 0.07} \right )^{7} \left ( \frac{1.12}{\varrho_{ij}^{7}+0.12} -2 \right )
+$$
+
+Permanent Electrostatic Interactions in Cartesian polytensor formalism
+$$
+U_{e}^{perm} 
+$$
+
 <br><br></div>
-
-
-### Bond, Angle, and Cross-Energy
-### Torsional Energy
-### Van der Waals Interactions
-### Permanent Electrostatic Interactions
-### Electronic Polarization
 
 
 
