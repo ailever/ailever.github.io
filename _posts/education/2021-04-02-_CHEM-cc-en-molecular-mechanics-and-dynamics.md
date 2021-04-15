@@ -33,7 +33,12 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 </div>
 
 ## Polarizable Force Fields
-
+### AMOEBA Polarizable Potential Energy Model
+### Bond, Angle, and Cross-Energy
+### Torsional Energy
+### Van der Waals Interactions
+### Permanent Electrostatic Interactions
+### Electronic Polarization
 
 
 <!-- Content Block -->
