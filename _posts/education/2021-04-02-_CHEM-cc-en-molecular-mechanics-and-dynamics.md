@@ -55,6 +55,11 @@ $$
   U_{oop} = k_{\chi} \chi^{2}
 $$
 
+Bell torsion Energy
+$$
+U_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
+$$
+
 <br><br></div>
 
 
