@@ -21,6 +21,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+![image](https://user-images.githubusercontent.com/52376448/114860316-cec69a00-9e26-11eb-9bb0-3a19b946034d.png)
+
 ## Cropped distograms
 
 <br><br><br>
