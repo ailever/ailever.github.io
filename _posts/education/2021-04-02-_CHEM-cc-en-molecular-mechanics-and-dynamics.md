@@ -50,25 +50,30 @@ $$\begin{align*}
   U_{b\theta} &= k_{b\theta}\left [ (b-b_{0}) - (b^{\prime} - b^{\prime}_{\theta} ) \right ] (\theta - \theta_{0}) \\ 
 \end{align*}$$
 
-Energy by Wilson–Decius–Cross function
-$$
+Energy by Wilson–Decius–Cross function<br>
+$
   U_{oop} = k_{\chi} \chi^{2}
-$$
+$
 
-Bell torsion Energy
-$$
+Bell torsion Energy<br>
+$
 U_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
-$$
+$
 
-The pairwise additive vdW interaction
-$$
+The pairwise additive vdW interaction<br>
+$
 U_{vdW}(ij) = \epsilon_{ij} + \left ( \frac{1.07}{\varrho_{ij} + 0.07} \right )^{7} \left ( \frac{1.12}{\varrho_{ij}^{7}+0.12} -2 \right )
-$$
+$
 
-Permanent Electrostatic Interactions in Cartesian polytensor formalism
-$$
+Permanent Electrostatic Interactions in Cartesian polytensor formalism<br>
+$
 U_{e}^{perm} 
-$$
+$
+
+Polarization Energy<br>
+$
+U_{e}^{ind} 
+$
 
 <br><br></div>
 
