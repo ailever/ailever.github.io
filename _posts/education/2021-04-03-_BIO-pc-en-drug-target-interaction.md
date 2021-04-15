@@ -186,6 +186,12 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 
 <br><br><br>
 ## Protein-Ligand Interaction
+### Binding Site and Molecular Interactions
+- protein–protein binding site
+- protein–nucleic acid binding site
+- protein–carbohydrate binding site
+- protein–lipid binding site
+- protein–small molecule binding site
 
 ### Thermodynamic cycle scheme for the confine-and-release by lock and key model
 ![image](https://user-images.githubusercontent.com/52376448/113856529-559ec580-97dc-11eb-92a7-06f6adae978d.png)
