@@ -21,9 +21,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Molecular Quantum Mechanics
-- Bond Length
-- Bond Strength
-- Bonding Angle
+- Bond Length, Bond Strength, Bonding Angle
+- Valence Bond Theory > Molecular Orbital theory
+
 
 <br><br><br>
 ## QM-Based Force Fields
