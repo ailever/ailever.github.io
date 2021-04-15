@@ -25,8 +25,8 @@ author_staff_member: anonym
 - Molecular Orbital theory(LCAO-MO)
 
 ### Born-Oppenheimer Approximation
-#### Hydrogen-Molecule
-- parahydrogen, orthohydrogen
+#### Diatomic Molecule
+- **Hydrogen-Molecule**(parahydrogen, orthohydrogen)
 
 ![image](https://user-images.githubusercontent.com/52376448/114892305-9aafa100-9e47-11eb-8fea-c66066ecfcb2.png)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -51,7 +51,7 @@ $$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_{e_{1,2}}(r_{1},r_{2},R)
 
 <br><br></div>
 
-#### Hydrogen-Ion
+- **Hydrogen-Ion**
 ![image](https://user-images.githubusercontent.com/52376448/114894979-0c88ea00-9e4a-11eb-8cd6-99c437d9685c.png)
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
@@ -78,7 +78,8 @@ $$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
 
 <br><br></div>
 
-
+#### Polyatomic molecule
+- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">H_{2}O, NH_{3}, CH_{4}<br><br></span>
 
 
 <br><br><br>
