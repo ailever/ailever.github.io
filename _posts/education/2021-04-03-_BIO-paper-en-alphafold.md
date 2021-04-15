@@ -42,7 +42,7 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
 </ol>
 <ul>
-  <li><a href="#"></a></li>
+  <li><a href="https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
