@@ -43,7 +43,7 @@ H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B})
 \frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
 \right ) \\ 
 
-\Psi_{H_{2}}&(r_{1},r_{2},R_{A},R_{B}) \approx \phi_e(r_{1},r_{2},R)\phi_{ncl}(R_{A}, R_{B})
+\Psi_{H_{2}}&(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_{ncl}(R_{A}, R_{B})
 \end{align*}$$
 
 <br><br></div>
