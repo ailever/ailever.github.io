@@ -87,7 +87,13 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 <br><br><br>
 ## Levels of protein structure
 ### Primary structure
+- Homoogous : ex) cytochrome > invariant
+- Protein evolution : variable
+
 ### Secondary structure
+- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$\alpha$-helix, $\beta$-pleated sheet</span>
+
+
 ### Tertiary structure
 - Denaturation/Renaturation : Primary > Tertiary
 
