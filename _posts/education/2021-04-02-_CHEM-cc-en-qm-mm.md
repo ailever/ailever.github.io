@@ -20,6 +20,10 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Combined QM/MM Modeling Methods
+
+
+<br><br><br>
 ## Average Solvent Potential in Mean-Field Theory
 ### The mutual solute–solvent polarization
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
