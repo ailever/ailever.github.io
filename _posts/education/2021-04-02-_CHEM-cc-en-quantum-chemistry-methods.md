@@ -25,7 +25,7 @@ author_staff_member: anonym
 - Molecular Orbital theory(LCAO-MO)
 
 ### Born-Oppenheimer Approximation
-#### Diatomic Molecule
+#### Diatomic Molecule : Valence Bond
 - **Hydrogen-Molecule**(parahydrogen, orthohydrogen)
 
 ![image](https://user-images.githubusercontent.com/52376448/114892305-9aafa100-9e47-11eb-8fea-c66066ecfcb2.png)
@@ -78,8 +78,8 @@ $$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
 
 <br><br></div>
 
-#### Polyatomic molecule
-- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">H_{2}O, NH_{3}, CH_{4}<br><br></span>
+#### Polyatomic molecule : Hybrid Orbital
+- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$H_{2}O, NH_{3}, CH_{4}$<br><br></span>
 
 
 <br><br><br>
