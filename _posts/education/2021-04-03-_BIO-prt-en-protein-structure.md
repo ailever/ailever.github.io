@@ -92,10 +92,11 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 
 ### Secondary structure
 - <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$\alpha$-helix, $\beta$-pleated sheet</span>
-
+- Supersecondary structure
 
 ### Tertiary structure
 - Denaturation/Renaturation : Primary > Tertiary
+- Globular structure
 
 ### Quaternary structure
 
