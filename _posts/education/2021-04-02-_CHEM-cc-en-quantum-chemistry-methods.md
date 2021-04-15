@@ -47,7 +47,7 @@ H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B})
 \end{align*}$$
 
 Wave Function for radial variables $r_{1}, r_{2}$
-$$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_{ncl}(R_{A}, R_{B})$$
+$$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_{e_{1,2}}(r_{1},r_{2},R)\varphi_{ncl_{A,B}}(R_{A}, R_{B})$$
 
 <br><br></div>
 
