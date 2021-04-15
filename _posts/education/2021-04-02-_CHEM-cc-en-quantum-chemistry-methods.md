@@ -21,6 +21,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Molecular Quantum Mechanics
+- Bond Length
+- Bond Strength
+- Bonding Angle
 
 <br><br><br>
 ## QM-Based Force Fields
