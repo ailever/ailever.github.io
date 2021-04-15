@@ -64,6 +64,12 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 
 #### Ramachandran Plot
 
+
+<br><br><br>
+## Molecular Modeling
+- conventional ball-and-stick molecular model
+
+
 <br><br><br>
 ## Levels of protein structure
 ### Primary structure
@@ -106,6 +112,7 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
   <li><a href="https://en.wikipedia.org/wiki/Protein%E2%80%93protein_interaction">Protein-protein interaction</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Protein_design">Protein design</a></li>
   <li><a href="https://pymol.org/2/">PyMol</a></li>
+  <li><a href="http://www.cgl.ucsf.edu/chimera/1.1700/docs/UsersGuide/representation.html">Molecular Representation</a></li>
 </ol>
 <ul>
   <li><a href="#"></a></li>
