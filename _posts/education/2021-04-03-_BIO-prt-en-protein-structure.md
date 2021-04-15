@@ -19,7 +19,25 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
+## Introduction
+- Fibrous protien, Globular protein
+- Simple proteinm Conjugated protein (with nonprotein)
+  - Conjugated protein : apoprotein + prosthetic group = holoprotein 
+    - Glycoprotein
+    - Lipoprotein
+    - Metalloprotein
+    - Phosphoprotein
+    - Hemoprotein
 
+### Molecular Modeling
+![image](https://user-images.githubusercontent.com/52376448/114812029-2abefd80-9dea-11eb-8658-7bf47554b503.png)
+[REF|<a href="#REF">16</a>]
+- conventional ball-and-stick molecular model
+- sphere model
+- ribbon model
+...
+
+<br><br><br>
 ## Amino Acids
 ![image](https://user-images.githubusercontent.com/52376448/113742070-33099f80-973d-11eb-9a4d-5a7f2428af26.png)
 [<a href="#REF">REF|2</a>]
@@ -65,14 +83,6 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 #### Ramachandran Plot
 
 
-<br><br><br>
-## Molecular Modeling
-![image](https://user-images.githubusercontent.com/52376448/114812029-2abefd80-9dea-11eb-8658-7bf47554b503.png)
-[REF|<a href="#REF">16</a>]
-- conventional ball-and-stick molecular model
-- sphere model
-- ribbon model
-...
 
 <br><br><br>
 ## Levels of protein structure
