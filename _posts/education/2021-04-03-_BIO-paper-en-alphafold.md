@@ -59,7 +59,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="http://www.btnews.or.kr/bbs/board.php?bo_table=bt_news&wr_id=159&&">알파폴드 (AlphaFold): 인공지능 기반 단백질 3차구조 예측</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
