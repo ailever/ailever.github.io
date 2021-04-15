@@ -96,9 +96,12 @@ Amino acids comprise **amino(–NH2, hydrophobic)** and **carboxyl(–COOH, hydr
 
 ### Tertiary structure
 - Denaturation/Renaturation : Primary > Tertiary
-- Globular structure
+- Globular Structure
+- Protein Folding
 
 ### Quaternary structure
+- Oligomer, Protomer
+
 
 <br><br><br>
 ## Structural Units
