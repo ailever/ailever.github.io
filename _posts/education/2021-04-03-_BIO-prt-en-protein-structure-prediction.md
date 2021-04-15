@@ -59,7 +59,7 @@ author_staff_member: anonym
 </ol>
 <ul>
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-alphafold/">(2020) Improved protein structure prediction using potentials from deep learning</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-deep-learning-in-protein-structural-modeling-and-design/">(2020) Deep Learning in Protein Structural Modeling and Design</a></li>
   <li><a href="#"></a></li>
 </ul>
 </div>
