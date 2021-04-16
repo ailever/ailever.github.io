@@ -85,7 +85,7 @@ author_staff_member: anonym
 ## Physical Chemistry
 - Periodic Table
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-pc-en-periodic-table/)
   :kr
 </span>
 - Helmholtz and Gibbs Free Energy
