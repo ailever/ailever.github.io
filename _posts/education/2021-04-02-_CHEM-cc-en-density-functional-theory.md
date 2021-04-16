@@ -259,7 +259,11 @@ $$\begin{align*}
 
 Charge density in the LCAO scheme
 $$
-\rho(\vec{r}) = \sum_{i}^{L}\left \vert \psi_{i}(\vec{r}) \right \vert^{2} = \sum_{i}^{N}\sum_{\mu}^{L}\sum_{\nu}^{L}c_{\mu i}c_{\nu i}\eta_{\mu}(\vec{r})\eta_{\nu}(\vec{r})
+\rho(\vec{r}) = \sum_{i}^{L}\left \vert \psi_{i}(\vec{r}) \right \vert^{2} = \sum_{\mu}^{L}\sum_{\nu}^{L}P_{\mu\nu}\eta_{\mu}(\vec{r})\eta_{\nu}(\vec{r})
+$$
+
+$$
+P_{\mu\nu} = \sum_{i}^{N} c_{\mu i}c_{\nu i}
 $$
 
 <br><br></div>
