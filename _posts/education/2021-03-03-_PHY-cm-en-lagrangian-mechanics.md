@@ -82,7 +82,7 @@ $$\delta \vec{r}_{i} = \sum_{j} \frac{\partial \vec{r}_{i}}{\partial q_{j}}\delt
 
 ### Principle of Virtual Work
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\sum \vec{F}_{i}^{(a)} \cdot \delta \vec{r} = 0 \quad \text{at equilibrium}$$
+$$\sum \vec{F}_{i}^{(a)} \cdot \delta \vec{r}_{i} = 0 \quad \text{at equilibrium}$$
 <br><br></div>
 
 ### Generalized Force
