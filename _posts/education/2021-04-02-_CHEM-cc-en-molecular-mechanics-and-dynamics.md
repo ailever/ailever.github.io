@@ -25,7 +25,7 @@ author_staff_member: anonym
 
 ## Basic Molecular Dynamics
 ### Verlet algorithm
-Newton's Equation for N-body problem
+From the Newton's equation for N-body problem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F_{i}=m_{i}a_{i}$$
 $$F_{i}=-\frac{\partial \mathcal{V}(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
@@ -71,38 +71,38 @@ E & = {\color{red}{E_{covalent}}} + {\color{blue}{E_{noncovalent}}} \\
 ### AMOEBA Polarizable Potential Energy Model
 The AMOEBA potential function
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$U = U_{bond} + U_{angle} + U_{b\theta} + U_{oop} + U_{torsion} + U_{vdW} + U_{e}^{perm} + U_{e}^{ind}$$  
+$$\mathcal{V} = \mathcal{V}_{bond} + \mathcal{V}_{angle} + \mathcal{V}_{b\theta} + \mathcal{V}_{oop} + \mathcal{V}_{torsion} + \mathcal{V}_{vdW} + \mathcal{V}_{e}^{perm} + \mathcal{V}_{e}^{ind}$$  
 <br><br></div>
 Energy by empirical functions
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
-  U_{bond} &= K_{b}(b-b_{0})^{2} \left [ 1-2.55(b-b_{0})+3.793125(b-b_{0})^{2} \right ] \\
-  U_{angle} &= K_{b}(b-b_{0})^{2} \left [ 
+  \mathcal{V}_{bond} &= K_{b}(b-b_{0})^{2} \left [ 1-2.55(b-b_{0})+3.793125(b-b_{0})^{2} \right ] \\
+  \mathcal{V}_{angle} &= K_{b}(b-b_{0})^{2} \left [ 
   1-0.014(\theta-\theta_{0}) 
   + 5.6\times 10^{-5}(\theta-\theta_{0})^{2} 
   - 7.0 \times 10^{-7} (\theta - \theta_{0})^{3} 
   + 2.2 \times 10^{-8} (\theta-\theta_{0})^{4} \right ] \\ 
-  U_{b\theta} &= k_{b\theta}\left [ (b-b_{0}) - (b^{\prime} - b^{\prime}_{\theta} ) \right ] (\theta - \theta_{0}) \\ 
+  \mathcal{V}_{b\theta} &= k_{b\theta}\left [ (b-b_{0}) - (b^{\prime} - b^{\prime}_{\theta} ) \right ] (\theta - \theta_{0}) \\ 
 \end{align*}$$
 
 Energy by Wilson–Decius–Cross function<br>
 $
-  U_{oop} = k_{\chi} \chi^{2}
+  \mathcal{V}_{oop} = k_{\chi} \chi^{2}
 $<br><br>
 
 Bell torsion Energy<br>
 $
-U_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
+\mathcal{V}_{torsion} = \sum_{n} {K_{n\phi}[1+cos(n\phi \pm \delta)]}
 $<br><br>
 
 The pairwise additive vdW interaction<br>
 $
-U_{vdW}(ij) = \epsilon_{ij} + \left ( \frac{1.07}{\varrho_{ij} + 0.07} \right )^{7} \left ( \frac{1.12}{\varrho_{ij}^{7}+0.12} -2 \right )
+\mathcal{V}_{vdW}(ij) = \epsilon_{ij} + \left ( \frac{1.07}{\varrho_{ij} + 0.07} \right )^{7} \left ( \frac{1.12}{\varrho_{ij}^{7}+0.12} -2 \right )
 $<br><br>
 
 Permanent Electrostatic Interactions in Cartesian polytensor formalism<br>
 $
-U_{e}^{perm} = 
+\mathcal{V}_{e}^{perm} = 
 \begin{bmatrix}
 q_{i} &  \\
 d_{ix} &  \\
@@ -135,7 +135,7 @@ $<br><br>
 
 Polarization Energy<br>
 $
-U_{e}^{ind} = -\frac{1}{2} \sum_{i} \alpha_{i} \left ( \sum_{j \ne i} T^{1}_{ij}M_{j} - \sum_{k \ne i} T^{11}_{ik}\mu_{k} \right )^{T}E_{i}
+\mathcal{V}_{e}^{ind} = -\frac{1}{2} \sum_{i} \alpha_{i} \left ( \sum_{j \ne i} T^{1}_{ij}M_{j} - \sum_{k \ne i} T^{11}_{ik}\mu_{k} \right )^{T}E_{i}
 $<br><br>
 
 <br><br></div>
