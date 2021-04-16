@@ -222,7 +222,27 @@ $$
 <br><br><br>
 ## The basic machinary of DFT
 ### The LCAO Ansatz in the The Kohn-Sham equations
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The Kohn-Sham one-electron operator from Kohn-Sham equations
+$$
+\left ( \int {\frac{\rho(\vec{r_{2}})}{r_{12}}} \,d\vec{r_{2}} + V_{XC}(\vec{r_{1}}) - \sum_{A}^{M} {\frac{Z_{A}}{r_{1A}}} \right ) \psi_{i} = \epsilon_{i}\psi_{i}
+$$
+
+$$
+\hat{f}^{KS}\psi_{i} = \epsilon_{i}\psi_{i}  
+$$
+
+K-S orbital
+$$
+\psi_{i} = \sum_{\mu=1}^{L} c_{\mu i}\eta_{\mu}
+$$
+  
+  
+  
+<br><br></div>
+
+
+
 ### Basis sets
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
