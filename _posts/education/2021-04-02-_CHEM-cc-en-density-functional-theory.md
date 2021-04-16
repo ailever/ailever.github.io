@@ -171,8 +171,8 @@ $$\begin{align*}
 E[\rho] &= T_{S} + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
 &= T_{S} + \frac{1}{2} \iint \frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{XC}[\rho] + \int V_{Ne}\rho(\vec{r}) \, d\vec{r} \\
 &= \frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^{2} |\psi_{i} \right \rangle
-+ \frac{1}{2} \sum_{i}^{N} \sum_{j}^{N} \iint \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \left \vert \psi_{j}(\vec{r_{2}}) \right \vert^2 \, d\vec{r_{1}} \,d\vec{r_{1}}
-+ E_{XC}[\rho] - \sum_{i}^{N} \int \sum_{A}^{M} \frac{Z_{A}}{r_{1A}} \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \,d\vec{r_{1}}
++ \frac{1}{2} \sum_{i}^{N} \sum_{j}^{N} \iint \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \left \vert \psi_{j}(\vec{r_{2}}) \right \vert^2 \, d\vec{r_{1}} \,d\vec{r_{1}} \\
+&\quad + E_{XC}[\rho] - \sum_{i}^{N} \int \sum_{A}^{M} \frac{Z_{A}}{r_{1A}} \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \,d\vec{r_{1}}
 
 \end{align*}$$
 
