@@ -92,7 +92,7 @@ $$Q_{i} \equiv \sum_{j} \vec{F}_{j}\cdot \frac{\partial \vec{r}_{j}}{\partial q_
 
 ### d'Alembert's Principle
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\sum \left ( \vec{F}_{i}^{(a)} - \dot{\vec{p}}_{i} \right ) \cdot \delta \vec{r} = 0 \quad \text{at equilibrium}$$
+$$\sum \left ( \vec{F}_{i}^{(a)} - \dot{\vec{p}}_{i} \right ) \cdot \delta \vec{r}_{i} = 0 \quad \text{at equilibrium}$$
 <br><br></div>
 
 ### Euler equation by d'Alembert's Principle
