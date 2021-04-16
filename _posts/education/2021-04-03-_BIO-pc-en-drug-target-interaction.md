@@ -154,7 +154,7 @@ $$V_{ij} = 4\epsilon_{ij}(1-\lambda)^{t} ([\alpha_{LJ}\lambda^{s} + (r_{ij}/\sig
 $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$  
 <br><br></div>
 
-### Binding Affinity Prediction
+### Structure/Binding Affinity Prediction
 #### Experimental Approach
 - NMR Methods for the Determination of Protein–Ligand Interactions
   - Detection and Verification of Ligand Binding
