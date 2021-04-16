@@ -37,8 +37,8 @@ $$\hat{\mathcal{H}} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
 + \sum_{A=1}^{M} \sum_{B>A}^{M} {\frac{Z_{A}Z_{B}}{R_{AB}}}$$
 
 Born-Oppenheimer approximation
-$$\hat{\mathcal{H}_{elec}}\Psi_{elec} = E_{elec}\Psi_{elec}$$
-$$\hat{\mathcal{H}_{elec}} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
+$$\hat{\mathcal{H}}_{elec}\Psi_{elec} = E_{elec}\Psi_{elec}$$
+$$\hat{\mathcal{H}}_{elec} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
 -\sum_{i=1}^{N} \sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}
 + \sum_{i=1}^{N} \sum_{j>i}^{N} {\frac{1}{r_{ij}}}$$
 $$E_{tot}=E_{elec}+E_{nuc}\qquad \text{where } E_{nuc}=\sum_{A=1}^{M}\sum_{B>A}^{M}\frac{Z_{A}Z_{B}}{R_{AB}}$$
@@ -67,10 +67,10 @@ $$
 E_{HF}=min_{\Psi_{HF}\rightarrow N}E[\Psi_{HF}]
 $$
 $$
-E_{HF} = \left \langle \Psi_{HF} | \hat{\mathcal{H}} | \Psi_{HF} \right \rangle = \sum_{i=1}^{N} {\hat{\mathcal{H}_{i}}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
+E_{HF} = \left \langle \Psi_{HF} | \hat{\mathcal{H}} | \Psi_{HF} \right \rangle = \sum_{i=1}^{N} {\hat{\mathcal{H}}_{i}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
 $$
 $$
-\hat{\mathcal{H}_{i}} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
+\hat{\mathcal{H}}_{i} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
 $$
 
 Non-Classical Contribution(Self-Interaction correction) : Coulomb integrals and Exchange integrals
