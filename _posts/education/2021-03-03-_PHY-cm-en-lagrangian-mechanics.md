@@ -45,7 +45,7 @@ $$\delta J = \int_{x_{1}}^{x_{2}} \left (  \frac{\partial f}{\partial y} - \frac
 $$\because \text{Stationary value of}\ J,\quad \left [ \frac{\partial J(\alpha)}{\partial \alpha} \right ]_{\alpha} = 0$$
 <br><br></div>
 
-### Euler equation
+### Euler-Lagrange equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\frac{\partial \mathcal{L}}{\partial x} - \frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{x}} = 0 $$
 <br><br></div>
@@ -95,7 +95,7 @@ $$Q_{i} \equiv \sum_{j} \vec{F}_{j}\cdot \frac{\partial \vec{r}_{j}}{\partial q_
 $$\sum \left ( \vec{F}_{i}^{(a)} - \dot{\vec{p}}_{i} \right ) \cdot \delta \vec{r}_{i} = 0 \quad \text{at equilibrium}$$
 <br><br></div>
 
-### Euler equation by d'Alembert's Principle
+### Euler-Lagrange equation by d'Alembert's Principle
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} - \frac{\partial \mathcal{L}}{\partial q_{i}}= Q_{i} $$
 <br><br></div>
