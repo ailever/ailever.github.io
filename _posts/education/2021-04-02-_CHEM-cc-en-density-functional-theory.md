@@ -160,7 +160,7 @@ $$
 ## The Kohn-Sham approach
 ### The Kohn-Sham equations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$  
+$$F[\rho] = T_{S} + J[\rho] + E_{XC}[\rho]$$  
 $$\begin{align*}
   T_{S} &= \frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^{2} |\psi_{i} \right \rangle \\
   E_{XC}[\rho] &\equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho]) \\
@@ -168,8 +168,11 @@ $$\begin{align*}
   
 The energy of the interacting system for uniquely determining the orbitals in our non-interacting reference system
 $$\begin{align*}
-E[\rho] &= T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
-&= T_{S}[\rho] + \frac{1}{2} \iint \frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{XC}[\rho] + \int V_{Ne}\rho(\vec{r}) \, d\vec{r}
+E[\rho] &= T_{S} + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
+&= T_{S} + \frac{1}{2} \iint \frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{XC}[\rho] + \int V_{Ne}\rho(\vec{r}) \, d\vec{r} \\
+&= \frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^{2} |\psi_{i} \right \rangle
++ \frac{1}{2} \sum_{i}^{N} \sum_{j}^{N} \iint \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \left \vert \psi_{j}(\vec{r_{2}}) \right \vert^2 \, d\vec{r_{1}} \,d\vec{r_{1}}
++ E_{XC}[\rho] - \sum_{i}^{N} \int \sum_{A}^{M} \frac{Z_{A}}{r_{1A}} \left \vert \psi_{i}(\vec{r_{1}}) \right \vert^2 \,d\vec{r_{1}}
 
 \end{align*}$$
 
