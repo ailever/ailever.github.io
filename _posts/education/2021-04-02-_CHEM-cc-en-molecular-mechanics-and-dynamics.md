@@ -50,7 +50,8 @@ $$J=\int_{t_{b}}^{t_{e}} \mathcal{L} dt $$
 $$\mathcal{L} = \mathcal{L}(\dot{r}, r) = \sum_{i=1}^{N} \frac{1}{2}m_{i}\dot{r}_{i}^{2} - \mathcal{V}(r_{1},r_{2},\cdots,r_{N})$$
 <br><br></div>
 
-
+### Monte Carlo (MC) simulation
+### Langevin dynamics
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <br><br></div>
