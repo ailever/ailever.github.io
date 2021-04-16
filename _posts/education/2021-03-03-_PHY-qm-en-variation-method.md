@@ -1,9 +1,9 @@
 ---
-title: PHY, 
-prev1_title: PHY,
+title: Variation Method
+prev1_title: Quantum Mechanics
 prev2_title: Physics
 date: 2021-03-03
-description: PHY,
+description: Variation Method
 _previous: https://ailever.github.io/education/2020/05/30/Physics/
 categories:
   - education
