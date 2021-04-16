@@ -20,23 +20,54 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Partition Functions
+## Canonical Partition Functions
 ### Classical discrete system
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$Z = \sum_{i} e^{-\beta E_{i}}$$  
+<br><br></div>
+
 ### Classical continuous system
-### Classical continuous system (multiple identical particles)
+- One particle
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$Z = \frac{1}{h^3} \int e^{-\beta H(q,p)}\, d^{3}q d^{3}p$$  
+<br><br></div>
+
+- Multiple identical particles
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$Z = \frac{1}{N! h^{3N}} \int e^{-\beta \sum_{i=1}^{N}H(\mathbf{q_{i}},\mathbf{p_{i}})}\, d^{3}q_{1} \cdots d^{3}q_{N} d^{3}p_{1}d^{3}p_{N}$$  
+<br><br></div>
+
 ### Quantum mechanical discrete system
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### Quantum mechanical continuous system
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### Grand canonical partition function
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 <br><br><br>
 ## Ensembles
 ### NVE Microcanonical
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### NVT Canonical
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### µVT Grand canonical
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### NMT
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### μMT
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### NPH Isoenthalpic–isobaric
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### NPT Isothermal–isobaric
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
 
