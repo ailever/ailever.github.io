@@ -109,12 +109,12 @@ author_staff_member: anonym
 </span>
 - Symmetry and Group Theory
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-symmetry-and-group-theory/)
   :kr
 </span>
 - Molecular Orbitals
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-molecular-orbitals/)
   :kr
 </span>
 - Acid–Base and Donor–Acceptor Chemistry
@@ -124,12 +124,12 @@ author_staff_member: anonym
 </span>
 - The Crystalline Solid State
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-the-crystalline-solid-state/)
   :kr
 </span>
 - Chemistry of the Main Group Elements
 <span style="font-size:small;">
-  :en
+  :[en]((https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-simple-bonding-theory/))
   :kr
 </span>
 - Coordination Chemistry: Structures and Isomers
