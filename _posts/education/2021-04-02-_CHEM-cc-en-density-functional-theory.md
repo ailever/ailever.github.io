@@ -241,7 +241,7 @@ $$
 
 Kohn-Sham matrix and overlap matrix
 $$\begin{align*}
-    F_{\mu \nu}^{KS} &= \int {\eta_{\mu} (\vec{r_{1}}) \hat{KS}(\vec{r_{1}}) \eta_{\nu}(\vec{r_{1}})
+    F_{\mu \nu}^{KS} &= \int {\eta_{\mu} (\vec{r_{1}}) \hat{f}^{KS}(\vec{r_{1}}) \eta_{\nu}(\vec{r_{1}})
     } \, d\vec{r_{1}} \\
     &= \int {
         \eta_{\mu} (\vec{r_{1}}) \left ( 
