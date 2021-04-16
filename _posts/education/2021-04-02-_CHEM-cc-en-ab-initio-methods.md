@@ -19,8 +19,53 @@ author_staff_member: anonym
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/03/03/_PHY-qm-en-atomic-orbitals/'">Atomic Orbitals</button>
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/04/02/_CHEM-pc-en-periodic-table/'">Periodic Table</button>
   <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-molecular-orbitals/'">Molecular Orbitals</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Explicit Methods to Calculate Electronic Structures
+### Periodic Systems
+### Group Theory
+### LCAO, OPW and Mixed-Basis Approaches
+### Pseudopotential Approach
+### APW Method
+### KKR, LMTO and ASW Methods
+### Some General Remarks
+### Ab Initio OðNÞ and Related Methods
+
+<br><br><br>
+## Perturbation and Linear Response
+### Effective-Mass Tensor
+### Dielectric Response
+### Magnetic Susceptibility
+### Chemical Shift
+### Phonon Spectrum
+### Electrical Conductivity
+### Thermal Conductivity
+### Time-Dependent Density Functional Theory
+### Dynamical Mean Field Theory, Density Matrix Renormalization Theory, and Tensor Network
+
+<br><br><br>
+## Ab Initio Molecular Dynamics 
+### Car–Parrinello Method 
+### Steepest Descent, Conjugate Gradient, and Block Davidson Methods 
+### Formulation with Plane Wave Basis 
+### Formulation with Other Bases
+### Application to Fullerene Systems
+### Application to Point Defects in Crystals
+### Application to Other Systems 
+### Coherent Potential Approximation (CPA)
+
+<br><br><br>
+## Quasiparticle Theory and Green’s Function Methods 
+### Quasiparticle (QP) Theory
+### Green’s Function Formalism
+### GW Approximation 
+### Exchange and Coulomb Holes
+### Vertex Correction
+### Inclusion of Ladder Diagrams
+### Further Remarks: Cusp Condition and Parquet Diagrams
+
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
