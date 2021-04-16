@@ -191,10 +191,15 @@ $$\begin{align*}
 <br><br></div>
 
 ### The generalized gradient approximation
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E_{XC}^{GGA}[\rho_{\alpha}, \rho_{\beta}] = \int f(\rho_{\alpha}, \rho_{\beta}, \nabla_{\rho_{\alpha}}, \nabla_{\rho_{\beta}}) \, d\vec{r}$$  
+<br><br></div>
 
 ### Hybrid functional
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+$$
+E_{XC}^{hyb} = \alpha E_{X}^{KS} + (1-\alpha)E_{XC}^{GGA}
+$$
 
 <br><br><br>
 ## The basic machinary of DFT
