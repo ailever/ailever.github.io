@@ -21,6 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Schrodinger Equation for Multi-Electron Atom
+- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$r$ dependancy</span>
 - Effective Field
 - Spherical Symmetry
 
