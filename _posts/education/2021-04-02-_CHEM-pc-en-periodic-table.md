@@ -16,7 +16,9 @@ author_staff_member: anonym
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='https://ptable.com/#Properties'">Periodic Table</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/03/03/_PHY-qm-en-atomic-orbitals/'">Atomic Orbitals</button>
+  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/04/02/_CHEM-pc-en-periodic-table/'">Periodic Table</button>
+  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/education/2021/04/02/_CHEM-ic-en-molecular-orbitals/'">Molecular Orbitals</button>
 </div>
 <!-- Top Block -->
 
