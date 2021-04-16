@@ -1,9 +1,9 @@
 ---
-title: PHY, 
-prev1_title: PHY,
+title: Crystallography
+prev1_title: Solid State Physics
 prev2_title: Physics
 date: 2021-03-03
-description: PHY,
+description: Crystallography
 _previous: https://ailever.github.io/education/2020/05/30/Physics/
 categories:
   - education
