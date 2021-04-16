@@ -41,6 +41,7 @@ author_staff_member: anonym
 #### Periodicity
 ### Slater's Rule
 
+<br><br><br>
 ## Aufbau Principle
 
 <!-- Content Block -->
