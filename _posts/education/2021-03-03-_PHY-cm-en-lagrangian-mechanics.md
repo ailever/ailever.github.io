@@ -101,7 +101,7 @@ $$\frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} - \frac{\partial
 <br><br></div>
 
 <br><br><br>
-## Legendre Transform
+## Legendre Transformation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
   \mathcal{H} &= \sum_{i}\dot{q}_{i}p_{i} - \mathcal{L} \\
