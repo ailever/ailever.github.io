@@ -20,9 +20,10 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Intramolecular Bonding
-
-## Intermolecular Bonding
+## Lewis Electron-Dot Diagram
+## VSEPR : Valence Shell Electron-Pair Repulsion
+## Molecular Polarity 
+## Hydrogen Bond
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
