@@ -75,6 +75,7 @@ $$\mathcal{P} = e^{-\frac{E-F}{k_{B}T}}$$
 <br><br></div>
 
 ### µVT Grand canonical
+- constant variables : <span>$µ, V, T$</span>
 - <span>$\Omega = U - TS - \mu N$</span>: Landau free energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\mathcal{P} = e^{-\frac{E - \mu N - \Omega}{k_{B}T}}$$  
