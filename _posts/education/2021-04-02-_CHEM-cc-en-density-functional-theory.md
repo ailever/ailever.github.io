@@ -196,10 +196,12 @@ $$E_{XC}^{GGA}[\rho_{\alpha}, \rho_{\beta}] = \int f(\rho_{\alpha}, \rho_{\beta}
 <br><br></div>
 
 ### Hybrid functional
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$
 E_{XC}^{hyb} = \alpha E_{X}^{KS} + (1-\alpha)E_{XC}^{GGA}
 $$
+
+<br><br></div>
 
 <br><br><br>
 ## The basic machinary of DFT
