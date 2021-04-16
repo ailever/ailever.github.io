@@ -47,6 +47,12 @@ $$Z = tr\left ( e^{-\beta \hat{H}} \right )$$
 $$Z = \frac{1}{h} \int \left \langle q,p| e^{-\beta \hat{H}} |q,p \right \rangle \,dqdp$$  
 <br><br></div>
 
+### Quantum field system
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$Z[J] = \int \mathcal{D} \phi e^{i(S[\phi] + \int d^{4}xJ(x)\phi(x))}$$  
+<br><br></div>
+
+
 ### Grand canonical partition function
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\mathcal{Z}(\mu,V,T) = \sum_{i}e^{-\frac{N_{i}\mu - E_{i}}{k_{B}T}}$$
