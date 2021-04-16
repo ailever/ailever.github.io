@@ -37,7 +37,7 @@ $$\begin{align*}
 \end{align*}$$
 
 $$
-x(t+\Delta t) = 2x(t) - x(t-\Delta t) + \ddot{x}\Delta t^{2} + \mathcal{O}(\Delta t^{4})  
+\therefore x(t+\Delta t) = 2x(t) - x(t-\Delta t) + \ddot{x}\Delta t^{2} + \mathcal{O}(\Delta t^{4})  
 $$
 <br><br></div>
 
