@@ -35,6 +35,8 @@ author_staff_member: anonym
 <br><br></div>
 ### Pauli Exclusion Principle
 
+<br><br><br>
+## Penetration and Sheilding Effect
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
