@@ -34,17 +34,17 @@ $$Z = \frac{1}{h^3} \int e^{-\beta \mathcal{H}(q,p)}\, d^{3}q d^{3}p$$
 
 - Multiple identical particles
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Z = \frac{1}{N! h^{3N}} \int e^{-\beta \sum_{i=1}^{N}H(\mathbf{q_{i}},\mathbf{p_{i}})}\, d^{3}q_{1} \cdots d^{3}q_{N} d^{3}p_{1}d^{3}p_{N}$$  
+$$Z = \frac{1}{N! h^{3N}} \int e^{-\beta \sum_{i=1}^{N}\mathcal{H}(\mathbf{q_{i}},\mathbf{p_{i}})}\, d^{3}q_{1} \cdots d^{3}q_{N} d^{3}p_{1}d^{3}p_{N}$$  
 <br><br></div>
 
 ### Quantum mechanical discrete system
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Z = tr\left ( e^{-\beta \hat{H}} \right )$$  
+$$Z = tr\left ( e^{-\beta \hat{\mathcal{H}}} \right )$$  
 <br><br></div>
 
 ### Quantum mechanical continuous system
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Z = \frac{1}{h} \int \left \langle q,p| e^{-\beta \hat{H}} |q,p \right \rangle \,dqdp$$  
+$$Z = \frac{1}{h} \int \left \langle q,p| e^{-\beta \hat{\mathcal{H}}} |q,p \right \rangle \,dqdp$$  
 <br><br></div>
 
 ### Quantum field system
