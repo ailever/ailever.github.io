@@ -21,6 +21,10 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Schrodinger Equation for Multi-Electron Atom
+- Effective Field
+- Spherical Symmetry
+
+
 ### Born-Oppenheimer Approximation
 ### Hartree Approximation
 #### Hartree Product
