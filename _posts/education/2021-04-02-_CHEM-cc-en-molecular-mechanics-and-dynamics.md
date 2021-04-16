@@ -23,6 +23,31 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+## Basic Molecular Dynamics
+### Verlet algorithm
+Newton's Equation for N-body problem
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$F_{i}=m_{i}a_{i}$$
+$$F_{i}=-\frac{\partial V(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
+<br><br></div>
+
+Numerically approach 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\begin{align*}
+  x(t+\delta t) &= x(t) +\dot{x}(t)\delta t + \frac{1}{2}\ddot{x}(t)\delta t^{2} + \frac{1}{6}\dddot{x}(t)\delta t^{3} + \frac{1}{24}\ddddot{x}(t)\delta t^{4} + \cdots \\
+  x(t-\delta t) &= x(t) -\dot{x}(t)\delta t + \frac{1}{2}\ddot{x}(t)\delta t^{2} - \frac{1}{6}\dddot{x}(t)\delta t^{3} + \frac{1}{24}\ddddot{x}(t)\delta t^{4} + \cdots \\  
+\end{align*}$$
+
+$$
+x(t+\delta t) = 2x(t) - x(t-\delta t) + \ddot{x}\delta t^{2} + \mathcal{O}(\delta t^{4})  
+$$
+<br><br></div>
+
+
+
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<br><br></div>
+
 ## Functional Form in Molecular System
 ![image](https://user-images.githubusercontent.com/52376448/114148491-c832b100-9954-11eb-8102-a0bd892c0d16.png)
 [REF|<a href="#REF">1</a>]
