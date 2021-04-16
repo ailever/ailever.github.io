@@ -28,7 +28,7 @@ author_staff_member: anonym
 Newton's Equation for N-body problem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F_{i}=m_{i}a_{i}$$
-$$F_{i}=-\frac{\partial V(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
+$$F_{i}=-\frac{\partial \mathcal{V}(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
 
 Numerically approach 
 $$\begin{align*}
@@ -47,7 +47,7 @@ $$
 Lagrangian Classical Mechanics
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$J=\int_{t_{b}}^{t_{e}} \mathcal{L} dt $$
-$$\mathcal{L} = \mathcal{L}(\dot{r}, r) = \sum_{i=1}^{N} \frac{1}{2}m_{i}\dot{r}_{i}^{2} - U(r_{1},r_{2},\cdots,r_{N})$$
+$$\mathcal{L} = \mathcal{L}(\dot{r}, r) = \sum_{i=1}^{N} \frac{1}{2}m_{i}\dot{r}_{i}^{2} - \mathcal{V}(r_{1},r_{2},\cdots,r_{N})$$
 <br><br></div>
 
 
