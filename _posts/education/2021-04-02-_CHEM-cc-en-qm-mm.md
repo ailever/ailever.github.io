@@ -131,7 +131,7 @@ $$\begin{align*}
 
 QM Expectation for the excitation energy
 $$\begin{align*}
-\omega_{(0)} &= \left \langle \Phi^{*}_{(0)} | H | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \hat{\mathcal{H}} | \Phi^{0}_{(0)} \right \rangle \\
+\omega_{(0)} &= \left \langle \Phi^{*}_{(0)} | \hat{\mathcal{H}} | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \hat{\mathcal{H}} | \Phi^{0}_{(0)} \right \rangle \\
 \omega_{(1)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(0)} \right \rangle \\
 \omega_{(2)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(1)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(1)} \right \rangle \\
 &\vdots \\
