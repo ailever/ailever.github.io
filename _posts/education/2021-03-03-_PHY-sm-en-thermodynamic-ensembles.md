@@ -29,7 +29,7 @@ author_staff_member: anonym
 ### Grand canonical partition function
 
 <br><br><br>
-## Ensembels
+## Ensembles
 ### NVE Microcanonical
 ### NVT Canonical
 ### µVT Grand canonical
