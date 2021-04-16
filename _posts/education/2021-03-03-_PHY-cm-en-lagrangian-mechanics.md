@@ -72,12 +72,12 @@ $$\therefore F=m\ddot{x}\quad \text{under conservative systems}$$
 #### Schrodinger Equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
-
+<br><br><br>
 ## d'Alembert's Principle
 ### Virtual Displacement
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\vec{r}_{i}=\vec{r}_{i}(q_{1},q_{2},\cdots,\q_{n},t)$$
-$$delta \vec{r}_{i} = \sum_{j} \frac{r_{i}}{q_{j}}\delta q_{j} + \left ( \frac{\partial \vec{r}_{i}}{\partial t} \delta t \right ) $$
+$$\vec{r}_{i}=\vec{r}_{i}(q_{1},q_{2},\cdots,q_{n},t)$$
+$$\delta \vec{r}_{i} = \sum_{j} \frac{\vec{r}_{i}}{q_{j}}\delta q_{j} + \left ( \frac{\partial \vec{r}_{i}}{\partial t} \delta t \right ) $$
 <br><br></div>
 
 ### Principle of Virtual Work
