@@ -29,10 +29,8 @@ Newton's Equation for N-body problem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F_{i}=m_{i}a_{i}$$
 $$F_{i}=-\frac{\partial V(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
-<br><br></div>
 
 Numerically approach 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
   x(t+\Delta t) &= x(t) +\dot{x}(t)\Delta t + \frac{1}{2}\ddot{x}(t)\Delta t^{2} + \frac{1}{6}\dddot{x}(t)\Delta t^{3} + \frac{1}{24}\ddddot{x}(t)\Delta t^{4} + \cdots \\
   x(t-\Delta t) &= x(t) -\dot{x}(t)\Delta t + \frac{1}{2}\ddot{x}(t)\Delta t^{2} - \frac{1}{6}\dddot{x}(t)\Delta t^{3} + \frac{1}{24}\ddddot{x}(t)\Delta t^{4} + \cdots \\  
