@@ -243,6 +243,22 @@ Kohn-Sham matrix and overlap matrix
 $$\begin{align*}
     F_{\mu \nu}^{KS} &= \int {\eta_{\mu} (\vec{r_{1}}) \hat{f}^{KS}(\vec{r_{1}}) \eta_{\nu}(\vec{r_{1}})
     } \, d\vec{r_{1}} \\
+    S_{\mu \nu} &= \int {\eta_{\mu}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}})
+    } \, d\vec{r_{1}}  \\
+\end{align*}$$
+
+Kohn-Sham Operator
+$$\begin{align*}
+    F_{\mu \nu}^{KS}
+    &= h_{\mu\nu} \int {
+        \eta_{\mu} (\vec{r_{1}}) \left ( 
+            \int {
+                \frac{\rho(\vec{r_{2}})}{r_{12}}
+                } \, d\vec{r_{2}} 
+            + V_{XC}(\vec{r_{1}})  
+            \right )  \eta_{\nu} (\vec{r_{1}})
+        } \, d\vec{r_{1}} \\
+    
     &= \int {
         \eta_{\mu} (\vec{r_{1}}) \left ( 
             -\frac{1}{2} \nabla^{2}
@@ -253,9 +269,9 @@ $$\begin{align*}
             + V_{XC}(\vec{r_{1}})  
             \right )  \eta_{\nu} (\vec{r_{1}})
         } \, d\vec{r_{1}} \\
-    S_{\mu \nu} &= \int {\eta_{\mu}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}})
-    } \, d\vec{r_{1}}  \\
+    
 \end{align*}$$
+
 
 Charge density in the LCAO scheme
 $$
