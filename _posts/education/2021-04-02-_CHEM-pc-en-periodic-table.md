@@ -17,8 +17,11 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='https://ptable.com/#Properties'">Periodic Table</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+![image](https://user-images.githubusercontent.com/52376448/114974280-10098900-9ebd-11eb-92a4-4cf5d60c2f58.png)
+[REF|<a href="#REF">1</a>]
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
