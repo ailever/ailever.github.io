@@ -24,6 +24,8 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Basic Molecular Dynamics
+- Key Factors : The bond lengths, bond dihedral angles, bond valence angles, and non-bonded interactions like van der Waals and electrostatic interactions contribute to the total energy of the systems
+
 ### Verlet algorithm
 From the Newton's equation for N-body problem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
