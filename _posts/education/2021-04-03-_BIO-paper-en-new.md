@@ -49,7 +49,7 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
 </ol>
 <ul>
-  <li><a href="#"></a></li>
+  <li><a href="https://arxiv.org/pdf/2102.04229.pdf">(2021) Learning the exchange-correlation functional from nature with fully differentiable density functional theory</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
