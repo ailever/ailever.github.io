@@ -167,7 +167,11 @@ $$\begin{align*}
 \end{align*}$$
   
 The energy of the interacting system for uniquely determining the orbitals in our non-interacting reference system
-$$  E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] $$
+$$\begin{align*}
+E[\rho] &= T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
+&= T_{S}[\rho] + \frac{1}{2} \iint \frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{XC}[\rho] + \int V_{Ne}\rho(\vec{r}) \, d\vec{r}
+
+\end{align*}$$
 
 Kohn-Sham equations
 $$
