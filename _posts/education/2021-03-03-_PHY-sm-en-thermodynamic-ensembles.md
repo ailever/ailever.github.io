@@ -29,7 +29,7 @@ $$Z = \sum_{i} e^{-\beta E_{i}}$$
 ### Classical continuous system
 - One particle
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$Z = \frac{1}{h^3} \int e^{-\beta H(q,p)}\, d^{3}q d^{3}p$$  
+$$Z = \frac{1}{h^3} \int e^{-\beta \mathcal{H}(q,p)}\, d^{3}q d^{3}p$$  
 <br><br></div>
 
 - Multiple identical particles
