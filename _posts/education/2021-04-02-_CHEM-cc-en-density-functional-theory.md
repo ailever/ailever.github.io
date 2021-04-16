@@ -166,7 +166,7 @@ $$\begin{align*}
   E_{XC}[\rho] &\equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho]) \\
 \end{align*}$$
   
-For uniquely determining the orbitals in our non-interacting reference system
+The energy of the interacting system for uniquely determining the orbitals in our non-interacting reference system
 $$  E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] $$
 
 Kohn-Sham equations
