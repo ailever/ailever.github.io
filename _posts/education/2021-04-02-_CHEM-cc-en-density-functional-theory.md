@@ -112,7 +112,7 @@ The electron density
 $$\rho(\overrightarrow{r}) = N \int \cdots \int {\left \vert \Psi(\overrightarrow{x_{1}},\overrightarrow{x_{2}},\cdots,\overrightarrow{x_{N}}) \right \vert^{2} } ,\ ds_{1}d\overrightarrow{x_{1}}d\overrightarrow{x_{2}} \cdots d\overrightarrow{x_{N}}$$
 
 $$
-\rho_{\overrightarrow{r}\rightarrow \infty}=0 \qquad \int {\rho(\overrightarrow{r})} \, d\overrightarrow{r}= N 
+\rho( \overrightarrow{r} \rightarrow \infty ) = 0 \qquad \int {\rho(\overrightarrow{r})} \, d\overrightarrow{r}= N 
 $$
 
 $$
