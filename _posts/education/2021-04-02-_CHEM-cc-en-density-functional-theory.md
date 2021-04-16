@@ -269,7 +269,7 @@ $$
 Coulomb contribution and exchange-correlation and Hartree-Fock exchange integral
 $$\begin{align*}
 J_{\mu\nu} &= 1\\
-V_{\mu\nu}^{XC} &= \int \eta_{\mu}V_{XC}(\vec{r_{1}})\eta_{\nu}\,d\vec{r_{1}}\\
+V_{\mu\nu}^{XC} &= \int \eta_{\mu}(\vec{r_{1}})V_{XC}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}})\,d\vec{r_{1}}\\
 K_{\mu\nu} &= 1\\
 \end{align*}$$
 <br><br></div>
