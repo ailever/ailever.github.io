@@ -30,7 +30,7 @@ author_staff_member: anonym
 ### APW Method
 ### KKR, LMTO and ASW Methods
 ### Some General Remarks
-### Ab Initio OðNÞ and Related Methods
+### Ab Initio O(N) and Related Methods
 
 <br><br><br>
 ## Perturbation and Linear Response
