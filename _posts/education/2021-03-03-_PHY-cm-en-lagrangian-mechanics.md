@@ -112,7 +112,7 @@ $$\begin{align*}
 
 ### Hamiltonian Equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\frac{\partial \mathcal{H}}{\partial p_{i}}=\dot{q}_{i}, \frac{\partial \mathcal{H}}{\partial q_{i}}=-\dot{p}_{i}$$
+$$\frac{\partial \mathcal{H}}{\partial p_{i}}=\dot{q}_{i}, \frac{\partial \mathcal{H}}{\partial q_{i}}=-\dot{p}_{i}, \frac{\partial \mathcal{H}}{\partial t} = -\frac{\partial \mathcal{L}}{\partial t} $$
 <br><br></div>
 
 
