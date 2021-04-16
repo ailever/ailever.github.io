@@ -20,8 +20,8 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Hamilton's Principle 
-### Calculous of Variations 
+
+## Calculous of Variations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Maupertuis's principle of least action
 $$
@@ -73,10 +73,46 @@ $$\therefore F=m\ddot{q}\quad \text{under conservative systems}$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
 
+## d'Alembert's Principle
+### Virtual Displacement
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\vec{r}_{i}=\vec{r}_{i}(q_{1},q_{2},\cdots,\q_{n},t)$$
+$$delta \vec{r}_{i} = \sum_{j} \frac{r_{i}}{q_{j}}\delta q_{j} + \left ( \frac{\partial \vec{r}_{i}}{\partial t} \delta t \right ) $$
+<br><br></div>
+
+### Principle of Virtual Work
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\sum \vec{F}_{i}^{(a)} \cdot \delta \vec{r} = 0 \quad \text{at equilibrium}$$
+<br><br></div>
+
+### Generalized Force
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$Q_{i} \equiv \sum_{j} \vec{F}_{j}\cdot \frac{\partial \vec{r}_{j}}{\partial q_{i}} $$
+<br><br></div>
+
+### d'Alembert's Principle
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\sum \left ( \vec{F}_{i}^{(a)} - \dot{\vec{p}}_{i} \right ) \cdot \delta \vec{r} = 0 \quad \text{at equilibrium}$$
+<br><br></div>
+
+### Euler equation by d'Alembert's Principle
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} - \frac{\partial \mathcal{L}}{\partial q_{i}}= Q_{i} $$
+<br><br></div>
+
+<br><br><br>
+## Legendre Transform
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\begin{align*}
+  \mathcal{H} &= \sum_{i}\dot{q}_{i}p_{i} - \mathcal{L} \\
+              &= T+V
+\end{align*}$$  
+<br><br></div>
+
 ### Hamiltonian Equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
   
-</div>
+<br><br></div>
 
 
 
