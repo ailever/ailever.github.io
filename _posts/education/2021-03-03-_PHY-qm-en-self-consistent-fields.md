@@ -37,6 +37,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Penetration and Sheilding Effect
+### Effective Nuclear Charge
 ### Slater's Rule
 
 <!-- Content Block -->
