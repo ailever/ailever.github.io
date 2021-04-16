@@ -144,8 +144,8 @@ $$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$E[\rho] = E_{Ne}[\rho] + T[\rho] + E_{ee}[\rho] = \int {\rho(\vec{r})V_{Ne}(\vec{r})} \, d\vec{r} + F_{HK}[\rho]$$  
 $$F_{HF}[\rho] = \color{red}{T[\rho]} + E_{ee}$$
-$$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}}} \,d\vec{r_{1}} \,d\vec{r_{2}} + \color{red}{E_{ncl}}
-= J[\rho] + E_{ncl}[\rho]$$
+$$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{ncl}
+= J[\rho] + \color{red}{E_{ncl}[\rho]}$$
 <br><br></div>
 
 ### The second Hohenberg-Kohn theorem
