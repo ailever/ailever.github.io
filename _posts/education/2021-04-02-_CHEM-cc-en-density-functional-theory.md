@@ -300,7 +300,7 @@ K_{\mu\nu} &=
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Slater-Type Orbitals (STO)
-$$\eta_{STO} = Nr^{n-1}e^{-\beta r}Y_{lm}(\theta, \phi)$$
+$$\eta^{STO} = Nr^{n-1}e^{-\beta r}Y_{lm}(\theta, \phi)$$
 
 Gaussian-Type Orbitals (GTO)
 $$\eta^{GTO} = Nx^{l}y^{m}z^{b}e^{-\alpha r}$$
