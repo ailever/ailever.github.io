@@ -182,9 +182,17 @@ $$
 <br><br><br>
 ## The exchange-correlation functionals
 ### The local density approximation(LDA)
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$E_{XC}^{LDA}[\rho] = \int \rho(\vec{r})\epsilon_{XC}(\rho(\vec{r})) \, d\vec{r}$$
+$$\begin{align*}
+  \epsilon_{XC}(\rho(\vec{r})) &= \epsilon_{X}(\rho(\vec{r})) + \epsilon_{C}(\rho(\vec{r}))\\ 
+  \epsilon_{X} &= -\frac{3}{4} \left ( \frac{3\rho(\vec{r})}{\pi} \right ) \\ 
+\end{align*}$$
+<br><br></div>
+
 ### The generalized gradient approximation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+
 ### Hybrid functional
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 
