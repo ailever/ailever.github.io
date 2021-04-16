@@ -43,6 +43,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Aufbau Principle
+### Hund's Rule
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
