@@ -22,67 +22,6 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Molecular Quantum Mechanics
-- Valence Bond Theory : Bond Length, Bond Strength, Bonding Angle
-- Molecular Orbital theory(LCAO-MO)
-
-### Born-Oppenheimer Approximation
-#### Diatomic Molecule : Valence Bond
-- **Hydrogen-Molecule**(parahydrogen, orthohydrogen)
-
-![image](https://user-images.githubusercontent.com/52376448/114892305-9aafa100-9e47-11eb-8fea-c66066ecfcb2.png)
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H_{H_{2}}\Psi_{H_{2}} = E_{H_{2}}\Psi_{H_{2}}$$
-
-Hamiltonian
-$$\begin{align*}
-H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
--\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
-\left (  
-\frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R_{AB}}
-\right ) \\
-
-&\approx -\frac{\hbar^2}{2m_{e}}(\nabla^{2}_{1} + \nabla^{2}_{2}) - \frac{e^{2}}{4\pi\epsilon_{0}}
-\left (  
-\frac{1}{r_{1A}} + \frac{1}{r_{1B}} + \frac{1}{r_{2A}} + \frac{1}{r_{2B}} -\frac{1}{r_{12}} - \frac{1}{R}
-\right )
-\end{align*}$$
-
-Wave Function for radial variables $r_{1}, r_{2}$
-$$\Psi_{H_{2}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_{e_{1,2}}(r_{1},r_{2},R)\varphi_{ncl_{A,B}}(R_{A}, R_{B})$$
-
-<br><br></div>
-
-- **Hydrogen-Ion**
-![image](https://user-images.githubusercontent.com/52376448/114894979-0c88ea00-9e4a-11eb-8cd6-99c437d9685c.png)
-
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H_{H_{2}^{+}}\Psi_{H_{2}^{+}} = E_{H_{2}^{+}}\Psi_{H_{2}^{+}}$$
-
-Hamiltonian
-$$\begin{align*}
-H_{H_{2}} &= -\frac{\hbar^2}{2M_{N}}(\nabla^{2}_{A} + \nabla^{2}_{B}) 
--\frac{\hbar^2}{2m_{e}}\nabla^{2} - \frac{e^{2}}{4\pi\epsilon_{0}}
-\left (  
-\frac{1}{r_{A}} + \frac{1}{r_{B}} - \frac{1}{R_{AB}}
-\right ) \\
-
-&\approx -\frac{\hbar^2}{2m_{e}}\nabla^{2} - \frac{e^{2}}{4\pi\epsilon_{0}}
-\left (  
-\frac{1}{r_{A}} + \frac{1}{r_{B}} - \frac{1}{R}
-\right )
-\end{align*}$$
-
-Wave Function for radial variables $r_{1}, r_{2}$
-$$\Psi_{H_{2}^{+}}(r_{1},r_{2},R_{A},R_{B}) \approx \varphi_e(r_{1},r_{2},R)\varphi_{ncl}(R_{A}, R_{B})$$
-
-$$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
-
-<br><br></div>
-##### $\pi,\ \sigma$ Bond
-
-#### Polyatomic molecule : Hybridization
-- <span align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">$H_{2}O, NH_{3}, CH_{4}$<br><br></span>
 
 
 <br><br><br>
@@ -102,7 +41,7 @@ $$\therefore \pi, \sigma\ \text{bonding can be mathematically defined.}$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="http://www.fhi-berlin.mpg.de/~luca/Course_TU/">Thermodynamics</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
