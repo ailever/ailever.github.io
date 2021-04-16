@@ -164,8 +164,8 @@ $$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$
 $$\begin{align*}
   T_{S}[\rho] &= \frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^{2} |\psi_{i} \right \rangle \\
   E_{XC}[\rho] &\equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho]) \\
-  E[\rho] &= T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
 \end{align*}$$
+$$  E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] $$
 
 Kohn-Sham equations
 $$
