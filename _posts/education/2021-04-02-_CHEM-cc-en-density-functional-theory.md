@@ -186,7 +186,7 @@ $$
 $$E_{XC}^{LDA}[\rho] = \int \rho(\vec{r})\epsilon_{XC}(\rho(\vec{r})) \, d\vec{r}$$
 $$\begin{align*}
   \epsilon_{XC}(\rho(\vec{r})) &= \epsilon_{X}(\rho(\vec{r})) + \epsilon_{C}(\rho(\vec{r}))\\ 
-  \epsilon_{X} &= -\frac{3}{4} \left ( \frac{3\rho(\vec{r})}{\pi} \right ) \\ 
+  \epsilon_{X} &= -\frac{3}{4} \left ( \frac{3\rho(\vec{r})}{\pi} \right )^{1/3} \\ 
 \end{align*}$$
 <br><br></div>
 
