@@ -26,7 +26,8 @@ author_staff_member: anonym
 <br><br><br>
 ## Amino acid / protein databases
 ### Protein Data Bank (PDB)
-- [PDBbind](http://www.pdbbind-cn.org/download.php)
+- [PDBbind-download](http://www.pdbbind-cn.org/download.php)
+- [RCSB-stats](https://www.rcsb.org/stats/summary)
 <pre class="code-path">
 ├── PDBbind_2019_plain_text_index.tar.gz
 └── plain-text-index
