@@ -22,6 +22,13 @@ author_staff_member: anonym
 
 ## Symmetry Element and Operation
 
+## Point Group
+
+## Group Representation
+
+## Symmetry Application
+
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
