@@ -142,6 +142,12 @@ $$
 ## The Hohenberg-Kohn theorems
 ### The first Hohenberg-Kohn theorem
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+The exact kinetic energy of a non-interacting reference system with the same density as the real
+$$\begin{align*}
+T_{S} &= -\frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^2 | \psi_{i} \right \rangle\\
+\rho_{S}(\vec{r}) &= \sum_{i}^{N} \sum_{s} \left \vert \psi_{i}(\vec{r},s) \right \vert^{2} = \rho(\vec{r}) \\
+\end{align*}$$
+  
 $$E[\rho] = E_{Ne}[\rho] + T[\rho] + E_{ee}[\rho] = \int {\rho(\vec{r})V_{Ne}(\vec{r})} \, d\vec{r} + F_{HK}[\rho]$$  
 $$\color{red}{F_{HF}[\rho]} = \color{red}{T[\rho]} + E_{ee}[\rho]$$
 $$E_{ee}[\rho] = \frac{1}{2} \iint {\frac{\rho(\vec{r_{1}})\rho(\vec{r_{2}})}{r_{12}}} \,d\vec{r_{1}} \,d\vec{r_{2}} + E_{ncl}
