@@ -161,9 +161,12 @@ $$
 ### The Kohn-Sham equations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F[\rho] = T_{S}[\rho] + J[\rho] + E_{XC}[\rho]$$  
-$$E_{XC}[\rho] \equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho])$$
-$$E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho]$$
-  
+$$\begin{align*}
+  E_{XC}[\rho] \equiv (T[\rho] - T_{S}[\rho]) + (E_{ee}[\rho] - J[\rho]) \\
+  E[\rho] = T_{S}[\rho] + J[\rho] +E_{XC}[\rho] + E_{Ne}[\rho] \\
+  T_{S}[\rho] = \frac{1}{2} \sum_{i}^{N} \left \langle \psi_{i} | \nabla^{2} |\psi_{i} \right \rangle
+\end{align*}$$
+
 Kohn-Sham equations
 $$
 \left ( -\frac{1}{2}\nabla^{2} + \left [ \int {\frac{\rho(\vec{r_{2}})}{r_{12}}} \,d\vec{r_{2}} + V_{XC}(\vec{r_{1}}) - \sum_{A}^{M} {\frac{Z_{A}}{r_{1A}}} \right ] \right ) \psi_{i} = \left ( -\frac{1}{2}\nabla^{2} + V_{S}(\vec{r_{1}}) \right ) \psi_{i} = \epsilon_{i}\psi_{i}
