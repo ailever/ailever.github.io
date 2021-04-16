@@ -286,7 +286,7 @@ $$
 $$
 
 $$
-P_{\mu\nu} = \sum_{i}^{N} c_{\mu i}c_{\nu i}
+\text{density matrix}\quad P_{\mu\nu} = \sum_{i}^{N} c_{\mu i}c_{\nu i}
 $$
 
 Coulomb contribution and exchange-correlation and Hartree-Fock exchange integral
