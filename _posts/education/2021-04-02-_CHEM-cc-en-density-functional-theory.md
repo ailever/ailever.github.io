@@ -250,7 +250,7 @@ $$\begin{align*}
 Extended Kohn-Sham Operator
 $$\begin{align*}
     \hat{F}_{\mu \nu}^{KS}
-    &= h_{\mu\nu} \int {
+    &= h_{\mu\nu} + \int {
         \eta_{\mu} (\vec{r_{1}}) \left ( 
             \int {
                 \frac{\rho(\vec{r_{2}})}{r_{12}}
