@@ -162,6 +162,8 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
   - Interaction Models and Binding Affinity
   - Molecular Recognition
   - Structure of Protein–Ligand Complexes
+- X-ray crystallography
+- cryo-electron microscopy
 
 #### Theoretical Approach
 - MM/PBSA : the molecule mechanics/Poisson–Boltzmann surface area 
