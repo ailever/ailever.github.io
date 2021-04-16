@@ -107,7 +107,7 @@ $$
 ### Statistical mechanics sampling for many-body interacting systems in condensed phases
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The Hamiltonian of the system
-$$H = -\frac{1}{2}\sum_{A=1}^{M}{\frac{1}{M_{A}}\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nabla^{2}_{N}} + V(\vec{r_{i}};\vec{R_{A}},\vec{X})$$ 
+$$\hat{\mathcal{H}} = -\frac{1}{2}\sum_{A=1}^{M}{\frac{1}{M_{A}}\nabla^{2}_{M}} -\frac{1}{2}\sum_{i=1}^{N}{\nabla^{2}_{N}} + V(\vec{r_{i}};\vec{R_{A}},\vec{X})$$ 
 <br><br></div>
 
 ### Electronic spectra in QM/MM
@@ -115,7 +115,7 @@ $$H = -\frac{1}{2}\sum_{A=1}^{M}{\frac{1}{M_{A}}\nabla^{2}_{M}} -\frac{1}{2}\sum
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The QM/MM coupling schemes
 $$E_{QM/MM}[M] = E[M] = E_{QM}(M) + E_{MM}(\{ I \}) + E_{int}$$
-$$E_{QM}(M) = \left \langle \Psi(\vec{r};\vec{R};\vec{X})| H | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
+$$E_{QM}(M) = \left \langle \Psi(\vec{r};\vec{R};\vec{X})| \hat{\mathcal{H}} | \Psi(\vec{r};\vec{R};\vec{X}) \right \rangle$$
 
 Mechanical coupling
 $$E_{int}(el) = \sum_{A\alpha}\frac{q_{A}q_{\alpha}}{r_{A\alpha}} $$  
@@ -131,7 +131,7 @@ $$\begin{align*}
 
 QM Expectation for the excitation energy
 $$\begin{align*}
-\omega_{(0)} &= \left \langle \Phi^{*}_{(0)} | H | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | H | \Phi^{0}_{(0)} \right \rangle \\
+\omega_{(0)} &= \left \langle \Phi^{*}_{(0)} | H | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \hat{\mathcal{H}} | \Phi^{0}_{(0)} \right \rangle \\
 \omega_{(1)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(0)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(0)} \right \rangle \\
 \omega_{(2)} &= \left \langle \Phi^{*}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{*}_{(1)} \right \rangle - \left \langle \Phi^{0}_{(0)} | \frac{q_{\alpha}}{r_{i\alpha}} | \Phi^{0}_{(1)} \right \rangle \\
 &\vdots \\
@@ -142,7 +142,7 @@ $$\begin{align*}
 #### Many body system expansion
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The QM/MM coupling schemes  
-$$E_{QM/MM} = E[M] = \left \langle \Psi | H+\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
+$$E_{QM/MM} = E[M] = \left \langle \Psi | \hat{\mathcal{H}} +\sum_{\alpha}\frac{q_{\alpha}}{r_{i}r_{\alpha}} | \Psi \right \rangle + E_{MM}(solvent) + E_{int}(vdW) $$
 
 The total system energy expression making a distinction between the solute M and the solvent molecules {I}
 $$E = E[M] + \sum_{I \neq M}{E[I]} + \sum_{I \neq M}{(E[MI]-E[M]-E[I])} + \sum_{I>J\ \& \ i,j \neq M}{(E[IJ]-E[I]-E[J])}$$
