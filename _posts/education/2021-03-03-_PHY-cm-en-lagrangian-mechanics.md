@@ -105,6 +105,7 @@ $$\frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot{q_{i}}} - \frac{\partial
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
   \mathcal{H} &= \sum_{i}\dot{q}_{i}p_{i} - \mathcal{L} \\
+              &= \sum_{i}\frac{\partial \mathcal{L}}{\partial \dot{q}_{i}} \cdot \dot{q}_{i} - \mathcal{L} \\
               &= T+V
 \end{align*}$$  
 <br><br></div>
