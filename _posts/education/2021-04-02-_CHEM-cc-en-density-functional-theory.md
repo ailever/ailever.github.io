@@ -12,6 +12,7 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: anonym
 ---
 
+
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Mathematical Formula</button>
@@ -26,18 +27,18 @@ author_staff_member: anonym
 ### The Schrodinger equation
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The Schrodinger equation
-$$H\Psi_{i} = E_{i}\Psi_{i}$$
+$$\hat{\mathcal{H}}\Psi_{i} = E_{i}\Psi_{i}$$
   
 The Hamiltonian for a system consisting of $M$ nuclei and $N$ electrons  
-$$H = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
+$$\hat{\mathcal{H}} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
 -\frac{1}{2} \sum_{A=1}^{M} {\frac{1}{M_{A}}\nabla^{2}_{A}}
 -\sum_{i=1}^{N} \sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}
 + \sum_{i=1}^{N} \sum_{j>i}^{N} {\frac{1}{r_{ij}}}
 + \sum_{A=1}^{M} \sum_{B>A}^{M} {\frac{Z_{A}Z_{B}}{R_{AB}}}$$
 
 Born-Oppenheimer approximation
-$$H_{elec}\Psi_{elec} = E_{elec}\Psi_{elec}$$
-$$H_{elec} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
+$$\hat{\mathcal{H_{elec}}}\Psi_{elec} = E_{elec}\Psi_{elec}$$
+$$\hat{\mathcal{H_{elec}}} = -\frac{1}{2} \sum_{i=1}^{N} {\nabla^{2}_{i}}
 -\sum_{i=1}^{N} \sum_{A=1}^{M} {\frac{Z_{A}}{r_{iA}}}
 + \sum_{i=1}^{N} \sum_{j>i}^{N} {\frac{1}{r_{ij}}}$$
 $$E_{tot}=E_{elec}+E_{nuc}\qquad \text{where } E_{nuc}=\sum_{A=1}^{M}\sum_{B>A}^{M}\frac{Z_{A}Z_{B}}{R_{AB}}$$
@@ -45,7 +46,7 @@ $$E_{tot}=E_{elec}+E_{nuc}\qquad \text{where } E_{nuc}=\sum_{A=1}^{M}\sum_{B>A}^
 
 ### The variational principle for the ground state
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$E[\Psi]=\frac{\left \langle\Psi|H|\Psi\right \rangle}{\left \langle\Psi|\Psi\right \rangle} \qquad \text{where} \left \langle \Psi|H|\Psi \right \rangle = \int {\Psi^{*}H\Psi}\, d\overrightarrow{x} $$  
+$$E[\Psi]=\frac{\left \langle\Psi|H|\Psi\right \rangle}{\left \langle\Psi|\Psi\right \rangle} \qquad \text{where} \left \langle \Psi|\hat{\mathcal{H}}|\Psi \right \rangle = \int {\Psi^{*}\hat{\mathcal{H}}\Psi}\, d\overrightarrow{x} $$  
 $$E_{0}=\min_{\Psi \rightarrow N}{E[\Psi]} = \min_{\Psi \rightarrow N}{\left \langle | T + V_{Ne} + V_{ee} | \right \rangle}$$
 <br><br></div>
 
@@ -66,10 +67,10 @@ $$
 E_{HF}=min_{\Psi_{HF}\rightarrow N}E[\Psi_{HF}]
 $$
 $$
-E_{HF} = \left \langle \Psi_{HF} | H | \Psi_{HF} \right \rangle = \sum_{i=1}^{N} {H_{i}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
+E_{HF} = \left \langle \Psi_{HF} | \hat{\mathcal{H}} | \Psi_{HF} \right \rangle = \sum_{i=1}^{N} {\hat{\mathcal{H_{i}}}} + \frac{1}{2} \sum_{i,j=1}^{N} {(J_{ij}-K_{ij})}
 $$
 $$
-H_{i} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
+\hat{\mathcal{H_{i}}} \equiv \int {\psi^{*}_{i}(\overrightarrow{x})[-\frac{1}{2}\nabla^{2}- V_{ext}(\overrightarrow{x})]\psi_{i}(\overrightarrow{x})} \, d\overrightarrow{x}
 $$
 
 Non-Classical Contribution(Self-Interaction correction) : Coulomb integrals and Exchange integrals
