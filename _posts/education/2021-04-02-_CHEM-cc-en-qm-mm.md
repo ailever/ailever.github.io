@@ -33,7 +33,7 @@ $$
 
 The effective Hamiltonian
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$H_{eff} = H_{QM} + H_{ES}(QM/MM)$$  
+$$\hat{\mathcal{H}_{eff}} = \hat{\mathcal{H}_{QM}} + \hat{\mathcal{H}_{ES}}(QM/MM)$$  
 <br><br></div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
@@ -45,22 +45,22 @@ $$H_{eff} = H_{QM} + H_{ES}(QM/MM)$$
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 The ASEP/MD Hamiltonian
 $$
-H = H_{QM} + H_{class} + H_{int}  
+\hat{\mathcal{H}} = \hat{\mathcal{H}_{QM}} + \hat{\mathcal{H}_{class}} + \hat{\mathcal{H}_{int}}  
 $$
 
 The effective Schrodinger equation
 $$
-(H_{QM}+H_{int}) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
+(\hat{\mathcal{H}_{QM}}+\hat{\mathcal{H}_{int}}) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
 $$
 
 The interaction Hamiltonian associated to the electrostatic and van der Waals contributions
 $$
-H_{int} = H^{elect}_{int} + H^{vdw}_{int}
+\hat{\mathcal{H}_{int}} = \hat{\mathcal{H}^{elect}_{int}} + \hat{\mathcal{H}^{vdw}_{int}}
 $$
 
 The MFA electrostatic interaction(a statistical average over configurations)
 $$
-\left \langle H^{elect}_{int} \right \rangle = \int {\hat{\rho} \cdot \left \langle V_{S}(r) \right \rangle } \, dr
+\left \langle \hat{\mathcal{H}^{elect}_{int}} \right \rangle = \int {\hat{\rho} \cdot \left \langle V_{S}(r) \right \rangle } \, dr
 $$
 - $\hat{\rho}$ : the solute charge density operator <br>
 - $\left \langle V_{S}(r) \right \rangle$ : the average electrostatic potential by the solvent <br>
@@ -68,7 +68,7 @@ $$
 <br>
 The effective Schrodinger equation considering the MFA energy
 $$
-(H_{QM} + \left \langle H_{int} \right \rangle) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
+(\hat{\mathcal{H}_{QM}} + \left \langle \hat{\mathcal{H}_{int}} \right \rangle) \left | \Psi \right \rangle = E \left | \Psi \right \rangle
 $$
 
 <br><br></div>
@@ -95,7 +95,7 @@ $$
 \Delta G_{s} = \Delta E_{solute} + \Delta G_{int} + \Delta ZPE_{solute}
 $$
 $$
-\Delta E_{solute} = E_{B} - E_{A} = \left \langle \Psi_{B} | H^{0}_{B} | \Psi_{B} \right \rangle - \left \langle \Psi_{A} | H^{0}_{A} | \Psi_{A} \right \rangle 
+\Delta E_{solute} = E_{B} - E_{A} = \left \langle \Psi_{B} | \hat{\mathcal{H}^{0}_{B}} | \Psi_{B} \right \rangle - \left \langle \Psi_{A} | \hat{\mathcal{H}^{0}_{A}} | \Psi_{A} \right \rangle 
 $$
   
 <br><br></div>
