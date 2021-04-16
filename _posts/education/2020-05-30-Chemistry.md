@@ -82,7 +82,7 @@ author_staff_member: anonym
 
 
 <br><br><br>
-## Physical chemistry
+## Physical Chemistry
 - Periodic Table
 <span style="font-size:small;">
   :en
