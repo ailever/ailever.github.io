@@ -192,6 +192,11 @@ $$IC_{50} = K^{I}_{D} \left ( 1 + \frac{[L_{0}]}{D^{L}_{D}} \right )$$
 [REF|<a href="#REF" style="font-size:xx-small;">Metal–ligand interactions in drug design</a>]
 
 ### Design Considerations
+- Drug Target Protein Classes
+  - GPCRs
+  - Ion channels
+  - Kinases
+  - Proteases
 - Molecular Docking
   - Flexible docking / Rigid docking
   - Scoring Function
