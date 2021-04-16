@@ -29,7 +29,7 @@ author_staff_member: anonym
 ## GTO : Gaussian-Type Orbitals
 
 <br><br><br>
-## DO : Density Orbitals
+## CGF : Contracted Gaussian Functions
 
 
 <!-- Content Block -->
