@@ -61,10 +61,18 @@ $$\mathcal{Z}(\mu,V,T) = \sum_{i}e^{-\frac{N_{i}\mu - E_{i}}{k_{B}T}}$$
 <br><br><br>
 ## Ensembles
 ### NVE Microcanonical
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+- constant variables : <span>$N, V, E$</span>
+- <span>$W$</span>: the number of microstates
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\mathcal{P} = \frac{1}{W} $$
+<br><br></div>
 
 ### NVT Canonical
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
+- constant variables : <span>$N, V, T$</span>
+- <span>$F$</span>: Helmholtz Free Energy
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\mathcal{P} = e^{-\frac{E-F}{k_{B}T}}$$  
+<br><br></div>
 
 ### µVT Grand canonical
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
