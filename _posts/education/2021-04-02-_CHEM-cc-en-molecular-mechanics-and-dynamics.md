@@ -34,12 +34,12 @@ $$F_{i}=-\frac{\partial V(r_{1},r_{2},\cdots,r_{N} )}{\partial r_{i}}$$
 Numerically approach 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
-  x(t+\delta t) &= x(t) +\dot{x}(t)\delta t + \frac{1}{2}\ddot{x}(t)\delta t^{2} + \frac{1}{6}\dddot{x}(t)\delta t^{3} + \frac{1}{24}\ddddot{x}(t)\delta t^{4} + \cdots \\
-  x(t-\delta t) &= x(t) -\dot{x}(t)\delta t + \frac{1}{2}\ddot{x}(t)\delta t^{2} - \frac{1}{6}\dddot{x}(t)\delta t^{3} + \frac{1}{24}\ddddot{x}(t)\delta t^{4} + \cdots \\  
+  x(t+\Delta t) &= x(t) +\dot{x}(t)\Delta t + \frac{1}{2}\ddot{x}(t)\Delta t^{2} + \frac{1}{6}\dddot{x}(t)\Delta t^{3} + \frac{1}{24}\ddddot{x}(t)\Delta t^{4} + \cdots \\
+  x(t-\Delta t) &= x(t) -\dot{x}(t)\Delta t + \frac{1}{2}\ddot{x}(t)\Delta t^{2} - \frac{1}{6}\dddot{x}(t)\Delta t^{3} + \frac{1}{24}\ddddot{x}(t)\Delta t^{4} + \cdots \\  
 \end{align*}$$
 
 $$
-x(t+\delta t) = 2x(t) - x(t-\delta t) + \ddot{x}\delta t^{2} + \mathcal{O}(\delta t^{4})  
+x(t+\Delta t) = 2x(t) - x(t-\Delta t) + \ddot{x}\Delta t^{2} + \mathcal{O}(\Delta t^{4})  
 $$
 <br><br></div>
 
