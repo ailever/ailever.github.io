@@ -247,9 +247,9 @@ $$\begin{align*}
     } \, d\vec{r_{1}}  \\
 \end{align*}$$
 
-Kohn-Sham Operator
+Extended Kohn-Sham Operator
 $$\begin{align*}
-    F_{\mu \nu}^{KS}
+    \hat{F}_{\mu \nu}^{KS}
     &= h_{\mu\nu} \int {
         \eta_{\mu} (\vec{r_{1}}) \left ( 
             \int {
