@@ -256,7 +256,12 @@ $$\begin{align*}
     S_{\mu \nu} &= \int {\eta_{\mu}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}})
     } \, d\vec{r_{1}}  \\
 \end{align*}$$
-              
+
+Charge density in the LCAO scheme
+$$
+\rho(\vec{r}) = \sum_{i}^{L}\left \vert \psi_{i}(\vec{r}) \right \vert^{2} = \sum_{i}^{N}\sum_{\mu}^{L}\sum_{\nu}^{L}c_{\mu i}c_{\nu i}\eta_{\mu}(\vec{r})\eta_{\nu}(\vec{r})
+$$
+
 <br><br></div>
 
 
