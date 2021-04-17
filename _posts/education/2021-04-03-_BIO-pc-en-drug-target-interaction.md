@@ -68,9 +68,9 @@ author_staff_member: anonym
 - Development
   - Clinic Phase
 - Registration
-  - MFDS
-  - FDA
-  - EMA
+  - [MFDS](https://www.mfds.go.kr/index.do)
+  - [FDA](https://www.fda.gov/)
+  - [EMA](https://www.ema.europa.eu/en)
 - Market
 
 ### Cost of Target Discovery
