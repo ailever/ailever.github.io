@@ -315,7 +315,7 @@ $$\eta^{GTO} = Nx^{l}y^{m}z^{b}e^{-\alpha r}$$
 
 Contracted Gaussian Functions (CGF)
 $$
-\eta_{tau}^{CGF} = \sum_{a}^{A} d_{a\tau}\eta_{a}^{GTO}
+\eta_{\tau}^{CGF} = \sum_{a}^{A} d_{a\tau}\eta_{a}^{GTO}
 $$
 <br><br></div>
 
