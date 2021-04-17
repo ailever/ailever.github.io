@@ -351,6 +351,7 @@ $$
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
+  <li><a href="https://arxiv.org/pdf/2102.04229.pdf">(2021) Learning the exchange-correlation functional from nature with fully differentiable density functional theory</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
