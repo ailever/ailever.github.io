@@ -46,6 +46,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## Ab Initio Molecular Dynamics 
+- the Born–Oppenheimer (BO) adiabatic approximation
+
 ### Car–Parrinello Method 
 ### Steepest Descent, Conjugate Gradient, and Block Davidson Methods 
 ### Formulation with Plane Wave Basis 
