@@ -350,6 +350,7 @@ $$
   <li><a href="https://scifinder.cas.org">SciFinder - Chemical Abstracts Service</a></li>
   <li><a href="http://www.crystallography.net/cod/">Crystallography Open Database</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Basis_set_(chemistry)">Basis Set</a></li>
+  <li><a href="https://www.theoretical-physics.net/dev/quantum/dft.html#kohn-sham-equations">Theoretical-Physics</a></li>
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
