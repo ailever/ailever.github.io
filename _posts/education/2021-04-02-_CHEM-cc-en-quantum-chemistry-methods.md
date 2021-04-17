@@ -49,7 +49,7 @@ $$\hat{\mathcal{H}}\Xi(r,R;t) = i\hbar\Xi(r,R;t)$$
 <b id='REF'>Reference</b>
 <ol>
   <li><a href="http://www.fhi-berlin.mpg.de/~luca/Course_TU/">Thermodynamics</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="http://helper.ipam.ucla.edu/publications/gss2014/gss2014_11935.pdf">Path Integral Molecular Dynamics for Static and Dynamical Observables</a></li>
   <li><a href="#"></a></li>
 </ol>
 <ul>
