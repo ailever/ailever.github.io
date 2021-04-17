@@ -250,6 +250,9 @@ $$\Delta F(A\rightarrow B) = \int_{0}^{1} {\frac{\partial F(\lambda)}{\partial \
 <b id='REF'>Reference</b>
 <ol>
   <li><a href="http://www.fhi-berlin.mpg.de/~luca/Course_TU/">Theoretical Concepts for Chemical Energy Conversion</a></li>
+  <li><a href="http://iopenshell.usc.edu/chem545/lectures2011/QMMM_Thiel_Review_2009.pdf">QM/MM Methods for Biomolecular Systems</a></li>
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
 <ul>
