@@ -318,7 +318,9 @@ $$
 \eta_{tau}^{CGF} = \sum_{a}^{A} d_{a\tau}\eta_{a}^{GTO}
 $$
 <br><br></div>
- 
+
+
+
 <br><br><br>
 ## DFT applications
 ### Applications in quantum chemistry
@@ -352,6 +354,7 @@ $$
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
   <li><a href="https://arxiv.org/pdf/2102.04229.pdf">(2021) Learning the exchange-correlation functional from nature with fully differentiable density functional theory</a></li>
+  <li><a href="https://www.nature.com/articles/s41524-020-0310-0">(2020) Completing density functional theory by machine learning hidden messages from molecules</a></li>
 </ul>
 </div>
 <!-- Reference Block -->
