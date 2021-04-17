@@ -440,7 +440,7 @@ source('EE-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
-  <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
+  <span class="private_btn"><a href="https://sunqm.github.io/pyscf/" target="_blank" style="color:white">PYSCF</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
 <div class="uguide_box">
