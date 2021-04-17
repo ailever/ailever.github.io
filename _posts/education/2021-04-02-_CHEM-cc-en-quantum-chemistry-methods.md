@@ -24,6 +24,10 @@ author_staff_member: anonym
 
 ## Ab initio MD, General formalism
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\hat{\mathcal{H}} = \Omicron(r,R;t) = i\hbar\Omicron ((r,R;t))$$  
+<br><br></div>
+
 
 ## 
 
