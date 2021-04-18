@@ -49,6 +49,8 @@ author_staff_member: anonym
         ├── PDBbind-101.txt
         └── pdbbind_2019_intro.pdf
 </pre>
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">2019_index.lst</code><br>
 <pre class="sudo-code">
 1chg  2.50  1976  0.430  -1.000  -1.000
@@ -85,7 +87,12 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
 
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_general_PL.2019</code><br>
 <pre class="sudo-code">
 # ==============================================================================
@@ -122,6 +129,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_general_PL_data.2019</code><br>
 <pre class="sudo-code">
 # ==============================================================================
@@ -158,6 +170,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_general_PL_name.2019</code><br>
 <pre class="sudo-code">
 # ==============================================================================
@@ -194,6 +211,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_refined_data.2019</code><br>
 <pre class="sudo-code">
 # ==============================================================================
@@ -230,6 +252,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_refined_name.2019</code>
 <pre class="sudo-code">
 # ==============================================================================
@@ -266,6 +293,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_refined_set.2019</code><br>
 <pre class="sudo-code">
 # ==============================================================================
@@ -302,6 +334,11 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
+
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
 <code class="code-title">INDEX_structure.2019</code><br>
 <pre class="sudo-code">
 4tln  2.30  1982  0.169  -1.000  -1.000
@@ -338,6 +375,8 @@ author_staff_member: anonym
 ...
 ...
 </pre>
+</details>
+
 
 
 <br><br><br>
