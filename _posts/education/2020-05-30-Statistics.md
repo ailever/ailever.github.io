@@ -45,10 +45,6 @@ author_staff_member: ailever
 
 --- 
 
-<br><br><br>
-
-
-<br><br><br>
 ## ADDITIONALS
 ### PAPER REVIEW
 ### RELATED LABORATORY
