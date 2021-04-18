@@ -45,19 +45,17 @@ author_staff_member: ailever
 
 --- 
 
-## PAPER REVIEW
-
-
 <br><br><br>
-## RELATED LABORATORY
--
-<span style="font-size:small;">
-  :[url]()
-</span>
 
 
 <br><br><br>
 ## ADDITIONALS
+### PAPER REVIEW
+### RELATED LABORATORY
+-
+<span style="font-size:small;">
+  :[url]()
+</span>
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
