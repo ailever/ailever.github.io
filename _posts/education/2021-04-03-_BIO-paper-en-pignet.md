@@ -1093,11 +1093,11 @@ neural network for protein-ligand binding affinity prediction</a></li>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-pc-en-drug-target-interaction/">Drug-Target Interaction</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-bt-en-bio-databases/">Bio-Databases</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-pc-en-drug-target-interaction/">[Biology] Drug-Target Interaction</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-bt-en-bio-databases/">[Biology] Bio-Databases</a></li>
 </ol>
 <ul>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">(2020) Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
 </ul>
 </div>
 <!-- Article Block -->
