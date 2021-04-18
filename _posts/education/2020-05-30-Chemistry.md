@@ -264,13 +264,11 @@ author_staff_member: anonym
 </span>
 
 
-<br><br><br>
 ### RELATED LABORATORY
 - [Seoul National University](https://chem.snu.ac.kr/research-faculty/faculty/fulltime)
 - [Carnegie Mellon University](https://www.cmu.edu/chemistry/research/bio_chem.html)
 
 
-<br><br><br>
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-Chemistry.md" target="_blank" style="color:white">Edit</a></span>
