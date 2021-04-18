@@ -195,12 +195,12 @@ author_staff_member: ailever
 </span>
 - Convolutional Neural Network
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-convolutional-neural-network/)
   :kr
 </span>
 - Recurent Neural Network
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-dl-en-recurent-neural-network/)
   :kr
 </span>
 - Graph Neural Network
