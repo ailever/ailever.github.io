@@ -1822,7 +1822,7 @@ source('ST-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
-    [stochastic process] Gaussian process
+    [stochastic process] ◆Gaussian process
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0021.py">: ST-0021</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
