@@ -13,6 +13,7 @@ author_staff_member: anonym
 ---
 
 <!-- file name code
+2020-05-30-_CE-[]-en-[].md
 2020-05-30-_CE-paper-en-.md
 2020-05-30-_CE-add-en-.md
 2020-05-30-_CE-db-en-.md
