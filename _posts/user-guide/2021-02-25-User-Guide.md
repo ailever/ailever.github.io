@@ -299,6 +299,7 @@ source('SI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/01/app-SI/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -330,6 +331,7 @@ source('FI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/02/app-FI/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">pandas-datareader</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">quant-c-library</a></span>
 </div>
@@ -387,6 +389,7 @@ source('BO-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/03/app-BO/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -414,6 +417,7 @@ source('CH-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/04/app-CH/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">B</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -440,6 +444,7 @@ source('EE-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/05/app-EE/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="https://sunqm.github.io/pyscf/" target="_blank" style="color:white">PYSCF</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -466,6 +471,7 @@ source('AI-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/06/app-AI/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">librosa</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">C</a></span>
 </div>
@@ -502,6 +508,7 @@ source('RL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/07/app-RL/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">gym</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">rlcard</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">Softlearning</a></span>
@@ -586,6 +593,7 @@ source('DL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/08/app-DL/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">pytorch</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">torch-summary</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">geotorch</a></span>
@@ -847,6 +855,7 @@ source('ML-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/09/app-ML/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">scikit-learn</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">mlxtend</a></span>
 </div>
@@ -1034,6 +1043,7 @@ source('FA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/10/app-FA/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">factor-analyzer</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">semopy</a></span>
 </div>
@@ -1056,6 +1066,7 @@ source('ST-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/11/app-ST/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">numpy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">symfit</a></span>
@@ -1842,6 +1853,7 @@ source('NM-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/12/app-NM/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">FEniCS</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">scipy</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">sympy</a></span>
@@ -1961,6 +1973,7 @@ source('PL-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/13/app-PL/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">ipaddress</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">tcpschool</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">repl</a></span>
@@ -2228,6 +2241,7 @@ source('MA-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/15/app-MA/" style="color:white">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">latex</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">katex</a></span>
 </div>
