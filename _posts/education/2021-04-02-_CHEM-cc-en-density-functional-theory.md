@@ -360,6 +360,7 @@ $$
   <li><a href="https://en.wikipedia.org/wiki/Basis_set_(chemistry)">Basis Set</a></li>
   <li><a href="https://www.theoretical-physics.net/dev/index.html">Theoretical-Physics</a></li>
   <li><a href="https://www.researchgate.net/figure/2b-Flowchart-of-self-consistent-Kohn-Sham-calculation_fig3_37256837">Self-Consistent Field</a></li>
+  <li><a href="https://www.phys.sinica.edu.tw/TIGP-NANO/Course/2015_Spring/classnote/CMS_5_20150326.pdf">Solving Hartree Fock Equation using a Basis Set HF Roothaan equation</a></li>
 </ol>
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s11224-020-01507-x">Computer-aided study of selective flavonoids against chikungunya virus replication using molecular docking and DFT-based approach</a></li>
