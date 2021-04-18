@@ -62,5 +62,7 @@ author_staff_member: ailever
 <br><br><br>
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2020-05-30-Statistics.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/new/master/_posts/education" target="_blank" style="color:white">New</a></span>
+  <span class="bottom_btn"><a href="https://raw.githubusercontent.com/ailever/ailever.github.io/master/_posts/education/_defaults_STAT.md" target="_blank" style="color:white">Format</a></span>  
 </div>
 
