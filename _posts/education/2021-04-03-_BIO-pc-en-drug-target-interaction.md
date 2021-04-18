@@ -322,9 +322,9 @@ Big Firm in Pharmaceutical Industry
   <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-catalysis/">[Biology] Enzyme Catalysis</a></li>
 </ol>
 <ul>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">[Paper] PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">[Paper] Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-new/">[Paper] NEW</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-new/">(2021) NEW</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">(2020) PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">(2020) Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
 </ul>
 </div>
 <!-- Article Block -->
