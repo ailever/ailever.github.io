@@ -299,7 +299,7 @@ $$
 Coulomb contribution and exchange-correlation and Hartree-Fock exchange integral
 $$\begin{align*}
 J_{\mu\nu} &= 
-  \sum_{\lambda}^{L}\sum_{\sigma}^{L} P_{\lambda\sigma} \iint \eta_{\mu}(\vec{x_{1}})\eta_{\nu}(\vec{x_{1}}) \frac{1}{r_{12}} \eta_{\lambda}(\vec{x_{2}})\eta_{\sigma}(\vec{x_{2}}) \, d\vec{x_{1}}\,d\vec{x_{2}} \\
+  \sum_{\lambda}^{L}\sum_{\sigma}^{L} P_{\lambda\sigma} \iint \eta_{\mu}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}}) \frac{1}{r_{12}} \eta_{\lambda}(\vec{r_{2}})\eta_{\sigma}(\vec{r_{2}}) \, d\vec{r_{1}}\,d\vec{r_{2}} \\
 
 V_{\mu\nu}^{XC} &= \int \eta_{\mu}(\vec{r_{1}})V_{XC}(\vec{r_{1}})\eta_{\nu}(\vec{r_{1}})\,d\vec{r_{1}}\\
 
