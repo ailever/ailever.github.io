@@ -238,8 +238,13 @@ K-S orbital
 $$
 \psi_{i} = \sum_{\mu=1}^{L} c_{\mu i}\eta_{\mu}
 $$
+<br><br></div>
 
+<div class="math-box1" align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\hat{F}^{KS}_{\mu\nu}\hat{C} = \hat{S}_{\mu \nu}\hat{C}\hat{\epsilon}$$
+<br><br></div>
 
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Kohn-Sham matrix and overlap matrix
 $$\begin{align*}
     F_{\mu \nu}^{KS} &= \int {\eta_{\mu} (\vec{r_{1}}) \hat{f}^{KS}(\vec{r_{1}}) \eta_{\nu}(\vec{r_{1}})
