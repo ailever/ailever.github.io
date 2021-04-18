@@ -29,6 +29,7 @@ author_staff_member: anonym
 - [PDBbind-download](http://www.pdbbind-cn.org/download.php)
 - [RCSB-stats](https://www.rcsb.org/stats/summary)
 - [scPDB](http://bioinfo-pharma.u-strasbg.fr/scPDB/) : binding site database
+- [Introduction to Protein Data Bank Format](https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html)
 <pre class="code-path">
 ├── PDBbind_2019_plain_text_index.tar.gz
 └── plain-text-index
