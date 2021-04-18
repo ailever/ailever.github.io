@@ -313,18 +313,18 @@ Big Firm in Pharmaceutical Industry
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Related Articles</b>
 <ol>
-  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-ab-initio-methods/">Ab initio methods</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-density-functional-theory/">Density Functional Theory</a></li>  
-  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/">Molecular Mechanics and Dynamics</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-qm-mm/">QM/MM : Quantum Mechanics/Molecular Mechanics</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure/">Protein Structure</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure-prediction/">Protein Structure Prediction</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-catalysis/">Enzyme Catalysis</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-ab-initio-methods/">[Chemistry] Ab initio methods</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-density-functional-theory/">[Chemistry] Density Functional Theory</a></li>  
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-molecular-mechanics-and-dynamics/">[Chemistry] Molecular Mechanics and Dynamics</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/02/_CHEM-cc-en-qm-mm/">[Chemistry] QM/MM : Quantum Mechanics/Molecular Mechanics</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure/">[Biology] Protein Structure</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-protein-structure-prediction/">[Biology] Protein Structure Prediction</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-prt-en-enzyme-catalysis/">[Biology] Enzyme Catalysis</a></li>
 </ol>
 <ul>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
-  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-new/">NEW</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-pignet/">[Paper] PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-mt-dti/">[Paper] Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction</a></li>
+  <li><a href="https://ailever.github.io/education/2021/04/03/_BIO-paper-en-new/">[Biology] NEW</a></li>
 </ul>
 </div>
 <!-- Article Block -->
