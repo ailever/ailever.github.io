@@ -166,7 +166,7 @@ $$
 
 <br><br><br>
 ## The Kohn-Sham approach
-### The Kohn-Sham equations
+### The Kohn-Sham equations : One-Electron Schrödinger-like Equations
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$F[\rho] = T_{S} + J[\rho] + E_{XC}[\rho]$$  
 $$\begin{align*}
