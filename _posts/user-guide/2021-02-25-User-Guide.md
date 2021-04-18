@@ -11,12 +11,12 @@ author_staff_member: ailever
 
 <div align="center" class="top_btn_box">
   <span class="sp_top_btn" style="background-color:red;"><a href="https://colab.research.google.com/" target="_blank" style="color:white;">Colab</a></span>  
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.github.io/'">Home</button>
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://github.com/ailever/ailever'">Github</button>
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://github.com/ailever/ailever/wiki'">WIKI</button>
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
-  <button class="top_btn" type="button" style="background-color:blue;" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/'">Home</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever'">Github</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever/wiki'">WIKI</button>
+  <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
+  <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
+  <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/01/app-SI/'">SI</button>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/02/app-FI/'">FI</button>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/03/app-BO/'">BO</button>  
