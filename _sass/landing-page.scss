@@ -255,10 +255,12 @@
 }
 
 /* Custom Mathblock */
-.math-title {
-    	font-weight: bold;
-    	border-bottom: solid;
-    	border-bottom-color: red;	
+.math-box {
+	font-weight: bold;
+	border-left: solid;
+	border-left-width: 20px;
+	border-left-color: red;
+	border-style: solid;
 }
 .math-box1 {
 	font-weight: bold;
