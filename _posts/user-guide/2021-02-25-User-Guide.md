@@ -232,12 +232,12 @@ source('lib-PX-0000')
 <div class="uguide_box">
   <div class="uguide_list">
     px.timeline
-    <span class="uguide_elt"><a href="#">: lib-PX-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0000.py">: lib-PX-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     px.sunburst
-    <span class="uguide_elt"><a href="#">: lib-PX-0001</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-PX-0001.py">: lib-PX-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
@@ -264,27 +264,27 @@ source('lib-GO-0000')
 <div class="uguide_box">
   <div class="uguide_list">
     go.Bar
-    <span class="uguide_elt"><a href="#">: lib-GO-0000</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0000.py">: lib-GO-0000</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     go.Bar
-    <span class="uguide_elt"><a href="#">: lib-GO-0001</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0001.py">: lib-GO-0001</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     go.Sankey
-    <span class="uguide_elt"><a href="#">: lib-GO-0002</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0002.py">: lib-GO-0002</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     go.Treemap
-    <span class="uguide_elt"><a href="#">: lib-GO-0003</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0003.py">: lib-GO-0003</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
     go.Sunburst
-    <span class="uguide_elt"><a href="#">: lib-GO-0004</a></span>
+    <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/lib-GO-0004.py">: lib-GO-0004</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
 </div>
