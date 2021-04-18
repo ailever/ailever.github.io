@@ -240,7 +240,7 @@ $$
 $$
 <br><br></div>
 
-<div class="math-box">
+<div class="math-box1">
 Roothaan equations
 $$\hat{F}^{KS}_{\mu\nu}\hat{C} = \hat{S}_{\mu \nu}\hat{C}\hat{\epsilon}$$
 </div>
