@@ -241,8 +241,9 @@ $$
 <br><br></div>
 
 <div class="math-box1" align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+Roothaan equations  
 $$\hat{F}^{KS}_{\mu\nu}\hat{C} = \hat{S}_{\mu \nu}\hat{C}\hat{\epsilon}$$
-<br><br></div>
+</div>
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Kohn-Sham matrix and overlap matrix
