@@ -28,6 +28,7 @@ author_staff_member: anonym
 ### Protein Data Bank (PDB)
 - [PDBbind-download](http://www.pdbbind-cn.org/download.php)
 - [RCSB-stats](https://www.rcsb.org/stats/summary)
+- [scPDB](http://bioinfo-pharma.u-strasbg.fr/scPDB/) : binding site database
 <pre class="code-path">
 ├── PDBbind_2019_plain_text_index.tar.gz
 └── plain-text-index
