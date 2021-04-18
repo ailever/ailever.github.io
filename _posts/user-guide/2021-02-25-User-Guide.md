@@ -1997,6 +1997,7 @@ source('UT-0000')
 </pre>
 <div align="center" class="private_btn_box">
   <span class="private_btn"><a href="https://github.com/ailever/openapi/tree/master/source" target="_blank" style="color:white">Source</a></span>
+  <span class="private_btn"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/">Manual</a></span>  
   <span class="private_btn"><a href="" target="_blank" style="color:white">pyautogui</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">urllib</a></span>
   <span class="private_btn"><a href="" target="_blank" style="color:white">requests</a></span>
