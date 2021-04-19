@@ -50,6 +50,7 @@ author_staff_member: anonym
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pytorch/">Pytorch</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-tensorflow/">TensorFlow</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pandas/">Pandas</a></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-sympy/">Sympy</a></li>
   <li>Matplotlib</li>
   <li>Manim</li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-plotly/">Plotly</a></li>
