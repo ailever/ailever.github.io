@@ -15,10 +15,19 @@ author_staff_member: anonym
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Thermodynamic_free_energy'">Thermodynamic free energy</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Thermodynamic free energy
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\begin{align*}
+\text{Helmholtz free energy} &: A = U - TS\\  
+\text{Gibbs free energy} &: G = H - TS \\  
+\end{align*}$$  
+
+<br><br></div>
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
