@@ -40,7 +40,7 @@ $$\oint \frac{\delta Q}{T_{surr}} \leq 0$$
 
 ## Entropy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$ \frac{\delta Q_{reversible}}{T_{surr}} = dS$$
+$$ \frac{d Q_{reversible}}{T_{surr}} = dS$$
 <br><br></div>
 
 
