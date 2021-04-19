@@ -13,6 +13,9 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: anonym
 ---
 
+<!-- file name code
+2020-05-30-_CE-lang-en-python-[].md
+-->
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
