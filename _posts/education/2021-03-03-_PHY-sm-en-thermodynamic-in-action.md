@@ -29,6 +29,10 @@ $$\begin{align*}
 \text{Gibbs free energy} &: G = H - TS \\  
 \end{align*}$$  
 </div>
+- <span>$p$</span> : Pressure
+- <span>$V$</span> : Volume
+- <span>$T$</span> : Temperature
+- <span>$S$</span> : Entropy
 
 <div>
 The differentials for processes at specific conditions
