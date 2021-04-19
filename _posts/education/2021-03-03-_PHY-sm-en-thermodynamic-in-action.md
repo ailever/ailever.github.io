@@ -23,7 +23,9 @@ author_staff_member: anonym
 ## Thermodynamic free energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\begin{align*}
-\text{Helmholtz free energy} &: A = U - TS\\  
+\text{Internal energy} &: U = U \\
+\text{Enthalpy} &: H = U + pV \\
+\text{Helmholtz free energy} &: A = U - TS \\  
 \text{Gibbs free energy} &: G = H - TS \\  
 \end{align*}$$  
 </div>
