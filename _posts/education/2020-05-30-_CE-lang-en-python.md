@@ -45,8 +45,8 @@ author_staff_member: anonym
 <ol>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-api/">Python API</a></li>
   <li>Numpy</li>
-  <li>Scipy</li>
   <li>Statsmodels</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-scipy/">Scipy</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pytorch/">Pytorch</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-tensorflow/">TensorFlow</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pandas/">Pandas</a></li>
