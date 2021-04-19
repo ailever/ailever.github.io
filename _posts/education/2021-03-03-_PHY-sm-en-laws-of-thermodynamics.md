@@ -27,7 +27,7 @@ Carnot engine diagram
 
 ### Thermal efficiency of real heat engines
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$e_{C} = 1 - frac{T_{c}}{T_{h}}$$  
+$$e_{C} = 1 - \frac{T_{c}}{T_{h}}$$  
 <br><br></div>
 
 
