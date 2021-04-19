@@ -47,14 +47,14 @@ author_staff_member: anonym
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-statsmodels/">Statsmodels</a></li>  
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-numpy/">Numpy</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-scipy/">Scipy</a></li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-sympy/">Sympy</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pytorch/">Pytorch</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-tensorflow/">TensorFlow</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-pandas/">Pandas</a></li>
-  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-sympy/">Sympy</a></li>
-  <li>Matplotlib</li>
-  <li>Manim</li>
+  <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-matplotlib/">Matplotlib</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-plotly/">Plotly</a></li>
   <li><a href="https://ailever.github.io/education/2020/05/30/_CE-lang-en-python-rdkit/">RDKit</a></li>
+  <li>Manim</li>
 </ol>
 </div>
 <!-- Article Block -->
