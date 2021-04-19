@@ -20,9 +20,16 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Carnot engine diagram
+## Carnot Cycle
+Carnot engine diagram
 ![image](https://user-images.githubusercontent.com/52376448/115205176-3e44ce00-a134-11eb-8a2f-a07e1d6cc293.png)
 [REF|<a href="#REF">1</a>]
+
+### Thermal efficiency of real heat engines
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$e_{C} = 1 - frac{T_{c}}{T_{h}}$$  
+<br><br></div>
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
