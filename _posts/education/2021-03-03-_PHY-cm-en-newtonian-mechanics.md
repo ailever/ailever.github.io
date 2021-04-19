@@ -22,7 +22,7 @@ author_staff_member: anonym
 
 ## Work and potential energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$W = \int_{C} \mathbf{F} \cdot \, d\mathbf{x} = - \int_{C} \nabla \mathbf{\Phi} \cdot \, d\mathbf{x} $$  
+$$W = \int_{C} \mathbf{F} \cdot \, d\mathbf{x} = - \int_{C} \nabla \mathbf{V} \cdot \, d\mathbf{x} $$  
 <br><br></div>
 
 
