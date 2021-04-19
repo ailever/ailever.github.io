@@ -20,6 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+
 ## Carnot Cycle
 Carnot engine diagram
 ![image](https://user-images.githubusercontent.com/52376448/115205176-3e44ce00-a134-11eb-8a2f-a07e1d6cc293.png)
@@ -28,6 +29,13 @@ Carnot engine diagram
 ### Thermal efficiency of real heat engines
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$e_{C} = 1 - \frac{T_{c}}{T_{h}}$$  
+<br><br></div>
+
+<br><br><br>
+## Clausius theorem
+### Clausius inequality
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$\oint \frac{\delta Q}{T_{surr}} \leq 0$$
 <br><br></div>
 
 
