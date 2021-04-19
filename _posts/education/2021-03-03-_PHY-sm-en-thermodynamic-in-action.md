@@ -31,10 +31,12 @@ $$\begin{align*}
 </div>
 
 <div>
-The differentials for processes at uniform pressure and temperature
+The differentials for processes at specific conditions
 $$\begin{align*}
-dA  &= -pdV -SdT + \sum_{i} \mu_{i} dN_{i} \\  
-dG  &= Vdp -SdT + \sum_{i} \mu_{i} dN_{i} \\
+dU &= Tds - pdV \\
+dH &= Tds + Vdp \\
+dA &= -pdV -SdT + \sum_{i} \mu_{i} dN_{i} \\  
+dG &= Vdp -SdT + \sum_{i} \mu_{i} dN_{i} \\
 \end{align*}$$  
 </div>
 <!-- Content Block -->
