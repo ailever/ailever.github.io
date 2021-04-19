@@ -105,7 +105,8 @@ $$\Delta G_{bind} = -k_{B}T\ln{\frac{C^{o}}{8\pi^{2}}\frac{\sigma_{P}\sigma_{L}}
 - <span>$k_{B}$</span> : Boltzman Constant
 - <span>$T, P, V$</span> : Temperature, Pressure, Volume
 - <span>$C^{o}$</span> : Standard concentration (1 M)
-
+- <span>$Z$</span>: Partition functions
+- <span>$\sigma$</span>: Symmetry numbers
 
 ### Bennet’s Acceptance Ratio (BAR) 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
