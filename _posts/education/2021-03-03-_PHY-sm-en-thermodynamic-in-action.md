@@ -33,8 +33,8 @@ $$\begin{align*}
 <div>
 The differentials for processes at specific conditions
 $$\begin{align*}
-dU &= Tds - pdV \\
-dH &= Tds + Vdp \\
+dU &= Tds - pdV + \sum_{i} \mu_{i} dN_{i} \\
+dH &= Tds + Vdp + \sum_{i} \mu_{i} dN_{i} \\
 dA &= -pdV -SdT + \sum_{i} \mu_{i} dN_{i} \\  
 dG &= Vdp -SdT + \sum_{i} \mu_{i} dN_{i} \\
 \end{align*}$$  
