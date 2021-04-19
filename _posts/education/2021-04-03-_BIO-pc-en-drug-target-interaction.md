@@ -100,8 +100,12 @@ G &= H-TS = -\frac{1}{\beta}\ln{Q(N,P,T)} \\
 
 ### The free energy perturbation (FEP)
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta G_{bind} = -\frac{1}{\beta} \ln{\frac{Q_{B}}{Q_{A}}} = - \frac{1}{\beta} \ln{\left \langle e^{-\beta(H_{B}-H_{A})} \right \rangle_{A}}$$
+$$\Delta G_{bind} = -k_{B}T\ln{\frac{C^{o}}{8\pi^{2}}\frac{\sigma_{P}\sigma_{L}}{\sigma_{PL}}\frac{Z_{PL}}{Z_{P}Z_{L}}} + P^{o}\Delta V_{PL}$$  
 <br><br></div>
+- <span>$k_{B}$</span> : Boltzman Constant
+- <span>$T, P, V$</span> : Temperature, Pressure, Volume
+- <span>$C^{o}$</span> : Standard concentration (1 M)
+
 
 ### Bennet’s Acceptance Ratio (BAR) 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
