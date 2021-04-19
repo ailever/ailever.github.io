@@ -35,8 +35,14 @@ $$e_{C} = 1 - \frac{T_{c}}{T_{h}}$$
 ## Clausius theorem
 ### Clausius inequality
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-$$\Delta S = \oint \frac{\delta Q}{T_{surr}} \leq 0$$
+$$\oint \frac{\delta Q}{T_{surr}} \leq 0$$
 <br><br></div>
+
+## Entropy
+<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+$$ \frac{\delta Q_{reversible}}{T_{surr}} = dS$$
+<br><br></div>
+
 
 
 <!-- Content Block -->
