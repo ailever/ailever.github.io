@@ -2234,8 +2234,10 @@ source('UT-0000')
     <span class="uguide_elt"><a href="#">: edu</a></span>
   </div>
   <div class="uguide_list">
+    [visualization] pyflowchart : Flow Chart
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/#visualization">: manual</a></span>    
   </div>
   <div class="uguide_list">
     <span class="uguide_elt"><a href="#">: github</a></span>
