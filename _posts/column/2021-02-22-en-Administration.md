@@ -12,13 +12,12 @@ author_staff_member: ailever
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-states/'">US</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-kingdom/'">UK</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-china/'">china</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-korea/'">Korea</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-japan/'">Japan</button>
-  <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-india/'">India</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-states/'">US</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-kingdom/'">UK</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-china/'">china</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-korea/'">Korea</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-japan/'">Japan</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-india/'">India</button>
 </div><br>
 <!-- Top Block -->
 
