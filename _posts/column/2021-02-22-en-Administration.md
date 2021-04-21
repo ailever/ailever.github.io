@@ -14,7 +14,7 @@ author_staff_member: ailever
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-states/'">US</button>
   <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-united-kingdom/'">UK</button>
-  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-china/'">china</button>
+  <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-china/'">China</button>
   <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-korea/'">Korea</button>
   <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-japan/'">Japan</button>
   <button class="top_btn" type="button" style="background-color:brown;" onclick="location.href='https://ailever.github.io/ctrs/2021/04/21/en-india/'">India</button>
@@ -63,7 +63,7 @@ author_staff_member: ailever
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/tree/master/_posts/column" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/column/2021-02-22-en-Administration.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
