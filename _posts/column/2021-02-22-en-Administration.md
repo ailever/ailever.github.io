@@ -10,6 +10,13 @@ image: https://source.unsplash.com/v_e3Hha4EBA/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
+<!-- Top Block -->
+<div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+</div><br>
+<!-- Top Block -->
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
