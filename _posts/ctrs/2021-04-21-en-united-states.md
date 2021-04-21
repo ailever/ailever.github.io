@@ -21,7 +21,10 @@ author_staff_member: ailever
 </div><br>
 <!-- Top Block -->
 
+
 ## States
+![image](https://user-images.githubusercontent.com/52376448/115571217-c2947e00-a2f9-11eb-8641-5e2de7bf45ec.png)
+[REF|<a href="#REF">1</a>]
 - Alabama: Dec. 14, 1819
 - Alaska: Jan. 3, 1959
 - Arizona: Feb. 14, 1912
@@ -86,7 +89,7 @@ author_staff_member: ailever
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="https://en.wikipedia.org/wiki/United_States">United States</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
