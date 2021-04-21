@@ -359,6 +359,17 @@ $$
   <li><a href="https://scifinder.cas.org">SciFinder - Chemical Abstracts Service</a></li>
   <li><a href="http://www.crystallography.net/cod/">Crystallography Open Database</a></li>
   <li><a href="https://www.basissetexchange.org/">Basis Set</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L1.pdf">DFT_L1</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L2.pdf">DFT_L2</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L3.pdf">DFT_L3</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L4.pdf">DFT_L4</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L5.pdf">DFT_L5</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L6.pdf">DFT_L6</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L7.pdf">DFT_L7</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L8.pdf">DFT_L8</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L9.pdf">DFT_L9</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L10.pdf">DFT_L10</a></li>
+  <li><a href="https://www.southampton.ac.uk/assets/centresresearch/documents/compchem/DFT_L11.pdf">DFT_L11</a></li>
   <li><a href="https://www.theoretical-physics.net/dev/index.html">Theoretical-Physics</a></li>
   <li><a href="https://www.researchgate.net/figure/2b-Flowchart-of-self-consistent-Kohn-Sham-calculation_fig3_37256837">Self-Consistent Field</a></li>
   <li><a href="https://www.phys.sinica.edu.tw/TIGP-NANO/Course/2015_Spring/classnote/CMS_5_20150326.pdf">Solving Hartree Fock Equation using a Basis Set HF Roothaan equation</a></li>
