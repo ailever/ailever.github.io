@@ -1,7 +1,7 @@
 ---
-title: United States
+title: United States of America
 date: 2021-04-21
-description: United States
+description: United States of America
 _previous: https://ailever.github.io/
 categories:
   - ctrs
