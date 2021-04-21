@@ -457,12 +457,13 @@
 	padding: 3px;
 }
 .sb_main {
+	padding: 10px;
 	font-size:small;
-	background-color:none;
 }
 .sb_main:hover {
-	font-size:small;
+	padding: 10px;
 	font-weight:bold;
+	background-color: whitesmoke;	
 }
 
 
