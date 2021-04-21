@@ -23,6 +23,8 @@ author_staff_member: anonym
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Statistics'">Statistics</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Economics'">Economics</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Finance'">Finance</button>    
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Astronomy'">Astronomy</button>  
+  <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Art-and-Music'">Art and Music</button>  
 </div>
 <!-- Top Block -->
 
