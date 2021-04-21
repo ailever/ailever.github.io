@@ -18,6 +18,7 @@ author_staff_member: ailever
 </div><br>
 <!-- Top Block -->
 
+[go]({{site.ctrs}})
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
