@@ -6,7 +6,7 @@ _previous: https://ailever.github.io/education/
 categories:
   - education
 HL1: education
-image: https://source.unsplash.com/8lnbXtxFGZw/2000x1322?a=.png
+image: https://source.unsplash.com/0Fko0cLI2VQ/2000x1322?a=.png
 author_staff_member: anonym
 ---
 
