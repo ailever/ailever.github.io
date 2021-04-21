@@ -2,8 +2,8 @@
 title: AT,
 prev1_title: AT,
 prev2_title: Astronomy
-date: 2021-04-21
-description: AM, 
+date: 2021-04-20
+description: AT, 
 _previous: https://ailever.github.io/education/2020/05/30/Astronomy/
 categories:
   - education
@@ -13,7 +13,7 @@ author_staff_member: anonym
 ---
 
 <!-- file name code
-2021-04-21-_AM-[]-en-[].md
+2021-04-20-_AT-[]-en-[].md
 -->
 
 <!-- Top Block -->
