@@ -2,7 +2,7 @@
 title: United States
 date: 2021-04-21
 description: United States
-_previous: https://ailever.github.io/column/
+_previous: {{site.ctrs}}
 categories:
   - ctrs
 HL1: ctrs
