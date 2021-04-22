@@ -30,9 +30,9 @@ $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
 <li>$\sigma$ : the variance of return</li>
 <li>$r_{ij}$ : the return of a security $i$ during a time period $j$</li>
 <li>$P_{ij}$ : the possibility of the return $j$ for the security $i$</li>
-$$r_{\mathcal{P}j} = \sum_{i^{*}=1}^N {w_{i^{*}}r_{i^{*}j}}$$
-$$E(r_{\mathcal{P}j}) = \sum_{i^{*}=1}^N {w_{i^{*}}E(r_{i^{*}})}$$
-$$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum_{i^{*}=1}^N \sum_{j=1,j \ne i^{*}}^N {w_{i^{*}}w_{j}\sigma_{i^{*}j}}$$
+$$r_{\mathcal{P}j} = \sum_{i^{*}=1}^N {\omega_{i^{*}}r_{i^{*}j}}$$
+$$E(r_{\mathcal{P}j}) = \sum_{i^{*}=1}^N {\omega_{i^{*}}E(r_{i^{*}})}$$
+$$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {\omega_{i^{*}}^2\sigma_{i^{*}}^2} + \sum_{i^{*}=1}^N \sum_{j=1,j \ne i^{*}}^N {\omega_{i^{*}}\omega_{j}\sigma_{i^{*}j}}$$
 <li>$r_{\mathcal{P}j}$ : the return of a portfolio</li>
 <li>$\mathcal{P}$ : a portfolio which include $N$ securities</li>
 </ul>
@@ -40,13 +40,23 @@ $$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {w_{i^{*}}^2\sigma_{i^{*}}^2} + \sum
 
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 Vector Form
-$$E(r_{\mathcal{P}}) = \mathbf{r^T w}$$
-$$\sigma_{\mathcal{P}}^2 = \mathbf{w^T V w}$$
+$$E(r_{\mathcal{P}}) = \mathbf{r^T \omega}$$
+$$\sigma_{\mathcal{P}}^2 = \mathbf{\omega^T V \omega}$$
 $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 <br><br></div>
 
 <br><br><br>
 ## Portfolio Diversification
+
+<div class="math-box">
+Uncorrelated Securities
+$$\begin{align*}
+  \sigma_{P}^{2} &= \sum_{i=1}^{N} \omega_{i}^{2}\sigma_{i}^{2} \\
+                 &= \sum_{i=1}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{i}^{2} \\
+                 &= \frac{1}{N} \sum_{i=1}^{N} \left ( \frac{\sigma_{i}^{2}}{N} \right ) \\
+                 &= \frac{1}{N} \bar{\sigma}_{i}^{2}
+\end{align*}$$
+</div>
 
 <br><br><br>
 ## Calculating Efficient Frontiers
