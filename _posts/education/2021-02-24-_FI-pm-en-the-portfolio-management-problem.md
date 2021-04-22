@@ -56,8 +56,7 @@ $$\begin{align*}
                  &= \frac{1}{N} \sum_{i=1}^{N} \left ( \frac{\sigma_{i}^{2}}{N} \right ) \\
                  &= \frac{1}{N} \bar{\sigma}_{i}^{2}
 \end{align*}$$
-</div>
-<div class="math-box1">
+
 Correlated Securities
 $$\begin{align*}
   \sigma_{P} &= \sum_{i=1}^{N} \left ) \frac{1}{N} \right )^{2} \sigma_{i}^{2} 
