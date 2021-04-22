@@ -59,8 +59,8 @@ $$\begin{align*}
 
 Correlated Securities
 $$\begin{align*}
-  \sigma_{P} &= \sum_{i=1}^{N} \left ) \frac{1}{N} \right )^{2} \sigma_{i}^{2} 
-             + \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \left ) \frac{1}{N} \right )^{2} \sigma_{ij}  \\
+  \sigma_{P} &= \sum_{i=1}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{i}^{2} 
+             + \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{ij}  \\
              &= \frac{1}{N} \left ( \sum_{i=1}^{N} \frac{\sigma_{i}^{2}}{N} \right )
              + \frac{N-1}{N} \left ( \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \frac{\sigma_{ij}}{N(N-1)} \right ) \\
 \end{align*}$$
