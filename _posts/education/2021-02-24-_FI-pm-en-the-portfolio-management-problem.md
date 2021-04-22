@@ -82,9 +82,11 @@ $$\begin{align*}
   \sigma_{F\mathcal{P}} &= \sqrt{\omega_{\mathcal{P}}^{2}\sigma_{\mathcal{P}}^{2} + (1-\omega_{\mathcal{P}})^{2} \sigma_{F}^{2} + 2\omega_{\mathcal{P}}(1-\omega_{\mathcal{P}})\rho_{F\mathcal{P}}\sigma_{F}\sigma_{\mathcal{P}} } \\
   &= \omega_{\mathcal{P}}\sigma_{\mathcal{P}}\\
 \end{align*}$$
-$$
-\therefore \omega_{\mathcal{P}} = \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}}
-$$
+
+$$\begin{align*}
+\therefore \omega_{\mathcal{P}} &= \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}} \\
+r_{F\mathcal{P}} &= r_{F} + \frac{E(r_{\mathcal{P}}) - r_{F}}{\sigma_{\mathcal{P}}} \sigma_{F\mathcal{P}}
+\end{align*}$$
 </div>
 
 
