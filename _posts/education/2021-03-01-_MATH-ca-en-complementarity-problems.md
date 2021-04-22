@@ -31,7 +31,7 @@ $$\begin{array}{lcl}
 \text{minimize} & c^{T}x + d \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -44,7 +44,7 @@ $$\begin{array}{lcl}
 \text{minimize} & \frac{1}{2}x^{T}Px + q^{T}x + r \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -57,7 +57,7 @@ $$\begin{array}{lcl}
 \text{minimize} & \frac{1}{2}x^{T}P_{0}x + q_{0}^{T}x + r_{0} \\
 \text{subject to} & \frac{1}{2}x^{T}P_{i}x + q_{i}^{T}x + r_{i} \le 0, i=1, \cdots, m \\ 
                   & Ax = b \\ 
-\text{where }P \in \mathbb{S}^{n}_{+} \text{for } i=1,\cdots,m \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }P \in \mathbb{S}^{n}_{+} \text{for } i=1,\cdots,m \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -70,7 +70,7 @@ $$\begin{array}{lcl}
 \text{minimize} & = a \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -83,7 +83,7 @@ $$\begin{array}{lcl}
 \text{minimize} & = a \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -96,7 +96,7 @@ $$\begin{array}{lcl}
 \text{minimize} & = a \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
