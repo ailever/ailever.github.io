@@ -26,30 +26,74 @@ author_staff_member: anonym
 
 ## Linear Programming (LP)
 <div class="math-box">
-$$
-\begin{array}{lcl}
+$$\begin{array}{lcl}
+
 \text{minimize} & = a \\
 \text{subject to} & = x + y + z \\ 
 \text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
-\end{array}
-  
-$$
+
+\end{array}$$
 </div>
 
 <br><br><br>
 ## Quadratic Programming (QP)
+<div class="math-box">
+$$\begin{array}{lcl}
+
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+
+\end{array}$$
+</div>
 
 <br><br><br>
 ## Quadratically Constrained Quadratic Programming (QCQP)
+<div class="math-box">
+$$\begin{array}{lcl}
+
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+
+\end{array}$$
+</div>
 
 <br><br><br>
 ## Second-Order Cone Programming (SOCP)
+<div class="math-box">
+$$\begin{array}{lcl}
+
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+
+\end{array}$$
+</div>
 
 <br><br><br>
 ## Semidefinite Programming (SDP)
+<div class="math-box">
+$$\begin{array}{lcl}
+
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+
+\end{array}$$
+</div>
 
 <br><br><br>
 ## Conic Programming (CP)
+<div class="math-box">
+$$\begin{array}{lcl}
+
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+
+\end{array}$$
+</div>
 
 
 <!-- Content Block -->
