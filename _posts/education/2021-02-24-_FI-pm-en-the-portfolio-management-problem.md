@@ -51,7 +51,7 @@ $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 <div class="math-box1">
 Uncorrelated Securities
 $$\begin{align*}
-  \sigma_{P}^{2} &= \sum_{i=1}^{N} \omega_{i}^{2}\sigma_{i}^{2} \\
+  \sigma_{\mathcal{P}}^{2} &= \sum_{i=1}^{N} \omega_{i}^{2}\sigma_{i}^{2} \\
                  &= \sum_{i=1}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{i}^{2} \\
                  &= \frac{1}{N} \sum_{i=1}^{N} \left ( \frac{\sigma_{i}^{2}}{N} \right ) \\
                  &= \frac{1}{N} \bar{\sigma}_{i}^{2}
@@ -59,7 +59,7 @@ $$\begin{align*}
 
 Correlated Securities
 $$\begin{align*}
-  \sigma_{P} &= \sum_{i=1}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{i}^{2} 
+  \sigma_{\mathcal{P}} &= \sum_{i=1}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{i}^{2} 
              + \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{ij}  \\
              &= \frac{1}{N} \left ( \sum_{i=1}^{N} \frac{\sigma_{i}^{2}}{N} \right )
              + \frac{N-1}{N} \left ( \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \frac{\sigma_{ij}}{N(N-1)} \right ) \\
