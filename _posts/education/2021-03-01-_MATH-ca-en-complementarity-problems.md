@@ -28,9 +28,10 @@ author_staff_member: anonym
 <div class="math-box">
 $$\begin{array}{lcl}
 
-\text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{minimize} & c^{T}x + d \\
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
