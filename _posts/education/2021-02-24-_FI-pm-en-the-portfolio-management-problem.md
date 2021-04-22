@@ -64,15 +64,29 @@ $$\begin{align*}
              &= \frac{1}{N} \left ( \sum_{i=1}^{N} \frac{\sigma_{i}^{2}}{N} \right )
              + \frac{N-1}{N} \left ( \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \frac{\sigma_{ij}}{N(N-1)} \right ) \\
              &= \frac{1}{N}\bar{\sigma}_{i}^{2} + \frac{N-1}{N}\bar{\sigma}_{ij} \\
-             &= frac{1}{N}\left ( \bar{\sigma}_{i}^{2} - \bar{\sigma}_{ij} \right ) + \bar{\sigma}_{ij} \\
+             &= \frac{1}{N}\left ( \bar{\sigma}_{i}^{2} - \bar{\sigma}_{ij} \right ) + \bar{\sigma}_{ij} \\
 
 \end{align*}$$
 </div>
 
-
-
 <br><br><br>
 ## Calculating Efficient Frontiers
+<div class="math-box1">
+Risk-Free Security
+$$
+  r_{FP} = \omega_{\mathcal{P}}E(r_{\mathcal{P}}) + (1-\omega_{\mathcal{P}})r_{F}
+$$
+  
+Portfolio standard deviation
+$$\begin{align*}
+  \sigma_{F\mathcal{P}} &= \sqrt{\omega_{\mathcal{P}}^{2}\sigma_{\mathcal{P}}^{2} + (1-\omega_{\mathcal{P}})^{2} \sigma_{F}^{2} + 2\omega_{\mathcal{P}}(1-\omega_{\mathcal{P}})\rho_{F\mathcal{P}}\sigma_{F}\sigma_{\mathcal{P}} } \\
+  &= \omega_{\mathcal{P}}\sigma_{\mathcal{P}}\\
+\end{align*}$$
+$$
+\omega_{\mathcal{P}} = \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}}
+$$
+</div>
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
