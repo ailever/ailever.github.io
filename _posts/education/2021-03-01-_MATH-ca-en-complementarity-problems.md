@@ -41,7 +41,7 @@ $$\begin{array}{lcl}
 <div class="math-box">
 $$\begin{array}{lcl}
 
-\text{minimize} & = \frac{1}{2}x^{T}Px + q^{T}x + r \\
+\text{minimize} & \frac{1}{2}x^{T}Px + q^{T}x + r \\
 \text{subject to} & Gx \le h \\ 
                   & Ax = b \\ 
 \text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
