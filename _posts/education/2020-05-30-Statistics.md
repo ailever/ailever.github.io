@@ -45,6 +45,17 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Probability Theory
+- Central Limit Theorem
+- Discrete Probability Distributions
+<span style="font-size:small;">
+  :[en]()
+  :kr
+</span>
+- Continuous Probability Distributions
+<span style="font-size:small;">
+  :[en]()
+  :kr
+</span>
 
 <br><br><br>
 ## Measure Theory
