@@ -114,7 +114,7 @@ $$\begin{array}{lcl}
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="https://wikidocs.net/book/1896">Convex Optimization For All</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
