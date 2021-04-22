@@ -83,12 +83,14 @@ $$\begin{align*}
   &= \omega_{\mathcal{P}}\sigma_{\mathcal{P}}\\
 \end{align*}$$
 
+</div>
+
+<div>
 $$\begin{align*}
-\therefore \omega_{\mathcal{P}} &= \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}} \\
+\omega_{\mathcal{P}} &= \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}} \\
 r_{F\mathcal{P}} &= r_{F} + \frac{E(r_{\mathcal{P}}) - r_{F}}{\sigma_{\mathcal{P}}} \sigma_{F\mathcal{P}}
 \end{align*}$$
 </div>
-
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
