@@ -85,7 +85,7 @@ $$\begin{align*}
 
 </div>
 
-<div>
+<div class="math-box1">
 $$\begin{align*}
 \omega_{\mathcal{P}} &= \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}} \\
 r_{F\mathcal{P}} &= r_{F} + \frac{E(r_{\mathcal{P}}) - r_{F}}{\sigma_{\mathcal{P}}} \sigma_{F\mathcal{P}}
