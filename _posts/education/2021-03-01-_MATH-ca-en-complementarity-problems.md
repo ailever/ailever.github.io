@@ -27,6 +27,10 @@ author_staff_member: anonym
 ## Linear Programming (LP)
 <div class="math-box">
 $$
+\begin{array}{lcl}
+z & = & a \\
+f(x,y,z) & = & x + y + z
+\end{array}
   
 $$
 </div>
