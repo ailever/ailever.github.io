@@ -25,6 +25,9 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Linear Programming (LP)
+<div class="math-box">
+$$$$
+</div>
 
 <br><br><br>
 ## Quadratic Programming (QP)
