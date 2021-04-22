@@ -18,8 +18,9 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://numpy.org/doc/stable/contents.html" target="_blank" style="color:white;">numpy</a></span>  
-  <span class="sp_top_btn" style="background-color:brown;"><a href="https://docs.scipy.org/doc/scipy/reference/" target="_blank" style="color:white;">Scipy</a></span>  
-  <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.statsmodels.org/devel/api.html" target="_blank" style="color:white;">Statsmodels</a></span>    
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://docs.scipy.org/doc/scipy/reference/" target="_blank" style="color:white;">scipy</a></span>  
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.statsmodels.org/devel/api.html" target="_blank" style="color:white;">statsmodels</a></span>
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://pytorch.org/docs/stable/index.html" target="_blank" style="color:white;">pytorch</a></span>
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/01/app-SI/'">SI</button>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/02/app-FI/'">FI</button>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/03/app-BO/'">BO</button>  
