@@ -21,8 +21,26 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Linear Programming (LP)
+
+<br><br><br>
+## Quadratic Programming (QP)
+
+<br><br><br>
+## Quadratically Constrained Quadratic Programming (QCQP)
+
+<br><br><br>
+## Second-Order Cone Programming (SOCP)
+
+<br><br><br>
+## Semidefinite Programming (SDP)
+
+<br><br><br>
+## Conic Programming (CP)
+
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
