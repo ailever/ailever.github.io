@@ -54,7 +54,7 @@ $$\begin{array}{lcl}
 <div class="math-box">
 $$\begin{array}{lcl}
 
-\text{minimize} & = \frac{1}{2}x^{T}P_{0}x + q_{0}^{T}x + r_{0} \\
+\text{minimize} & \frac{1}{2}x^{T}P_{0}x + q_{0}^{T}x + r_{0} \\
 \text{subject to} & \frac{1}{2}x^{T}P_{i}x + q_{i}^{T}x + r_{i} \le 0, i=1, \cdots, m \\ 
                   & Ax = b \\ 
 \text{where }P \in \mathbb{S}^{n}_{+} \text{for } i=1,\cdots,m \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
