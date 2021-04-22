@@ -304,17 +304,17 @@ author_staff_member: ailever
 ## Operating System
 - Windows
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-windows/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-os-en-windows/)
   :kr
 </span>
 - LINUX
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-linux/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-os-en-linux/)
   :kr
 </span>
 - UNIX
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2020/05/30/_CE-en-unix/)
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-os-en-unix/)
   :kr
 </span>
 
