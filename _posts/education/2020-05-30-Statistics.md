@@ -48,12 +48,12 @@ author_staff_member: ailever
 - Central Limit Theorem
 - Discrete Probability Distributions
 <span style="font-size:small;">
-  :[en]()
+  :[en](https://ailever.github.io/education/2021/03/04/_STAT-pt-en-discrete-probability-distributions/)
   :kr
 </span>
 - Continuous Probability Distributions
 <span style="font-size:small;">
-  :[en]()
+  :[en](https://ailever.github.io/education/2021/03/04/_STAT-pt-en-continuous-probability-distributions/)
   :kr
 </span>
 
