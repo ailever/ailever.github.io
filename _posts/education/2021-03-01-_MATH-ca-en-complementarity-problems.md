@@ -30,7 +30,7 @@ $$\begin{array}{lcl}
 
 \text{minimize} & = a \\
 \text{subject to} & = x + y + z \\ 
-\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
 
 \end{array}$$
 </div>
