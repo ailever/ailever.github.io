@@ -28,8 +28,9 @@ author_staff_member: anonym
 <div class="math-box">
 $$
 \begin{array}{lcl}
-z & = & a \\
-f(x,y,z) & = & x + y + z
+\text{minimize} & = a \\
+\text{subject to} & = x + y + z \\ 
+\text{where G \in \mathbb{R}^{m \times n} and A \in \mathbb{R}^{p \times n}} & =x + y + z \\ 
 \end{array}
   
 $$
