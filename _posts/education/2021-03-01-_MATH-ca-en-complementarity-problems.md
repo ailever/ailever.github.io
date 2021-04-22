@@ -41,9 +41,10 @@ $$\begin{array}{lcl}
 <div class="math-box">
 $$\begin{array}{lcl}
 
-\text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{minimize} & = \frac{1}{2}x^{T}Px + q^{T}x + r \\
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -54,8 +55,9 @@ $$\begin{array}{lcl}
 $$\begin{array}{lcl}
 
 \text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }P \in \mathbb{S}^{n}_{+}, G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -66,8 +68,9 @@ $$\begin{array}{lcl}
 $$\begin{array}{lcl}
 
 \text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -78,8 +81,9 @@ $$\begin{array}{lcl}
 $$\begin{array}{lcl}
 
 \text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
@@ -90,8 +94,9 @@ $$\begin{array}{lcl}
 $$\begin{array}{lcl}
 
 \text{minimize} & = a \\
-\text{subject to} & = x + y + z \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}& =x + y + z \\ 
+\text{subject to} & Gx \le h \\ 
+                  & Ax = b \\ 
+\text{where }G \in \mathbb{R}^{m \times n} \text{and } A \in \mathbb{R}^{p \times n}&  \\ 
 
 \end{array}$$
 </div>
