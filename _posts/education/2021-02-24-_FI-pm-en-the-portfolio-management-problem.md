@@ -63,6 +63,9 @@ $$\begin{align*}
              + \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \left ( \frac{1}{N} \right )^{2} \sigma_{ij}  \\
              &= \frac{1}{N} \left ( \sum_{i=1}^{N} \frac{\sigma_{i}^{2}}{N} \right )
              + \frac{N-1}{N} \left ( \sum_{i=1}^{N}\sum_{j=1, j \ne i}^{N} \frac{\sigma_{ij}}{N(N-1)} \right ) \\
+             &= \frac{1}{N}\bar{\sigma}_{i}^{2} + \frac{N-1}{N}\bar{\sigma}_{ij} \\
+             &= frac{1}{N}\left ( \bar{\sigma}_{i}^{2} - \bar{\sigma}_{ij} \right ) + \bar{\sigma}_{ij} \\
+
 \end{align*}$$
 </div>
 
