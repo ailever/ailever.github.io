@@ -48,7 +48,7 @@ $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 <br><br><br>
 ## Portfolio Diversification
 
-<div class="math-box">
+<div class="math-box1">
 Uncorrelated Securities
 $$\begin{align*}
   \sigma_{P}^{2} &= \sum_{i=1}^{N} \omega_{i}^{2}\sigma_{i}^{2} \\
