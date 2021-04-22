@@ -60,7 +60,7 @@ author_staff_member: ailever
 </span>
 - Complementarity Problems
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/03/01/_MATH-ca-en-complementarity-problems/)
   :kr
 </span>
 - Lagrange Duality
