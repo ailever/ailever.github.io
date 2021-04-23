@@ -98,7 +98,7 @@ G &= H-TS = -\frac{1}{\beta}\ln{Q(N,P,T)} \\
 \end{align*}$$
 <br><br></div>
 
-### The free energy perturbation (FEP)
+### Gibbs free energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$\Delta G_{bind} = -k_{B}T\ln{\frac{C^{o}}{8\pi^{2}}\frac{\sigma_{P}\sigma_{L}}{\sigma_{PL}}\frac{Z_{PL}}{Z_{P}Z_{L}}} + P^{o}\Delta V_{PL}$$  
 <br><br></div>
