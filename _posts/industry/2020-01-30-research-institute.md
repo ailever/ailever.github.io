@@ -16,6 +16,7 @@ author_staff_member: ailever
 </div>
 <!-- Top Block -->
 
+- [OpenAI](https://openai.com/)
 - [Fritz Haber Institut](https://www.fhi.mpg.de/)
 
 
