@@ -1445,52 +1445,52 @@ source('ST-0000')
   <div class="uguide_list">
     ::: FDC : TS( N,N) - Simple Exponential Smoothing
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0004.py">: ST-0004</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,N) - Holt Linear Method
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0005.py">: ST-0005</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS(Ad,N) - Additive Damped Trend Method
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0006.py">: ST-0006</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,A) - Additive Holt-Winters' Method
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0007.py">: ST-0007</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS( A,M) - Multiplicative Holt-Winters' Method
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0008.py">: ST-0008</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : TS(Ad,M) - Holt-Winters Damped Method
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0009.py">: ST-0009</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(A,N,N) - Simple Exponential Smoothing with Additive Errors
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0010.py">: ST-0010</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(M,N,N) - Simple Exponential Smoothing with Multiplicative Errors
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0011.py">: ST-0011</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(A,A,N) - Holt’s Linear Method with Additive Errors
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0012.py">: ST-0012</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     ::: FDC : ETS(M,A,N) - Holt’s Linear Method with Multiplicative Errors
     <span class="uguide_elt"><a href="https://github.com/ailever/openapi/blob/master/source/ST-0013.py">: ST-0013</a></span>
-    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/">: Statistics</a></span>
   </div>
   <div class="uguide_list">
     [time series] Non-Linear Random Process
