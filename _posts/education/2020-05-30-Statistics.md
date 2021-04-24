@@ -33,9 +33,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Time Series Analysis
-- Error, Trend and Seasonal Models
+- Exponential Smoothing
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-error-trend-and-seasonal-models/)
+  :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
   :kr
 </span>
 
