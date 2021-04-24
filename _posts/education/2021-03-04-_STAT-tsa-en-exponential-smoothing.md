@@ -1,9 +1,9 @@
 ---
-title: Error, Trend and Seasonal Models
+title: Exponential Smoothing
 prev1_title: Time Series Analysis
 prev2_title: Statistics
 date: 2021-03-04
-description: Error, Trend and Seasonal Models
+description: Exponential Smoothing
 _previous: https://ailever.github.io/education/2020/05/30/Statistics/
 categories:
   - education
@@ -36,7 +36,7 @@ author_staff_member: anonym
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='REF'>Reference</b>
 <ol>
-  <li><a href="#"></a></li>
+  <li><a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice (3rd ed)</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ol>
@@ -66,7 +66,7 @@ author_staff_member: anonym
 
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-03-04-_STAT-tsa-en-error-trend-and-seasonal-models.md" target="_blank" style="color:white">Edit</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/education/2021-03-04-_STAT-tsa-en-exponential-smoothing.md" target="_blank" style="color:white">Edit</a></span>
 </div>
 <!-- Bottom Block -->
 
