@@ -67,10 +67,10 @@ $$\begin{array}{lcl}
 <div class="math-box">
 $$\begin{array}{lcl}
 
-\text{minimize} & = a \\
-\text{subject to} & Gx \le h \\ 
-                  & Ax = b \\ 
-\text{where }G \in \mathbb{R}^{m \times n} \text{ and } A \in \mathbb{R}^{p \times n}&  \\ 
+\text{minimize} & f^{T}x \\
+\text{subject to} & \parallel A_{i}x + b_{i} \parallel_{2} \le c_{i}^{T}x + d_{i}, i=1,\cdots,m \\ 
+                  & Fx = g \\ 
+\text{where }x \in \mathbb{R}^{n} \text{ is the optimization variable, } A_{i} \in \mathbb{R}^{n_{i} \times n} \text{ and } F \in & \mathbb{R}^{p \times n} \\ 
 
 \end{array}$$
 </div>
