@@ -55,7 +55,7 @@ author_staff_member: anonym
 <b id='REF'>Reference</b>
 <ol>
   <li><a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice (3rd ed)</a></li>
-  <li><a href="#"></a></li>
+  <li><a href="https://www.statsmodels.org/devel/generated/statsmodels.tsa.exponential_smoothing.ets.ETSModel.html?highlight=etsmodel#statsmodels.tsa.exponential_smoothing.ets.ETSModel">Statsmodels - ETSModel</a></li>
   <li><a href="#"></a></li>
 </ol>
 <ul>
