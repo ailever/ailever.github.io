@@ -25,7 +25,7 @@ author_staff_member: anonym
 $$\begin{align*}
 \hat{y}_{t+h|t} &= (l_{t} \circ_{b} (b_{t} \circ_{d} \phi )) \circ_{s} s_{t+h-m(k+1)} \\
   l_{t} &= \alpha (y_{t} \ominus_{s} s_{t-m}) + (1-\alpha)(l_{t-1} \circ_{b} (b_{t-1} \circ_{d} \phi ))\\
-  b_{t} &= \beta \\
+  b_{t} &= \frac{\beta}{\alpha}(l_{t} \ominus_{b} l_{t-1}) + (1-\frac{\beta}{\alpha})b_{t-1} \\
   s_{t} &= \gamma \\
   
 \end{align*}$$
