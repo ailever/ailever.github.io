@@ -40,10 +40,16 @@ author_staff_member: ailever
 </span>
 
 <br><br><br>
+## Regression
+
+<br><br><br>
+## Analysis Of Variance
+
+<br><br><br>
 ## Hypothesis Test
 
 <br><br><br>
-## Regression
+## Parameter Estimation
 
 <br><br><br>
 ## Descriptive Statistics
