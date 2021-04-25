@@ -52,7 +52,7 @@ l_{t}  &= \alpha y_{t} + (1-\alpha) l_{t-1} \\
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + s_{t+h-m(k+1)}\\
 l_{t}  &= \alpha (y_{t} - s_{t-m}) +(1-\alpha)l_{t-1} \\
-b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s{t-m}\\
+b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s_{t-m}\\
 \end{align*}$$
 </div>
 
@@ -61,14 +61,14 @@ b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s{t-m}\\
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} s_{t+h-m(k+1)}\\
 l_{t}  &= \alpha (y_{t} / s_{t-m}) +(1-\alpha)l_{t-1} \\
-b_{t}  &= \beta^{*}(y_{t} / l_{t-1}) +(1-\beta^{*})s{t-m}\\
+b_{t}  &= \beta^{*}(y_{t} / l_{t-1}) +(1-\beta^{*})s_{t-m}\\
 \end{align*}$$
 </div>
 
 #### ETS(A,A,N)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
+y_{t+h|t}  &= l_{t} + hb_{t}\\
 l_{t}  &= \alpha +(1-\alpha)\\
 b_{t}  &= \beta^{*} +(1-\beta^{*})\\
 s_{t}  &= \gamma +(1-\gamma)\\
@@ -98,7 +98,7 @@ s_{t}  &= \gamma +(1-\gamma)\\
 #### ETS(A,Ad,N)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
+y_{t+h|t}  &= l_{t} + \phi_{h}b_{t}\\
 l_{t}  &= \alpha +(1-\alpha)\\
 b_{t}  &= \beta^{*} +(1-\beta^{*})\\
 s_{t}  &= \gamma +(1-\gamma)\\
@@ -108,7 +108,7 @@ s_{t}  &= \gamma +(1-\gamma)\\
 #### ETS(A,Ad,A)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
+y_{t+h|t}  &= l_{t} + \phi_{h}b_{t}\\
 l_{t}  &= \alpha +(1-\alpha)\\
 b_{t}  &= \beta^{*} +(1-\beta^{*})\\
 s_{t}  &= \gamma +(1-\gamma)\\
@@ -118,7 +118,7 @@ s_{t}  &= \gamma +(1-\gamma)\\
 #### ETS(A,Ad,M)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
+y_{t+h|t}  &= l_{t} + \phi_{h}b_{t}\\
 l_{t}  &= \alpha +(1-\alpha)\\
 b_{t}  &= \beta^{*} +(1-\beta^{*})\\
 s_{t}  &= \gamma +(1-\gamma)\\
