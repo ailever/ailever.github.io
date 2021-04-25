@@ -25,7 +25,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Linear Programming (LP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & c^{T}x + d \\
@@ -38,7 +38,7 @@ $$\begin{array}{lcl}
 
 <br><br><br>
 ## Quadratic Programming (QP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & \frac{1}{2}x^{T}Px + q^{T}x + r \\
@@ -51,7 +51,7 @@ $$\begin{array}{lcl}
 
 <br><br><br>
 ## Quadratically Constrained Quadratic Programming (QCQP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & \frac{1}{2}x^{T}P_{0}x + q_{0}^{T}x + r_{0} \\
@@ -64,7 +64,7 @@ $$\begin{array}{lcl}
 
 <br><br><br>
 ## Second-Order Cone Programming (SOCP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & f^{T}x \\
@@ -78,7 +78,7 @@ A_{i} \in \mathbb{R}^{n_{i} \times n} \text{ and } F \in  \mathbb{R}^{p \times n
 
 <br><br><br>
 ## Semidefinite Programming (SDP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & c^{T}x + d \\
@@ -91,7 +91,7 @@ $$\begin{array}{lcl}
 
 <br><br><br>
 ## Conic Programming (CP)
-<div class="math-box">
+<div class="math-box1">
 $$\begin{array}{lcl}
 
 \text{minimize} & c^{T}x + d \\
