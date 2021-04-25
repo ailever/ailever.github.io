@@ -20,7 +20,6 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## Exponential Smoothing
 <div class="math-box">
 $$\begin{align*}
 \hat{y}_{t+h|t} &= (l_{t} \circ_{b} (b_{t} \circ_{d} \phi )) \circ_{s} s_{t+h-m(k+1)} \\
@@ -32,6 +31,8 @@ $$\begin{align*}
 - <span>$\alpha, \beta, \gamma, \phi$ : smoothing parameters. In particular, $\ \phi_{h} = \phi + \phi^2 + \cdots + \phi^{h}$ means the damping parameter.</span>  
 - <span>$k$ : the quotient of $\frac{h-1}{m}$</span>
 
+<br><br><br>
+## Exponential Smoothing
 ### N,N : Simple exponential smoothing
 <div class="math-box2">
 $$\begin{align*}
