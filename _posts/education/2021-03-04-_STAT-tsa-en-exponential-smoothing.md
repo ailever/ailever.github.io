@@ -40,7 +40,7 @@ l_{t}  &= \alpha y_{t} + (1-\alpha) l_{t-1} \\
 \end{align*}$$
 </div>
 
-### N,A
+### N,A : Simple exponential smoothing with additive seasonal 
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + s_{t+h-m(k+1)}\\
@@ -49,7 +49,7 @@ s_{t}  &= \gamma(y_{t} - l_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-### N,M
+### N,M : Simple exponential smoothing with multiplicative seasonal
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} s_{t+h-m(k+1)}\\
@@ -96,7 +96,7 @@ b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})\phi b_{t-1}\\
 \end{align*}$$
 </div>
 
-### Ad,A
+### Ad,A : Additive damped trend method with additive seasonal
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + \phi_{h}b_{t} + s_{t+h-m(k+1)}\\
