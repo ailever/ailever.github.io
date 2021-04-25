@@ -36,15 +36,97 @@ $$\begin{align*}
 <div class="math-box1">
 $$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
 </div>
+
 #### ETS(A,N,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,N,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,N,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,A,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,A,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,A,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t+h|t}  &= \\
+l_{t}  &= \\
+b_{t}  &= \\
+s_{t}  &= \\
+\end{align*}$$
+</div>
+
 
 <br><br><br>
 ### Multiplicative models
