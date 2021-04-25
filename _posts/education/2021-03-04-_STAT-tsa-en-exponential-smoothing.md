@@ -27,13 +27,15 @@ $$\begin{align*}
   l_{t} &= \alpha (y_{t} \ominus_{s} s_{t-m}) + (1-\alpha)(l_{t-1} \circ_{b} (b_{t-1} \circ_{d} \phi ))\\
   b_{t} &= \frac{\beta}{\alpha}(l_{t} \ominus_{b} l_{t-1}) + (1-\frac{\beta}{\alpha})b_{t-1} \\
   s_{t} &= \gamma (y_{t} \ominus_{s}(l_{t-1} \circ_{b}(b_{t-1} \circ_{d} \phi))) +(1-\gamma)s_{t-m}\\
-  
 \end{align*}$$
 </div>
 
 
 <br><br><br>
 ### Additive models
+<div class="math-box1">
+$$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
+</div>
 #### ETS(A,N,N)
 #### ETS(A,N,A)
 #### ETS(A,N,M)
@@ -46,6 +48,9 @@ $$\begin{align*}
 
 <br><br><br>
 ### Multiplicative models
+<div class="math-box1">
+$$e_{t} = \frac{y_{t}}{\hat{y}_{t|t-1}} - 1$$
+</div>
 #### ETS(M,N,N)
 #### ETS(M,N,A)
 #### ETS(M,N,M)
