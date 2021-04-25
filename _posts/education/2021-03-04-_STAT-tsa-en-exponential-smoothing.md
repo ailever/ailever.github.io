@@ -14,13 +14,24 @@ author_staff_member: anonym
 
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='#'">A</button>
+  <button class="top_btn" type="button" onclick="location.href='https://en.wikipedia.org/wiki/Help:Displaying_a_formula'">Mathematical Formula</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
 
 ## ETS Models
+<div class="math-box">
+$$\begin{align*}
+\hat{y}_{t|t-h} &= (l_{t-h})\\
+  l_{t} &= \\
+  b_{t} &= \\
+  s_{t} &= \\
+  
+\end{align*}$$
+</div>
+
+
 ### Additive models
 #### ETS(A,N,N)
 #### ETS(A,N,A)
