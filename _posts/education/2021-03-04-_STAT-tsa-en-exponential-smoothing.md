@@ -30,7 +30,7 @@ $$\begin{align*}
 \end{align*}$$
 </div>
 - <span>$\alpha, \beta, \gamma, \phi$ : smoothing parameters. In particular, $\phi_{h} = \phi + \phi^2 + \cdots + \phi^{h}.$</span>  
-- <span>$k$ : the quotient of \frac{h-1}{m}</span>
+- <span>$k$ : the quotient of &\frac{h-1}{m}&</span>
 
 
 <br><br><br>
