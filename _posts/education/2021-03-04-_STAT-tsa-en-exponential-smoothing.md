@@ -41,29 +41,25 @@ $$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} \\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+l_{t}  &= \alpha y_{t} + (1-\alpha) l_{t-1} \\
 \end{align*}$$
 </div>
 
 #### ETS(A,N,A)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+y_{t+h|t}  &= l_{t} + s_{t+h-m(k+1)}\\
+l_{t}  &= \alpha (y_{t} - s_{t-m}) +(1-\alpha)l_{t-1} \\
+b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s{t-m}\\
 \end{align*}$$
 </div>
 
 #### ETS(A,N,M)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+y_{t+h|t}  &= l_{t} s_{t+h-m(k+1)}\\
+l_{t}  &= \alpha (y_{t} / s_{t-m}) +(1-\alpha)l_{t-1} \\
+b_{t}  &= \beta^{*}(y_{t} / l_{t-1}) +(1-\beta^{*})s{t-m}\\
 \end{align*}$$
 </div>
 
