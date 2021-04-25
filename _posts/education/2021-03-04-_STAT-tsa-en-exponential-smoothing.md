@@ -32,6 +32,7 @@ $$\begin{align*}
 </div>
 
 
+<br><br><br>
 ### Additive models
 #### ETS(A,N,N)
 #### ETS(A,N,A)
@@ -42,6 +43,8 @@ $$\begin{align*}
 #### ETS(A,Ad,N)
 #### ETS(A,Ad,A)
 #### ETS(A,Ad,M)
+
+<br><br><br>
 ### Multiplicative models
 #### ETS(M,N,N)
 #### ETS(M,N,A)
