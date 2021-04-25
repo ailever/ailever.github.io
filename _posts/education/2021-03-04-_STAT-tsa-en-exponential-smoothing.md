@@ -52,7 +52,7 @@ l_{t}  &= \alpha y_{t} + (1-\alpha) l_{t-1} \\
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + s_{t+h-m(k+1)}\\
 l_{t}  &= \alpha (y_{t} - s_{t-m}) +(1-\alpha)l_{t-1} \\
-b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s_{t-m}\\
+s_{t}  &= \gamma(y_{t} - l_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
@@ -61,7 +61,7 @@ b_{t}  &= \beta^{*}(y_{t} - l_{t-1}) +(1-\beta^{*})s_{t-m}\\
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} s_{t+h-m(k+1)}\\
 l_{t}  &= \alpha (y_{t} / s_{t-m}) +(1-\alpha)l_{t-1} \\
-b_{t}  &= \beta^{*}(y_{t} / l_{t-1}) +(1-\beta^{*})s_{t-m}\\
+s_{t}  &= \gamma(y_{t} / l_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
@@ -69,29 +69,28 @@ b_{t}  &= \beta^{*}(y_{t} / l_{t-1}) +(1-\beta^{*})s_{t-m}\\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + hb_{t}\\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+l_{t}  &= \alpha y_{t} +(1-\alpha)(l_{t-1} + b_{t-1})\\
+b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})b_{t-1}\\
 \end{align*}$$
 </div>
 
 #### ETS(A,A,A)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+y_{t+h|t}  &= l_{t} + hb_{t} + s_{t+h-m(k+1)}\\
+l_{t}  &= \alpha (y_{t} - s_{t-m}) +(1-\alpha)(l_{t-1} + b_{t-1})\\
+b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})b_{t-1}\\
+s_{t}  &= \gamma(y_{t} - l_{t-1} - b_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
 #### ETS(A,A,M)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
-l_{t}  &= \alpha +(1-\alpha)\\
-b_{t}  &= \beta^{*} +(1-\beta^{*})\\
-s_{t}  &= \gamma +(1-\gamma)\\
+y_{t+h|t}  &= ( l_{t} + hb_{t} ) s_{t+h-m(k+1)}\\
+l_{t}  &= \alpha (y_{t} / s_{t-m}) +(1-\alpha)(l_{t-1} + b_{t-1})\\
+b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})b_{t-1}\\
+s_{t}  &= \gamma(y_{t} / (l_{t-1} - b_{t-1})) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
@@ -131,6 +130,7 @@ s_{t}  &= \gamma +(1-\gamma)\\
 <div class="math-box1">
 $$e_{t} = \frac{y_{t}}{\hat{y}_{t|t-1}} - 1$$
 </div>
+
 #### ETS(M,N,N)
 #### ETS(M,N,A)
 #### ETS(M,N,M)
