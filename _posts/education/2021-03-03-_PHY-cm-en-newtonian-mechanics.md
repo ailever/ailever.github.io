@@ -19,7 +19,13 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
+I would describe the Lewton's Laws. It would not be wrong to say the Laws was foundation of physics itself.
 
+
+<br><br><br>
+## Newton's First Law: Inertial Reference Systems
+
+<br><br><br>
 ## Work and potential energy
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 $$W = \int_{C} \mathbf{F} \cdot \, d\mathbf{x} = - \int_{C} \nabla \mathbf{V} \cdot \, d\mathbf{x} $$  
