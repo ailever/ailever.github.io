@@ -29,6 +29,8 @@ $$\begin{align*}
   s_{t} &= \gamma (y_{t} \ominus_{s}(l_{t-1} \circ_{b}(b_{t-1} \circ_{d} \phi))) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
+- <span>$\alpha, \beta, \gamma, \phi$ : smoothing parameters. In particular, $\phi_{h} = \phi + \phi^2 + \cdots + \phi^{h}.$</span>  
+- <span>$k$ : the quotient of \frac{h-1}{m}</span>
 
 
 <br><br><br>
