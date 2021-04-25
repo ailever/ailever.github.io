@@ -23,10 +23,10 @@ author_staff_member: anonym
 ## ETS Models
 <div class="math-box">
 $$\begin{align*}
-\hat{y}_{t|t-h} &= (l_{t-h})\\
-  l_{t} &= \\
-  b_{t} &= \\
-  s_{t} &= \\
+\hat{y}_{t+h|t} &= (l_{t} \circ_{b} (b_{t} \circ_{d} \phi )) \circ_{s} s_{t+h-m(k+1)} \\
+  l_{t} &= \alpha (y_{t} \ominus_{s} s_{t-m}) + (1-\alpha)(l_{t-1} \circ_{b} (b_{t-1} \circ_{d} \phi ))\\
+  b_{t} &= \beta \\
+  s_{t} &= \gamma \\
   
 \end{align*}$$
 </div>
