@@ -40,10 +40,10 @@ $$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
 #### ETS(A,N,N)
 <div class="math-box2">
 $$\begin{align*}
-y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+y_{t+h|t}  &= l_{t} \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -51,9 +51,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -61,9 +61,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -71,9 +71,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -81,9 +81,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -91,9 +91,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -101,9 +101,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -111,9 +111,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
@@ -121,9 +121,9 @@ s_{t}  &= \\
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= \\
-l_{t}  &= \\
-b_{t}  &= \\
-s_{t}  &= \\
+l_{t}  &= \alpha +(1-\alpha)\\
+b_{t}  &= \beta^{*} +(1-\beta^{*})\\
+s_{t}  &= \gamma +(1-\gamma)\\
 \end{align*}$$
 </div>
 
