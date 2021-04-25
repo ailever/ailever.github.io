@@ -20,7 +20,7 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
-## ETS Models
+## Exponential Smoothing
 <div class="math-box">
 $$\begin{align*}
 \hat{y}_{t+h|t} &= (l_{t} \circ_{b} (b_{t} \circ_{d} \phi )) \circ_{s} s_{t+h-m(k+1)} \\
@@ -32,14 +32,7 @@ $$\begin{align*}
 - <span>$\alpha, \beta, \gamma, \phi$ : smoothing parameters. In particular, $\ \phi_{h} = \phi + \phi^2 + \cdots + \phi^{h}$ means the damping parameter.</span>  
 - <span>$k$ : the quotient of $\frac{h-1}{m}$</span>
 
-
-<br><br><br>
-### Additive models
-<div class="math-box1">
-$$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
-</div>
-
-#### ETS(A,N,N)
+### N,N : Simple exponential smoothing
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} \\
@@ -47,7 +40,7 @@ l_{t}  &= \alpha y_{t} + (1-\alpha) l_{t-1} \\
 \end{align*}$$
 </div>
 
-#### ETS(A,N,A)
+### N,A
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + s_{t+h-m(k+1)}\\
@@ -56,7 +49,7 @@ s_{t}  &= \gamma(y_{t} - l_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,N,M)
+### N,M
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} s_{t+h-m(k+1)}\\
@@ -65,7 +58,7 @@ s_{t}  &= \gamma(y_{t} / l_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,A,N)
+### A,N : Holt’s linear method
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + hb_{t}\\
@@ -74,7 +67,7 @@ b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})b_{t-1}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,A,A)
+### A,A : Additive Holt-Winters’ method
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + hb_{t} + s_{t+h-m(k+1)}\\
@@ -84,7 +77,7 @@ s_{t}  &= \gamma(y_{t} - l_{t-1} - b_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,A,M)
+### A,M : Multiplicative Holt-Winters’ method
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= ( l_{t} + hb_{t} ) s_{t+h-m(k+1)}\\
@@ -94,7 +87,7 @@ s_{t}  &= \gamma(y_{t} / (l_{t-1} - b_{t-1})) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,Ad,N)
+### Ad,N : Additive damped trend method
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + \phi_{h}b_{t}\\
@@ -103,7 +96,7 @@ b_{t}  &= \beta^{*}(l_{t} - l_{t-1}) +(1-\beta^{*})\phi b_{t-1}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,Ad,A)
+### Ad,A
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= l_{t} + \phi_{h}b_{t} + s_{t+h-m(k+1)}\\
@@ -113,7 +106,7 @@ s_{t}  &= \gamma(y_{t} - l_{t-1} - \phi b_{t-1}) +(1-\gamma)s_{t-m}\\
 \end{align*}$$
 </div>
 
-#### ETS(A,Ad,M)
+### Ad,M : Holt-Winters’ damped method
 <div class="math-box2">
 $$\begin{align*}
 y_{t+h|t}  &= ( l_{t} + \phi_{h}b_{t} ) s_{t+h-m(k+1)}\\
@@ -124,7 +117,24 @@ s_{t}  &= \gamma(y_{t} / (l_{t-1} - \phi b_{t-1})) +(1-\gamma)s_{t-m}\\
 </div>
 
 
+
 <br><br><br>
+## ETS Models
+### Additive models
+<div class="math-box1">
+$$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
+</div>
+
+#### ETS(A,N,N)
+#### ETS(A,N,A)
+#### ETS(A,N,M)
+#### ETS(A,A,N)
+#### ETS(A,A,A)
+#### ETS(A,A,M)
+#### ETS(A,Ad,N)
+#### ETS(A,Ad,A)
+#### ETS(A,Ad,M)
+
 ### Multiplicative models
 <div class="math-box1">
 $$e_{t} = \frac{y_{t}}{\hat{y}_{t|t-1}} - 1$$
