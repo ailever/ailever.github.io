@@ -19,8 +19,7 @@ author_staff_member: anonym
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
 </div>
 <!-- Top Block -->
-I would describe the Lewton's Laws. It would not be wrong to say the Laws was foundation of physics itself.
-
+I would describe the Lewton's Laws. It would not be wrong to say the Laws is a foundation of physics itself. Let's see what means. 
 
 <br><br><br>
 ## Newton's First Law: Inertial Reference Systems
