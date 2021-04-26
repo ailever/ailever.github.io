@@ -23,6 +23,8 @@ I would describe the Lewton's Laws. It would not be wrong to say the Laws is a f
 
 <br><br><br>
 ## Newton's First Law: Inertial Reference Systems
+First, imagine a particle in a empty space where the object is moving with constant speed and have a curiosity why its speed is constant. How do most scientists or physicist explain about it? 
+
 
 <br><br><br>
 ## Work and potential energy
