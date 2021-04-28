@@ -25,7 +25,6 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 ## Analysis by Industry Taxonomy
-- [Deargen](https://deargen.me/)
 - [Samsung Electronics](https://www.samsung.com/sec/)
 - 
 <!-- Content Block -->
