@@ -33,133 +33,133 @@ author_staff_member: anonym
   - The rescue mission had to be **aborted**.
 - [**absent**](https://www.ldoceonline.com/dictionary/absent)(adjective) : not at work, school, a meeting etc, because you are sick or decide not to go
   - students who are regularly **absent** from school
-- [****](URL)(POS) : 
-  -
+- [**WORD**](URL)(POS) : 
+  - Example Sentence
 
 <br><br><br>
 ## B
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## C
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## D
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## E
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## F
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## G
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## H
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## I
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## J
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## K
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## L
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## M
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## N
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## O
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## P
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## Q
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## R
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## S
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## T
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## U
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## V
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## W
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## X
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## Y
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 ## Z
 - [**WORD**](URL)(POS) : 
-  -
+  - Example Sentence
 
 <br><br><br>
 
