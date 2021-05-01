@@ -25,7 +25,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## A
-- **abandon** : to leave someone who you are responsible for
+- [**abandon**](https://www.ldoceonline.com/dictionary/abandon) : to leave someone who you are responsible for
 
 <br><br><br>
 ## B
