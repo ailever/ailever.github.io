@@ -78,6 +78,8 @@ author_staff_member: anonym
 - [**dodge**, 1](https://www.ldoceonline.com/dictionary/dodge)([verb]) : to move quickly to avoid someone or something
 - [**dodge**, 2](https://www.ldoceonline.com/dictionary/dodge)([verb]) : to deliberately avoid discussing something or doing something
   - You'**ve dodged that question** really well.
+- [**dizzy**](https://www.ldoceonline.com/dictionary/dizzy)([adjective]) : feeling unable to stand steadily, for example because you are looking down from a high place or you are ill
+  - I feel **dizzy**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
