@@ -67,6 +67,8 @@ author_staff_member: anonym
 - [**clean sweep**](https://www.ldoceonline.com/dictionary/a-clean-sweep)() : 
   - All the polls had pointed to **a clean sweep for** the Democrats.
   - Hopes that the French **would make a clean sweep at** the Games were dashed.
+- [**convince**](https://www.ldoceonline.com/dictionary/convince)([verb]) : 
+  - Are you sure **I can't convince you** to stay?
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
