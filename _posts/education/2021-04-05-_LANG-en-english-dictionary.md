@@ -33,6 +33,8 @@ author_staff_member: anonym
   - The rescue mission had to be **aborted**.
 - [**absent**](https://www.ldoceonline.com/dictionary/absent)(adjective) : not at work, school, a meeting etc, because you are sick or decide not to go
   - students who are regularly **absent** from school
+- [**absolute**](https://www.ldoceonline.com/dictionary/absolute)(adjective) : complete or total
+  - I have **absolute** confidence in her.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
