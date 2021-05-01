@@ -193,6 +193,8 @@ author_staff_member: anonym
 ## R
 - [**run**](https://www.ldoceonline.com/dictionary/run)([verb]) : to move very quickly, by moving your legs more quickly than when you walk.
   - I **ran down** the stairs as fast as I could.
+- [**raise**](https://www.ldoceonline.com/dictionary/raise)([verb]) : 
+  - **Raising a teenager at her age** is quite a commitments.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
