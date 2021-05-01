@@ -31,6 +31,8 @@ author_staff_member: anonym
   - They finally went **aboard** the plane.
 - [**abort**](https://www.ldoceonline.com/dictionary/abort)(verb) : to stop an activity because it would be difficult or dangerous to continue it
   - The rescue mission had to be **aborted**.
+- [**absent**](https://www.ldoceonline.com/dictionary/absent)(adjective) : not at work, school, a meeting etc, because you are sick or decide not to go
+  - students who are regularly **absent** from school
 - [****]()() : 
   -
 
