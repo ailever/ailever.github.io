@@ -45,8 +45,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## C
-- [**WORD**](URL)(POS) : 
-  - Example Sentence
+- [**confidence**](https://www.ldoceonline.com/dictionary/confidence)(noun) : the feeling that you can trust someone/something to be good, work well, or produce good results
+  - **Public confidence in the government** is at an all-time low
 
 <br><br><br>
 ## D
