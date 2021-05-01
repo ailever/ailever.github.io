@@ -25,7 +25,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## A
-- [**abandon**](https://www.ldoceonline.com/dictionary/abandon)|verb : to leave someone who you are responsible for
+- [**abandon**](https://www.ldoceonline.com/dictionary/abandon)(verb) : to leave someone who you are responsible for
   - How could she **abandon** her own child?
   
 <br><br><br>
