@@ -104,6 +104,7 @@ author_staff_member: anonym
 ## G
 - [**get**](https://www.ldoceonline.com/dictionary/get)([verb]) : 
   - She **got** loads of presents.
+  - **Doesn't get to** tell me what to do.
 - [**get away**](https://www.ldoceonline.com/dictionary/get-away)([phrasal verb]) : to leave a place, especially when this is not easy
   - I like to **get away from** the London as the weekend.
 - [**govern**](https://www.ldoceonline.com/dictionary/govern)([verb] intransitive,transitive) : to officially and legally control a country and make all the decisions about taxes, laws, public services etc
