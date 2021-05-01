@@ -116,6 +116,8 @@ author_staff_member: anonym
 ## M
 - [**mind**](https://www.ldoceonline.com/dictionary/mind)([verb]) : 
   - **Do you mind holding** this?
+- [**must**](https://www.ldoceonline.com/dictionary/must)([modal verb]) : 
+  - You **must be really close**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
