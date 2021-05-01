@@ -29,8 +29,8 @@ author_staff_member: anonym
   - How could she **abandon** her own child?
 - [**aboard**](https://www.ldoceonline.com/dictionary/aboard)(preposition) : on or onto a ship, plane or train
   - They finally went **aboard** the plane.
-- [**abort**](https://www.ldoceonline.com/dictionary/abort)(verb) : 
-  -
+- [**abort**](https://www.ldoceonline.com/dictionary/abort)(verb) : to stop an activity because it would be difficult or dangerous to continue it
+  - The rescue mission had to be **aborted**.
 - [****]()() : 
   -
 
