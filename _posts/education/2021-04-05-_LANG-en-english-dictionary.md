@@ -104,6 +104,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## L
+- [**leave**](https://www.ldoceonline.com/dictionary/leave)([verb] intransitive, transitive) : to go away from a place or person
+  - **We can leave any time** you want
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
