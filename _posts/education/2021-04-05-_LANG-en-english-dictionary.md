@@ -69,6 +69,14 @@ author_staff_member: anonym
 ## G
 - [**govern**](https://www.ldoceonline.com/dictionary/govern)([verb] intransitive,transitive) : to officially and legally control a country and make all the decisions about taxes, laws, public services etc
   - the leaders who **govern the country**
+- [**go away**, 1](https://www.ldoceonline.com/dictionary/go-away)([phrasal verb]) : to leave a place or person
+  - **Go away** and leave me alone.
+  - I **went away** wondering if I'd said the wrong thing.
+- [**go away**, 2](https://www.ldoceonline.com/dictionary/go-away)([phrasal verb]) : to travel to a place and spend some time there for example for a holiday
+  - Are you **going away** this year?
+  - We are **going away for** the weekend.
+  - He is **going away to** college next year.
+  - I am **going away on** business trip next week.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
