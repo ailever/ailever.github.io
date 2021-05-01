@@ -117,6 +117,8 @@ author_staff_member: anonym
 ## I
 - [**itch**](https://www.ldoceonline.com/dictionary/itch)([verb]) : 
   - My pants **itch**
+- [**indiscretion**](https://www.ldoceonline.com/dictionary/indiscretion)([verb]) : an action or remark that shows a lack of good judgment, especially one that is morally unacceptable
+  - rumours that the former presient's **sexual indiscretions**
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
