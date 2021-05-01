@@ -128,6 +128,11 @@ author_staff_member: anonym
 
 <br><br><br>
 ## O
+- [**opposite**, 1](https://www.ldoceonline.com/dictionary/opposite)([preposition]) : 
+  - **The people sitting opposite us** looked very familar.
+  - on the wall **opposite the door**
+- [**opposite**, 2](https://www.ldoceonline.com/dictionary/opposite)([adjective]) : 
+  - I thought the medicine make him sleep, but it had **the opposite effect**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
