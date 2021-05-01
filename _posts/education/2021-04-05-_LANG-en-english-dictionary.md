@@ -40,6 +40,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## B
+- [**be**](https://www.ldoceonline.com/dictionary/be)([verb]) : 
+  - I **can't be here** right now.
 - [**belief**](https://www.ldoceonline.com/dictionary/belief)([noun]) : 
   - Strong **belief in** God
   - If you are selling, you have to have genuine **belief in** the product.
