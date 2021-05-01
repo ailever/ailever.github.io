@@ -150,6 +150,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## T
+- [**talk**](https://www.ldoceonline.com/dictionary/talk)([verb]) : 
+  - I talked to the kids.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
