@@ -200,6 +200,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## S
+- [**start**](https://www.ldoceonline.com/dictionary/start)([verb]) : 
+  - We said **from the start** that we didn't want anything serious.
 - [**suspect**](https://www.ldoceonline.com/dictionary/suspect)([verb]) : to think that something is probably true, especially something bad
   - I **suspected that** there was something wrong with the engine.
 - [**something**](https://www.ldoceonline.com/dictionary/something)([noun]) : 
