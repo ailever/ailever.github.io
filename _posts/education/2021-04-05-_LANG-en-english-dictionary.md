@@ -25,15 +25,15 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## A
-- [**abandon**](https://www.ldoceonline.com/dictionary/abandon)(verb|transitive) : to leave someone who you are responsible for
+- [**abandon**](https://www.ldoceonline.com/dictionary/abandon)([verb] transitive) : to leave someone who you are responsible for
   - How could she **abandon her own child**?
-- [**aboard**](https://www.ldoceonline.com/dictionary/aboard)(preposition) : on or onto a ship, plane or train
+- [**aboard**](https://www.ldoceonline.com/dictionary/aboard)([preposition]) : on or onto a ship, plane or train
   - They finally went **aboard the plane**.
-- [**abort**](https://www.ldoceonline.com/dictionary/abort)(verb|transitive) : to stop an activity because it would be difficult or dangerous to continue it
+- [**abort**](https://www.ldoceonline.com/dictionary/abort)([verb] transitive) : to stop an activity because it would be difficult or dangerous to continue it
   - The rescue mission had **to be aborted**.
-- [**absent**](https://www.ldoceonline.com/dictionary/absent)(adjective) : not at work, school, a meeting etc, because you are sick or decide not to go
+- [**absent**](https://www.ldoceonline.com/dictionary/absent)([adjective]) : not at work, school, a meeting etc, because you are sick or decide not to go
   - students who are regularly **absent from school**.
-- [**absolute**](https://www.ldoceonline.com/dictionary/absolute)(adjective) : complete or total
+- [**absolute**](https://www.ldoceonline.com/dictionary/absolute)([adjective]) : complete or total
   - I have **absolute confidence in her**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
@@ -45,7 +45,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## C
-- [**confidence**](https://www.ldoceonline.com/dictionary/confidence)(noun|uncountable) : the feeling that you can trust someone|something to be good, work well, or produce good results
+- [**confidence**](https://www.ldoceonline.com/dictionary/confidence)([noun] uncountable) : the feeling that you can trust someone or something to be good, work well, or produce good results
   - **Public confidence in the government** is at an all-time low
 - [**WORD**](URL)(POS) : 
   - Example Sentence
@@ -67,7 +67,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## G
-- [**govern**](https://www.ldoceonline.com/dictionary/govern)(verb|intransitive,transitive) : to officially and legally control a country and make all the decisions about taxes, laws, public services etc
+- [**govern**](https://www.ldoceonline.com/dictionary/govern)([verb] intransitive,transitive) : to officially and legally control a country and make all the decisions about taxes, laws, public services etc
   - the leaders who **govern the country**
 - [**WORD**](URL)(POS) : 
   - Example Sentence
