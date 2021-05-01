@@ -183,6 +183,9 @@ author_staff_member: anonym
 ## S
 - [**suspect**](https://www.ldoceonline.com/dictionary/suspect)([verb]) : to think that something is probably true, especially something bad
   - I **suspected that** there was something wrong with the engine.
+- [**something**](https://www.ldoceonline.com/dictionary/something)([noun]) : 
+  - Is that **something** you wanna do?
+  - Is that **something** you want me to do?
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
