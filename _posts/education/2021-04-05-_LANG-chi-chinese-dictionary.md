@@ -4,11 +4,10 @@ prev1_title: Chinese
 prev2_title: Language
 date: 2021-04-05
 description: Chinese Dictionary
-_previous: https://ailever.github.io/education/2020/05/30/Art-and-Music/
 categories:
   - education
 HL1: education
-image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/gray_Art_and_Music.png
+image: https://source.unsplash.com/1UDjq8s8cy0/2000x1322?a=.png
 author_staff_member: anonym
 ---
 
