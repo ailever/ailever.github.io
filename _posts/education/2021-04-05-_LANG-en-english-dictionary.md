@@ -56,7 +56,7 @@ author_staff_member: anonym
 - [**come clean**](https://www.ldoceonline.com/dictionary/come-clean)(informal) : to finally tell the truth about something you have been hiding.
   - The government **should come clean about** its plans.
 - [**clean break**](https://www.ldoceonline.com/dictionary/a-clean-break)() : complete and sudden seperation from a person, organization, or situation
-  - Den left the next day, **needing to make a clean break**.
+  - Den left the next day, needing to **make a clean break with** the past.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
