@@ -99,6 +99,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## F
+- [**feel**](https://www.ldoceonline.com/dictionary/feel)([verb]) : 
+  - Do **you still feel** hungry? 
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
