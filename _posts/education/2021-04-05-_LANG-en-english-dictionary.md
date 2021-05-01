@@ -40,6 +40,9 @@ author_staff_member: anonym
 
 <br><br><br>
 ## B
+- [**belief**](https://www.ldoceonline.com/dictionary/belief)([noun]) : 
+  - Strong **belief in** God
+  - If you are selling, you have to have genuine **belief in** the product.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
