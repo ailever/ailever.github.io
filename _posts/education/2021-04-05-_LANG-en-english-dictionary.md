@@ -115,6 +115,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## I
+- [**itch**](https://www.ldoceonline.com/dictionary/itch)([verb]) : 
+  - My pants **itch**
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
