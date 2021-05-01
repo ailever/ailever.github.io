@@ -53,6 +53,8 @@ author_staff_member: anonym
   - The buffet **consists of** several different Indian dishes.
 - [**comprise**](https://www.ldoceonline.com/dictionary/comprise)([verb]) : to consist of particular parts, groups etc
   - The house **comprises** two bedrooms, a kitchen, and a living room.
+- [**come clean**](https://www.ldoceonline.com/dictionary/come-clean)(informal) : to finally tell the truth about something you have been hiding.
+  - The government **should come clean about** its plans.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
