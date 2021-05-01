@@ -33,132 +33,132 @@ author_staff_member: anonym
   - The rescue mission had to be **aborted**.
 - [**absent**](https://www.ldoceonline.com/dictionary/absent)(adjective) : not at work, school, a meeting etc, because you are sick or decide not to go
   - students who are regularly **absent** from school
-- [****]()() : 
+- [****](URL)(POS) : 
   -
 
 <br><br><br>
 ## B
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## C
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## D
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## E
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## F
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## G
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## H
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## I
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## J
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## K
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## L
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## M
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## N
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## O
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## P
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## Q
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## R
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## S
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## T
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## U
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## V
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## W
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## X
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## Y
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
 ## Z
-- [****]()() : 
+- [**WORD**](URL)(POS) : 
   -
 
 <br><br><br>
