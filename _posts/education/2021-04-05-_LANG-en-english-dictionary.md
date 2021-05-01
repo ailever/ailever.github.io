@@ -136,6 +136,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## J
+- [**just**, 2](https://www.ldoceonline.com/dictionary/just)(adverb) : nothing more than one thing, amount, and action etc that you are mentioning
+  - Let's **just** get someone to take you home.
 - [**just**, 3](https://www.ldoceonline.com/dictionary/just)(adverb) : only a short time ago
   - He was **just** here.
 - [**WORD**](URL)(POS) : 
