@@ -122,6 +122,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## P
+- [**put off**, 1](https://www.ldoceonline.com/dictionary/put-off)(phrasal verb) : to dealy doing something or to arrange to do something at a later time or date, especially because there is a problem or you do not want to do it now.
+  - The match **have been put off** until tomorrow because of bad weather. 
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
