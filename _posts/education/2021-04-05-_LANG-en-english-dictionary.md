@@ -171,7 +171,7 @@ author_staff_member: anonym
 <br><br><br>
 ## R
 - [**run**](https://www.ldoceonline.com/dictionary/run)([verb]) : to move very quickly, by moving your legs more quickly than when you walk.
-  - I **ran down** the stairs as fasst as I could.
+  - I **ran down** the stairs as fast as I could.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
