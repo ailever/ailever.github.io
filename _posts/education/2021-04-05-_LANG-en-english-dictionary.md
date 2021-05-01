@@ -144,6 +144,7 @@ author_staff_member: anonym
   - A family of mice **had made** their nest in the roof.
 - [**mind**](https://www.ldoceonline.com/dictionary/mind)([verb]) : 
   - **Do you mind holding** this?
+  - **Never mind**.
 - [**must**](https://www.ldoceonline.com/dictionary/must)([modal verb]) : 
   - You **must be really close**.
 - [**WORD**](URL)(POS) : 
