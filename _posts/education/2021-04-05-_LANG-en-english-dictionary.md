@@ -45,7 +45,7 @@ author_staff_member: anonym
 
 <br><br><br>
 ## C
-- [**confidence**](https://www.ldoceonline.com/dictionary/confidence)(noun|uncountable) : the feeling that you can trust someone/something to be good, work well, or produce good results
+- [**confidence**](https://www.ldoceonline.com/dictionary/confidence)(noun|uncountable) : the feeling that you can trust someone|something to be good, work well, or produce good results
   - **Public confidence in the government** is at an all-time low
 - [**WORD**](URL)(POS) : 
   - Example Sentence
