@@ -47,6 +47,8 @@ author_staff_member: anonym
 ## C
 - [**confidence**](https://www.ldoceonline.com/dictionary/confidence)(noun) : the feeling that you can trust someone/something to be good, work well, or produce good results
   - **Public confidence in the government** is at an all-time low
+- [**WORD**](URL)(POS) : 
+  - Example Sentence
 
 <br><br><br>
 ## D
@@ -65,6 +67,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## G
+- [**govern**](https://www.ldoceonline.com/dictionary/govern)(verb) : 
+  - Example Sentence
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
