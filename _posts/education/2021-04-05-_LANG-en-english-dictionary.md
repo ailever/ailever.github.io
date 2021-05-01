@@ -57,11 +57,16 @@ author_staff_member: anonym
   - The government **should come clean about** its plans.
 - [**clean break**](https://www.ldoceonline.com/dictionary/a-clean-break)() : complete and sudden seperation from a person, organization, or situation
   - Den left the next day, needing to **make a clean break with** the past.
+- [**clean sweep**](https://www.ldoceonline.com/dictionary/a-clean-sweep)() : 
+  - All the polls had pointed to **a clean sweep for** the Democrats.
+  - Hopes that the French **would make a clean sweep at** the Games were dashed.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
 <br><br><br>
 ## D
+- [**dash**](https://www.ldoceonline.com/dictionary/dash)(verb) : 
+  - Hopes **were dashed**.
 - [**decency**](https://www.ldoceonline.com/dictionary/decency)([noun] uncountable) : polite, honest, and moral behavior and attitudes that show respect for other people
   - **a judgement reflecting the decency** and good sense of the American people
 - [**WORD**](URL)(POS) : 
