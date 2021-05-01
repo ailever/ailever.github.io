@@ -127,6 +127,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## J
+- [**just**, 3](https://www.ldoceonline.com/dictionary/just)(adverb) : only a short time ago
+  - He was **just** here.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
