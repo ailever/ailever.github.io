@@ -128,6 +128,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## M
+- [**make**](https://www.ldoceonline.com/dictionary/make)([verb]) : 
+  - A family of mice **had made** their nest in the roof.
 - [**mind**](https://www.ldoceonline.com/dictionary/mind)([verb]) : 
   - **Do you mind holding** this?
 - [**must**](https://www.ldoceonline.com/dictionary/must)([modal verb]) : 
