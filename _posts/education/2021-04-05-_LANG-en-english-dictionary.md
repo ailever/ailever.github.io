@@ -49,6 +49,10 @@ author_staff_member: anonym
   - **Public confidence in the government** is at an all-time low
 - [**chaperone**](https://www.ldoceonline.com/dictionary/chaperone)([noun]) : an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour.
   - I don't need **a chaperone**.
+- [**consist of**](https://www.ldoceonline.com/dictionary/consist-of)([phrasal verb]) : to be formed from two or more things or people
+  - The buffet **consists of** several different Indian dishes.
+- [**comprise**](https://www.ldoceonline.com/dictionary/comprise)([verb]) : to consist of particular parts, groups etc
+  - The house **comprises** two bedrooms, a kitchen, and a living room.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
