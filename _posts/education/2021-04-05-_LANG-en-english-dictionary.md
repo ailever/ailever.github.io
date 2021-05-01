@@ -15,7 +15,18 @@ author_staff_member: anonym
 2021-04-21-_AM-[]-en-[].md
 -->
 
+
+<!-- Top Block -->
+<div align="center" class="top_btn_box">
+  <button class="top_btn" type="button" onclick="location.href='https://www.ldoceonline.com/'">Longman Dictionary</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
+  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
+</div>
+<!-- Top Block -->
+
 ## A
+- 
+
 <br><br><br>
 ## B
 <br><br><br>
@@ -67,14 +78,6 @@ author_staff_member: anonym
 <br><br><br>
 ## Z
 <br><br><br>
-
-<!-- Top Block -->
-<div align="center" class="top_btn_box">
-  <button class="top_btn" type="button" onclick="location.href='https://www.ldoceonline.com/'">Longman Dictionary</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">B</button>
-  <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
-<!-- Top Block -->
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
