@@ -112,6 +112,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## M
+- [**mind**](https://www.ldoceonline.com/dictionary/mind)([verb]) : 
+  - **Do you mind holding** this?
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
@@ -151,7 +153,7 @@ author_staff_member: anonym
 <br><br><br>
 ## T
 - [**talk**](https://www.ldoceonline.com/dictionary/talk)([verb]) : 
-  - I talked to the kids.
+  - I **talked to** the kids.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
