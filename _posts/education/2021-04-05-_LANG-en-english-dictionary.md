@@ -160,6 +160,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## W
+- [**work on**, 2](https://www.ldoceonline.com/dictionary/work-on)([phrasal verb]) : to try very hard to improve or achieve something 
+  - A trainer has been brought in **to work on her fitness**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
