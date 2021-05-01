@@ -90,6 +90,8 @@ author_staff_member: anonym
 - [**else**](https://www.ldoceonline.com/dictionary/else)(adverb) : besides or in addition to someone or something
   - There is **something else** I'd like to talk about as well.
   - I don't know **what else I can do**.
+- [**embrace**, 2](https://www.ldoceonline.com/dictionary/embrace)([noun]) : the act of holding someone close to you, especially a sign of love
+  - I could offer you **a warm embrace**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
