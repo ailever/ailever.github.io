@@ -83,6 +83,7 @@ author_staff_member: anonym
 ## E
 - [**else**](https://www.ldoceonline.com/dictionary/else)(adverb) : besides or in addition to someone or something
   - There is **something else** I'd like to talk about as well.
+  - I don't know **what else I can do**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
