@@ -52,6 +52,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## D
+- [**decency**](https://www.ldoceonline.com/dictionary/decency)([noun] uncountable) : polite, honest, and moral behavior and attitudes that show respect for other people
+  - **a judgement reflecting the decency** and good sense of the American people
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
