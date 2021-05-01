@@ -47,6 +47,8 @@ author_staff_member: anonym
 ## C
 - [**confidence**](https://www.ldoceonline.com/dictionary/confidence)([noun] uncountable) : the feeling that you can trust someone or something to be good, work well, or produce good results
   - **Public confidence in the government** is at an all-time low
+- [**chaperone**](https://www.ldoceonline.com/dictionary/chaperone)([noun]) : an older woman in the past who went out with a young unmarried woman on social occasions and was responsible for her behaviour.
+  - I don't need **a chaperone**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
