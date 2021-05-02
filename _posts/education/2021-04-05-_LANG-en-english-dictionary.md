@@ -158,6 +158,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## L
+- [**love**](https://www.ldoceonline.com/dictionary/love)([verb]) : to have a strong feeling of affection for someone, combined with sexual attraction
+  - **I love you**.
 - [**leave**](https://www.ldoceonline.com/dictionary/leave)([verb] intransitive, transitive) : to go away from a place or person
   - **We can leave any time** you want
   - **If he left immediately**, he'd catch the 7:30 train.
