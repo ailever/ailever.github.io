@@ -89,6 +89,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## E
+- [**empire**](https://www.ldoceonline.com/dictionary/empire)([noun]) : a group of contries that are all controlled by one ruler or government
+  - **the Roman empire**
 - [**else**](https://www.ldoceonline.com/dictionary/else)(adverb) : besides or in addition to someone or something
   - There is **something else** I'd like to talk about as well.
   - I don't know **what else I can do**.
