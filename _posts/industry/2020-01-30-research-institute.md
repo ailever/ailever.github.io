@@ -19,6 +19,15 @@ author_staff_member: ailever
 ## University
 ### in United States
 ### in Korea
+- [Sungkyunkwan University, SKKU](https://www.skku.edu/skku/research/industry/research.do)
+- [Seoul National University, SNU](https://www.snu.ac.kr/research/units/institutes)
+- [Korea Advanced Institute of Science and Technology, KAIST](https://kaist.ac.kr/kr/html/research/040101.html)
+- [Pohang University of Science and Technology, POSTECH](https://www.postech.ac.kr/eng/research/research-activities/abstract/)
+- [Korea University, KU](http://www.korea.ac.kr/mbshome/mbs/university/index.do)
+- [Yonsei University](https://www.yonsei.ac.kr/sc/research/lab_intro.jsp)
+- [Sogang University](http://www.sogang.ac.kr/index.do)
+- [University of Seoul](https://www.uos.ac.kr/main.do?epTicket=LOG)
+
 ### in China
 
 <br><br><br>
