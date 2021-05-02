@@ -144,11 +144,13 @@ s_{t}  &= s_{t-m} + \gamma \epsilon_{t} \\
 </div>
 
 #### ETS(A,N,M)
+<div class="math-box2">
 $$\begin{align*}
 y_{t}  &= l_{t-1} s_{t-m} + \epsilon_{t} \\
 l_{t}  &= l_{t-1} + \alpha \epsilon_{t}/s_{t-m} \\
 s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/l_{t-1} \\
 \end{align*}$$
+</div>
 
 #### ETS(A,A,N)
 #### ETS(A,A,A)
