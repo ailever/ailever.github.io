@@ -2198,11 +2198,19 @@ source('UT-0000')
     [visualization] matplotlib : direction field
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/#visualization">: manual</a></span>    
   </div>
   <div class="uguide_list">
-    [visualization] matplotlib : 3d plot
+    [visualization] matplotlib : 3d scatter plot
     <span class="uguide_elt"><a href="#">: github</a></span>
     <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/#visualization">: manual</a></span>    
+  </div>
+  <div class="uguide_list">
+    [visualization] matplotlib : 3d surface plot
+    <span class="uguide_elt"><a href="#">: github</a></span>
+    <span class="uguide_elt"><a href="#">: edu</a></span>
+    <span class="uguide_elt"><a href="https://ailever.github.io/user%20guide/2021/04/14/app-UT/#visualization">: manual</a></span>    
   </div>
   <div class="uguide_list">
     [visualization] matplotlib : animate one figure with IPython.display
