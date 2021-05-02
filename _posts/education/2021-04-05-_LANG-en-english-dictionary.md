@@ -215,6 +215,8 @@ author_staff_member: anonym
 
 <br><br><br>
 ## S
+- [**say**](https://www.ldoceonline.com/dictionary/say)([verb]) : to express an idea, feeling, thought etc using words 
+  - "Don't cry," he **said**.
 - [**start**](https://www.ldoceonline.com/dictionary/start)([verb]) : 
   - We said **from the start** that we didn't want anything serious.
 - [**suspect**](https://www.ldoceonline.com/dictionary/suspect)([verb]) : to think that something is probably true, especially something bad
