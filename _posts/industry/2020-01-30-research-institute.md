@@ -17,12 +17,18 @@ author_staff_member: ailever
 <!-- Top Block -->
 
 ## University
+### in United States
+### in Korea
+### in China
 
-
+<br><br><br>
 ## Company
 - [OpenAI](https://openai.com/)
 - [Fritz Haber Institut](https://www.fhi.mpg.de/)
 
+### in United States
+### in Korea
+### in China
 
 
 <!-- Reference Block -->
