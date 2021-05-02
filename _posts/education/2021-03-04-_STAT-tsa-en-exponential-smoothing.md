@@ -225,8 +225,22 @@ l_{t}  &= l_{t-1}(1 + \alpha \epsilon_{t}) \\
 </div>
 
 #### ETS(M,N,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= (l_{t-1} + s_{t-m})(1 + \epsilon_{t}) \\
+l_{t}  &= l_{t-1} + \alpha (l_{t-1} + s_{t-m}) \epsilon_{t} \\
+s_{t}  &= s_{t-m} + \gamma (l_{t-1} + s_{t-m}) \epsilon_{t} \\
+\end{align*}$$
+</div>
 
 #### ETS(M,N,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} s_{t-m}(1 + \epsilon_{t}) \\
+l_{t}  &= l_{t-1} (1 + \alpha \epsilon_{t}) \\
+s_{t}  &= s_{t-m} (1 + \gamma \epsilon_{t}) \\
+\end{align*}$$
+</div>
 
 #### ETS(M,A,N)
 <div class="math-box2">
