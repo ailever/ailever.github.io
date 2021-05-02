@@ -290,7 +290,7 @@ author_staff_member: ailever
 </span>
 - Distributed File System and Hadoop, Spark, Presto
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-distributed-file-system/)
   :kr
 </span>
 - Data Analysis&Management
@@ -300,7 +300,7 @@ author_staff_member: ailever
 </span>
 - Data Consulting Service
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-consulting-service/)
   :kr
 </span>
 
