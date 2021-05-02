@@ -179,6 +179,8 @@ author_staff_member: anonym
   - **Never mind**.
 - [**must**](https://www.ldoceonline.com/dictionary/must)([modal verb]) : 
   - You **must be really close**.
+- [**matter**](https://www.ldoceonline.com/dictionary/matter)([noun]) : a subject or situation that you have to think about or deal with
+  - There are **an important matters** we need to discuss.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
