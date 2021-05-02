@@ -182,8 +182,34 @@ s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/(l_{t-1} + b_{t-1}) \\
 </div>
 
 #### ETS(A,Ad,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + \phi b_{t-1} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \phi b_{t-1} + \alpha \epsilon_{t} \\
+b_{t}  &= \phi b_{t-1} + \beta \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + \phi b_{t-1} + s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \phi b_{t-1} + \alpha \epsilon_{t} \\
+b_{t}  &= \phi b_{t-1} + \beta \epsilon_{t} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= (l_{t-1} + \phi b_{t-1}) s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \phi b_{t-1} + \alpha \epsilon_{t}/s_{t-m} \\
+b_{t}  &= \phi b_{t-1} + \beta \epsilon_{t}/s_{t-m} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/(l_{t-1} + \phi b_{t-1}) \\
+\end{align*}$$
+</div>
+
 
 ### Multiplicative models
 <div class="math-box1">
