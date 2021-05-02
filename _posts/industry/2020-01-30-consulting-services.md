@@ -3,7 +3,7 @@ title: Consulting Services
 date: 2020-01-30
 description: Consulting Services
 categories:
-  - services
+  - industry
 image: https://source.unsplash.com/OQMZwNd3ThU/2000x1322?a=.png
 author_staff_member: ailever
 ---
