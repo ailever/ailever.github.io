@@ -217,13 +217,41 @@ $$e_{t} = \frac{y_{t}}{\hat{y}_{t|t-1}} - 1$$
 </div>
 
 #### ETS(M,N,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1}(1 + \epsilon_{t})  \\
+l_{t}  &= l_{t-1}(1 + \alpha \epsilon_{t}) \\
+\end{align*}$$
+</div>
+
 #### ETS(M,N,A)
+
 #### ETS(M,N,M)
+
 #### ETS(M,A,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= (l_{t-1} + b_{t-1})(1 + \epsilon_{t})  \\
+l_{t}  &= (l_{t-1} + b_{t-1})(1 + \alpha \epsilon_{t}) \\
+b_{t}  &= b_{t-1} + \beta (l_{t-1} + b_{t-1}) \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(M,A,A)
+
 #### ETS(M,A,M)
+
 #### ETS(M,Ad,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= (l_{t-1} + \phi b_{t-1})(1 + \epsilon_{t})  \\
+l_{t}  &= (l_{t-1} + \phi b_{t-1})(1 + \alpha \epsilon_{t}) \\
+b_{t}  &= \phi b_{t-1} + \beta (l_{t-1} + \phi b_{t-1}) \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(M,Ad,A)
+
 #### ETS(M,Ad,M)
 
 <!-- Content Block -->
