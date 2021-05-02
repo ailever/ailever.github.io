@@ -45,6 +45,8 @@ author_staff_member: anonym
 - [**belief**](https://www.ldoceonline.com/dictionary/belief)([noun]) : 
   - Strong **belief in** God
   - If you are selling, you have to have genuine **belief in** the product.
+- [**bring in**](https://www.ldoceonline.com/dictionary/bring-in)([phrasal verb]) : to ask someone to become involved in a discussion or situation
+  - The police **were brought in to** investigate the matter. 
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
