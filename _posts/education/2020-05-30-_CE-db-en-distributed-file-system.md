@@ -1,9 +1,9 @@
 ---
-title: CE,
-prev1_title: CE,
+title: Distributed File System and Hadoop, Spark, Presto
+prev1_title: Database
 prev2_title: Computer Engineering
 date: 2020-05-30
-description: CE, 
+description: Distributed File System and Hadoop, Spark, Presto
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
