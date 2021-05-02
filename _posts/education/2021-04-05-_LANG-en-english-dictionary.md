@@ -126,6 +126,10 @@ author_staff_member: anonym
 
 <br><br><br>
 ## H
+- [**house**](https://www.ldoceonline.com/dictionary/house)([noun]) : the building that someone live in, especially one that has more than one level and is intended to be used by one family
+  - We met at **Alison's house**.
+- [**home**](https://www.ldoceonline.com/dictionary/home)([noun]) : the house, apartment, or place where you live.
+  - They have **a beautiful home** in California.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
