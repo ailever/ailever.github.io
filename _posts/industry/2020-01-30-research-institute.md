@@ -20,21 +20,21 @@ author_staff_member: ailever
 ### in United States
 ### in Korea
 - [Sungkyunkwan University, SKKU](https://www.skku.edu/skku/research/industry/research.do)
-  - Economics | 
+  - Economics｜ 
 - [Seoul National University, SNU](https://www.snu.ac.kr/research/units/institutes)
-  - Economics | 
+  - Economics｜ 
 - [Korea Advanced Institute of Science and Technology, KAIST](https://kaist.ac.kr/kr/html/research/040101.html)
-  - Economics | 
+  - Economics｜ 
 - [Pohang University of Science and Technology, POSTECH](https://www.postech.ac.kr/eng/research/research-activities/abstract/)
-  - Economics | 
+  - Economics｜ 
 - [Korea University, KU](http://www.korea.ac.kr/mbshome/mbs/university/index.do)
-  - Economics | 
+  - Economics｜ 
 - [Yonsei University](https://www.yonsei.ac.kr/sc/research/lab_intro.jsp)
-  - Economics | 
+  - Economics｜ 
 - [Sogang University](http://www.sogang.ac.kr/index.do)
-  - Economics | 
+  - Economics｜ 
 - [University of Seoul](https://www.uos.ac.kr/main.do?epTicket=LOG)
-  - Economics | 
+  - Economics｜ 
 
 ### in China
 
