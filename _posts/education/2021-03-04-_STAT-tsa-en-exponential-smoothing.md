@@ -153,8 +153,34 @@ s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/l_{t-1} \\
 </div>
 
 #### ETS(A,A,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + b_{t-1} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + b_{t-1} + \alpha \epsilon_{t} \\
+b_{t}  &= b_{t-1} + \beta \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,A,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + b_{t-1} + s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + b_{t-1} + \alpha \epsilon_{t} \\
+b_{t}  &= b_{t-1} + \beta \epsilon_{t} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,A,M)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= (l_{t-1} + b_{t-1}) s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + b_{t-1} + \alpha \epsilon_{t}/s_{t-m} \\
+b_{t}  &= b_{t-1} + \beta \epsilon_{t}/s_{t-m} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/(l_{t-1} + b_{t-1}) \\
+\end{align*}$$
+</div>
+
 #### ETS(A,Ad,N)
 #### ETS(A,Ad,A)
 #### ETS(A,Ad,M)
