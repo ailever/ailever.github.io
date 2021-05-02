@@ -127,8 +127,29 @@ $$e_{t} = y_{t} - \hat{y}_{t|t-1}$$
 </div>
 
 #### ETS(A,N,N)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \alpha \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,N,A)
+<div class="math-box2">
+$$\begin{align*}
+y_{t}  &= l_{t-1} + s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \alpha \epsilon_{t} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t} \\
+\end{align*}$$
+</div>
+
 #### ETS(A,N,M)
+$$\begin{align*}
+y_{t}  &= l_{t-1} s_{t-m} + \epsilon_{t} \\
+l_{t}  &= l_{t-1} + \alpha \epsilon_{t}/s_{t-m} \\
+s_{t}  &= s_{t-m} + \gamma \epsilon_{t}/l_{t-1} \\
+\end{align*}$$
+
 #### ETS(A,A,N)
 #### ETS(A,A,A)
 #### ETS(A,A,M)
