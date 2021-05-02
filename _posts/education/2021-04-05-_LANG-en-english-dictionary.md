@@ -105,6 +105,8 @@ author_staff_member: anonym
 ## F
 - [**feel**](https://www.ldoceonline.com/dictionary/feel)([verb]) : 
   - Do **you still feel** hungry? 
+- [**form**](https://www.ldoceonline.com/dictionary/form)([verb]) : to estabilish an organization, committe, government etc
+  - The winning party will **form the government**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
