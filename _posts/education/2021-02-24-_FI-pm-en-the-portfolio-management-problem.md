@@ -104,7 +104,7 @@ r_{F\mathcal{P}} &= r_{F} + \frac{E(r_{\mathcal{P}}) - r_{F}}{\sigma_{\mathcal{P
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
 <b id='ART'>Reference</b>
 <ol>
-  <li></li>
+  <li><a href="https://github.com/epu-ntua/Multicriteria-Portfolio-Construction-with-Python">Multicriteria Portfolio : Github</a></li>
   <li></li>
   <li></li>
 </ol>
