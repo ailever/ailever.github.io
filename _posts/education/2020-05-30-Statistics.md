@@ -79,7 +79,7 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Time Series Analysis
-- Stationary
+- Stationary of Time Series
 <span style="font-size:small;">
   :en
   :kr
