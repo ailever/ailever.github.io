@@ -21,7 +21,7 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## Risk and Return
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div class="math-box2">
 Scalar Form
 $$E(r_{i})=\sum_{j=1}^M {P_{ij} r_{ij}}$$
 $$\sigma_{i}^2 = \sum_{j=1}^M {P_{ij}(r_{ij}-E(r_{i}))^2}$$
@@ -38,7 +38,7 @@ $$\sigma_{\mathcal{P}}^2 = \sum_{i^{*}=1}^N {\omega_{i^{*}}^2\sigma_{i^{*}}^2} +
 </ul>
 <br><br></div>
 
-<div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
+<div class="math-box2">
 Vector Form
 $$E(r_{\mathcal{P}}) = \mathbf{r^T \omega}$$
 $$\sigma_{\mathcal{P}}^2 = \mathbf{\omega^T V \omega}$$
@@ -48,7 +48,7 @@ $$\sigma_{ij} = \frac{1}{M} \sum_{t=1}^M {[r_{it}-E(r_{i})][r_{jt}-E(r_{j})]}$$
 <br><br><br>
 ## Portfolio Diversification
 
-<div class="math-box1">
+<div class="math-box2">
 Uncorrelated Securities
 $$\begin{align*}
   \sigma_{\mathcal{P}}^{2} &= \sum_{i=1}^{N} \omega_{i}^{2}\sigma_{i}^{2} \\
@@ -71,7 +71,7 @@ $$\begin{align*}
 
 <br><br><br>
 ## Calculating Efficient Frontiers
-<div class="math-box1">
+<div class="math-box2">
 Risk-Free Security
 $$
   r_{FP} = \omega_{\mathcal{P}}E(r_{\mathcal{P}}) + (1-\omega_{\mathcal{P}})r_{F}
@@ -85,7 +85,7 @@ $$\begin{align*}
 
 </div>
 
-<div class="math-box1">
+<div class="math-box2">
 $$\begin{align*}
 \omega_{\mathcal{P}} &= \frac{\sigma_{F\mathcal{P}}}{\sigma_{\mathcal{P}}} \\
 r_{F\mathcal{P}} &= r_{F} + \frac{E(r_{\mathcal{P}}) - r_{F}}{\sigma_{\mathcal{P}}} \sigma_{F\mathcal{P}}
