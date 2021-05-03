@@ -277,6 +277,8 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Security
+- Blockchain
+- Cryptocurrency
 
 <br><br><br>
 ## Compiler
