@@ -126,7 +126,7 @@ author_staff_member: ailever
 
 
 <br><br><br>
-## Analysis Of Variance
+## Analysis of Variance
 
 <br><br><br>
 ## Hypothesis Test
