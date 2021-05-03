@@ -38,9 +38,15 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
   :kr
 </span>
+- Autocorrelation
+- Heteroskedasticity
+
 
 <br><br><br>
 ## Regression
+- Multicollinearity
+- Stochastic Regressor and Endogeneity
+
 
 <br><br><br>
 ## Analysis Of Variance
