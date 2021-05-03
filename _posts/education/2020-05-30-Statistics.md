@@ -85,15 +85,39 @@ author_staff_member: ailever
   :kr
 </span>
 - Autocorrelation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Heteroskedasticity
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
 ## Regression
 - Linear Regression
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Logistic Regression
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Multicollinearity
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Stochastic Regressor and Endogeneity
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
@@ -111,6 +135,10 @@ author_staff_member: ailever
 <br><br><br>
 ## Probability Theory
 - Central Limit Theorem
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Discrete Probability Distributions
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/03/04/_STAT-pt-en-discrete-probability-distributions/)
