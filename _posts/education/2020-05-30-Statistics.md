@@ -94,7 +94,7 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-- Exponential Smoothing
+- Exponential Smoothing and ETS
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
   :kr
