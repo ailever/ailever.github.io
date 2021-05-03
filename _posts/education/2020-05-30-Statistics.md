@@ -60,7 +60,7 @@ author_staff_member: ailever
   :en
   :kr
 </span>
-- Hiher-order Factors
+- Hiher-Order Factors
 <span style="font-size:small;">
   :en
   :kr
