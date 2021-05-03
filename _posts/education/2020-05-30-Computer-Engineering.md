@@ -327,6 +327,21 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Algorithms
+- Searching Algorithms
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Sorting Algorithms
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Dynamic Programming
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## Data Structure
