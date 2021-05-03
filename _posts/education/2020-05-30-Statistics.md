@@ -54,6 +54,8 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Regression
+- Linear Regression
+- Logistic Regression
 - Multicollinearity
 - Stochastic Regressor and Endogeneity
 
