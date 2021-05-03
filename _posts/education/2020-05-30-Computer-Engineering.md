@@ -345,9 +345,46 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Data Structure
+- Data Types telling by the Compiler or Interpreter 
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Abstract Data Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Arrays Data Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Linked Data Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Trees Data Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+- Graphs Data Structure
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Computability Theory
+- Complexity Class
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
+
 
 <br><br><br>
 ## Programming Language
