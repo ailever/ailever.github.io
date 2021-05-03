@@ -376,6 +376,11 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2020/05/30/_CE-lang-en-latex)
   :kr
 </span>
+- R
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 
