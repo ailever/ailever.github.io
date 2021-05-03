@@ -31,14 +31,50 @@ author_staff_member: ailever
 <br><br><br>
 ## Factor Analysis
 - Basic Factor Models
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Geometric Representation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Diagonal and Multiple-group Analysis
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Principal Factor Solutions
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Confirmatory Maximum Likelihood
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Rotation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Hiher-order Factors
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Factor Scoring
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 - Data Transformation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 
 <br><br><br>
