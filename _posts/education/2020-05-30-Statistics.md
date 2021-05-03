@@ -79,9 +79,9 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Time Series Analysis
-- Exponential Smoothing
+- Stationary
 <span style="font-size:small;">
-  :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
+  :en
   :kr
 </span>
 - Autocorrelation
@@ -92,6 +92,11 @@ author_staff_member: ailever
 - Heteroskedasticity
 <span style="font-size:small;">
   :en
+  :kr
+</span>
+- Exponential Smoothing
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
   :kr
 </span>
 
