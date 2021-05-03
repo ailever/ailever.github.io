@@ -99,7 +99,7 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2021/03/04/_STAT-tsa-en-exponential-smoothing/)
   :kr
 </span>
-
+- Autoregressive Integrated Moving Average, ARIMA
 
 <br><br><br>
 ## Regression
