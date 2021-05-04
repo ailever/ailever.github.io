@@ -70,6 +70,11 @@ author_staff_member: ailever
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://docs.scipy.org/doc/scipy/reference/" style="color:white;">scipy</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.statsmodels.org/devel/api.html" style="color:white;">statsmodels</a></span>
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://pytorch.org/docs/stable/index.html" style="color:white;">pytorch</a></span>
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://scikit-learn.org/stable/modules/classes.html" style="color:white;">scikit-learn</a></span>
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://plotly.com/python-api-reference/" style="color:white;">plotly</a></span>  
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://dash.plotly.com/dash-html-components" style="color:white;">dash-html</a></span>  
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://dash.plotly.com/dash-core-components" style="color:white;">dash-core</a></span>  
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://dash-bootstrap-components.opensource.faculty.ai/docs/components/alert/" style="color:white;">dash-bootstrap</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.manim.community/" style="color:white;">manim</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://simpy.readthedocs.io/en/latest/" style="color:white;">simpy</a></span>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/01/app-SI/'">SI</button>  
