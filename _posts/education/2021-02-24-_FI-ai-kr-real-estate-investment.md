@@ -21,6 +21,16 @@ author_staff_member: anonym
 <!-- Top Block -->
 
 ## 법과 규제
+- [부동산등기법](https://www.law.go.kr/법령/부동산등기법)
+- [주택임대차보호법](https://www.law.go.kr/법령/주택임대차보호법)
+- [상가건물 임대차보호법](https://www.law.go.kr/법령/상가건물임대차보호법)
+- [건축법](https://www.law.go.kr/법령/건축법)
+- [건축물의 분양에 관한 법률](https://www.law.go.kr/법령/건축물의분양에관한법률)
+- [부동산 거래신고 등에 관한 법률](https://www.law.go.kr/법령/부동산거래신고등에관한법률)
+- [부동산 가격공시에 관한 법률](https://www.law.go.kr/법령/부동산가격공시에관한법률)
+- [감정평가 및 감정평가사에 관한 법률](https://www.law.go.kr/법령/감정평가및감정평가사에관한법률)
+- [국토의 계획 및 이용에 관한 법률](https://www.law.go.kr/법령/국토의계획및이용에관한법률)
+- [역세권의 개발 및 이용에 관한 법률](https://www.law.go.kr/법령/역세권의개발및이용에관한법률)
 - [공공주택특별법시행규칙](https://www.law.go.kr/법령/공공주택특별법시행규칙)
   - [2월 2일부터 공공임대주택 1~2인 가구 소득기준이 상향됩니다](http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134)
 
