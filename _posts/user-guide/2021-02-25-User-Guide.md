@@ -95,12 +95,13 @@ author_staff_member: ailever
 </div>
 
 ## Manuals
-- [SI](https://ailever.github.io/user%20guide/2021/04/01/app-SI/), [FI](https://ailever.github.io/user%20guide/2021/04/02/app-FI/), [BO](https://ailever.github.io/user%20guide/2021/04/03/app-BO/), [CH](https://ailever.github.io/user%20guide/2021/04/04/app-CH/), [EE](https://ailever.github.io/user%20guide/2021/04/05/app-EE/), [AI](https://ailever.github.io/user%20guide/2021/04/06/app-AI/), [RL](https://ailever.github.io/user%20guide/2021/04/07/app-RL/), [DL](https://ailever.github.io/user%20guide/2021/04/08/app-DL/), [ML](https://ailever.github.io/user%20guide/2021/04/09/app-ML/), [FA](https://ailever.github.io/user%20guide/2021/04/10/app-FA/), [ST](https://ailever.github.io/user%20guide/2021/04/11/app-ST/), [NM](https://ailever.github.io/user%20guide/2021/04/12/app-NM/), [PL](https://ailever.github.io/user%20guide/2021/04/13/app-PL/), [UT](https://ailever.github.io/user%20guide/2021/04/14/app-UT/), [MA](https://ailever.github.io/user%20guide/2021/04/15/app-MA/)
+- External Libraries : 
+- Applications : [SI](https://ailever.github.io/user%20guide/2021/04/01/app-SI/), [FI](https://ailever.github.io/user%20guide/2021/04/02/app-FI/), [BO](https://ailever.github.io/user%20guide/2021/04/03/app-BO/), [CH](https://ailever.github.io/user%20guide/2021/04/04/app-CH/), [EE](https://ailever.github.io/user%20guide/2021/04/05/app-EE/), [AI](https://ailever.github.io/user%20guide/2021/04/06/app-AI/), [RL](https://ailever.github.io/user%20guide/2021/04/07/app-RL/), [DL](https://ailever.github.io/user%20guide/2021/04/08/app-DL/), [ML](https://ailever.github.io/user%20guide/2021/04/09/app-ML/), [FA](https://ailever.github.io/user%20guide/2021/04/10/app-FA/), [ST](https://ailever.github.io/user%20guide/2021/04/11/app-ST/), [NM](https://ailever.github.io/user%20guide/2021/04/12/app-NM/), [PL](https://ailever.github.io/user%20guide/2021/04/13/app-PL/), [UT](https://ailever.github.io/user%20guide/2021/04/14/app-UT/), [MA](https://ailever.github.io/user%20guide/2021/04/15/app-MA/)
 
 
 
 
-<br><br><br>
+<br><br><br><br><br>
 ## Ailever Library
 <pre class="python-code">
 from ailever import dashboard
