@@ -12,21 +12,18 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: anonym
 ---
 
-<!-- file name code
-2021-02-24-_FI-[]-en-[].md
-2021-02-24-_FI-ai-en-.md
-2021-02-24-_FI-cf-en-.md
-2021-02-24-_FI-fra-en-.md
-2021-02-24-_FI-pm-en-.md
--->
-
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br>
+</div>
 <!-- Top Block -->
+
+## Core Principle of Finance
+- Time value of money
+- Risk-Return trade-off
+- No-Arbitrage principle 
 
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
