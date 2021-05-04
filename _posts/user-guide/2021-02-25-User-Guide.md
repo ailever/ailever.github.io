@@ -70,6 +70,7 @@ author_staff_member: ailever
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://docs.scipy.org/doc/scipy/reference/" style="color:white;">scipy</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.statsmodels.org/devel/api.html" style="color:white;">statsmodels</a></span>
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://pytorch.org/docs/stable/index.html" style="color:white;">pytorch</a></span>
+  <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.manim.community/" style="color:white;">manim</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://simpy.readthedocs.io/en/latest/" style="color:white;">simpy</a></span>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/01/app-SI/'">SI</button>  
   <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/02/app-FI/'">FI</button>  
