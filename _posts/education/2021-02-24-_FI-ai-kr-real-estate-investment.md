@@ -35,6 +35,8 @@ author_staff_member: anonym
   - [2월 2일부터 공공임대주택 1~2인 가구 소득기준이 상향됩니다](http://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95085134)
 
 ## 공공 주택
+- 청년주택, 행복주택, 공공지원주택, 청년매입, 신혼희망타운, 10년 공공임대주택, 신혼매입, 국민임대주택, 장기전세주택, 공공분양주택
+
 ### 임대
 - [행복주택, 마이홈](https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do)
 - [역세권청년주택](http://youth2030.co.kr/user/page/mn010104.do) 
