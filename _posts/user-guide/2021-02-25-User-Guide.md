@@ -17,6 +17,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
+  <span class="sp_top_btn" style="background-color:blueviolet;"><a href="" style="color:white;"></a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://numpy.org/doc/stable/contents.html" target="_blank" style="color:white;">numpy</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://docs.scipy.org/doc/scipy/reference/" target="_blank" style="color:white;">scipy</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.statsmodels.org/devel/api.html" target="_blank" style="color:white;">statsmodels</a></span>
