@@ -109,6 +109,10 @@ author_staff_member: ailever
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Art-and-Music'">Art and Music</button>    
 </div>
 
+## Manuals
+
+
+<br><br><br>
 ## Ailever Library
 <pre class="python-code">
 from ailever import dashboard
