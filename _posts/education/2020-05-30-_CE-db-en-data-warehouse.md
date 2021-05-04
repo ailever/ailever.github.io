@@ -1,9 +1,9 @@
 ---
-title: CE,
-prev1_title: CE,
+title: Data Warehouse
+prev1_title: Database
 prev2_title: Computer Engineering
 date: 2020-05-30
-description: CE, 
+description: Data Warehouse
 _previous: https://ailever.github.io/education/2020/05/30/Computer-Engineering/
 categories:
   - education
