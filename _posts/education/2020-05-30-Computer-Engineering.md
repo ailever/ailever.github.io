@@ -305,6 +305,12 @@ author_staff_member: ailever
   :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-consulting-service/)
   :kr
 </span>
+- Data Warehouse
+<span style="font-size:small;">
+  :[en](https://ailever.github.io/education/2020/05/30/_CE-db-en-data-warehouse/)
+  :kr
+</span>
+
 
 
 
