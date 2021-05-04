@@ -110,6 +110,9 @@ author_staff_member: ailever
 </div>
 
 ## Manuals
+- [SI](https://ailever.github.io/user%20guide/2021/04/01/app-SI/), [FI](https://ailever.github.io/user%20guide/2021/04/01/app-FI/), [BO](https://ailever.github.io/user%20guide/2021/04/01/app-BO/), [CH](https://ailever.github.io/user%20guide/2021/04/01/app-CH/), [EE](https://ailever.github.io/user%20guide/2021/04/01/app-EE/), [AI](https://ailever.github.io/user%20guide/2021/04/01/app-AI/), [RL](https://ailever.github.io/user%20guide/2021/04/01/app-RL/), [DL](https://ailever.github.io/user%20guide/2021/04/01/app-DL/), [ML](https://ailever.github.io/user%20guide/2021/04/01/app-ML/), [FA](https://ailever.github.io/user%20guide/2021/04/01/app-FA/), [ST](https://ailever.github.io/user%20guide/2021/04/01/app-ST/), [NM](https://ailever.github.io/user%20guide/2021/04/01/app-NM/), [PL](https://ailever.github.io/user%20guide/2021/04/01/app-PL/), [UT](https://ailever.github.io/user%20guide/2021/04/01/app-UT/), [MA](https://ailever.github.io/user%20guide/2021/04/01/app-MA/)
+
+
 
 
 <br><br><br>
