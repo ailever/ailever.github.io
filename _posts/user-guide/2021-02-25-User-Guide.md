@@ -80,21 +80,6 @@ author_staff_member: ailever
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://www.manim.community/" style="color:white;">manim</a></span>  
   <span class="sp_top_btn" style="background-color:brown;"><a href="https://simpy.readthedocs.io/en/latest/" style="color:white;">simpy</a></span>  
   
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/01/app-SI/'">SI</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/02/app-FI/'">FI</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/03/app-BO/'">BO</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/04/app-CH/'">CH</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/05/app-EE/'">EE</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/06/app-AI/'">AI</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/07/app-RL/'">RL</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/08/app-DL/'">DL</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/09/app-ML/'">ML</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/10/app-FA/'">FA</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/11/app-ST/'">ST</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/12/app-NM/'">NM</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/13/app-PL/'">PL</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/14/app-UT/'">UT</button>  
-  <button class="top_btn" type="button" style="background-color:cadetblue;" onclick="location.href='https://ailever.github.io/user%20guide/2021/04/15/app-MA/'">MA</button>  
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Mathematics'">Mathematics</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Chemistry'">Chemistry</button>
   <button class="top_btn" type="button" style="background-color:black;" onclick="location.href='https://ailever.github.io/education/2020/05/30/Biology'">Biology</button>
