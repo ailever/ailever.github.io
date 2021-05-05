@@ -2367,6 +2367,6 @@ source('MA-0000')
 <!-- Bottom Block -->
 <div align="center" class="bottom_btn_box">
   <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-User-Guide.md" target="_blank" style="color:white">Edit</a></span>
-  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/blob/master/_posts/user-guide/2021-02-25-new.md" target="_blank" style="color:white">New</a></span>
+  <span class="bottom_btn"><a href="https://github.com/ailever/ailever.github.io/new/master/_posts/user-guide" target="_blank" style="color:white">New</a></span>
 </div>
 <!-- Bottom Block -->
