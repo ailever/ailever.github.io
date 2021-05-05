@@ -1,6 +1,6 @@
 ---
 title: User Guide
-date: 2021-02-25
+date: 2021-01-01
 description: User Guide
 _previous: https://ailever.github.io/user%20guide/2021/02/25/User-Guide/
 categories:
@@ -9,12 +9,16 @@ image: https://github.com/ailever/ailever.github.io/raw/master/images/unsplash/g
 author_staff_member: ailever
 ---
 
+<!--
+2021-01-01-python-[].md
+-->
+
 <!-- Top Block -->
 <div align="center" class="top_btn_box">
   <button class="top_btn" type="button" onclick="location.href='#'">A</button>
   <button class="top_btn" type="button" onclick="location.href='#'">B</button>
   <button class="top_btn" type="button" onclick="location.href='#'">C</button>
-</div><br><br><br>
+</div>
 <!-- Top Block -->
 
 <!-- Content Block -->
