@@ -136,6 +136,8 @@ author_staff_member: anonym
   - We met at **Alison's house**.
 - [**home**](https://www.ldoceonline.com/dictionary/home)([noun]) : the house, apartment, or place where you live.
   - They have **a beautiful home** in California.
+- [**happy**](https://www.ldoceonline.com/dictionary/happy)([adjective]) : having feelings of pleasure, for example because something good has happened to you or you are satisfied with your life 
+  - I loved her and thought I could **make her happy**.
 - [**WORD**](URL)(POS) : 
   - Example Sentence
 
