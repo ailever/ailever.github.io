@@ -36,6 +36,13 @@ author_staff_member: ailever
 </div>
 <!-- Top Block -->
 
+<!-- -------------------------------------------------------------------------------------------------------- -->
+<details markdown="1">
+  <summary align="center">03/05/2021</summary>
+<pre class="python-code">
+</pre>
+</details>
+
 <!-- Content Block -->
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
 <div align="left" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">　<br><br></div>
