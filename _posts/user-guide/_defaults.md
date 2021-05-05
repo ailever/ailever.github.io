@@ -11,6 +11,21 @@ author_staff_member: ailever
 
 <!--
 2021-01-01-python-[].md
+2021-04-01-app-SI-[].md
+2021-04-02-app-FI-[].md
+2021-04-03-app-BO-[].md
+2021-04-04-app-CH-[].md
+2021-04-05-app-EE-[].md
+2021-04-06-app-AI-[].md
+2021-04-07-app-RL-[].md
+2021-04-08-app-DL-[].md
+2021-04-09-app-ML-[].md
+2021-04-10-app-FA-[].md
+2021-04-11-app-ST-[].md
+2021-04-12-app-NM-[].md
+2021-04-13-app-PL-[].md
+2021-04-14-app-UT-[].md
+2021-04-15-app-MA-[].md
 -->
 
 <!-- Top Block -->
