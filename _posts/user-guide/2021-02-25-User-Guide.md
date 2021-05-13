@@ -109,7 +109,7 @@ author_staff_member: ailever
 from ailever import dashboard
 </pre>
 
-### [AIL-F] : Forecast
+### AIL-F] Forecast
 <code class="code-title">Forecast Package</code>
 <pre class="python-code">
 from ailever.forecast import dashboard
@@ -136,7 +136,7 @@ source('AIL-F-0000')
 </div>
 
 
-### [AIL-A] : Analysis
+### AIL-A] Analysis
 <code class="code-title">Analysis Package</code>
 <pre class="python-code">
 from ailever.analysis import dashboard
@@ -164,7 +164,7 @@ source('AIL-A-0000')
   <span class="link_btn"><a href="" style="color:white">ACCOUNTING</a></span>
 </div>
 
-### [AIL-M] : Machine
+### AIL-M] Machine
 <code class="code-title">Machine Package</code>
 <pre class="python-code">
 from ailever.machine import dashboard
@@ -194,7 +194,7 @@ source('AIL-M-0000')
 </div>
 
 
-### [AIL-L] : Language
+### AIL-L] Language
 <code class="code-title">Language Package</code>
 <pre class="python-code">
 from ailever.language import dashboard
@@ -220,7 +220,7 @@ source('AIL-L-0000')
 </div>
 
 
-### [AIL-D] : Detection
+### AIL-D] Detection
 <code class="code-title">Detection Package</code>
 <pre class="python-code">
 from ailever.detection import dashboard
@@ -246,7 +246,7 @@ source('AIL-D-0000')
 </div>
 
 
-### [AIL-C] : Captioning
+### AIL-C] Captioning
 <code class="code-title">Captioning Package</code>
 <pre class="python-code">
 from ailever.captioning import dashboard
@@ -271,7 +271,7 @@ source('AIL-C-0000')
   <span class="link_btn"><a href="" style="color:white">module</a></span>
 </div>
 
-### [AIL-U] : Utile
+### AIL-U] Utile
 <code class="code-title">Utile Package</code>
 <pre class="python-code">
 from ailever.utils import dashboard
@@ -293,7 +293,7 @@ from ailever.utils import VISUAL
 
 <br><br><br>
 ## External Libraries
-### [lib-PX] : plotly-express
+### lib-PX] plotly-express
 <pre class="python-code">
 from ailever.utils import source
 source('lib-PX-0000')
@@ -325,7 +325,7 @@ source('lib-PX-0000')
 
 
 
-### [lib-GO] : plotly graph object
+### lib-GO] plotly graph object
 <pre class="python-code">
 from ailever.utils import source
 source('lib-GO-0000')
@@ -366,7 +366,7 @@ source('lib-GO-0000')
 
 <br><br><br>
 ## Applications
-### [SI] : Society Issue
+### SI] Society Issue
 <pre class="python-code">
 from ailever.utils import source
 source('SI-0000')
@@ -398,7 +398,7 @@ source('SI-0000')
 
 
 
-### [FI] : Financial Engineering
+### FI] Financial Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('FI-0000')
@@ -456,7 +456,7 @@ source('FI-0000')
 
 
 
-### [BO] : Biological Engineering
+### BO] Biological Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('BO-0000')
@@ -484,7 +484,7 @@ source('BO-0000')
 
 
 
-### [CH] : Chemical Engineering
+### CH] Chemical Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('CH-0000')
@@ -511,7 +511,7 @@ source('CH-0000')
 
 
 
-### [EE] : Electronic Engineering
+### EE] Electronic Engineering
 <pre class="python-code">
 from ailever.utils import source
 source('EE-0000')
@@ -538,7 +538,7 @@ source('EE-0000')
 
 
 
-### [AI] : Artificial Intelligence
+### AI] Artificial Intelligence
 <pre class="python-code">
 from ailever.utils import source
 source('AI-0000')
@@ -575,7 +575,7 @@ source('AI-0000')
 
 
 
-### [RL] : Reinforcement Learning
+### RL] Reinforcement Learning
 <pre class="python-code">
 from ailever.utils import source
 source('RL-0000')
@@ -660,7 +660,7 @@ source('RL-0000')
 
 
 
-### [DL] : Deep Learning
+### DL] Deep Learning
 <pre class="python-code">
 from ailever.utils import source
 source('DL-0000')
@@ -922,7 +922,7 @@ source('DL-0000')
 
 
 
-### [ML] : Machine Learning
+### ML] Machine Learning
 <pre class="python-code">
 from ailever.utils import source
 source('ML-0000')
@@ -1110,7 +1110,7 @@ source('ML-0000')
 
 
 
-### [FA] : Factor Analysis
+### FA] Factor Analysis
 <pre class="python-code">
 from ailever.utils import source
 source('FA-0000')
@@ -1133,7 +1133,7 @@ source('FA-0000')
 
 
 
-### [ST] : Statistics
+### ST] Statistics
 <pre class="python-code">
 from ailever.utils import source
 source('ST-0000')
@@ -1930,7 +1930,7 @@ source('ST-0000')
 
 
 
-### [NM] : Numerical Method
+### NM] Numerical Method
 <pre class="python-code">
 from ailever.utils import source
 source('NM-0000')
@@ -2050,7 +2050,7 @@ source('NM-0000')
 
 
 
-### [PL] : Programming Language
+### PL] Programming Language
 <pre class="python-code">
 from ailever.utils import source
 source('PL-0000')
@@ -2087,7 +2087,7 @@ source('PL-0000')
 
 
 
-### [UT] : Utils
+### UT] Utils
 <pre class="python-code">
 from ailever.utils import source
 source('UT-0000')
@@ -2328,7 +2328,7 @@ source('UT-0000')
 
 
 
-### [MA] : Materials
+### MA] Materials
 <pre class="python-code">
 from ailever.utils import source
 source('MA-0000')
