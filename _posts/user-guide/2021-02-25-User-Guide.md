@@ -16,6 +16,7 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/ailever/wiki'">WIKI</button>
   <button class="top_btn" type="button" onclick="location.href='https://ailever.readthedocs.io/en/latest/'">Documentation</button>
   <button class="top_btn" type="button" onclick="location.href='https://github.com/ailever/openapi'">Open API</button>
+  <button class="top_btn" type="button" onclick="location.href='https://www.notion.so/Main-599f93f85fd84b439343cca32df1034a'">Notion</button>  
   <button class="top_btn" type="button" onclick="location.href='https://blog.naver.com/ailever'">Official Blog</button>
   <span class='sp_top_btn' style='background-color:blueviolet;'><a href='http://www.devkuma.com/books/11' style='color:white;'>Bash1</a></span>
   <span class='sp_top_btn' style='background-color:blueviolet;'><a href='https://wikidocs.net/book/2370' style='color:white;'>Bash2</a></span>
