@@ -16,7 +16,11 @@ author_staff_member: ailever
 </div>
 <!-- Top Block -->
 
-- [NongHyup](https://www.nonghyup.com/introduce/organization/organization.do)
+- NongHyup
+<span style="font-size:small;">
+  :[home](https://www.nonghyup.com/main/psniMain.do)
+  :[organization](https://www.nonghyup.com/introduce/organization/organization.do)
+</span>
 
 
 <!-- Content Block -->
