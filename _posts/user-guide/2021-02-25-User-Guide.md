@@ -9,6 +9,9 @@ image: https://source.unsplash.com/EF8gf9fCApQ/2000x1322?a=.png
 author_staff_member: ailever
 ---
 
+<div align="center" style="font-size:xx-large; font-size:100px; font-weight:bold;">
+  <a href="https://www.notion.so/Main-599f93f85fd84b439343cca32df1034a">Go to Notion</a>
+</div>
 <div align="center" class="top_btn_box">
   <span class="sp_top_btn" style="background-color:red;"><a href="https://colab.research.google.com/" target="_blank" style="color:white;">Colab</a></span>  
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/'">Home</button>
