@@ -21,6 +21,20 @@ author_staff_member: ailever
   :[home](https://www.nonghyup.com/main/psniMain.do)
   :[organization](https://www.nonghyup.com/introduce/organization/organization.do)
 </span>
+- KB Financial Group
+<span style="font-size:small;">
+  :[home](https://www.kbfg.com/Kor/index.jsp)
+  :[organization](https://www.kbfg.com/Kor/about/info.htm)
+</span>
+<span style="font-size:small;">
+  :[home]()
+  :[organization]()
+</span>
+<span style="font-size:small;">
+  :[home]()
+  :[organization]()
+</span>
+
 
 
 <!-- Content Block -->
