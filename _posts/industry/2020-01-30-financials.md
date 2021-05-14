@@ -16,10 +16,10 @@ author_staff_member: ailever
 </div>
 <!-- Top Block -->
 
-- NongHyup
+- NH Financial Group
 <span style="font-size:small;">
-  :[home](https://www.nonghyup.com/main/psniMain.do)
-  :[organization](https://www.nonghyup.com/introduce/organization/organization.do)
+  :[home](http://www.nhfngroup.com/user/indexSub.do?codyMenuSeq=884097574&siteId=nhfngroup)
+  :[organization](http://www.nhfngroup.com/user/indexSub.do?codyMenuSeq=884087564&siteId=nhfngroup)
 </span>
 - KB Financial Group
 <span style="font-size:small;">
