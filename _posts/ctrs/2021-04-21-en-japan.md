@@ -61,6 +61,11 @@ author_staff_member: ailever
 </div>
 <!-- Article Block -->
 
+<!-- Bottom Block -->
+<div align="center" class="bottom_btn_box">
+  <span class="bottom_btn"><a href="" target="_blank" style="color:white">Edit</a></span>
+</div>
+<!-- Bottom Block -->
 
 <!-- Notice
 # Mathematical Expression
