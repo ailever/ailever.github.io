@@ -1,5 +1,5 @@
 ---
-title: STAT,
+title: Non-parametric Estimation
 prev1_title: STAT,
 prev2_title: Statistics
 date: 2021-03-04
@@ -41,7 +41,7 @@ author_staff_member: anonym
   <li><a href="#"></a></li>
 </ol>
 <ul>
-  <li><a href="#"></a></li>
+  <li><a href="https://bookdown.org/egarpor/NP-UC3M/">Notes for Nonparametric Statistics</a></li>
   <li><a href="#"></a></li>
   <li><a href="#"></a></li>
 </ul>
