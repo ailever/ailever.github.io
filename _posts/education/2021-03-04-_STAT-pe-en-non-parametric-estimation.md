@@ -1,9 +1,9 @@
 ---
 title: Non-parametric Estimation
-prev1_title: STAT,
+prev1_title: Parameter Estimation
 prev2_title: Statistics
 date: 2021-03-04
-description: STAT,
+description: Non-parametric Estimation
 _previous: https://ailever.github.io/education/2020/05/30/Statistics/
 categories:
   - education
