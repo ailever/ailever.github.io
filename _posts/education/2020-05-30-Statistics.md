@@ -136,7 +136,7 @@ author_staff_member: ailever
 ## Parameter Estimation
 - Non-parametric Estimation
 <span style="font-size:small;">
-  :en
+  :[en](https://ailever.github.io/education/2021/03/04/_STAT-pe-en-non-parametric-estimation/)
   :kr
 </span>
 
