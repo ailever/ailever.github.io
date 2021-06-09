@@ -134,6 +134,11 @@ author_staff_member: ailever
 
 <br><br><br>
 ## Parameter Estimation
+- Non-parametric Estimation
+<span style="font-size:small;">
+  :en
+  :kr
+</span>
 
 <br><br><br>
 ## Descriptive Statistics
