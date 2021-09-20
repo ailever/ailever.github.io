@@ -16,6 +16,7 @@ author_staff_member: ailever
 </div>
 
 ## Dongmyeong Lee
+- [story] [사회로의 첫 걸음](https://ailever.github.io/story/2021/09/21/kr-000003/)
 - [story] [시작](https://ailever.github.io/story/2021/02/26/kr-000000/)
 
 <br><br><br>
