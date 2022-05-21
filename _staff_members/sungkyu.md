@@ -1,5 +1,5 @@
 ---
-name: Sunggyu Lee
+name: Sungkyu Lee
 position: Advisor
 image_path: https://ailever.github.io/images/sunggyu.jpg
 twitter_username: CloudCannon
