@@ -131,8 +131,8 @@ author_staff_member: ailever
 
 --- 
 
-## ADDITIONALS
-### PAPER REVIEW
+**ADDITIONALS**  
+PAPER REVIEW  
 - Title
 <span style="font-size:small;">
   :[url]()
@@ -140,7 +140,7 @@ author_staff_member: ailever
 </span>
 
 
-### RELATED LABORATORY
+RELATED LABORATORY  
 -
 <span style="font-size:small;">
   :[url]()
