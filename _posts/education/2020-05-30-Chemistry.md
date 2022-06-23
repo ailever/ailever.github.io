@@ -254,20 +254,20 @@ author_staff_member: anonym
 
 --- 
 
-## ADDITIONALS
+**ADDITIONALS**  
 <span style="font-size:small;">
   :en
   :kr
 </span>
 
-### PAPER REVIEW
+PAPER REVIEW  
 <span style="font-size:small;">
   :en
   :kr
 </span>
 
 
-### RELATED LABORATORY
+RELATED LABORATORY  
 - [Seoul National University](https://chem.snu.ac.kr/research-faculty/faculty/fulltime)
 - [Carnegie Mellon University](https://www.cmu.edu/chemistry/research/bio_chem.html)
 
