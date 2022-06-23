@@ -2,7 +2,7 @@
 title: BA,
 prev1_title: BA,
 prev2_title: Business Administration
-date: 2021-04-20
+date: 2022-07-01
 description: AT, 
 _previous: https://ailever.github.io/education/2020/05/30/Business-Administration/
 categories:
@@ -13,7 +13,7 @@ author_staff_member: anonym
 ---
 
 <!-- file name code
-2021-04-20-_AT-[]-en-[].md
+2022-07-01-_BA-[]-en-[].md
 -->
 
 <!-- Top Block -->
