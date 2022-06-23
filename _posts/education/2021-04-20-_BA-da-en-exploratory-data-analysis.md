@@ -2,7 +2,7 @@
 title: BA, Exploratory Data Analysis
 prev1_title: BA, Data Analysis
 prev2_title: Business Administration
-date: 2022-07-01
+date: 2021-04-20
 description: AT, 
 _previous: https://ailever.github.io/education/2020/05/30/Business-Administration/
 categories:
