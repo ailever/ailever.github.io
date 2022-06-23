@@ -2,8 +2,8 @@
 title: BA, Data Visualization
 prev1_title: BA, Data Analysis
 prev2_title: Business Administration
-date: 2021-04-20
-description: AT, 
+date: 2022-07-01
+description: BA, 
 _previous: https://ailever.github.io/education/2020/05/30/Business-Administration/
 categories:
   - education
@@ -13,7 +13,7 @@ author_staff_member: anonym
 ---
 
 <!-- file name code
-2021-04-20-_AT-[]-en-[].md
+2022-07-01-_BA-[]-en-[].md
 -->
 
 <!-- Top Block -->
