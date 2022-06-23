@@ -34,12 +34,12 @@ author_staff_member: anonym
 
 - Exploratory Data Analysis
 <span style="font-size:small;">
-  :[en]
+  :[en](https://ailever.github.io/education/2022/06/23/_BA-da-en-exploratory-data-analysis/)
   :kr
 </span>
 - Data Visualization
 <span style="font-size:small;">
-  :[en]
+  :[en](https://ailever.github.io/education/2022/06/23/_BA-da-en-data-visualization/)
   :kr
 </span>
 
@@ -52,13 +52,9 @@ author_staff_member: anonym
 --- 
 
 **ADDITIONALS**  
-- Exploratory Data Analysis
+- 
 <span style="font-size:small;">
-  :[url](https://ailever.github.io/education/2022/06/23/_BA-da-en-exploratory-data-analysis/)
-</span>
-- Data Visualization
-<span style="font-size:small;">
-  :[url](https://ailever.github.io/education/2022/06/23/_BA-da-en-data-visualization/)
+  :[url]()
 </span>
 
 
