@@ -46,7 +46,7 @@ author_staff_member: anonym
 
 --- 
 
-## ADDITIONALS
+**ADDITIONALS**
 -
 <span style="font-size:small;">
   :[url]()
