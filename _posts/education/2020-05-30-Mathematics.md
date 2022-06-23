@@ -94,9 +94,9 @@ author_staff_member: ailever
 
 --- 
 
-## ADDITIONALS
-### PAPER REVIEW
-### RELATED LABORATORY
+**ADDITIONALS**  
+PAPER REVIEW  
+RELATED LABORATORY  
 -
 <span style="font-size:small;">
   :[url]()
