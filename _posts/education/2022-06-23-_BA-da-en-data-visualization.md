@@ -1,6 +1,6 @@
 ---
 title: BA, Data Visualization
-prev1_title: BA, Analysis
+prev1_title: BA, Data Analysis
 prev2_title: Business Administration
 date: 2022-06-23
 description: BA, 
