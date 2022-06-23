@@ -447,15 +447,15 @@ author_staff_member: ailever
 
 --- 
 
-## ADDITIONALS
+**ADDITIONALS**  
 - Utilities
 <span style="font-size:small;">
   :[en](https://ailever.github.io/education/2020/05/30/_CE-add-en-utilities)
   :kr
 </span>
 
-### PAPER REVIEW
-### RELATED LABORATORY
+PAPER REVIEW  
+RELATED LABORATORY  
 -
 <span style="font-size:small;">
   :[url]()
