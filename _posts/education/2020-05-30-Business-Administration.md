@@ -29,7 +29,16 @@ author_staff_member: anonym
 </div>
 <!-- Top Block -->
 
+
 ## Data Analysis
+
+- Exploratory Data Analysis
+<span style="font-size:small;">
+  :[en]
+  :kr
+</span>
+
+
 
 
 
