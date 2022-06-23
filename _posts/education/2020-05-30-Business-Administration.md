@@ -37,6 +37,11 @@ author_staff_member: anonym
   :[en]
   :kr
 </span>
+- Data Visualization
+<span style="font-size:small;">
+  :[en]
+  :kr
+</span>
 
 
 
