@@ -15,13 +15,8 @@ author_staff_member: ailever
   <button class="top_btn" type="button" onclick="location.href='https://ailever.github.io/gallery/'">Gallery</button>  
 </div>
 
-## Dongmyeong Lee
-- [story, 20210921] [사회로의 첫 걸음](https://ailever.github.io/story/2021/09/21/kr-000003/)
-- [story, 20210226] [시작](https://ailever.github.io/story/2021/02/26/kr-000000/)
-
-<br><br><br>
-## anonym
-- []()
+- [william.green, story, 20210921] [사회로의 첫 걸음](https://ailever.github.io/story/2021/09/21/kr-000003/)
+- [william.green, story, 20210226] [시작](https://ailever.github.io/story/2021/02/26/kr-000000/)
 
 <br><br><br>
 <div align="center" class="bottom_btn_box">
