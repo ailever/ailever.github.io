@@ -25,7 +25,7 @@ author_staff_member: anonym
 
 
 <!-- Content Block -->
-<div class="f_kb_s sb_main">
+<div class="f_kb_s">
 　Paragraph<br><br>
   
 　Paragraph<br><br>
