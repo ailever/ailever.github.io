@@ -10,33 +10,33 @@
 Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.  
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ### Posts
 
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff Members** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+- Add, update or remove a post in the *Posts* collection.
+- The **Staff Author** field links to members in the **Staff Members** collection.
+- Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+- Change the defaults when new posts are created in `_posts/_defaults.md`.
 
 ### Contact Form
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+- Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 
 ### Staff
 
-* Reused around the site to save multiple editing locations.
+- Reused around the site to save multiple editing locations.
 
 ### Footer
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
+- Exposed as a data file to give clients better access.
+- Set in the *Data* / *Navigation* section.
 
 ### Footer
 
