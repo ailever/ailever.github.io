@@ -1,9 +1,9 @@
 left_links:
-  - name: Blog
+  - name: 블로그
     link: /blog/
-  - name: Portal
+  - name: 포털
     link: /portal/
-  - name: Github
+  - name: 깃허브
     link: https://github.com/ailever/ailever.github.io
 right_links:
   - name:
