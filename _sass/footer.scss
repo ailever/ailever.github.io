@@ -27,14 +27,14 @@ footer {
 		margin: 0;
 
 		&.footer-right-links {
-			float: none;
+			float: left;
 			@media #{$tablet} {
-				float: none;
+				float: right;
 			}
 		}
 
 		&.footer-left-links {
-			float: none;
+			float: left;
 		}
 
 		li {
@@ -93,7 +93,7 @@ footer {
 
 .copyright {
 	margin: 15px auto;
-	float: none;
+	float: left;
 
 	a {
 		color: #999;
@@ -101,7 +101,7 @@ footer {
 
 	@media #{$desktop} {
 		text-align: center;
-		float: none;
+		float: left;
 		padding: 16px 0;
 		margin: 0;
 	}
