@@ -2,11 +2,9 @@
   link: /about-us/
 - name: Professionals
   link: /professionals/
-- name: Industry
-  link: /industry/
-- name: Education
-  link: /education/  
 - name: Careers
   link: /careers/  
+- name: Service
+  link: /service/  
 - name: Contact
   link: /contact/
