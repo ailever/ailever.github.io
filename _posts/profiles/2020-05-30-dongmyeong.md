@@ -13,7 +13,7 @@ author_staff_member: ailever
 <br><br><br>
 <div align="center" style="font-size:medium;font-weight:bold;color:black;background-color:unset;">INTEREST KEYWORDS</div>
 <div align="center" style="font-size:medium;font-weight:normal;color:black;background-color:unset;">
-  Quantum biology, Computational Chemistry, Physics, Economics, Finance, Machine Learning, Mathematics, Statistics, Boxing<br>
+  Quantum Biology, Computational Chemistry, Physics, Economics, Finance, Machine Learning, Mathematics, Statistics<br>
 </div>
 
 <br><br><br>
