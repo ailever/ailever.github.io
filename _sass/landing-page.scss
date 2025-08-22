@@ -83,6 +83,15 @@
 		}
 	}
 
+	.hero-text-container-wide {
+		width: 1200px;
+		text-align: left;
+
+		h1, h2, p, .button {
+			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+		}
+	}
+	
 	.hero-text-right {
 		position: absolute;
 		right: 0;
