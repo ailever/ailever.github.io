@@ -76,15 +76,19 @@
 
 	
 	.hero-image-container {
-		display: flex;
-		justify-content: center;
-		
-		img {
-    		display: block;
-    		max-width: 100%;
-    		width: auto;
-    		height: auto;
-		}
+	  	display: flex;
+	  	justify-content: center;
+	  	width: 100%;
+	  	max-width: 1400px; // 최대 폭 지정
+	  	margin: 0 auto;    // 화면 중앙
+	  	padding: 0 20px;   // 좌우 최소 여백 확보
+	
+	  	img {
+			display: block;
+			max-width: 100%;
+			width: auto;
+			height: auto;
+	  	}
 
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
